@@ -134,8 +134,7 @@ def merge_items(old_items, new_items):
     cutoff = datetime.now(CST) - timedelta(days=MAX_AGE_DAYS)
     merged = [it for it in merged if parse_iso(it.get("published", "")) >= cutoff]
     return merged[:MAX_ITEMS]
-
- def main():
+def main():
      old = load_old_data()
      new_items, ok, failed = fetch_latest()
      hot = fetch_hot()
@@ -151,5 +150,5 @@ def merge_items(old_items, new_items):
      with open(DATA_FILE, "w", encoding="utf-8") as f:
 json.dump(data, f, ensure_ascii=False, indent=2)
      print("OK:", len(merged), "items total,", len(new_items), "new,", len(hot), "hot")
- if __name__ == "__main__":
+if __name__ == "__main__":
      main()
