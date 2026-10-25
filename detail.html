@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>详情 - 行业信息差日报</title>
+<style>
+:root{--bg:#fafaf7;--card:#fff;--ink:#1a1a1a;--muted:#6b6b6b;--line:#e6e2d6;--accent:#c8402a;--blue:#2c4a78}
+*{box-sizing:border-box;margin:0;padding:0}
+body{font-family:-apple-system,BlinkMacSystemFont,"PingFang SC","Microsoft YaHei",sans-serif;background:var(--bg);color:var(--ink);line-height:1.6}
+.container{max-width:820px;margin:0 auto;padding:20px 16px 60px}
+.header{padding:20px 0;border-bottom:2px solid var(--ink);margin-bottom:16px}
+.header .back{color:var(--blue);text-decoration:none;font-size:14px}
+.detail-card{background:var(--card);border:1px solid var(--line);border-radius:12px;padding:20px;margin-bottom:20px}
+.detail-card h1{font-size:20px;font-weight:700;line-height:1.5;margin-bottom:10px}
+.detail-meta{display:flex;flex-wrap:wrap;gap:8px;font-size:12px;color:var(--muted);margin-bottom:14px}
+.badge{background:#eef2f7;color:var(--blue);padding:1px 8px;border-radius:4px;font-size:11px}
+.badge.cat{background:#f7e8e3;color:var(--accent)}
+.detail-summary{font-size:14.5px;color:#333;line-height:1.8;margin-bottom:16px}
+.source-btn{display:inline-block;padding:10px 20px;background:var(--blue);color:#fff;text-decoration:none;border-radius:8px;font-size:14px}
+.section-title{font-size:15px;font-weight:700;margin:24px 0 12px}
+.related-list{display:flex;flex-direction:column;gap:10px}
+.related-item{background:var(--card);border:1px solid var(--line);border-radius:10px;padding:12px 14px}
+.related-item a{color:var(--ink);text-decoration:none;font-weight:500;font-size:14px;display:block}
+.related-item a:hover{color:var(--accent)}
+.related-meta{font-size:12px;color:var(--muted);margin-top:4px}
+.empty{text-align:center;padding:60px 20px;color:var(--muted);font-size:14px}
+.empty a{color:var(--blue);text-decoration:none}
+.error{text-align:center;padding:40px;color:var(--accent);font-size:14px}
+</style>
+</head>
+<body>
+<div class="container">
+  <div class="header">
+    <a class="back" href="index.html">← 返回首页</a>
+  </div>
+  <div id="detailBox"></div>
+  <div id="relatedBox"></div>
+</div>
+
+<script>
+function fmtTime(iso){
+  if(!iso) return "";
+  var d = new Date(iso);
+  if(isNaN(d.getTime())) return "";
+  var pad = function(n){return String(n).padStart(2,"0");};
+  return d.getFullYear()+"-"+pad(d.getMonth()+1)+"-"+pad(d.getDate())+" "+pad(d.getHours())+":"+pad(d.getMinutes());
+}
+function esc(s){return String(s==null?"":s).replace(/[&<>"']/g,function(c){return {"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c];});}
+function getQuery(name){
+  var m = new RegExp("[?&]"+name+"=([^&]*)").exec(location.search);
+  return m ? decodeURIComponent(m[1].replace(/\+/g," ")) : "";
+}
+var id = getQuery("id");
+var box = document.getElementById("detailBox");
+
+async function load(){
+  try{
+    var res = await fetch("data.json?t=" + Date.now());
+    var data = await res.json();
+    var items = data.items || [];
+    var current = null;
+    for(var i=0;i<items.length;i++){
+      if(items[i].id === id){ current = items[i]; break; }
+    }
+    if(!current){
+      box.innerHTML = '<div class="empty">资源不存在<br><br><a href="index.html">返回首页</a></div>';
+      return;
+    }
+    box.innerHTML = '<div class="detail-card">'+
+      '<h1>'+esc(current.title)+'</h1>'+
+      '<div class="detail-meta"><span class="badge cat">'+esc(current.category||"")+'</span><span>'+esc(current.source||"")+'</span><span>'+fmtTime(current.published)+'</span></div>'+
+      '<div class="detail-summary">'+esc(current.summary||"暂无摘要")+'</div>'+
+      '<a class="source-btn" href="'+esc(current.url)+'" target="_blank" rel="noopener">阅读原文 →</a>'+
+    '</div>';
+
+    var kw = (current.title||"").toLowerCase();
+    var related = items.filter(function(it){
+      if(it.id === id) return false;
+      if(it.source === current.source) return true;
+      return (it.title||"").toLowerCase().indexOf(kw.split(" ").slice(0,3).join(" "))>=0;
+    }).slice(0,10);
+    document.getElementById("relatedBox").innerHTML =
+      '<div class="section-title">相关资源</div><div class="related-list">'+
+      related.map(function(it){
+        return '<div class="related-item"><a href="'+esc(it.url)+'" target="_blank" rel="noopener">'+esc(it.title)+'</a>'+
+          '<div class="related-meta">'+esc(it.source||"")+' · '+fmtTime(it.published)+'</div></div>';
+      }).join("") + '</div>';
+  }catch(e){
+box.innerHTML = '<div class="error">数据加载失败：'+esc(e.message)+'</div>';
+   }
+ }
+ load();
+ </script>
+ </body>
+ </html>
