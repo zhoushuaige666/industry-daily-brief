@@ -123,31 +123,16 @@ def load_old_data():
         return data
     except Exception:
         return {"items": [], "hot": []}
-
-
-def merge_items(old_items, new_items):
-    seen = set()
-    merged = []
-    # 先放旧的，保留最早出现的那条
-    for it in old_items:
-        key = (it.get("url", "") or "").lower().strip()
-        if key and key not in seen:
-            seen.add(key)
-            merged.append(it)
-    # 再放新的
-    for it in new_items:
-       key = (it.get("url", "") or "").lower().strip()
-        if key and key not in seen:
-             seen.add(key)
-             merged.append(it)
-     # 按时间倒序
-     merged.sort(key=lambda x: x.get("published", ""), reverse=True)
-     # 只保留最近 30 天
-     cutoff = datetime.now(CST) - timedelta(days=MAX_AGE_DAYS)
-     merged = [it for it in merged if parse_iso(it.get("published", "")) >= cutoff]
-     # 最多 2000 条
-     merged = merged[:MAX_ITEMS]
-     return merged
+def merge_items(old, new):
+    seen=set(); out=[]
+    for it in old+new:
+        k=(it.get("url","") or "").lower().strip()
+        if k and k not in seen:
+            seen.add(k); out.append(it)
+    out.sort(key=lambda x:x.get("published",""),reverse=True)
+    cutoff=datetime.now(CST)-timedelta(days=MAX_AGE_DAYS)
+    out=[it for it in out if parse_iso(it.get("published",""))>=cutoff]
+    return out[:MAX_ITEMS]
  def main():
      old = load_old_data()
      new_items, ok, failed = fetch_latest()
