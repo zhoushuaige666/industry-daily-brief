@@ -6,12 +6,10 @@ import os
 import html
 import hashlib
 from datetime import datetime, timezone, timedelta
-
 CST = timezone(timedelta(hours=8))
 DATA_FILE = "data.json"
 MAX_AGE_DAYS = 30
 MAX_ITEMS = 2000
-
 SOURCES = [
     {"name": "36氪", "url": "https://36kr.com/feed", "category": "商业"},
     {"name": "少数派", "url": "https://sspai.com/feed", "category": "科技"},
@@ -21,14 +19,9 @@ SOURCES = [
     {"name": "钛媒体", "url": "https://www.tmtpost.com/rss.xml", "category": "创投"},
     {"name": "极客公园", "url": "https://www.geekpark.net/rss", "category": "AI"},
 ]
-
 HEADERS = {"User-Agent": "Mozilla/5.0 (IndustryDailyBot/1.0)"}
-
-
 def gen_id(link):
     return hashlib.sha1((link or "").strip().lower().encode("utf-8")).hexdigest()[:16]
-
-
 def clean_text(raw):
     if not raw:
         return ""
@@ -47,15 +40,11 @@ def parse_time(entry):
             except Exception:
                 pass
     return datetime.now(timezone.utc)
-
-
 def parse_iso(s):
     try:
         return datetime.fromisoformat(s)
     except Exception:
         return datetime.now(CST)
-
-
 def fetch_latest():
     items = []
     ok = []
@@ -88,8 +77,6 @@ def fetch_latest():
         except Exception as ex:
             failed.append(src["name"] + ":" + type(ex).__name__)
     return items, ok, failed
-
-
 def fetch_hot():
     hot = []
     try:
@@ -117,8 +104,6 @@ def fetch_hot():
     except Exception as ex:
         print("HN fetch failed:", ex)
     return hot
-
-
 def load_old_data():
     if not os.path.exists(DATA_FILE):
         return {"items": [], "hot": []}
@@ -137,8 +122,6 @@ def load_old_data():
         return data
     except Exception:
         return {"items": [], "hot": []}
-
-
 def merge_items(old_items, new_items):
     seen = set()
     merged = []
