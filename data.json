@@ -1,9 +1,560 @@
 {
-  "updated_at": "2026-10-25T00:00:00+08:00",
-  "latest": [],
-  "hot": [],
-  "sources_ok": [],
-  "sources_failed": [],
-  "total_latest": 0,
-  "total_hot": 0
+  "updated_at": "2026-10-25T13:01:37.415894+08:00",
+  "latest": [
+    {
+      "title": "iPhone Duo 2 提前曝光：FaceID、操作按钮和长焦都要回来了？",
+      "url": "https://www.ifanr.com/1685622?utm_source=rss&utm_medium=rss&utm_campaign=",
+      "source": "爱范儿",
+      "category": "科技",
+      "published": "2026-10-25T12:10:44+08:00",
+      "summary": "还没捂热呢#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。"
+    },
+    {
+      "title": "单季净赚212亿，两天跌去近15%：AI行情到底在杀什么？",
+      "url": "https://www.tmtpost.com/8179663.html",
+      "source": "钛媒体",
+      "category": "创投",
+      "published": "2026-10-25T11:10:00+08:00",
+      "summary": "AI股连跌四周、业绩却集体爆表，股票型ETF同期净流入近700亿：这轮调整杀的是估值不是业绩。"
+    },
+    {
+      "title": "阿宽食品拟新三板摘牌，头号客户麻六记回应“欠款”传闻",
+      "url": "https://www.tmtpost.com/8180790.html",
+      "source": "钛媒体",
+      "category": "创投",
+      "published": "2026-10-25T10:03:00+08:00",
+      "summary": "此次拟终止在新三板挂牌之际，阿宽食品正面临着不小的业绩压力。"
+    },
+    {
+      "title": "拉上英伟达硬刚苹果，微软的高端AI PC赌局",
+      "url": "https://www.tmtpost.com/8180842.html",
+      "source": "钛媒体",
+      "category": "创投",
+      "published": "2026-10-25T09:54:00+08:00",
+      "summary": "AI PC的竞争，早已不再停留在有没有NPU的浅层比拼。"
+    },
+    {
+      "title": "电动化转型有了起色，沃尔沃却越来越难赚钱了",
+      "url": "https://www.tmtpost.com/8180823.html",
+      "source": "钛媒体",
+      "category": "创投",
+      "published": "2026-10-25T09:52:31+08:00",
+      "summary": "纯电销量增长难抵传统车型下滑，沃尔沃利润转亏，降本难解转型压力。"
+    },
+    {
+      "title": "新石器再获近4亿美元融资，无人配送进入规模化竞争",
+      "url": "https://www.tmtpost.com/8179257.html",
+      "source": "钛媒体",
+      "category": "创投",
+      "published": "2026-10-25T09:52:01+08:00",
+      "summary": "随着无人配送规模扩大，新石器的商业模式正从车辆销售向运力服务转型。"
+    },
+    {
+      "title": "腾讯有阅文，微信却去公众号找剧本",
+      "url": "https://www.tmtpost.com/8180817.html",
+      "source": "钛媒体",
+      "category": "创投",
+      "published": "2026-10-25T09:46:00+08:00",
+      "summary": "腾讯手握阅文庞大IP库，微信却另寻公众号小说，用额外收益换取短剧首发30天。"
+    },
+    {
+      "title": "眼油GMV一年破3亿，雏菊的天空难突围",
+      "url": "https://www.tmtpost.com/8180814.html",
+      "source": "钛媒体",
+      "category": "创投",
+      "published": "2026-10-25T09:42:00+08:00",
+      "summary": "14年跑出1个爆款，仍困在细分赛道里。"
+    },
+    {
+      "title": "mRNA肿瘤疫苗大分歧",
+      "url": "https://www.tmtpost.com/8180784.html",
+      "source": "钛媒体",
+      "category": "创投",
+      "published": "2026-10-25T09:37:36+08:00",
+      "summary": "未来将会如何？"
+    },
+    {
+      "title": "海外网红，被国产工厂集体“收编”？",
+      "url": "https://www.tmtpost.com/8180843.html",
+      "source": "钛媒体",
+      "category": "创投",
+      "published": "2026-10-25T09:29:52+08:00",
+      "summary": "当信息差被拉平、供应链壁垒被打破，无论是工厂还是网红，最终都要落回最朴素的生意逻辑里。"
+    },
+    {
+      "title": "2027 —— 人形机器人“电影宣发”大撞车之年",
+      "url": "https://www.tmtpost.com/8180836.html",
+      "source": "钛媒体",
+      "category": "创投",
+      "published": "2026-10-25T09:27:51+08:00",
+      "summary": "当全球所有头部玩家把证明自己能力的证据押在同一个年份集体发布，先不说谁能真正兑现，这些演示能让我们吃着不烧心吗？"
+    },
+    {
+      "title": "苹果首批折叠屏遭集中投诉；英国宣布超过 6 亿英镑 AI 投资计划；刘慈欣监制《三体·大史》年内开机",
+      "url": "http://www.geekpark.net/news/372860",
+      "source": "极客公园",
+      "category": "AI",
+      "published": "2026-10-25T08:52:41+08:00",
+      "summary": "​到手 6 小时、开合不到 20 次屏幕就裂：苹果首批折叠屏遭集中投诉 苹果首款折叠屏手机 iPhone Duo 刚开售就遇上了麻烦：据海外论坛和小红书多人反馈，不少用户开箱即遇到屏幕爆线、开裂问题，汇总照片显示故障位置高度集中——几乎全部出现在铰链正上方，多数表现为屏幕一侧浮现一条亮像素线。 一名澳洲用户称，设备到手约 6 小时、开合不到 20 次，向朋友展示展开时先感到内铰链下方异样，随后听到"
+    },
+    {
+      "title": "史上最快宾利！竟然是一辆 SUV？",
+      "url": "https://www.ifanr.com/1685572?utm_source=rss&utm_medium=rss&utm_campaign=",
+      "source": "爱范儿",
+      "category": "科技",
+      "published": "2026-10-24T22:35:59+08:00",
+      "summary": "不愧是精装版纯电卡宴。#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。"
+    },
+    {
+      "title": "一种远古病毒可能阻碍黑猩猩演化出与人类相似的大脑",
+      "url": "https://www.solidot.org/story?sid=85702",
+      "source": "Solidot",
+      "category": "科技",
+      "published": "2026-10-24T22:30:32+08:00",
+      "summary": "人类与黑猩猩虽然差异巨大，但在与共同祖先分化并各自演化了约 500-600 万年后，双方只有 1.2% 的 DNA 不同。而一种远古病毒可能在其中扮演了重要角色，阻碍黑猩猩演化出与人类相似的大脑。大约 400 万年前，逆转录病毒 PTERV1 (Pan troglodytes endogenous retrovirus-1) 感染了黑猩猩但没有感染人类，它对黑猩猩的 DNA 进行了细微的改动，导致"
+    },
+    {
+      "title": "为让数据中心有充足电力 Google 将付钱给其他人少用电",
+      "url": "https://www.solidot.org/story?sid=85701",
+      "source": "Solidot",
+      "category": "科技",
+      "published": "2026-10-24T21:50:21+08:00",
+      "summary": "Google 正资助美国规模最大的虚拟电厂项目。该项目通过向家庭和企业提供经济激励，鼓励他们在电力需求高峰期间减少用电量，从而为数据中心提供更多的电网容量。该项目有望在中大西洋地区的 PJM 电网提供 1070 MW 的电力容量——相当于一座大型核反应堆的输出电力。很多削减用电量措施能自动执行，如利用智能恒温器在夏季用电高峰期调低空调运行强度，或者通过电池系统提供临时电力。与 Google 合作的"
+    },
+    {
+      "title": "研究揭示丹尼索瓦人的长相",
+      "url": "https://www.solidot.org/story?sid=85700",
+      "source": "Solidot",
+      "category": "科技",
+      "published": "2026-10-24T21:35:31+08:00",
+      "summary": "中科院研究人员首次揭示出神秘古丹尼索瓦人的形态共性。丹尼索瓦人是一支已灭绝的古老人类支系，2010 年科学家依靠西伯利亚丹尼索瓦洞化石的 DNA 证据发现了这一人群。后续分子证据显示，丹尼索瓦人曾广泛分布在亚洲多地，生存时间大约在距今 30 万年至 4.5 万年前。但他们究竟长什么样？位于河北阳原的许家窑遗址 1976—1979 年共发掘出土包括头骨、下颌骨、牙齿在内的 20 件人类化石，至少代表"
+    },
+    {
+      "title": "美光桃园厂工会否决奖金方案",
+      "url": "https://www.solidot.org/story?sid=85699",
+      "source": "Solidot",
+      "category": "科技",
+      "published": "2026-10-24T21:14:51+08:00",
+      "summary": "美光桃园厂工会星期五（10月23日）说，会员投票否决公司提出的新利润分享方案，并警告可能采取进一步集体行动，争取更公平的奖金制度。美光过去数周一直与桃园及台中两座工厂的工会就薪酬问题谈判。两个工会共代表两厂 1 万 5000 名员工中的 1 万 2000 人。两个工会此前均要求，公司发放相当于 83 个月薪资的一次性奖金，并建立长期利润分享制度，将营业利润的 15% 用于员工奖金，按季而非按年发放"
+    },
+    {
+      "title": "Google 修改隐私条款将 Gmail 和照片数据用于个性化广告",
+      "url": "https://www.solidot.org/story?sid=85698",
+      "source": "Solidot",
+      "category": "科技",
+      "published": "2026-10-24T20:53:21+08:00",
+      "summary": "Google 修改了隐私政策，允许将 Gmail 和相册数据用于个性化广告。新政策于 10 月 16 日生效。新政策没有默认启用，而是声明：“我们可能还会根据您的兴趣以及您在 Google 服务中的活动或个性化内容，向您展示个性化广告，具体取决于您的设置。例如，如果在 Google 搜索中搜索“山地自行车”，您可能会在 YouTube 上看到运动装备广告...我们不会根据您在 Google 云端硬"
+    },
+    {
+      "title": "一位开发者让电视服用了 Claude，这是它系统发生的变化",
+      "url": "https://www.ifanr.com/1685473?utm_source=rss&utm_medium=rss&utm_campaign=",
+      "source": "爱范儿",
+      "category": "科技",
+      "published": "2026-10-24T18:10:44+08:00",
+      "summary": "欢迎来到「大逆向时代」#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。"
+    },
+    {
+      "title": "在硅谷，遇见个人计算机历史",
+      "url": "https://sspai.com/post/116128",
+      "source": "少数派",
+      "category": "科技",
+      "published": "2026-10-24T16:26:02+08:00",
+      "summary": "从硅谷计算机历史博物馆出发，让书里的故事变得更加具体。查看全文"
+    },
+    {
+      "title": "突发！iPhone Duo 支持微信平板登录，可与手机、电脑同时在线",
+      "url": "https://www.ifanr.com/1685714?utm_source=rss&utm_medium=rss&utm_campaign=",
+      "source": "爱范儿",
+      "category": "科技",
+      "published": "2026-10-24T11:25:33+08:00",
+      "summary": "来了来了#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。"
+    },
+    {
+      "title": "实测 Kimi K3.1 Pro，国模终于继续卷旗舰",
+      "url": "https://www.ifanr.com/1685684?utm_source=rss&utm_medium=rss&utm_campaign=",
+      "source": "爱范儿",
+      "category": "科技",
+      "published": "2026-10-24T10:07:19+08:00",
+      "summary": "大而美的 Kimi 回来了#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。"
+    },
+    {
+      "title": "iPhone Duo正式交付；Kimi K3.1 Pro 、Seedance 2.5 4K正式发布；红果短剧上线防沉迷｜极客早知道",
+      "url": "http://www.geekpark.net/news/372858",
+      "source": "极客公园",
+      "category": "AI",
+      "published": "2026-10-24T08:34:27+08:00",
+      "summary": "苹果首款折叠屏手机 iPhone Duo 正式交付用户 部分订单预计明年 1 月才能送达 苹果首款折叠屏手机 iPhone Duo 于 2026 年 10 月 23 日正式进入上市交付阶段，首批预购用户开始收到新机，苹果零售店也迎来首发日消费者。由于预购需求强劲，加上生产供应受到限制，上市初期的现货数量相当有限，部分消费者即使在首发日下单，也可能需要等待数月才能拿到设备。 苹果此前表示，iPhon"
+    },
+    {
+      "title": "早报｜微信初步适配iPhone Duo，仍不能平板登录/全球PC出货下降21%/何刚出任华为董事",
+      "url": "https://www.ifanr.com/1685660?utm_source=rss&utm_medium=rss&utm_campaign=",
+      "source": "爱范儿",
+      "category": "科技",
+      "published": "2026-10-24T08:26:49+08:00",
+      "summary": "· 黄仁勋：对长鑫合作持开放态度，不认为 2029 年内存会过剩 · 沃尔沃汽车拟全球裁减约 2500 个岗位 · 华为 Pura90 Plus 开启预订#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。"
+    },
+    {
+      "title": "梵高名画《The Starry Night》可能描绘的是真实的夜空",
+      "url": "https://www.solidot.org/story?sid=85697",
+      "source": "Solidot",
+      "category": "科技",
+      "published": "2026-10-23T20:01:50+08:00",
+      "summary": "梵高于 1889 年创作的名画《The Starry Night》可能描绘的是 1889 年 7 月 22 日法国真实的夜空。《The Starry Night》被普遍认为风格化地呈现了梵高在法国普罗旺斯圣雷米的窗外看到的景象。争议在于这片夜空究竟是这位后印象派画家自己的幻想，即象征性表达，还是真实的天文观察结果。此外这幅画的具体创作日期也无法确定。为解决这一问题，韩国庆熙大学的研究人员开发了一个"
+    },
+    {
+      "title": "希腊通过法案禁止 15 岁以下儿童使用社媒",
+      "url": "https://www.solidot.org/story?sid=85696",
+      "source": "Solidot",
+      "category": "科技",
+      "published": "2026-10-23T19:07:11+08:00",
+      "summary": "希腊议会周五通过了一项法案，禁止 15 岁以下的儿童使用社媒平台。此举旨在回应公众对社交媒体会对未成年人的健康与安全产生负面影响之日益增长的担忧。禁令将于 2027 年 1 月 1 日生效。澳大利亚是首个通过立法限制未成年人使用社媒的国家。法国也曾通过类似法律，但于 8 月被宪法委员会裁定无效。希腊总理基 Kyriakos Mitsotakis 表示，社媒平台有 2 个半月的时间制定方案，核实用户"
+    },
+    {
+      "title": "本周看什么 | 最近值得一看的 12 部作品",
+      "url": "https://sspai.com/post/117169",
+      "source": "少数派",
+      "category": "科技",
+      "published": "2026-10-23T18:09:01+08:00",
+      "summary": "📅本周新预告《指环王：力量之戒第三季》正式预告10月22日，剧集《指环王：力量之戒第三季》发布了正式预告，将于11月11日上线PrimeVideo。故事发生在第二季事件的数年之后，正值精灵与索伦之战的 ...查看全文"
+    },
+    {
+      "title": "宫本茂成为首位获得日本文化勋章的游戏从业者",
+      "url": "https://www.solidot.org/story?sid=85695",
+      "source": "Solidot",
+      "category": "科技",
+      "published": "2026-10-23T18:03:59+08:00",
+      "summary": "日本文部科学省公布了 2026 年度文化勋章获得者名单，任天堂首席游戏设计师及代表董事宫本茂位列其中， 成为首位获得文化勋章的游戏从业者。文化勋章旨在表彰在文化发展方面做出特别显著贡献的人士，自 1937 年设立以来，获得者包括了画家横山大观、诺贝尔物理学奖得主汤川秀树、棒球明星王贞治和长岛茂雄等。宫本茂在记者会上表示：“游戏并非由我一人独自完成，而是与众多伙伴共同创造的成果。我是怀着代表大家的心"
+    },
+    {
+      "title": "实测 iPhone Duo 微信适配版：适配好了吗，体验怎么样？",
+      "url": "https://www.ifanr.com/1685575?utm_source=rss&utm_medium=rss&utm_campaign=",
+      "source": "爱范儿",
+      "category": "科技",
+      "published": "2026-10-23T17:52:47+08:00",
+      "summary": "微信终于适配 iPhone Duo ！#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。"
+    },
+    {
+      "title": "联合国警告厄尔尼诺可能导致数千万人粮食短缺",
+      "url": "https://www.solidot.org/story?sid=85694",
+      "source": "Solidot",
+      "category": "科技",
+      "published": "2026-10-23T17:32:18+08:00",
+      "summary": "今年的厄尔尼诺事件强度可能前所未有。它将于 2026 年底前后达到峰值，但其影响在此之后仍将持续很长时间。热带太平洋（厄尔尼诺的中心区域）的海面温度在 2026 年 11 月至 2027 年 1 月期间可能比平均值高出 3.8°C。 一次非常强的厄尔尼诺会扰乱许多地区的正常温度和降水格局。它可能给一些地区带来严重干旱，给另一些地区带来强降雨和洪水，并导致世界大片地区温度升高。极端天气事件可能会成倍"
+    },
+    {
+      "title": "mRNA 癌症疫苗将死亡复发风险减少 42%",
+      "url": "https://www.solidot.org/story?sid=85693",
+      "source": "Solidot",
+      "category": "科技",
+      "published": "2026-10-23T16:48:00+08:00",
+      "summary": "制药公司 Merck 和 Moderna 宣布，在 III 期黑色素瘤临床试验中，基于 mRNA 技术的个性化癌症疫苗相比标准治疗，将死亡或复发风险减少 42%。黑色素瘤是最致命的皮肤癌。两家公司正与监管机构接洽争取该疫苗早日获批。有 1,137 名患者参加了 III 期临床试验，他们此前均患有 IIB-IV 期黑色素瘤，已通过手术切除肿瘤。患者被以 2:1 的比例随机分配至两组：一组接受个性化 "
+    },
+    {
+      "title": "TDS REVIEW｜OPPO Enco X4 降噪真无线耳机体验",
+      "url": "https://sspai.com/post/116398",
+      "source": "少数派",
+      "category": "科技",
+      "published": "2026-10-23T15:00:00+08:00",
+      "summary": "放在欧加体系里，Enco X4 显然是值得买的：它在千元档有着第一档的降噪综合能力且没有明显短板，有着手机厂产品里不错的素质和相对饱满、流行化但不过分两头翘的调音，同时操作和细节体验没有明显问题……查看全文"
+    },
+    {
+      "title": "中国 AI 硬件的下一个爆款，可能生在「网球场」",
+      "url": "http://www.geekpark.net/news/372807",
+      "source": "极客公园",
+      "category": "AI",
+      "published": "2026-10-23T14:15:58+08:00",
+      "summary": "头图来源：Hirdwire2024 年巴黎奥运会，郑钦文在罗兰·加洛斯捧起金牌的那个下午，中国的网球场预订量在一周内翻了数倍。两年后，最先把这股热潮变成生意的，是一群造机器的深圳工程师。过去一年，至少四款中国团队打造的 AI 球类机器人在 Kickstarter 上筹得百万美元级资金。庞伯特以 26255% 的超募率卷走 265 万美元；智能家居大厂 SwitchBot 推出的 Acemate 3"
+    },
+    {
+      "title": "硅谷爆火的两万块智能床，是智商税吗？我睡了 100 天",
+      "url": "http://www.geekpark.net/news/372805",
+      "source": "极客公园",
+      "category": "AI",
+      "published": "2026-10-23T14:10:37+08:00",
+      "summary": "两万元，一个床套。 这可能是极客公园史上体验过单价最高的消费级产品之一。 我终于也睡上了马斯克、扎克伯格同款的床。Eight Sleep，这个曾被一众硅谷大佬点赞过的品牌，在今年 4 月正式进入中国市场。短短半年时间里，Pod 5 在国内 INNO 100 平台上卖出了 600 万元，随后它又迅速推出新一代产品 Pod 6，参数升级，还补上了单人尺寸。 很多中国家庭的卧室里，床垫往往是最舍得花钱的"
+    },
+    {
+      "title": "造物 100 #10｜百万众筹的和弦合成器、52kHz 超声波去污笔、能打电话的奥特曼 AI 玩具",
+      "url": "http://www.geekpark.net/news/372803",
+      "source": "极客公园",
+      "category": "AI",
+      "published": "2026-10-23T14:03:13+08:00",
+      "summary": "这周苹果发了新一代 HomePod mini，149 美元，10 月 30 日开卖，真正的新 Siri 要等之后的软件更新才到。科技巨头正抢着在假日季前，把 AI 小设备摆上货架。 大公司的打法很统一，先造一个入口，再把 AI 慢慢塞进去。但这周名单里的产品，走的是另一条路。NOPIA 把乐理做了只有一个八度的键盘，按一个键出一整个和弦。InstaSpot 把超声波清洗机缩成一支 65 克的笔。N"
+    },
+    {
+      "title": "今年双 11，天猫想卖的不只是货，还有 Token",
+      "url": "http://www.geekpark.net/news/372801",
+      "source": "极客公园",
+      "category": "AI",
+      "published": "2026-10-23T13:56:53+08:00",
+      "summary": "「很多人赚不到认知以外的钱。那消费者呢？我认为，买不到他认知以外的商品。」10 月 15 日下午，上海世博中心，2026 天猫双 11 发布会。天猫总裁家洛开场没多久，就抛出了这句话。 消费者的需求远比这些品类多，只是大部分还处在「沉睡」状态。过去的搜索解决不了这个问题。用户主动搜关键词、平台做精准匹配，在他看来，「更像一个统计学的概念」，搜的人越多、描述越准，匹配就越高效，「但这依然是存量和认知"
+    },
+    {
+      "title": "破与立：设计视角下的 iPhone Duo",
+      "url": "https://sspai.com/post/116979",
+      "source": "少数派",
+      "category": "科技",
+      "published": "2026-10-23T11:07:19+08:00",
+      "summary": "Matrix首页推荐Matrix是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选Matrix最优质的文章，展示来自用户的最真实的体验和观点。文章代表作者个人观点 ...查看全文"
+    },
+    {
+      "title": "DeepSeek 据悉完成 1000 亿元新一轮融资；特斯拉三季度利润大跌 43%；微信称已完成适配 iPhone Duo | 极客早知道",
+      "url": "http://www.geekpark.net/news/372767",
+      "source": "极客公园",
+      "category": "AI",
+      "published": "2026-10-23T08:49:03+08:00",
+      "summary": "DeepSeek 新一轮融资筹得约 1000 亿 10 月 22 日，有市场消息称，国内大模型公司 DeepSeek 拟在最新一轮融资中筹得约 1000 亿元人民币 ( 约 150 亿美元 )，腾讯和宁德时代为本轮出资最多的投资方，交易预计在未来数日内正式完成。 截至目前，DeepSeek 及腾讯等相关投资方均未公开回应。记者从接近公司和投资方的多个信源交叉求证，确认上述消息属实。 消息人士透露，"
+    },
+    {
+      "title": "派早报：Insta360 发布 Insta360 Mic，Anthropic 推出 Claude Duet 等",
+      "url": "https://sspai.com/post/117104",
+      "source": "少数派",
+      "category": "科技",
+      "published": "2026-10-23T08:20:32+08:00",
+      "summary": "少数派的近期动态和少数派一起，在海口明日公园来一场创造之约吧。活动详情iPhone少数派共创配件上新，自由选择保护、充电、线缆和支架组合。欢迎选购你可能错过的文章终于吃到了那颗梦寐以求的小药丸：我的A ...查看全文"
+    },
+    {
+      "title": "早报｜微信回应未适配iPhone Duo/比亚迪：L3有望2028年落地/乐奇彩显AI眼镜意外曝光",
+      "url": "https://www.ifanr.com/1685530?utm_source=rss&utm_medium=rss&utm_campaign=",
+      "source": "爱范儿",
+      "category": "科技",
+      "published": "2026-10-23T08:00:25+08:00",
+      "summary": "· 奥迪中国换帅，前奇瑞高管张俊将接任总裁 · 特斯拉三季度净利降 43%，管理层仍强调 FSD 技术领先 · 王兴兴：物理 AI 已有突破苗头，难点在模型与机器人对齐#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。"
+    },
+    {
+      "title": "欧洲 AI，等来了黄仁勋",
+      "url": "http://www.geekpark.net/news/372763",
+      "source": "极客公园",
+      "category": "AI",
+      "published": "2026-10-23T06:41:03+08:00",
+      "summary": "GTC 柏林开幕前的两周，半导体板块走得并不顺，费城半导体指数出现了 2008 年以来最长的一轮连跌。市场在反复算同一笔账，巨额的 GPU 投入，什么时候能变成实打实的回报。 10 月 21 日，在柏林 Tempodrom 的舞台上，黄仁勋没有发布新芯片。早已发布的 Vera Rubin 平台，这次只是确认「已全面量产」。他把更多时间留给了三个更落地的问题：算力中心怎么建得更快，越来越能干的智能体"
+    },
+    {
+      "title": "Token 成本降到每年 1 元，AI 家电这事就能成了 | 对话博联刘宗孺",
+      "url": "http://www.geekpark.net/news/372762",
+      "source": "极客公园",
+      "category": "AI",
+      "published": "2026-10-22T21:20:53+08:00",
+      "summary": "过去两年多，在智能硬件领域，投资人和创业者都热衷于为 AI 寻找一个个物理世界里的新「容器」，各种新形态的 AI 原生硬件成了投资市场的热门项目。 但其实，很多成熟形态的硬件同样有 AI 化的需求。这也许没有「AI Native」的概念那么性感，但市场一点不小，复杂度丝毫不低。 以家电行业为例：供应链长，改一次硬件就要重走研发、测试、认证；销售链条长，从厂家、经销商到上门安装的电工，每一环都得接得"
+    },
+    {
+      "title": "宇树 10 周年，王兴兴：我劝你相信 AI",
+      "url": "http://www.geekpark.net/news/372759",
+      "source": "极客公园",
+      "category": "AI",
+      "published": "2026-10-22T19:56:03+08:00",
+      "summary": "10 月 22 日，杭州国际博览中心热闹非常，不仅人多，而且机器人也特别多。 这是 2026 年宇树科技举办的世界物理 AI 大会的现场，从四足机器人到人形机器人，你甚至可以说这里是全球「机器人密度」最高的地方。 2026 年，也是宇树科技创立的第十年。有意思的是，在今天的舞台上，宇树科技创始人王兴兴，在谈机器人之外，聊的最多的就是当下最火热的 AI。 他不仅劝所有人要「相信 AI」，而且还反思，"
+    },
+    {
+      "title": "OpenAI 发现 PHP「世纪漏洞」，全球 70% 网站都危险了",
+      "url": "https://www.ifanr.com/1685507?utm_source=rss&utm_medium=rss&utm_campaign=",
+      "source": "爱范儿",
+      "category": "科技",
+      "published": "2026-10-22T19:15:20+08:00",
+      "summary": "大的还在后面#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。"
+    },
+    {
+      "title": "把 Muse 装进 ESP-Mosaico：做一个没用的东西，证明 Vibe Coding 也在硬件领域快速成长",
+      "url": "https://sspai.com/post/115437",
+      "source": "少数派",
+      "category": "科技",
+      "published": "2026-10-22T17:10:03+08:00",
+      "summary": "Matrix首页推荐Matrix是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选Matrix最优质的文章，展示来自用户的最真实的体验和观点。文章代表作者个人观点 ...查看全文"
+    },
+    {
+      "title": "劳斯莱斯同款对开门！仰望旗舰轿车即将发布，还会有固态电池？",
+      "url": "https://www.ifanr.com/1685489?utm_source=rss&utm_medium=rss&utm_campaign=",
+      "source": "爱范儿",
+      "category": "科技",
+      "published": "2026-10-22T16:37:53+08:00",
+      "summary": "仰望正在打造属于自己的「古斯特」。#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。"
+    },
+    {
+      "title": "前瞻｜Apple 新品看点：MacBook 或将推出 OLED 触屏版本",
+      "url": "https://sspai.com/post/116923",
+      "source": "少数派",
+      "category": "科技",
+      "published": "2026-10-22T15:00:00+08:00",
+      "summary": "配备触摸屏的 OLED 版 MacBook 型号很可能是这次活动的主角。查看全文"
+    },
+    {
+      "title": "终于吃到了那颗梦寐以求的小药丸：我的 ADHD 诊疗记",
+      "url": "https://sspai.com/post/115090",
+      "source": "少数派",
+      "category": "科技",
+      "published": "2026-10-22T11:36:57+08:00",
+      "summary": "药物不能解决所有问题，这是是我学到的重要一课。查看全文"
+    },
+    {
+      "title": "派早报：荣耀发布 WIN2 系列新品、Google 开源 TorchTPU 等",
+      "url": "https://sspai.com/post/116953",
+      "source": "少数派",
+      "category": "科技",
+      "published": "2026-10-22T08:29:05+08:00",
+      "summary": "OpenBSD 8.0 正式发布、腾讯宣布元宝搜索对外开放等。查看全文"
+    },
+    {
+      "title": "社区速递 162 | MUJI 靠垫、中兴路由器与派友们的长假吃灰装备",
+      "url": "https://sspai.com/post/116820",
+      "source": "少数派",
+      "category": "科技",
+      "published": "2026-10-21T17:00:00+08:00",
+      "summary": "除了首页时间流和侧栏的精选展位，少数派Matrix社区还有很多优秀内容因条件所限无法得到有效曝光，因此我们决定重启Matrix周报，并在此基础上添加更多社区内容、作者投稿新玩意呈现给大家。上周社区速递 ...查看全文"
+    }
+  ],
+  "hot": [
+    {
+      "title": "Five Qwen3.8-27B models match Fable 5 Using GVS5H Harness",
+      "url": "https://github.com/slee-persis/GVS5H",
+      "score": 57,
+      "by": "rzk",
+      "comments": 14
+    },
+    {
+      "title": "We should be more ambitious with the software we build",
+      "url": "https://danluu.com/ambitious/",
+      "score": 280,
+      "by": "ltratt",
+      "comments": 238
+    },
+    {
+      "title": "Cerebras Deploys Trillion-Parameter AI Models",
+      "url": "https://www.cerebras.ai/blog/how-we-deploy-trillion-parameter-frontier-models-on-cerebras",
+      "score": 56,
+      "by": "gmays",
+      "comments": 18
+    },
+    {
+      "title": "The Goose Programming Language",
+      "url": "https://aardappel.github.io/goose/",
+      "score": 305,
+      "by": "bobbydigitales",
+      "comments": 187
+    },
+    {
+      "title": "America has lost 200k of jobs in media, film and the arts. How much is AI?",
+      "url": "https://www.apricitas.io/p/ai-and-the-fall-of-the-creative-class",
+      "score": 259,
+      "by": "gnabgib",
+      "comments": 264
+    },
+    {
+      "title": "Small Programs and Languages",
+      "url": "https://ratfactor.com/cards/pl-small",
+      "score": 66,
+      "by": "andsoitis",
+      "comments": 5
+    },
+    {
+      "title": "SpeedCrunch 1.1",
+      "url": "https://www.speedcrunch.org/",
+      "score": 104,
+      "by": "LordNibbler",
+      "comments": 13
+    },
+    {
+      "title": "Xbox Turns Down Netflix $500M Offer",
+      "url": "https://www.darkhorizons.com/xbox-turns-down-netflix-500-million-offer/",
+      "score": 65,
+      "by": "xoxxala",
+      "comments": 73
+    },
+    {
+      "title": "In Rainbows",
+      "url": "https://hitogata.neocities.org/Rainbows",
+      "score": 13,
+      "by": "surprisetalk",
+      "comments": 1
+    },
+    {
+      "title": "Listen and read USA nuclear forces Emergency Action Messages, heard on 11175 kHz",
+      "url": "https://missileer.watch",
+      "score": 148,
+      "by": "liotier",
+      "comments": 101
+    },
+    {
+      "title": "Why Gopher in 2026?",
+      "url": "https://gopher.muffinlabs.com/sdf.org/users/nervtoji/phlog/001.txt",
+      "score": 47,
+      "by": "andsoitis",
+      "comments": 13
+    },
+    {
+      "title": "Meta employees say Lula’s accounts restricted in Brazil election: Report",
+      "url": "https://www.aljazeera.com/economy/2026/10/16/meta-employees-say-lulas-accounts-restricted-in-brazil-election-report",
+      "score": 80,
+      "by": "nidnogg",
+      "comments": 15
+    },
+    {
+      "title": "I Built a Stereo Vision Board for Hardware Hackers",
+      "url": "https://rootkitlabs.com/2026/10/06/i-built-a-stereo-vision-board-for-hardware-hackers/",
+      "score": 49,
+      "by": "machinehum",
+      "comments": 4
+    },
+    {
+      "title": "Social dynamics of toxic metal industry in medieval Europe",
+      "url": "https://www.cambridge.org/core/journals/antiquity/article/social-dynamics-of-toxic-metal-industry-in-medieval-europe-peak-district-lead-production-ad-6001500/34A2A16AC99B1B12E3EB99CEA1DDB829",
+      "score": 25,
+      "by": "XzetaU8",
+      "comments": 0
+    },
+    {
+      "title": "Show HN: Steal My Bitcoin",
+      "url": "https://stealmybitcoin.com/",
+      "score": 441,
+      "by": "cloudlandsdev",
+      "comments": 264
+    },
+    {
+      "title": "FreeDNS",
+      "url": "https://freedns.afraid.org/",
+      "score": 267,
+      "by": "esher",
+      "comments": 67
+    },
+    {
+      "title": "I don't understand quantum physics (2018)",
+      "url": "https://www.southampton.ac.uk/~doug/quantum_physics/index.html",
+      "score": 291,
+      "by": "rramadass",
+      "comments": 235
+    },
+    {
+      "title": "Attention people who think UB is fine",
+      "url": "https://blog.habets.se/2026/10/Attention-people-who-think-UB-is-fine.html",
+      "score": 7,
+      "by": "signa11",
+      "comments": 6
+    },
+    {
+      "title": "The Importance of Limitations for Creativity and Learning (2023)",
+      "url": "https://ratfactor.com/cards/limitations",
+      "score": 45,
+      "by": "andsoitis",
+      "comments": 12
+    },
+    {
+      "title": "Pragtical v3.14 Lua-based text editor adds menus, floating views, and sessions",
+      "url": "https://pragtical.dev/blog/pragtical-v3140-release",
+      "score": 5,
+      "by": "rd07",
+      "comments": 1
+    }
+  ],
+  "sources_ok": [
+    "少数派(10)",
+    "Solidot(10)",
+    "爱范儿(10)",
+    "钛媒体(10)",
+    "极客公园(10)"
+  ],
+  "sources_failed": [
+    "36氪",
+    "虎嗅:ReadTimeout"
+  ],
+  "total_latest": 50,
+  "total_hot": 20
 }
