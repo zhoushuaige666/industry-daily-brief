@@ -1,91 +1,106 @@
- <!DOCTYPE html>
- <html lang="zh-CN">
- <head>
- <meta charset="UTF-8">
- <meta name="viewport" content="width=device-width, initial-scale=1">
- <title>行业信息差日报</title>
- <style>
- :root{
-   --bg:#fafaf7; --card:#fff; --ink:#1a1a1a; --muted:#6b6b6b;
-   --line:#e6e2d6; --accent:#c8402a; --hot:#d97706; --blue:#2c4a78;
- }
- *{box-sizing:border-box;margin:0;padding:0}
- body{font-family:-apple-system,BlinkMacSystemFont,"PingFang SC","Microsoft YaHei",sans-serif;background:var(--bg);color:var(--ink);line-height:1.6}
- .container{max-width:820px;margin:0 auto;padding:20px 16px 60px}
- header{padding:28px 0 18px;border-bottom:2px solid var(--ink);margin-bottom:8px}
- h1{font-size:26px;font-weight:800;letter-spacing:2px}
- .sub{color:var(--muted);font-size:13px;margin-top:8px;display:flex;flex-wrap:wrap;gap:10px}
- .sub .dot{color:var(--accent)}
- .search{margin:14px 0;position:stick.search input{width:100%;padding:12px 16px;border:1px solid var(--line);border-radius:10px;font-size:15px;background:#fff;outline:none}
- .search input:focus{border-color:var(--accent)}
- .section-title{font-size:15px;font-weight:700;margin:22px 0 12px;display:flex;align-items:center;gap:8px}
- .section-title .tag{font-size:11px;padding:2px 8px;border-radius:4px;font-weight:500}
- .section-title .tag.hot{background:var(--hot);color:#fff}
- .section-title .tag.latest{background:var(--blue);color:#fff}
- .hot-list{display:grid;gap:10px}
- .hot-item{background:var(--card);border:1px solid var(--line);border-radius:10px;padding:12px 14px;display:flex;gap:12px;align-items:flex-start}
- .hot-rank{font-size:18px;font-weight:800;color:var(--hot);min-width:26px;font-family:Georgia,serif}
- .hot-body{flex:1;min-width:0}y;top:0;background:var(--bg);padding:10px 0;z-index:10}.hot-body a{color:var(--ink);text-decoration:none;font-weight:500;font-size:14.5px;line-height:1.5;display:block}
- .hot-body a:hover{color:var(--accent)}
- .hot-meta{font-size:12px;color:var(--muted);margin-top:4px}
- .news-list{display:flex;flex-direction:column;gap:12px}
- .news-card{background:var(--card);border:1px solid var(--line);border-radius:10px;padding:14px 16px}
- .news-card h3{font-size:15.5px;font-weight:600;line-height:1.5}
- .news-card h3 a{color:var(--ink);text-decoration:none}
- .news-card h3 a:hover{color:var(--accent)}
- .news-meta{display:flex;flex-wrap:wrap;gap:8px;font-size:12px;color:var(--muted);margin-top:6px;align-items:center}
- .badge{background:#eef2f7;color:var(--blue);padding:1px 8px;border-radius:4px;font-size:11px}
- .badge.cat{background:#f7e8e3;color:var(--accent)}
- .news-summary{font-size:13px;color:#444;margin-top:8px}
- .empty{text-align:center;padding:40px;color:var(--muted);font-size:14px}
- footer{margin-top:40px;padding-top:20px;border-top:1px solid var(--line);font-size:12px;color:var(--muted);line-height:1.8}</style>
- </head>
- <body>
- <div class="container">
-   <header>
-     <h1>行业信息差日报</h1>
-     <div class="sub">
-       <span>科技 / AI / 商业 / 创投</span>
-       <span class="dot">●</span>
-       <span id="updatedAt">最后更新：加载中…</span>
-     </div>
-   </header>
-   <div class="search">
-     <input type="text" id="searchInput" placeholder="搜索标题、来源、摘要…">
-   </div>
-   <div class="section-title">热门<span class="tag hot">HN Top 20</span></div>
-   <div class="hot-list" id="hotList"><div class="empty">加载中…</div></div>
-   <div class="section-title">最新<span class="tag latest" id="latestCount">--</span></div>
-   <div class="news-list" id="newsList"><div class="empty">加载中…</div></div>
-   <footer>
-     数据来源：36氪、少数派、Solidot、爱范儿、虎嗅、钛媒体、极客公园、Hacker News。<br>
-     每天北京时间 08:00 自动更新。本页内容仅作信息聚合，不构成任何建议。
-     </footer>
- </div>
- <script>
- let DATA = null;
- function fmtTime(iso){
-   if(!iso) return "";
-   const d = new Date(iso);
-   const pad = n => String(n).padStart(2,"0");
-   return d.getFullYear()+"-"+pad(d.getMonth()+1)+"-"+pad(d.getDate())+" "+pad(d.getHours())+":"+pad(d.getMinutes());
- }
- function fmtRelative(iso){
-   const d = new Date(iso);
-   const now = new Date();
-   const diff = Math.floor((now-d)/1000);
-   if(diff < 60) return "刚刚";
-   if(diff < 3600) return Math.floor(diff/60)+" 分钟前";
-   if(diff < 86400) return Math.floor(diff/3600)+" 小时前";
-   return Math.floor(diff/86400)+" 天前";
- }
- function escapeHtml(s){
-   return String(s==null?"":s).replace(/[&<>"']/g, function(c){
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>行业信息差日报</title>
+<style>
+:root{
+  --bg:#fafaf7; --card:#fff; --ink:#1a1a1a; --muted:#6b6b6b;
+  --line:#e6e2d6; --accent:#c8402a; --hot:#d97706; --blue:#2c4a78;
+}
+*{box-sizing:border-box;margin:0;padding:0}
+body{font-family:-apple-system,BlinkMacSystemFont,"PingFang SC","Microsoft YaHei",sans-serif;background:var(--bg);color:var(--ink);line-height:1.6}
+.container{max-width:820px;margin:0 auto;padding:20px 16px 60px}
+header{padding:28px 0 18px;border-bottom:2px solid var(--ink);margin-bottom:8px}
+h1{font-size:26px;font-weight:800;letter-spacing:2px}
+.sub{color:var(--muted);font-size:13px;margin-top:8px;display:flex;flex-wrap:wrap;gap:10px;align-items:center}
+.sub .dot{color:var(--accent)}
+.sub .result{color:var(--blue);font-weight:500}
+.search{margin:14px 0;position:sticky;top:0;background:var(--bg);padding:10px 0;z-index:10}
+.search input{width:100%;padding:12px 16px;border:1px solid var(--line);border-radius:10px;font-size:16px;background:#fff;outline:none}
+.search input:focus{border-color:var(--accent)}
+.section-title{font-size:15px;font-weight:700;margin:22px 0 12px;display:flex;align-items:center;gap:8px}
+.section-title .tag{font-size:11px;padding:2px 8px;border-radius:4px;font-weight:500}
+.section-title .tag.hot{background:var(--hot);color:#fff}
+.section-title .tag.latest{background:var(--blue);color:#fff}
+.hot-list{display:grid;gap:10px}
+.hot-item{background:var(--card);border:1px solid var(--line);border-radius:10px;padding:12px 14px;display:flex;gap:12px;align-items:flex-start}
+.hot-rank{font-size:18px;font-weight:800;color:var(--hot);min-width:26px;font-family:Georgia,serif}
+.hot-body{flex:1;min-width:0}
+.hot-body a{color:var(--ink);text-decoration:none;font-weight:500;font-size:14.5px;line-height:1.5;display:block}
+.hot-body a:hover{color:var(--accent)}
+.hot-meta{font-size:12px;color:var(--muted);margin-top:4px}
+.news-list{display:flex;flex-direction:column;gap:12px}
+.news-card{background:var(--card);border:1px solid var(--line);border-radius:10px;padding:14px 16px}
+.news-card h3{font-size:15.5px;font-weight:600;line-height:1.5}
+.news-card h3 a{color:var(--ink);text-decoration:none}
+.news-card h3 a:hover{color:var(--accent)}
+.news-meta{display:flex;flex-wrap:wrap;gap:8px;font-size:12px;color:var(--muted);margin-top:6px;align-items:center}
+.badge{background:#eef2f7;color:var(--blue);padding:1px 8px;border-radius:4px;font-size:11px}
+.badge.cat{background:#f7e8e3;color:var(--accent)}
+.news-summary{font-size:13px;color:#444;margin-top:8px}
+.empty{text-align:center;padding:40px;color:var(--muted);font-size:14px}
+.error{text-align:center;padding:40px;color:var(--accent);font-size:14px;line-height:1.8}
+footer{margin-top:40px;padding-top:20px;border-top:1px solid var(--line);font-size:12px;color:var(--muted);line-height:1.8}
+</style>
+</head>
+<body>
+<div class="container">
+  <header>
+    <h1>行业信息差日报</h1>
+    <div class="sub">
+      <span>科技 / AI / 商业 / 创投</span>
+      <span class="dot">●</span>
+      <span id="updatedAt">最后更新：加载中…</span>
+      <span class="result" id="resultCount"></span>
+    </div>
+  </header>
+
+  <div class="search">
+    <input type="text" id="searchInput" placeholder="搜索标题、来源、摘要…">
+  </div>
+
+  <div class="section-title">热门<span class="tag hot">HN Top 20</span></div>
+  <div class="hot-list" id="hotList"><div class="empty">加载中…</div></div>
+
+  <div class="section-title">最新资讯<span class="tag latest" id="latestCount">--</span></div>
+  <div class="news-list" id="newsList"><div class="empty">加载中…</div></div>
+
+  <footer>
+    数据来源：36氪、少数派、Solidot、爱范儿、虎嗅、钛媒体、极客公园、Hacker News。<br>
+    每天北京时间 08:00 自动更新，历史资讯保留 30 天。
+  </footer>
+</div>
+
+<script>
+var ALL_ITEMS = [];
+var DATA = null;
+
+function fmtTime(iso){
+  if(!iso) return "";
+  var d = new Date(iso);
+  if(isNaN(d.getTime())) return "";
+  var pad = function(n){ return String(n).padStart(2,"0"); };
+  return d.getFullYear()+"-"+pad(d.getMonth()+1)+"-"+pad(d.getDate())+" "+pad(d.getHours())+":"+pad(d.getMinutes());
+}
+function fmtRelative(iso){
+  var d = new Date(iso);
+  if(isNaN(d.getTime())) return "";
+  var now = new Date();
+  var diff = Math.floor((now-d)/1000);
+  if(diff < 60) return "刚刚";
+  if(diff < 3600) return Math.floor(diff/60)+" 分钟前";
+  if(diff < 86400) return Math.floor(diff/3600)+" 小时前";
+  return Math.floor(diff/86400)+" 天前";
+}
+function escapeHtml(s){
+return String(s==null?"":s).replace(/[&<>"']/g, function(c){
      return {"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c];
    });
  }
  function renderHot(list){
-   const el = document.getElementById("hotList");
+   var el = document.getElementById("hotList");
    if(!list || !list.length){ el.innerHTML = '<div class="empty">暂无热门</div>'; return; }
    el.innerHTML = list.map(function(it,i){
      return '<div class="hot-item">'+
@@ -96,20 +111,11 @@
        '</div>'+
      '</div>';
    }).join("");
- }
- function renderNews(list, keyword){
-   const el = document.getElementById("newsList");
-   let arr = list || [];
-   if(keyword){
-     const k = keyword.toLowerCase();
-     arr = arr.filter(function(it){
-       return (it.title||"").toLowerCase().indexOf(k)>=0 ||
-         (it.source||"").toLowerCase().indexOf(k)>=0 ||
-              (it.summary||"").toLowerCase().indexOf(k)>=0;
-     });
-   }
-   if(!arr.length){ el.innerHTML = '<div class="empty">没有匹配的内容</div>'; return; }
-   el.innerHTML = arr.map(function(it){
+  }
+ function renderNews(list){
+   var el = document.getElementById("newsList");
+   if(!list.length){ el.innerHTML = '<div class="empty">没有匹配的内容</div>'; return; }
+   el.innerHTML = list.map(function(it){
      return '<div class="news-card">'+
        '<h3><a href="'+escapeHtml(it.url)+'" target="_blank" rel="noopener">'+escapeHtml(it.title)+'</a></h3>'+
        '<div class="news-meta">'+
@@ -119,26 +125,51 @@
          '<span>'+fmtTime(it.published)+'</span>'+
        '</div>'+
        (it.summary ? '<div class="news-summary">'+escapeHtml(it.summary)+'</div>' : '')+
-       '</div>';
+     '</div>';
    }).join("");
+ }
+ function applySearch(){
+  var kw = document.getElementById("searchInput").value.trim().toLowerCase();
+   var matched;
+   if(!kw){
+     matched = ALL_ITEMS;
+   }else{
+     matched = ALL_ITEMS.filter(function(it){
+       return (it.title||"").toLowerCase().indexOf(kw)>=0
+           || (it.source||"").toLowerCase().indexOf(kw)>=0
+           || (it.summary||"").toLowerCase().indexOf(kw)>=0;
+     });
+   }
+   renderNews(matched);
+   document.getElementById("resultCount").textContent =
+     "共 " + ALL_ITEMS.length + " 条，匹配 " + matched.length + " 条";
+ }
+ function renderAll(){
+   renderHot(DATA.hot||[]);
+   renderNews(ALL_ITEMS);
+   document.getElementById("latestCount").textContent = ALL_ITEMS.length + " 条";
+  applySearch();
  }
  async function load(){
    try{
-     const res = await fetch("data.json?t=" + Date.now());
+     var res = await fetch("data.json?t=" + Date.now());
+     if(!res.ok) throw new Error("HTTP " + res.status);
      DATA = await res.json();
-     document.getElementById("updatedAt").textContent = "最后更新：" + fmtTime(DATA.updated_at);
-     document.getElementById("latestCount").textContent = DATA.total_latest + " 条";
-     renderHot(DATA.hot);
-     renderNews(DATA.latest, "");
+     ALL_ITEMS = DATA.items || [];
+     document.getElementById("updatedAt").textContent = "最后更新：" + fmtTime(DATA.generated_at || DATA.updated_at);
+     renderAll();
    }catch(e){
      document.getElementById("updatedAt").textContent = "数据加载失败";
-     document.getElementById("newsList").innerHTML = '<div class="empty">data.json 加载失败，请检查文件是否存在</div>';
-     }
+     document.getElementById("newsList").innerHTML =
+       '<div class="error">data.json 加载失败：' + escapeHtml(e.message) +
+       '<br>请确认 Actions 已成功运行、data.json 文件存在。</div>';
+     document.getElementById("hotList").innerHTML = "";
+   }
  }
- document.getElementById("searchInput").addEventListener("input", function(e){
-   if(DATA) renderNews(DATA.latest, e.target.value.trim());
+ document.addEventListener("DOMContentLoaded", function(){
+   document.getElementById("searchInput").addEventListener("input", applySearch);
+   load();
  });
- load();
  </script>
  </body>
  </html>
