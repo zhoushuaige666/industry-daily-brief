@@ -1,0 +1,128 @@
+import feedparser
+import requests
+import json
+import re
+import html
+from datetime import datetime, timezone, timedelta
+
+CST = timezone(timedelta(hours=8))
+
+SOURCES = [
+    {"name": "36氪",     "url": "https://36kr.com/feed",                       "category": "商业"},
+    {"name": "少数派",   "url": "https://sspai.com/feed",                      "category": "科技"},
+    {"name": "Solidot",  "url": "https://www.solidot.org/index.rss",           "category": "科技"},
+    {"name": "爱范儿",   "url": "https://www.ifanr.com/feed",                   "category": "科技"},
+    {"name": "虎嗅",     "url": "https://www.huxiu.com/rss/0.xml",              "category": "商业"},
+    {"name": "钛媒体",   "url": "https://www.tmtpost.com/rss.xml",              "category": "创投"},
+    {"name": "极客公园", "url": "https://www.geekpark.net/rss",                 "category": "AI"},
+]
+
+HEADERS = {"User-Agent": "Mozilla/5.0 (IndustryDailyBot/1.0)"}
+
+
+def clean_text(raw):
+    if not raw:
+        return ""
+    text = re.sub(r"<[^>]+>", "", str(raw))
+    text = html.unescape(text)
+    text = re.sub(r"\s+", " ", text).strip()
+    return text[:200]
+
+
+def parse_time(entry):
+    for key in ("published_parsed", "updated_parsed"):
+        t = entry.get(key) if isinstance(entry, dict) else getattr(entry, key, None)
+        if t:
+            try:
+                return datetime(*t[:6], tzinfo=timezone.utc)
+            except Exception:
+                pass
+    return datetime.now(timezone.utc)
+
+
+def fetch_latest():
+    items = []
+    ok, failed = [], []
+    for src in SOURCES:
+        try:
+            resp = requests.get(src["url"], headers=HEADERS, timeout=20)
+            resp.raise_for_status()
+            feed = feedparser.parse(resp.content)
+            count = 0
+            for e in feed.entries[:10]:
+                title = clean_text(e.get("title", ""))
+                link = e.get("link", "")
+                summary = clean_text(e.get("summary", e.get("description", "")))
+                dt = parse_time(e)
+                items.append({
+                    "title": title,
+                    "url": link,
+                    "source": src["name"],
+                    "category": src["category"],
+                    "published": dt.astimezone(CST).isoformat(),
+                    "summary": summary,
+                })
+                count += 1
+            if count > 0:
+                ok.append(src["name"] + "(" + str(count) + ")")
+            else:
+                failed.append(src["name"])
+        except Exception as ex:
+            failed.append(src["name"] + ":" + type(ex).__name__)
+
+    seen = set()
+    uniq = []
+    for it in items:
+        if it["title"] and it["title"] not in seen:
+            seen.add(it["title"])
+            uniq.append(it)
+    uniq.sort(key=lambda x: x["published"], reverse=True)
+    return uniq[:50], ok, failed
+
+
+def fetch_hot():
+    hot = []
+    try:
+        r = requests.get("https://hacker-news.firebaseio.com/v0/topstories.json",
+                        headers=HEADERS, timeout=15)
+        ids = r.json()[:20]
+        for hid in ids:
+            try:
+                item = requests.get(
+                    "https://hacker-news.firebaseio.com/v0/item/" + str(hid) + ".json",
+                    headers=HEADERS, timeout=10).json()
+                if not item:
+                    continue
+                hot.append({
+                    "title": item.get("title", ""),
+                    "url": item.get("url") or ("https://news.ycombinator.com/item?id=" + str(hid)),
+                    "score": item.get("score", 0),
+                    "by": item.get("by", ""),
+                    "comments": item.get("descendants", 0),
+                })
+            except Exception:
+                continue
+    except Exception as ex:
+        print("HN fetch failed:", ex)
+    return hot
+
+
+def main():
+    latest, ok, failed = fetch_latest()
+    hot = fetch_hot()
+    data = {
+        "updated_at": datetime.now(CST).isoformat(),
+        "latest": latest,
+        "hot": hot,
+        "sources_ok": ok,
+        "sources_failed": failed,
+        "total_latest": len(latest),
+        "total_hot": len(hot),
+    }
+    with open("data.json", "w", encoding="utf-8") as f:
+        json.dump(data, f, ensure_ascii=False, indent=2)
+    print("OK:", len(latest), "latest,", len(hot), "hot, ok=", ok, "failed=", failed)
+
+
+if __name__ == "__main__":
+    main()
