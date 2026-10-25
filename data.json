@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-25T13:01:37.415894+08:00",
-  "latest": [
+  "generated_at": "2026-10-25T13:47:03.445169+08:00",
+  "items": [
     {
       "title": "iPhone Duo 2 提前曝光：FaceID、操作按钮和长焦都要回来了？",
       "url": "https://www.ifanr.com/1685622?utm_source=rss&utm_medium=rss&utm_campaign=",
@@ -406,142 +406,142 @@
     {
       "title": "Five Qwen3.8-27B models match Fable 5 Using GVS5H Harness",
       "url": "https://github.com/slee-persis/GVS5H",
-      "score": 57,
+      "score": 95,
       "by": "rzk",
-      "comments": 14
+      "comments": 25
     },
     {
       "title": "We should be more ambitious with the software we build",
       "url": "https://danluu.com/ambitious/",
-      "score": 280,
+      "score": 293,
       "by": "ltratt",
-      "comments": 238
+      "comments": 256
     },
     {
       "title": "Cerebras Deploys Trillion-Parameter AI Models",
       "url": "https://www.cerebras.ai/blog/how-we-deploy-trillion-parameter-frontier-models-on-cerebras",
-      "score": 56,
+      "score": 74,
       "by": "gmays",
-      "comments": 18
+      "comments": 23
     },
     {
       "title": "The Goose Programming Language",
       "url": "https://aardappel.github.io/goose/",
-      "score": 305,
+      "score": 316,
       "by": "bobbydigitales",
-      "comments": 187
+      "comments": 209
     },
     {
       "title": "America has lost 200k of jobs in media, film and the arts. How much is AI?",
       "url": "https://www.apricitas.io/p/ai-and-the-fall-of-the-creative-class",
-      "score": 259,
+      "score": 276,
       "by": "gnabgib",
-      "comments": 264
-    },
-    {
-      "title": "Small Programs and Languages",
-      "url": "https://ratfactor.com/cards/pl-small",
-      "score": 66,
-      "by": "andsoitis",
-      "comments": 5
+      "comments": 280
     },
     {
       "title": "SpeedCrunch 1.1",
       "url": "https://www.speedcrunch.org/",
-      "score": 104,
+      "score": 112,
       "by": "LordNibbler",
-      "comments": 13
+      "comments": 15
     },
     {
-      "title": "Xbox Turns Down Netflix $500M Offer",
-      "url": "https://www.darkhorizons.com/xbox-turns-down-netflix-500-million-offer/",
-      "score": 65,
-      "by": "xoxxala",
-      "comments": 73
+      "title": "Small Programs and Languages",
+      "url": "https://ratfactor.com/cards/pl-small",
+      "score": 70,
+      "by": "andsoitis",
+      "comments": 5
     },
     {
       "title": "In Rainbows",
       "url": "https://hitogata.neocities.org/Rainbows",
-      "score": 13,
+      "score": 15,
       "by": "surprisetalk",
-      "comments": 1
-    },
-    {
-      "title": "Listen and read USA nuclear forces Emergency Action Messages, heard on 11175 kHz",
-      "url": "https://missileer.watch",
-      "score": 148,
-      "by": "liotier",
-      "comments": 101
-    },
-    {
-      "title": "Why Gopher in 2026?",
-      "url": "https://gopher.muffinlabs.com/sdf.org/users/nervtoji/phlog/001.txt",
-      "score": 47,
-      "by": "andsoitis",
-      "comments": 13
-    },
-    {
-      "title": "Meta employees say Lula’s accounts restricted in Brazil election: Report",
-      "url": "https://www.aljazeera.com/economy/2026/10/16/meta-employees-say-lulas-accounts-restricted-in-brazil-election-report",
-      "score": 80,
-      "by": "nidnogg",
-      "comments": 15
+      "comments": 2
     },
     {
       "title": "I Built a Stereo Vision Board for Hardware Hackers",
       "url": "https://rootkitlabs.com/2026/10/06/i-built-a-stereo-vision-board-for-hardware-hackers/",
-      "score": 49,
+      "score": 57,
       "by": "machinehum",
-      "comments": 4
-    },
-    {
-      "title": "Social dynamics of toxic metal industry in medieval Europe",
-      "url": "https://www.cambridge.org/core/journals/antiquity/article/social-dynamics-of-toxic-metal-industry-in-medieval-europe-peak-district-lead-production-ad-6001500/34A2A16AC99B1B12E3EB99CEA1DDB829",
-      "score": 25,
-      "by": "XzetaU8",
-      "comments": 0
-    },
-    {
-      "title": "Show HN: Steal My Bitcoin",
-      "url": "https://stealmybitcoin.com/",
-      "score": 441,
-      "by": "cloudlandsdev",
-      "comments": 264
-    },
-    {
-      "title": "FreeDNS",
-      "url": "https://freedns.afraid.org/",
-      "score": 267,
-      "by": "esher",
-      "comments": 67
-    },
-    {
-      "title": "I don't understand quantum physics (2018)",
-      "url": "https://www.southampton.ac.uk/~doug/quantum_physics/index.html",
-      "score": 291,
-      "by": "rramadass",
-      "comments": 235
-    },
-    {
-      "title": "Attention people who think UB is fine",
-      "url": "https://blog.habets.se/2026/10/Attention-people-who-think-UB-is-fine.html",
-      "score": 7,
-      "by": "signa11",
       "comments": 6
-    },
-    {
-      "title": "The Importance of Limitations for Creativity and Learning (2023)",
-      "url": "https://ratfactor.com/cards/limitations",
-      "score": 45,
-      "by": "andsoitis",
-      "comments": 12
     },
     {
       "title": "Pragtical v3.14 Lua-based text editor adds menus, floating views, and sessions",
       "url": "https://pragtical.dev/blog/pragtical-v3140-release",
-      "score": 5,
+      "score": 7,
       "by": "rd07",
       "comments": 1
+    },
+    {
+      "title": "Why Gopher in 2026?",
+      "url": "https://gopher.muffinlabs.com/sdf.org/users/nervtoji/phlog/001.txt",
+      "score": 49,
+      "by": "andsoitis",
+      "comments": 14
+    },
+    {
+      "title": "Meta employees say Lula’s accounts restricted in Brazil election: Report",
+      "url": "https://www.aljazeera.com/economy/2026/10/16/meta-employees-say-lulas-accounts-restricted-in-brazil-election-report",
+      "score": 105,
+      "by": "nidnogg",
+      "comments": 29
+    },
+    {
+      "title": "Listen and read USA nuclear forces Emergency Action Messages, heard on 11175 kHz",
+      "url": "https://missileer.watch",
+      "score": 151,
+      "by": "liotier",
+      "comments": 105
+    },
+    {
+      "title": "Social dynamics of toxic metal industry in medieval Europe",
+      "url": "https://www.cambridge.org/core/journals/antiquity/article/social-dynamics-of-toxic-metal-industry-in-medieval-europe-peak-district-lead-production-ad-6001500/34A2A16AC99B1B12E3EB99CEA1DDB829",
+      "score": 29,
+      "by": "XzetaU8",
+      "comments": 1
+    },
+    {
+      "title": "FreeDNS",
+      "url": "https://freedns.afraid.org/",
+      "score": 271,
+      "by": "esher",
+      "comments": 69
+    },
+    {
+      "title": "I don't understand quantum physics (2018)",
+      "url": "https://www.southampton.ac.uk/~doug/quantum_physics/index.html",
+      "score": 295,
+      "by": "rramadass",
+      "comments": 237
+    },
+    {
+      "title": "The Importance of Limitations for Creativity and Learning (2023)",
+      "url": "https://ratfactor.com/cards/limitations",
+      "score": 50,
+      "by": "andsoitis",
+      "comments": 12
+    },
+    {
+      "title": "Show HN: Steal My Bitcoin",
+      "url": "https://stealmybitcoin.com/",
+      "score": 447,
+      "by": "cloudlandsdev",
+      "comments": 272
+    },
+    {
+      "title": "Xbox Turns Down Netflix $500M Offer",
+      "url": "https://www.darkhorizons.com/xbox-turns-down-netflix-500-million-offer/",
+      "score": 73,
+      "by": "xoxxala",
+      "comments": 89
+    },
+    {
+      "title": "Node2Shell evolves to HTTP2Shell, blast radius affects many HTTP libs and apps",
+      "url": "https://www.aikido.dev/blog/python-packages-vulnerable-node2shell-brotli-cve-2026-111497",
+      "score": 294,
+      "by": "theanonymousone",
+      "comments": 144
     }
   ],
   "sources_ok": [
@@ -555,6 +555,5 @@
     "36氪",
     "虎嗅:ReadTimeout"
   ],
-  "total_latest": 50,
-  "total_hot": 20
+  "total": 50
 }
