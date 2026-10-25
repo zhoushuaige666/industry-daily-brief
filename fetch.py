@@ -2,19 +2,23 @@ import feedparser
 import requests
 import json
 import re
+import os
 import html
 from datetime import datetime, timezone, timedelta
 
 CST = timezone(timedelta(hours=8))
+DATA_FILE = "data.json"
+MAX_AGE_DAYS = 30
+MAX_ITEMS = 2000
 
 SOURCES = [
     {"name": "36氪",     "url": "https://36kr.com/feed",                       "category": "商业"},
     {"name": "少数派",   "url": "https://sspai.com/feed",                      "category": "科技"},
     {"name": "Solidot",  "url": "https://www.solidot.org/index.rss",           "category": "科技"},
-    {"name": "爱范儿",   "url": "https://www.ifanr.com/feed",                   "category": "科技"},
-    {"name": "虎嗅",     "url": "https://www.huxiu.com/rss/0.xml",              "category": "商业"},
-    {"name": "钛媒体",   "url": "https://www.tmtpost.com/rss.xml",              "category": "创投"},
-    {"name": "极客公园", "url": "https://www.geekpark.net/rss",                 "category": "AI"},
+    {"name": "爱范儿",   "url": "https://www.ifanr.com/feed",                  "category": "科技"},
+    {"name": "虎嗅",     "url": "https://www.huxiu.com/rss/0.xml",             "category": "商业"},
+    {"name": "钛媒体",   "url": "https://www.tmtpost.com/rss.xml",             "category": "创投"},
+    {"name": "极客公园", "url": "https://www.geekpark.net/rss",                "category": "AI"},
 ]
 
 HEADERS = {"User-Agent": "Mozilla/5.0 (IndustryDailyBot/1.0)"}
@@ -31,13 +35,20 @@ def clean_text(raw):
 
 def parse_time(entry):
     for key in ("published_parsed", "updated_parsed"):
-        t = entry.get(key) if isinstance(entry, dict) else getattr(entry, key, None)
+        t = getattr(entry, key, None)
         if t:
             try:
                 return datetime(*t[:6], tzinfo=timezone.utc)
             except Exception:
                 pass
     return datetime.now(timezone.utc)
+
+
+def parse_iso(s):
+    try:
+        return datetime.fromisoformat(s)
+    except Exception:
+        return datetime.now(CST)
 
 
 def fetch_latest():
@@ -69,15 +80,7 @@ def fetch_latest():
                 failed.append(src["name"])
         except Exception as ex:
             failed.append(src["name"] + ":" + type(ex).__name__)
-
-    seen = set()
-    uniq = []
-    for it in items:
-        if it["title"] and it["title"] not in seen:
-            seen.add(it["title"])
-            uniq.append(it)
-    uniq.sort(key=lambda x: x["published"], reverse=True)
-    return uniq[:50], ok, failed
+    return items, ok, failed
 
 
 def fetch_hot():
@@ -107,22 +110,59 @@ def fetch_hot():
     return hot
 
 
-def main():
-    latest, ok, failed = fetch_latest()
-    hot = fetch_hot()
-    data = {
-        "updated_at": datetime.now(CST).isoformat(),
-        "latest": latest,
-        "hot": hot,
-        "sources_ok": ok,
-        "sources_failed": failed,
-        "total_latest": len(latest),
-        "total_hot": len(hot),
-    }
-    with open("data.json", "w", encoding="utf-8") as f:
-        json.dump(data, f, ensure_ascii=False, indent=2)
-    print("OK:", len(latest), "latest,", len(hot), "hot, ok=", ok, "failed=", failed)
+def load_old_data():
+    if not os.path.exists(DATA_FILE):
+        return {"items": [], "hot": []}
+    try:
+        with open(DATA_FILE, "r", encoding="utf-8") as f:
+            data = json.load(f)
+        if not isinstance(data, dict):
+            return {"items": [], "hot": []}
+        if not isinstance(data.get("items"), list):
+            data["items"] = []
+        return data
+    except Exception:
+        return {"items": [], "hot": []}
 
 
-if __name__ == "__main__":
-    main()
+def merge_items(old_items, new_items):
+    seen = set()
+    merged = []
+    # 先放旧的，保留最早出现的那条
+    for it in old_items:
+        key = (it.get("url", "") or "").lower().strip()
+        if key and key not in seen:
+            seen.add(key)
+            merged.append(it)
+    # 再放新的
+    for it in new_items:
+       key = (it.get("url", "") or "").lower().strip()
+        if key and key not in seen:
+             seen.add(key)
+             merged.append(it)
+     # 按时间倒序
+     merged.sort(key=lambda x: x.get("published", ""), reverse=True)
+     # 只保留最近 30 天
+     cutoff = datetime.now(CST) - timedelta(days=MAX_AGE_DAYS)
+     merged = [it for it in merged if parse_iso(it.get("published", "")) >= cutoff]
+     # 最多 2000 条
+     merged = merged[:MAX_ITEMS]
+     return merged
+ def main():
+     old = load_old_data()
+     new_items, ok, failed = fetch_latest()
+     hot = fetch_hot()
+     merged = merge_items(old.get("items", []), new_items)
+     data = {
+         "generated_at": datetime.now(CST).isoformat(),
+         "items": merged,
+         "hot": hot,
+         "sources_ok": ok,
+         "sources_failed": failed,
+         "total": len(merged),
+     }
+     with open(DATA_FILE, "w", encoding="utf-8") as f:
+         json.dump(data, f, ensure_ascii=False, indent=2)
+     print("OK:", len(merged), "items total,", len(new_items), "new,", len(hot), "hot, ok=", ok, "failed=", failed)
+ if __name__ == "__main__":
+     main()
