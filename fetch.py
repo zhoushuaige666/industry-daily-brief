@@ -125,15 +125,16 @@ def load_old_data():
 def merge_items(old_items, new_items):
     seen = set()
     merged = []
-     for it in old_items + new_items:
-         iid = it.get("id", "")
-         if iid and iid not in seen:
-             seen.add(iid)
-             merged.append(it)
-     merged.sort(key=lambda x: x.get("published", ""), reverse=True)
-     cutoff = datetime.now(CST) - timedelta(days=MAX_AGE_DAYS)
-     merged = [it for it in merged if parse_iso(it.get("published", "")) >= cutoff]
-     return merged[:MAX_ITEMS]
+    for it in old_items + new_items:
+        iid = it.get("id", "")
+        if iid and iid not in seen:
+            seen.add(iid)
+            merged.append(it)
+    merged.sort(key=lambda x: x.get("published", ""), reverse=True)
+    cutoff = datetime.now(CST) - timedelta(days=MAX_AGE_DAYS)
+    merged = [it for it in merged if parse_iso(it.get("published", "")) >= cutoff]
+    return merged[:MAX_ITEMS]
+
  def main():
      old = load_old_data()
      new_items, ok, failed = fetch_latest()
