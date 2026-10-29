@@ -1,6 +1,303 @@
 {
-  "generated_at": "2026-10-28T08:29:11.874004+08:00",
+  "generated_at": "2026-10-29T08:28:58.271214+08:00",
   "items": [
+    {
+      "id": "e5cd71c789dade4e",
+      "title": "早报｜触屏MacBook Pro发布，发光logo回归/Gemini 4 Carbon发布，超越Opus 5.5/马斯克招寿司厨师，每天需能站立10小时",
+      "url": "https://www.ifanr.com/1686590?utm_source=rss&utm_medium=rss&utm_campaign=",
+      "source": "爱范儿",
+      "category": "科技",
+      "published": "2026-10-29T08:00:32+08:00",
+      "summary": "· OpenAI拟采购GoogleTPU，已招聘工程师适配前沿模型 · 仰望行政旗舰定名「鼎曜」，计划 11 月初在中东亮相 · 宇树与红杉中国成立「杉宇·创计划」，投资机器人早期项目 期项目#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。"
+    },
+    {
+      "id": "1d15cfa1357ef4be",
+      "title": "【钛晨报】北京“十五五”能源蓝图出炉：构建“1+3+6”体系；8000亿元新型政策性金融工具投放完成；字节辟谣“15万群演数据喂大模型”：传言严重失实",
+      "url": "https://www.tmtpost.com/8185179.html",
+      "source": "钛媒体",
+      "category": "创投",
+      "published": "2026-10-29T07:20:00+08:00",
+      "summary": "覆铜板、PCB向少布、无布升级？多家电子布上市公司回应；186家科创板公司三季报披露，合计营收超4266亿元；羽毛球降价了，部分品牌降幅达30%；摩根大通：黄金仍存更多下行风险；世界银行：预计2026年整体大宗商品价格将飙升23%；Anthropic新股认购名额稀缺，亚洲投资者转向间接标的押注"
+    },
+    {
+      "id": "92329d986b5d1533",
+      "title": "ByteDance Pushes Back on Talk of a “ByteDance Era”",
+      "url": "https://www.tmtpost.com/8185315.html",
+      "source": "钛媒体",
+      "category": "创投",
+      "published": "2026-10-29T07:08:04+08:00",
+      "summary": "Third-party data show ByteDance apps taking a large share of mobile time in China. Company officials reject labels that frame that lead as a new order. The argument is less about the figures than about how they are read."
+    },
+    {
+      "id": "f175acf98e5fa500",
+      "title": "触屏 MacBook Pro 上手体验：变轻变强会发光，凭什么值 11 万？",
+      "url": "https://www.ifanr.com/1686534?utm_source=rss&utm_medium=rss&utm_campaign=",
+      "source": "爱范儿",
+      "category": "科技",
+      "published": "2026-10-29T07:05:55+08:00",
+      "summary": "很强，很亮，很贵#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。"
+    },
+    {
+      "id": "3385aae55eee1f8b",
+      "title": "顶配 11.26 万！触屏 MacBook Pro 终于来了，乔布斯可能有话说",
+      "url": "https://www.ifanr.com/1686513?utm_source=rss&utm_medium=rss&utm_campaign=",
+      "source": "爱范儿",
+      "category": "科技",
+      "published": "2026-10-29T07:00:46+08:00",
+      "summary": "苹果标会亮！#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。"
+    },
+    {
+      "id": "8775605d38492f66",
+      "title": "刚刚，Gemini 4 Carbon 正式发布，哈基米重回世界第一",
+      "url": "https://www.ifanr.com/1686587?utm_source=rss&utm_medium=rss&utm_campaign=",
+      "source": "爱范儿",
+      "category": "科技",
+      "published": "2026-10-29T06:31:28+08:00",
+      "summary": "哈基米终于扬眉吐气了 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。"
+    },
+    {
+      "id": "912d4627d5647592",
+      "title": "iPad mini 首发上手：体验无可替代，刀法无人能及",
+      "url": "https://www.ifanr.com/1686487?utm_source=rss&utm_medium=rss&utm_campaign=",
+      "source": "爱范儿",
+      "category": "科技",
+      "published": "2026-10-29T03:27:06+08:00",
+      "summary": "算力越级，高刷缺席，一款让人爱恨交织的产品#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。"
+    },
+    {
+      "id": "eb7d401bbb9948fe",
+      "title": "女子信任 ChatGPT 的用药决策，结果因此猝死",
+      "url": "https://www.solidot.org/story?sid=85737",
+      "source": "Solidot",
+      "category": "科技",
+      "published": "2026-10-28T22:46:03+08:00",
+      "summary": "一名住在西雅图的 31 岁华人女子，因依照 ChatGPT 提供的逐日减药计划，自行将抗癫痫药物逐步减量至停药后死亡。其父母向旧金山高等法院提起不当致死诉讼，控告 OpenAI 及其 CEO Sam Altman，指 ChatGPT 无照行医、提供危险且不准确的医疗建议。OpenAI 回应称这是“令人心碎的事件”，但涉案的是已经下架的早期版本。死者名为万博文(Bowen Wan)，来自江苏，毕业于亚利桑纳州立大学信息工程系，曾在亚马逊担任软件工程师，2021 年起请长期病假。她患有严重癫痫，服用多年的药物一度失效，后来改用新药，发作次数降至每月数次。她自 2023 年起频繁使用 ChatGPT"
+    },
+    {
+      "id": "abdd9628e8875fff",
+      "title": "补齐短板！理想 i6 上市23.98 万元起，等等党赢麻了",
+      "url": "https://www.ifanr.com/1686458?utm_source=rss&utm_medium=rss&utm_campaign=",
+      "source": "爱范儿",
+      "category": "科技",
+      "published": "2026-10-28T22:27:53+08:00",
+      "summary": "销冠的自我修养。#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。"
+    },
+    {
+      "id": "bc16e09253076d3c",
+      "title": "加州亿万富翁投入逾 2.93 亿美元反对亿万富翁税",
+      "url": "https://www.solidot.org/story?sid=85736",
+      "source": "Solidot",
+      "category": "科技",
+      "published": "2026-10-28T22:23:06+08:00",
+      "summary": "统计数据显示，至少 30 位加州亿万富翁累计投入逾 2.93 亿美元反对亿万富翁税。亿万富翁税将对任何身价逾 10 亿美元的加州居民一次性征收 5% 的税，该税将用于医保和教育等项目。加州是全美亿万富翁人数最多的州，总数超过 200 人，很多人在 AI 热下积累了巨额财富。在反对该税的亿万富翁中，Google 联合创始人 Sergey Brin 出资最多，投入巨资的还有 Google 前 CEO Eric Sc​​hmidt、风险投资人 John Doerr、Stripe CEO Patrick Collison、加密货币行业高管 Chris Larsen 等。另一位支持亿万富翁税的亿万富翁 "
+    },
+    {
+      "id": "42bd8751e37af95e",
+      "title": "天文学家在柯伊伯带发现一颗巨大的矮行星候选天体",
+      "url": "https://www.solidot.org/story?sid=85735",
+      "source": "Solidot",
+      "category": "科技",
+      "published": "2026-10-28T22:09:50+08:00",
+      "summary": "2025 年 6 月正式启动观测的 Vera C. Rubin 天文台其任务之一是绘制太阳系内小天体地图，尤其是柯伊伯带天体。现在天文学家报告利用天文台的观测设备在柯伊伯带发现了一颗巨大的矮行星候选天体。矮行星是指不完全符合行星定义但也不是卫星的行星质量天体，目前国际天文学联合会确认的太阳系矮行星共五颗：冥王星、阋神星、妊神星和鸟神星，以及谷神星，此外还有十几颗候选天体。最新发现的天体编号为 2026 ED138，其直径在 600-1500 公里之间，大小可能与妊神星和鸟神星相当。ED138 绕太阳运行一周大约需要 281 年，其近日点距离太阳 36.8 6个天文单位，远日点 49.04 个天"
+    },
+    {
+      "id": "26d384728b5eb667",
+      "title": "Anthropic巨亏背后，藏着行业什么秘密？",
+      "url": "https://www.tmtpost.com/8183803.html",
+      "source": "钛媒体",
+      "category": "创投",
+      "published": "2026-10-28T21:21:46+08:00",
+      "summary": "模型公司，估值寄生于基础设施供应商。"
+    },
+    {
+      "id": "9ed235db3d78f225",
+      "title": "逸飞激光4亿“追光”：拟用2.24亿超募资金“买单”，标的增值率达532%｜并购一线",
+      "url": "https://www.tmtpost.com/8185098.html",
+      "source": "钛媒体",
+      "category": "创投",
+      "published": "2026-10-28T20:51:39+08:00",
+      "summary": "标的评估增值率达 532.56%，锂电设备商布局新增长曲线。"
+    },
+    {
+      "id": "bd2ece37228e760f",
+      "title": "DSH测试文件“泄密”，DeepSeek V5就要来了？",
+      "url": "https://www.tmtpost.com/8184852.html",
+      "source": "钛媒体",
+      "category": "创投",
+      "published": "2026-10-28T20:19:41+08:00",
+      "summary": "DSH测试文件出现三个deepseek-v5模型，或为占位符"
+    },
+    {
+      "id": "ad8edd3291dc203c",
+      "title": "腾讯AI压力来到微信小微",
+      "url": "https://www.tmtpost.com/8184625.html",
+      "source": "钛媒体",
+      "category": "创投",
+      "published": "2026-10-28T20:14:39+08:00",
+      "summary": "小微已然迈出一小步。"
+    },
+    {
+      "id": "8c94d30c85c28133",
+      "title": "iQOO Neo 12 发布：继独显和散热风扇之后，185Hz 屏幕会成为新标配？",
+      "url": "https://www.ifanr.com/1686397?utm_source=rss&utm_medium=rss&utm_campaign=",
+      "source": "爱范儿",
+      "category": "科技",
+      "published": "2026-10-28T20:11:23+08:00",
+      "summary": "游戏手机的下个世代，会有怎样的变化？#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。"
+    },
+    {
+      "id": "144691b56e46b771",
+      "title": "当DeepSeek成为一种亚文化",
+      "url": "https://www.tmtpost.com/8184563.html",
+      "source": "钛媒体",
+      "category": "创投",
+      "published": "2026-10-28T19:58:12+08:00",
+      "summary": "流量虽好，别学微博"
+    },
+    {
+      "id": "ee625a9db58b8577",
+      "title": "昨夜星辰（六）我的“三星”职场之旅2012-2015",
+      "url": "https://www.tmtpost.com/8184573.html",
+      "source": "钛媒体",
+      "category": "创投",
+      "published": "2026-10-28T19:58:06+08:00",
+      "summary": "在韩国财阀体系里生存，不是靠“反抗”，也不是靠“顺从”，而是靠“翻译”。把他们的语言，翻译成你通往自由的密码。你不是在打工，你是在逐渐积累自己未来的主权。他们卖鱼干起家，你也可以卖忠诚起家。 但别忘了，最终你要卖的，是你自己。"
+    },
+    {
+      "id": "0abddda64ba7c698",
+      "title": "苹果最赚钱的生意，正被Siri亲手拆掉？",
+      "url": "https://www.tmtpost.com/8184537.html",
+      "source": "钛媒体",
+      "category": "创投",
+      "published": "2026-10-28T19:01:06+08:00",
+      "summary": "谁控制应用分发，谁就能够影响移动互联网的流量和交易规则。 然而，AI正在尝试改变这种关系。"
+    },
+    {
+      "id": "6859004efa3a4cca",
+      "title": "生育后不久再次分娩可能加速衰老",
+      "url": "https://www.solidot.org/story?sid=85734",
+      "source": "Solidot",
+      "category": "科技",
+      "published": "2026-10-28T18:50:34+08:00",
+      "summary": "哈佛医学院、麻总百瀚的科学家探讨了妊娠与生物衰老之间的关联。研究者提出假设：若妊娠间隔过短，身体可能缺乏足够的恢复时间，从而导致与生物衰老相关的变化不断累积。研究者提出，两次妊娠之间的恢复时间最终可能影响母亲的长期健康。间隔较短的反复妊娠可能会阻碍身体的完全恢复，致使某些变化在连续妊娠中逐渐累积。世界卫生组织目前建议，在活产之后至少等待 24 个月再受孕，以降低母婴的健康风险。但研究者指出，若要基于生物学衰老而非妊娠结局提出具体建议，则需要开展额外研究，以在多次妊娠中测量生物学年龄，并在随后数十年间对这些母亲进行长期追踪。"
+    },
+    {
+      "id": "4a6f2024f889747d",
+      "title": "第六届数字经济投融资机构川渝行在蓉举行，释放融资需求超10亿元",
+      "url": "https://www.tmtpost.com/8185010.html",
+      "source": "钛媒体",
+      "category": "创投",
+      "published": "2026-10-28T18:42:27+08:00",
+      "summary": "聚焦AI赛道。"
+    },
+    {
+      "id": "8808ebeee555ac5b",
+      "title": "游戏行业缺乏专门为女性打造的游戏",
+      "url": "https://www.solidot.org/story?sid=85732",
+      "source": "Solidot",
+      "category": "科技",
+      "published": "2026-10-28T18:31:06+08:00",
+      "summary": "模拟服装制作的游戏《针影裁梦（Dressmaker）》于 9 月 21 日发售，一个月后在 Steam 平台玩家留下了逾 1.7 万评论，好评率 98%，同时在线玩家人数稳定在 1.5 万以上，对于一款小型独游而言称得上现象级了。游戏主要开发者是 Jonathan Hau-Yoon 及其伴侣 Sabrina Becker，其中 Becker 是服装设计师，她对服装制作工艺的深入理解成为游戏设计的重要依据。Becker 认为，除了游戏本身极具沉浸感和满足感之外，它成功的部分原因在于触及了一个在游戏领域长期被忽视的群体——女性。在游戏领域，女性群体一直未得到足够的重视，尽管她们其实非常热爱游戏。人"
+    },
+    {
+      "id": "af281867d722f847",
+      "title": "这机器人从嘴里钻进人体，居然是来救命的",
+      "url": "https://www.ifanr.com/1686368?utm_source=rss&utm_medium=rss&utm_campaign=",
+      "source": "爱范儿",
+      "category": "科技",
+      "published": "2026-10-28T18:21:02+08:00",
+      "summary": "当所有人都在讨论 AI 时，机械工程同样可以给世界带来变化。#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。"
+    },
+    {
+      "id": "72dc2ded5b4748ef",
+      "title": "备受期待的国产 3A 游戏新作：《影之刃零》游玩体验",
+      "url": "https://sspai.com/post/117725",
+      "source": "少数派",
+      "category": "科技",
+      "published": "2026-10-28T17:37:22+08:00",
+      "summary": "编注：《影之刃零》（PhantomBladeZero）是由中国游戏开发商「灵游坊」（S-GAME）自主研发的暗黑武侠动作冒险游戏，采用虚幻引擎5打造。游戏以独特的「功夫朋克」美学为特色，将中国传统武侠 ...查看全文"
+    },
+    {
+      "id": "d93317924565605a",
+      "title": "实测讯飞输入法 16.0，我发现它是我最实在的 AI「赛博嘴替」",
+      "url": "https://www.ifanr.com/1686281?utm_source=rss&utm_medium=rss&utm_campaign=",
+      "source": "爱范儿",
+      "category": "科技",
+      "published": "2026-10-28T17:18:48+08:00",
+      "summary": "人负责表达意图，键盘负责整理一切#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。"
+    },
+    {
+      "id": "cf9f5c67ce12d278",
+      "title": "尼安德特人发生了什么？",
+      "url": "https://www.solidot.org/story?sid=85731",
+      "source": "Solidot",
+      "category": "科技",
+      "published": "2026-10-28T16:51:55+08:00",
+      "summary": "在人类演化史的大部分时间里，地球同时存在多个人种。以过去 10 万年为例，尼安德特人曾活跃在欧洲和西亚，丹尼索瓦人生活在亚洲，形似霍比特人的弗洛勒斯人（Homo floresiensis）居住在印尼的弗洛勒斯岛，爪哇岛上最后的直立人刚刚灭绝。现代人类/智人只是其中之一。我们自己可能会认为如今单一的的人类世界是常态，研究远古历史的科学家则认为如今才是奇怪的时代，为什么现代人类成为最后幸存的一支人种？其他人种都经历了什么？在一种叙事中，人类认为其近亲过于原始而理所当然被淘汰，认为现代人类有着更大的大脑、熟练的工具使用能力以及复杂的社会结构而注定要统治地球，我们是最优秀的。但越来越多的证据显示，我们"
+    },
+    {
+      "id": "00cba9ba1481b380",
+      "title": "Swift 天文台预计于 11 月 2 日重返大气层",
+      "url": "https://www.solidot.org/story?sid=85730",
+      "source": "Solidot",
+      "category": "科技",
+      "published": "2026-10-28T15:26:16+08:00",
+      "summary": "拯救失败的 NASA Neil Gehrels Swift 天文台正在坠落，预计于 11 月 2 日重返大气层。10 月 20 日，轨道高度 275 公里的 Swift 天文台无法再应对高层大气日益增强的阻力，它进入了安全模式。运营该天文台的宾夕法尼亚州立大学团队随后发送指令，正式结束其科学使命，为再入大气层做准备。NASA 于 10 月 23 日宣布天文台的任务结束。Swift 天文台的坠落速度在加快。10 月 27 日的轨道高度为 255 公里，比一周前下降了接近 23 公里，平均每天下降超过 3 公里。根据目前的轨道衰减速度，Swift 预计将于 11 月 2 日再入大气层。"
+    },
+    {
+      "id": "5f103c6ea725a03e",
+      "title": "断舍离只是起点：打造能长期经营的实用主义衣柜",
+      "url": "https://sspai.com/post/116990",
+      "source": "少数派",
+      "category": "科技",
+      "published": "2026-10-28T15:00:00+08:00",
+      "summary": "只扔不买是没有用的，穿衣服时不多费心神才是目的。查看全文"
+    },
+    {
+      "id": "6d976bf974ef0db2",
+      "title": "字节跳动旗下应用使用率超过竞争对手",
+      "url": "https://www.solidot.org/story?sid=85729",
+      "source": "Solidot",
+      "category": "科技",
+      "published": "2026-10-28T14:56:14+08:00",
+      "summary": "根据野村证券的数据，今年 7 月在中国移动互联网使用时长排名前 50 的应用中，抖音首次超过微信，占总时长的 19.4%，微信占 18.8%；整个字节系的时长份额达 40.9%，腾讯系占 28.6%。字节旗下红果免费短剧的日活跃用户达到 1.68 亿人，超过腾讯视频、爱奇艺、优酷、芒果 TV 四大长视频平台的总和。红果短剧的日均使用时长约 125 分钟，抖音约 112-120 分钟，均超过腾讯系产品微信的 82=85 分钟。字节跳动抖音海外版 TikTok 以及 AI 助手豆包都非常受欢迎。"
+    },
+    {
+      "id": "0a52eb86e5cec3a4",
+      "title": "2025 年二氧化碳浓度创新高",
+      "url": "https://www.solidot.org/story?sid=85728",
+      "source": "Solidot",
+      "category": "科技",
+      "published": "2026-10-28T14:36:46+08:00",
+      "summary": "世界气象组织周二表示，2025 年因燃烧化石燃料导致的大气中二氧化碳及其他主要温室气体的浓度达到创纪录高位，这将导致全球变暖趋势进一步固化。2025 年全球二氧化碳平均浓度为百万分之426.8（ppm），相当于 1750 年工业化前基准值的 153%。同样令人担忧的是，甲烷和一氧化二氮——这两种由人类活动产生的、在长寿温室气体中排名第二和第三的气体——其浓度在 2025 年也创下了新高。2004 年测得的二氧化碳年均浓度为 377.5 ppm，而如今已接近 427 ppm。自 1960 年代以来，二氧化碳浓度增长率已增至三倍，在 2011-2020 年的十年间，年均增幅从 0.8 ppm 加速"
+    },
+    {
+      "id": "b99924df51d110b5",
+      "title": "2030 年之前，我们可能再也买不到便宜的电脑了",
+      "url": "https://www.ifanr.com/1686326?utm_source=rss&utm_medium=rss&utm_campaign=",
+      "source": "爱范儿",
+      "category": "科技",
+      "published": "2026-10-28T13:06:12+08:00",
+      "summary": "啥时候是个头#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。"
+    },
+    {
+      "id": "914260f1d872f783",
+      "title": "怀旧手记｜坚果 Pro2 与 R1：当「理想」和「现实」碰撞会发生什么？",
+      "url": "https://sspai.com/post/115533",
+      "source": "少数派",
+      "category": "科技",
+      "published": "2026-10-28T10:22:57+08:00",
+      "summary": "短短几年，罗永浩和锤子科技在国产手机的红海中留下了浓墨重彩的一笔。查看全文"
+    },
+    {
+      "id": "6d1c4375b809f2d4",
+      "title": "派早报：Apple 发布 M6 版 iMac 和 MacBook Pro 等",
+      "url": "https://sspai.com/post/117684",
+      "source": "少数派",
+      "category": "科技",
+      "published": "2026-10-28T08:37:25+08:00",
+      "summary": "小米发布 REDMI K100 等新品，广电总局发布有线电视与 IPTV 运营服务新规等。查看全文"
+    },
     {
       "id": "0faf0d0fdb4d4ccb",
       "title": "早报｜15999起，苹果发布M6 MacBook Pro/张一鸣以6700亿元登顶胡润百富榜/电视新规：不得播放开机广告",
@@ -1210,176 +1507,176 @@
   ],
   "hot": [
     {
-      "id": "4a69c3a491f518bd",
-      "title": "Genie 4",
-      "url": "https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/",
-      "score": 692,
-      "by": "acossta",
-      "comments": 418
+      "id": "cc0bc917dd633790",
+      "title": "Why is this fingerprinting script creating bioweapons?",
+      "url": "https://nullpt.rs/fingerprinting-bioweapons",
+      "score": 768,
+      "by": "hazebooth",
+      "comments": 176
     },
     {
-      "id": "7f6717485409b31c",
-      "title": "Ghostty 1.4",
-      "url": "https://ghostty.org/docs/install/release-notes/1-4-0",
-      "score": 703,
-      "by": "deaux",
-      "comments": 218
-    },
-    {
-      "id": "18448af0757e4db4",
-      "title": "Tailscale SSH: Investigation and remediation update",
-      "url": "https://tailscale.com/ssh-investigation-update",
-      "score": 174,
-      "by": "figmert",
-      "comments": 98
-    },
-    {
-      "id": "23a4a5e8d2341dd5",
-      "title": "Reviewers rarely talk about reliability. Owners bring it up twice as often",
-      "url": "https://www.bettascore.ai/research/reliability-reviewers-vs-owners",
+      "id": "f62ca2e8e221dad7",
+      "title": "GitLab Security Incident: Attempted Exploitation of CVE-2026-97229",
+      "url": "https://alpinelinux.org/posts/GitLab-security-incident-CVE-2026-97229.html",
       "score": 37,
-      "by": "tsxng",
-      "comments": 34
+      "by": "sashk",
+      "comments": 2
     },
     {
-      "id": "3d07f05339c65e42",
-      "title": "Early progress on accelerating drug development with Claude",
-      "url": "https://www.anthropic.com/research/early-progress-drug-development",
-      "score": 96,
-      "by": "dataking",
-      "comments": 88
+      "id": "0ff7547a9b7f159f",
+      "title": "StackOverflow now gets fewer than 1000 questions a month",
+      "url": "https://data.stackexchange.com/stackoverflow/query/1926661#graph?t=1",
+      "score": 20,
+      "by": "babelfish",
+      "comments": 16
     },
     {
-      "id": "29df243fdeec1ab5",
-      "title": "Survival LLM: AI assistant and emergency library that runs on your own computer",
-      "url": "https://www.brangus.io/survival-llm",
-      "score": 153,
-      "by": "Luc",
-      "comments": 93
+      "id": "5a9b006b7102159f",
+      "title": "CNC Stone Carving",
+      "url": "https://carmelitegothic.com/cnc-stone-carving/",
+      "score": 391,
+      "by": "bschne",
+      "comments": 115
     },
     {
-      "id": "f0c674667aae9436",
-      "title": "Raspberry Pi Zero 3W and Pi 4 Model A spotted in device trees",
-      "url": "https://bret.dk/raspberry-pi-zero-3-w-pi-4-model-a/",
-      "score": 83,
-      "by": "sthlmb",
-      "comments": 29
+      "id": "b8d3b9ece63f0538",
+      "title": "Gemini 4 Carbon",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-carbon/",
+      "score": 775,
+      "by": "acossta",
+      "comments": 634
     },
     {
-      "id": "b557be3eed79f145",
-      "title": "New 14‑inch MacBook Pro with M6",
-      "url": "https://www.apple.com/in/newsroom/2026/10/apple-introduces-the-new-14-inch-macbook-pro-with-m6/",
-      "score": 270,
-      "by": "beex",
-      "comments": 320
+      "id": "a8230490ea99e082",
+      "title": "A Health Update",
+      "url": "https://furbo.org/2026/10/28/a-health-update/",
+      "score": 58,
+      "by": "frizlab",
+      "comments": 4
     },
     {
-      "id": "a9d82dda7cad5463",
-      "title": "Free daily JSON feed of Shanghai government subsidy notices",
-      "url": "https://github.com/ZhongGheart/china-policy-data",
-      "score": 5,
-      "by": "subsidyradar",
-      "comments": 0
-    },
-    {
-      "id": "56cba7c8f714bcc5",
-      "title": "An examination of lost firefly species of the US and Canada",
-      "url": "https://journaloflostspecies.org/index.php/jls/article/view/37/33",
-      "score": 76,
-      "by": "bryanrasmussen",
-      "comments": 10
-    },
-    {
-      "id": "90e33c9a117a53e2",
-      "title": "Four Months of Zig",
-      "url": "https://gracefulliberty.com/articles/four-months-of-zig/",
-      "score": 63,
-      "by": "ibobev",
+      "id": "4e50e349504fe6af",
+      "title": "The case of the 9 bit AES key",
+      "url": "https://v12.sh/blog/the-case-of-the-9bit-aes-key",
+      "score": 68,
+      "by": "ledoge",
       "comments": 33
     },
     {
-      "id": "72b599601c5b534e",
-      "title": "81 Jokes for the ZX81",
-      "url": "https://spelk.press/gb/products/81-jokes-for-the-zx81",
-      "score": 13,
-      "by": "robin_reala",
+      "id": "f9068b00d7fc14ac",
+      "title": "Why Birds Can Fly over Mount Everest",
+      "url": "https://lede-v2.nautil.us/why-birds-can-fly-over-mount-everest-237864",
+      "score": 49,
+      "by": "andsoitis",
+      "comments": 9
+    },
+    {
+      "id": "5214382878125981",
+      "title": "Formlabs Studio 1 $699 Resin Printer",
+      "url": "https://formlabs.com/products/form-studio-1-basic-founders-edition/",
+      "score": 95,
+      "by": "mhb",
+      "comments": 76
+    },
+    {
+      "id": "4e46e70c544f63ff",
+      "title": "MacBook Pro with PROLED XDR Display and Touch",
+      "url": "https://www.apple.com/macbook-pro/proled-xdr-display/",
+      "score": 483,
+      "by": "etothet",
+      "comments": 833
+    },
+    {
+      "id": "3e40770b0447a176",
+      "title": "The Grid, a factory-scale robot in Massachusetts that builds PCBs on demand",
+      "url": "https://www.circuithub.com/post/unveiling-the-grid",
+      "score": 402,
+      "by": "seddona",
+      "comments": 195
+    },
+    {
+      "id": "b71029f0d1b1deeb",
+      "title": "Start Doing Graph Theory",
+      "url": "https://vertex.degree/",
+      "score": 567,
+      "by": "ibobev",
+      "comments": 124
+    },
+    {
+      "id": "bf6dcbf9ff704b2d",
+      "title": "Nango (YC W23) Is Hiring Across Eng, FDE, Marketing, DevRel",
+      "url": "https://nango.dev/careers",
+      "score": 1,
+      "by": "bastienbeurier",
       "comments": 0
     },
     {
-      "id": "ab86d1ba102a6474",
-      "title": "Python's experimental JIT to be removed",
-      "url": "https://lwn.net/SubscriberLink/1102102/0c00e4d550f25f8c/",
-      "score": 434,
-      "by": "f311a",
-      "comments": 232
+      "id": "060c05d8a949ee58",
+      "title": "Dayjob: Tax – evaluating AI agents on 50 professional tax assignments",
+      "url": "https://surgehq.ai/blog/dayjob-tax",
+      "score": 192,
+      "by": "landonxi",
+      "comments": 118
     },
     {
-      "id": "192f8bf2b7e4c538",
-      "title": "Radio-tagged Monarch butterflies",
-      "url": "https://news.vt.edu/articles/2026/10/cmi-monarchs.html",
-      "score": 21,
-      "by": "rdmuser",
-      "comments": 6
+      "id": "2eb308e9fc3763ec",
+      "title": "AlpineBSD",
+      "url": "https://wiki.alpinebsd.org",
+      "score": 170,
+      "by": "bradley_taunt",
+      "comments": 157
     },
     {
-      "id": "64c57b888d3dda8e",
-      "title": "Wikipedia's Cleanup of AI-Generated Content",
-      "url": "https://spectrum.ieee.org/wikipedia-wikiproject-ai-writing-cleanup",
-      "score": 437,
-      "by": "rbanffy",
-      "comments": 201
+      "id": "fe1876ada85d3a95",
+      "title": "Spiders Spin 'Silk Dope' into Nature's Toughest Material",
+      "url": "https://www.quantamagazine.org/how-spiders-spin-silk-dope-into-natures-toughest-material-20261028/",
+      "score": 44,
+      "by": "ibobev",
+      "comments": 3
     },
     {
-      "id": "3bc886c5e3787da2",
-      "title": "Classification of Finite Simple Groups Formalized in Lean",
-      "url": "https://cfsg.axiommath.ai/",
-      "score": 159,
-      "by": "pfdietz",
-      "comments": 42
+      "id": "21657f4176c8c9b8",
+      "title": "Apple's git still trusts the compromised eMudhra certificates",
+      "url": "https://emudhra.we-have-a-problem.com/apple.html",
+      "score": 1028,
+      "by": "galadran",
+      "comments": 376
     },
     {
-      "id": "295c6db759d430f7",
-      "title": "New iMac with M6",
-      "url": "https://www.apple.com/imac/",
-      "score": 302,
-      "by": "notfried",
-      "comments": 363
-    },
-    {
-      "id": "4706a6e383c721c1",
-      "title": "Hex Raises $100M",
-      "url": "https://hex.tech/blog/hex-new-era/",
-      "score": 38,
-      "by": "tomwphillips",
+      "id": "fdcdd40cd975ad21",
+      "title": "Gaussian Splats part 3: There's always a bigger scene",
+      "url": "https://www.magnopus.com/blog/gaussiansplats-part-3-theres-always-a-bigger-scene",
+      "score": 98,
+      "by": "ibobev",
       "comments": 21
     },
     {
-      "id": "7644044bcff7cd1b",
-      "title": "SS United States to be sunk as largest artificial reef",
-      "url": "https://divemagazine.com/scuba-diving-news/ss-united-states-to-be-sunk-as-worlds-largest-artificial-reef-in-november",
-      "score": 61,
-      "by": "geox",
-      "comments": 45
+      "id": "3b9da6954c2cfedf",
+      "title": "The Agent SDK",
+      "url": "https://cursor.com/blog/agent-sdk",
+      "score": 91,
+      "by": "torutofu",
+      "comments": 107
     },
     {
-      "id": "30e56ba519ed9ba4",
-      "title": "Introducing LFM3: Every Modality for Specialized Intelligence",
-      "url": "https://www.liquid.ai/blog/lfm3",
-      "score": 113,
-      "by": "Philpax",
-      "comments": 41
+      "id": "891c4ff93daaf23f",
+      "title": "Show HN: SlideBySide – Present slides without sharing your screen",
+      "url": "https://slidebyside.com/",
+      "score": 54,
+      "by": "denismenace",
+      "comments": 21
     }
   ],
   "sources_ok": [
     "少数派(10)",
     "Solidot(10)",
     "爱范儿(10)",
-    "钛媒体(10)",
-    "极客公园(10)"
+    "钛媒体(10)"
   ],
   "sources_failed": [
     "36氪",
-    "虎嗅:ReadTimeout"
+    "虎嗅:ReadTimeout",
+    "极客公园:ConnectTimeout"
   ],
-  "total": 134
+  "total": 167
 }
