@@ -1,6 +1,186 @@
 {
-  "generated_at": "2026-10-31T08:34:25.821736+08:00",
+  "generated_at": "2026-11-01T08:33:25.814187+08:00",
   "items": [
+    {
+      "id": "c6c920a5dfb8e857",
+      "title": "DeepSeek 公布 Super Agent 架构；苹果超越英伟达，重回市值第一；传 Meta 与傅利叶打造 Muse 机器人",
+      "url": "http://www.geekpark.net/news/373243",
+      "source": "极客公园",
+      "category": "AI",
+      "published": "2026-11-01T08:29:48+08:00",
+      "summary": "​DeepSeek 发布全新 Agent 架构 10 月 31 日晚间，DeepSeek Harness 团队在官方公众号发表技术文章《Super-agent 设计探索：迈向更自主的 Agent 系统》。 DeepSeek 表示，模型能力提升催生了新的应用形态，个人助手（Personal Agent）开始集中涌现。然而，现有主流 Agent 设计还难以在多任务和团队协作的规模上支撑这一模式，多任务上限取决于人的注意力。 要突破这些限制，需要打破 Agent 与单次手动会话的绑定，使其成为一个能跨会话保持上下文、同时推进多项复杂任务且互不干扰的连续实体。DeepSeek 把这种 Agent 形态"
+    },
+    {
+      "id": "d307be06f1638d98",
+      "title": "DeepSeek 重磅发布全新 Agent 架构：AI 开始指挥 AI 干活",
+      "url": "https://www.ifanr.com/1687026?utm_source=rss&utm_medium=rss&utm_campaign=",
+      "source": "爱范儿",
+      "category": "科技",
+      "published": "2026-10-31T21:59:57+08:00",
+      "summary": "AI Agent 的下一个瓶颈，可能是人类自己#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。"
+    },
+    {
+      "id": "e45bc277cc1c6735",
+      "title": "透视A股三季报：AI算力领跑，材料量价齐升，地产和消费寻底｜看财报",
+      "url": "https://www.tmtpost.com/8188863.html",
+      "source": "钛媒体",
+      "category": "创投",
+      "published": "2026-10-31T21:15:46+08:00",
+      "summary": "新旧动能加速切换。"
+    },
+    {
+      "id": "4706ebed09b9e3d5",
+      "title": "思科给予一名 27 岁工程师无限 tokens 去重写陈旧代码",
+      "url": "https://www.solidot.org/story?sid=85764",
+      "source": "Solidot",
+      "category": "科技",
+      "published": "2026-10-31T20:59:41+08:00",
+      "summary": "思科总裁兼首席产品官 Jeetu Patel 在接受《财富》杂志采访时称，该公司给予一名 27 岁工程师无限 tokens 去重写遗留代码（legacy code）。27 岁的 Padmanabhan Krishnamurthy 在 2023 年联合创办了实时翻译初创公司 EzDubs，2025 年该公司被思科收购，他随后加入了思科。两人曾在旧金山办公室有过谈话，Krishnamurthy 许诺只需一个两人团队就能重写思科的遗留代码。他给自己争取了四周时间来证明这一想法，最终目标是在 24 个月内重构思科 98% 的遗留代码。"
+    },
+    {
+      "id": "a7859a79743248da",
+      "title": "Sam Altman 认为 PC 内存闲置太糟糕",
+      "url": "https://www.solidot.org/story?sid=85763",
+      "source": "Solidot",
+      "category": "科技",
+      "published": "2026-10-31T20:46:18+08:00",
+      "summary": "OpenAI CEO Sam Altman 接受 YouTube 主播 Cheeky Pint 采访时谈到了 AI 行业目前所面临的全球算力供应问题。当话题不可避免转向内存时，Altman 指出，市场看不见的手失灵了，原因可能是并非每一块 DRAM 晶圆都直接流向数据中心，用于运行 AI 模型。他表示：“从全球资源配置角度看，让全球有限的 DRAM 供应分散在每个人的 PC 里且利用率可能仅有 5% 左右，这是非常糟糕的。在当前这种供应极度受限的环境下，我们理应追求云端算力的最大化利用。然而许多人的直觉却恰恰相反。”AI 芯片使用的内存主要是 HBM，和 PC 使用的 DDR4 或 DDR5 "
+    },
+    {
+      "id": "209fbf729c99255f",
+      "title": "中国首次载人登月计划由三人组成其中两人将着陆月球表面",
+      "url": "https://www.solidot.org/story?sid=85762",
+      "source": "Solidot",
+      "category": "科技",
+      "published": "2026-10-31T20:24:31+08:00",
+      "summary": "第七届载人航天学术大会星期六（10月31日）在北京航空航天大学举行。中国载人航天工程副总设计师兼月球探测工程总设计师王翔在会上介绍了中国首次载人月球探测任务乘组计划。中国计划在 2030 年前实现中国人登陆月球，首次载人月球探测计划采用环月轨道对接飞行模式，通过“两次发射，一次登月”的方式实现载人登月。这种模式将采用两枚长征十号运载火箭，先将着陆器送往月球轨道，然后再发射载人飞船与着陆器实现交会对接，航天员进入着陆器并与载人飞船分离着陆月面，开展有关科学探测活动。完成任务后，航天员乘坐着陆器从月面上升，在月球轨道上与载人飞船实现二次交会对接，航天员乘坐载人飞船返回地球。王翔还透露，中国首次载人"
+    },
+    {
+      "id": "1c18898b2514ab60",
+      "title": "易鸿智能冲刺港股IPO：宁德时代撑起七成收入，存货却超全年营收",
+      "url": "https://www.tmtpost.com/8188178.html",
+      "source": "钛媒体",
+      "category": "创投",
+      "published": "2026-10-31T20:22:32+08:00",
+      "summary": "对大客户议价能力弱，致业务毛利率下滑。"
+    },
+    {
+      "id": "133d55d5d88cf7a5",
+      "title": "蔚来的“三个聚焦”：为规模幻觉买单之后",
+      "url": "https://www.tmtpost.com/8187393.html",
+      "source": "钛媒体",
+      "category": "创投",
+      "published": "2026-10-31T20:21:21+08:00",
+      "summary": "蔚来战略退守聚焦高端，收缩求存待破局。"
+    },
+    {
+      "id": "e8de9c9f5919a09e",
+      "title": "相比二代掌权的通化东宝，甘李药业更像一家创新药企",
+      "url": "https://www.tmtpost.com/8187864.html",
+      "source": "钛媒体",
+      "category": "创投",
+      "published": "2026-10-31T20:18:23+08:00",
+      "summary": "两种交棒方式。"
+    },
+    {
+      "id": "33580dffe26f4621",
+      "title": "欧洲市场中的“国产车”，正在复制日本车的美国故事？",
+      "url": "https://www.tmtpost.com/8188005.html",
+      "source": "钛媒体",
+      "category": "创投",
+      "published": "2026-10-31T20:18:18+08:00",
+      "summary": "渗透是时间问题。"
+    },
+    {
+      "id": "d1a1e002148c1c45",
+      "title": "让AI拼我用了12天完成的1000片“纯白地狱”，它五小时就崩溃了",
+      "url": "https://www.tmtpost.com/8188396.html",
+      "source": "钛媒体",
+      "category": "创投",
+      "published": "2026-10-31T20:18:13+08:00",
+      "summary": "我耗时 12 天拼完 1000 片纯白地狱拼图，尝试交给大模型挑战，它 5 小时便陷入崩溃。不是 AI 不能拼，而是擅长看图描述的生成式大模型缺少精密测量与全局约束能力；传统机器视觉方案反倒可行。这件实验，也照见我们当下思考外包、本末倒置的认知困境。"
+    },
+    {
+      "id": "8f81db66390ff9fb",
+      "title": "老干妈给所有想用AI的企业“上”了一课",
+      "url": "https://www.tmtpost.com/8188545.html",
+      "source": "钛媒体",
+      "category": "创投",
+      "published": "2026-10-31T20:18:03+08:00",
+      "summary": "情绪宣泄，究竟能改变什么？"
+    },
+    {
+      "id": "3ec6af718c1d5bf2",
+      "title": "黑客仅用 20 分钟就从币安盗取了 63 亿美元加密货币",
+      "url": "https://www.solidot.org/story?sid=85761",
+      "source": "Solidot",
+      "category": "科技",
+      "published": "2026-10-31T20:12:01+08:00",
+      "summary": "在一场被称为史上规模最大的加密货币窃案中，黑客仅用 20 分钟就从币安盗取了价值 63 亿美元的加密货币。币安随后暂停了提款和提现。约一半的被盗资金——全部是稳定币，稳定币发行方能通过智能合约冻结交易——被成功冻结，但另外一半是无法被冻结的比特币、以太币和 XRP，可能难以追回了，币安的损失可能超过 30 亿美元。加密货币追踪公司 TRM Labs 的分析显示，币安在以太坊、比特币、波场和 Solana 等 10 个区块链上的钱包全部被清空，资金转移到了攻击者控制了多个钱包。攻击者的准备工作至少在窃案发生前 36 小时就开始了。攻击者在实施入侵前在多个钱包上测试了攻击代码。测试后四个小时将攻击"
+    },
+    {
+      "id": "1439b6eeba51d89f",
+      "title": "AI电影，正在将电影院逼进“死胡同”",
+      "url": "https://www.tmtpost.com/8188470.html",
+      "source": "钛媒体",
+      "category": "创投",
+      "published": "2026-10-31T20:02:16+08:00",
+      "summary": "AI电影上院线，观众似乎还不想掏钱。"
+    },
+    {
+      "id": "d823836c99fee489",
+      "title": "华为、科华涨价函发出之后，谁在为这轮成本修复买单",
+      "url": "https://www.tmtpost.com/8188076.html",
+      "source": "钛媒体",
+      "category": "创投",
+      "published": "2026-10-31T20:02:12+08:00",
+      "summary": "光储产品涨价，成本转移，电站承接力成关键。"
+    },
+    {
+      "id": "f373518c495ed60f",
+      "title": "和华为“分手”后，赛力斯又亏了",
+      "url": "https://www.tmtpost.com/8188460.html",
+      "source": "钛媒体",
+      "category": "创投",
+      "published": "2026-10-31T20:02:08+08:00",
+      "summary": "赛力斯三季报：销量少了四成，利润去哪了？"
+    },
+    {
+      "id": "adbd8f0a84737efe",
+      "title": "Kogui 族人谈 AI",
+      "url": "https://www.solidot.org/story?sid=85760",
+      "source": "Solidot",
+      "category": "科技",
+      "published": "2026-10-31T18:59:58+08:00",
+      "summary": "生活在南美哥伦比亚圣玛尔塔内华达山脉的原居民 Kogui 族人信仰 Aluna——即万物之母 Gaulčováng。Kogui 族人认为地球是有生命的，人类是地球之子。他们认为，人类为获取资源而进行的开采、破坏和掠夺行为正在削弱万物之母的力量，这最终会导致人类的毁灭。对于最近几年生成式 AI 的发展，Kogui 族人也有类似的观点。他们认为：AI 无法与其背后的思想分离。如果这种思想源于对生命的关切，那么这项技术便有助于保护生命。 如果它源于野心、竞争、积累，或是支配的欲望，那么它所展现并放大的也将是这些东西。AI 就是一面镜子。如果一面镜子仅仅是反射，那么它是无害的。但 AI 这面镜子有潜力"
+    },
+    {
+      "id": "936c534151dc5cb0",
+      "title": "本月玩什么｜影之刃零、战争机器：事变日等",
+      "url": "https://sspai.com/post/117960",
+      "source": "少数派",
+      "category": "科技",
+      "published": "2026-10-31T13:29:19+08:00",
+      "summary": "欢迎你在评论区分享 10 月新作的游玩体验。查看全文"
+    },
+    {
+      "id": "7591cfe857bbe512",
+      "title": "一图流 | 一张图看懂中国版 Apple 智能",
+      "url": "https://sspai.com/post/117953",
+      "source": "少数派",
+      "category": "科技",
+      "published": "2026-10-31T12:10:39+08:00",
+      "summary": "中国版 Apple 智能即将登陆 iPhone，一起看看还有这些细节。查看全文"
+    },
+    {
+      "id": "40fb1d0f7cdeceaf",
+      "title": "刚刚，国行 Apple 智能官宣，但满血 SiriAI 还得等",
+      "url": "https://www.ifanr.com/1687012?utm_source=rss&utm_medium=rss&utm_campaign=",
+      "source": "爱范儿",
+      "category": "科技",
+      "published": "2026-10-31T09:37:05+08:00",
+      "summary": "等了好久终于等到今天#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。"
+    },
     {
       "id": "03bb58dd439e6b4c",
       "title": "早报｜iPhone国行AI官宣！千问接入Siri/DeepSeek千亿融资曝光/于东来建议支持「消费入座」",
@@ -2173,164 +2353,164 @@
   ],
   "hot": [
     {
-      "id": "2aefafc5a56e6877",
-      "title": "My favourite PowerMac is a Nintendo Wii",
-      "url": "https://virtuallyfun.com/2026/10/29/my-favourite-powermac-is-a-nintendo-wii/",
-      "score": 227,
-      "by": "DHowett",
-      "comments": 59
+      "id": "e3c1ebaed2a46f65",
+      "title": "HackerTube: YouTube built from videos recommended by HN",
+      "url": "https://karpathy.bearblog.dev/hacker-tube/",
+      "score": 601,
+      "by": "karpathy",
+      "comments": 217
     },
     {
-      "id": "83c7f2609ef7a0d2",
-      "title": "Cloudflare Turnstile solver library (no headless browser required)",
-      "url": "https://github.com/chris124567/cfsolve",
-      "score": 41,
-      "by": "costco",
-      "comments": 11
+      "id": "38a18656aeb48b54",
+      "title": "An Italian farmer found some unknown seeds in his attic and planted them",
+      "url": "https://www.smithsonianmag.com/science-nature/italian-farmer-found-unknown-seeds-attic-with-nothing-lose-planted-them-result-biblical-180989644/",
+      "score": 72,
+      "by": "ecares",
+      "comments": 28
     },
     {
-      "id": "25825014bf70acac",
-      "title": "Backdoor in Claude Code for VS Code extension on the Cursor Marketplace",
-      "url": "https://phorion.io/blog/offical-claude-code-vsx-compromise/",
-      "score": 747,
-      "by": "_chall",
-      "comments": 471
+      "id": "f067070332b69923",
+      "title": "TCP Use-After-Free: CVE-2026-98432 / CVSS 9.8",
+      "url": "https://atlasum.net/blog/cve-2026-98432-linux-ipv4-tcp-uaf",
+      "score": 294,
+      "by": "oger",
+      "comments": 143
     },
     {
-      "id": "7069d294499a85d5",
-      "title": "Show HN: To Honor Sir Patrick Stewart, Enjoy the TNG Episode Guessing Game",
-      "url": "https://tng.episodle.com/",
-      "score": 15,
-      "by": "francisofascii",
-      "comments": 4
+      "id": "5979ad8bcf3ac456",
+      "title": "Memdoor: A team of 5 Qwen3.8-27B models beats Fable 5 on LiveCodeBench Hard",
+      "url": "https://github.com/guregodevo/memdoor/tree/main/examples/workflows/team-solve",
+      "score": 33,
+      "by": "guregodevo",
+      "comments": 12
     },
     {
-      "id": "75ec3d8cd6e888fb",
-      "title": "Northflank Breached",
-      "url": "https://status.northflank.com",
-      "score": 347,
-      "by": "js4ever",
-      "comments": 269
+      "id": "f455ac3eaca3f232",
+      "title": "When electric cars were for women",
+      "url": "https://spectrum.ieee.org/early-electric-vehicles",
+      "score": 19,
+      "by": "dverlaeckt80",
+      "comments": 2
     },
     {
-      "id": "c3e970da82c2179b",
-      "title": "Infinite Mac: BeOS",
-      "url": "https://blog.persistent.info/2026/10/infinite-mac-beos.html",
-      "score": 97,
-      "by": "ecliptik",
-      "comments": 31
-    },
-    {
-      "id": "aaa002bf3b066c03",
-      "title": "Jules Verne's Lost Novel",
-      "url": "https://blue-continuum.com/verne-paris",
-      "score": 71,
-      "by": "dnetesn",
-      "comments": 14
-    },
-    {
-      "id": "4df8a5a29085cea8",
-      "title": "Breaking the open web won't stop the bad bots",
-      "url": "https://www.techpolicy.press/breaking-the-open-web-wont-stop-the-bad-bots/",
-      "score": 177,
-      "by": "raybb",
-      "comments": 75
-    },
-    {
-      "id": "0c9933199a663c04",
-      "title": "Show HN: A working Nintendo in ~1GB of Qwen weights",
-      "url": "https://github.com/dbreunig/nesformer",
-      "score": 180,
-      "by": "dbreunig",
-      "comments": 108
-    },
-    {
-      "id": "a62b4ae8fde0303b",
-      "title": "sanstun: A sans-IO, parallel-friendly WireGuard implementation in Rust",
-      "url": "https://www.firezone.dev/blog/introducing-sanstun",
-      "score": 47,
-      "by": "wh33zle",
-      "comments": 5
-    },
-    {
-      "id": "f759aaa3d8411d14",
-      "title": "The oldest ice disappears and the Stone Age emerges from it",
-      "url": "https://www.sciencenorway.no/archaeology-climate-culture/the-oldest-ice-is-disappearing-the-stone-age-is-emerging-from-the-melting-ice/2713921",
-      "score": 77,
-      "by": "dxs",
-      "comments": 22
-    },
-    {
-      "id": "ff5d912e76453d3e",
-      "title": "Florilegium: Procedural Flowers in LaTeX",
-      "url": "https://github.com/kevinraymond/florilegium",
-      "score": 208,
-      "by": "nanna",
-      "comments": 35
-    },
-    {
-      "id": "34dc5f1ec9807998",
-      "title": "The federated code forge",
-      "url": "https://tangled.org/blog/forge/",
-      "score": 221,
-      "by": "zlliang",
-      "comments": 75
-    },
-    {
-      "id": "d52b2b40ce2aba82",
-      "title": "Through Captain Jean-Luc Picard, Patrick Stewart taught us the measure of a man",
-      "url": "https://www.bostonglobe.com/2026/10/29/metro/patrick-stewart-picard-star-trek-the-next-generation/",
-      "score": 179,
-      "by": "apress",
-      "comments": 100
-    },
-    {
-      "id": "cb69600cf9d0c9ce",
-      "title": "Linode Security Incident",
-      "url": "https://status.linode.com/incidents/nt58zhx3pmgm",
-      "score": 126,
-      "by": "lacoolj",
-      "comments": 70
-    },
-    {
-      "id": "7eebea2420252337",
-      "title": "Turning a solar power system into its own backup",
-      "url": "https://arstechnica.com/science/2026/10/turning-a-solar-power-system-into-its-own-backup/",
-      "score": 31,
-      "by": "PaulHoule",
-      "comments": 8
-    },
-    {
-      "id": "e7ab8e0141cd78ea",
-      "title": "Azure's Weakest Link – Five Full Cross-Tenant Compromises",
-      "url": "https://www.binarysecurity.no/posts/2026/10/one-root-case",
-      "score": 260,
-      "by": "swq115",
-      "comments": 49
-    },
-    {
-      "id": "8da95525198b4ac2",
-      "title": "Wonderful Weather: Floods and Foreboding in 17th-Century Britain",
-      "url": "https://publicdomainreview.org/essay/wonderful-weather/",
-      "score": 4,
-      "by": "Thevet",
+      "id": "283812d29f8952ef",
+      "title": "Altoids Project",
+      "url": "https://uvdn7.github.io/altoids-project/",
+      "score": 10,
+      "by": "uvdn7",
       "comments": 0
     },
     {
-      "id": "196f13bec36aefa8",
-      "title": "A Pickpocket's Guide to New York",
-      "url": "https://www.newyorker.com/magazine/2026/11/02/a-pickpockets-guide-to-new-york",
-      "score": 47,
-      "by": "prismatic",
-      "comments": 7
+      "id": "27425e6731d63b2f",
+      "title": "It's the memory latency, stupid",
+      "url": "https://pivotlake.io/blog/its-the-memory-latency-stupid/",
+      "score": 109,
+      "by": "ntur1337",
+      "comments": 34
     },
     {
-      "id": "013224f33852de1d",
-      "title": "AO3 Down for Maintenance",
-      "url": "https://www.otwstatus.org",
-      "score": 80,
-      "by": "idlewords",
-      "comments": 14
+      "id": "c4fd7101a3510ee5",
+      "title": "First response from the Project Suncatcher prototype satellite",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/google-research/project-suncatcher-satellite-response/",
+      "score": 18,
+      "by": "praccu",
+      "comments": 15
+    },
+    {
+      "id": "9f2ad819e64cc15c",
+      "title": "With 86% of the words, you might understand only 38% of an anime's lines",
+      "url": "https://learnfromx.com/research/anime-word-coverage-vs-lines-understood",
+      "score": 57,
+      "by": "lakesare",
+      "comments": 36
+    },
+    {
+      "id": "e9aa4171e6c72eef",
+      "title": "Surviving \"The Graduate\"",
+      "url": "https://www.newyorker.com/culture/the-weekend-essay/dustin-hoffman-on-surviving-the-graduate",
+      "score": 47,
+      "by": "samizdis",
+      "comments": 12
+    },
+    {
+      "id": "636d5c7258f80d44",
+      "title": "Molly (Signal fork) has not been updated since 3 months and is vulnerable",
+      "url": "https://piefed.world/post/1503394",
+      "score": 296,
+      "by": "DeepLogin",
+      "comments": 172
+    },
+    {
+      "id": "b03bb5c4b0ef990a",
+      "title": "The Duty of a Scholar",
+      "url": "https://www.daemonology.net/blog/2026-10-31-The-Duty-of-a-Scholar.html",
+      "score": 79,
+      "by": "gslin",
+      "comments": 28
+    },
+    {
+      "id": "92539ef4e184f6b2",
+      "title": "Jepsen: ParticleDB 1.1.4",
+      "url": "https://jepsen.io/analyses/particledb-1.1.4",
+      "score": 182,
+      "by": "aphyr",
+      "comments": 96
+    },
+    {
+      "id": "6cca35dacaf9dbee",
+      "title": "Show HN: NES Contra (1987) port (ASM –> C and then C –> WebAssembly)",
+      "url": "https://epoyraz.github.io/nes-contra-us/",
+      "score": 40,
+      "by": "tevlon",
+      "comments": 28
+    },
+    {
+      "id": "f42a5ef6bed991e9",
+      "title": "Do the math: How we took over ChatGPT accounts",
+      "url": "https://www.parameter.ai/labs/we-found-a-gap-at-openai",
+      "score": 300,
+      "by": "armcat",
+      "comments": 148
+    },
+    {
+      "id": "84aaefa3e41c8f67",
+      "title": "Much Ado About None: Sentinel Values in Python",
+      "url": "https://florianwilhelm.info/2026/10/sentinel_values/",
+      "score": 41,
+      "by": "sebg",
+      "comments": 27
+    },
+    {
+      "id": "5299bdc074fd0f39",
+      "title": "Zinc creep in cable spelter sockets brought down the Arecibo telescope in 2020",
+      "url": "https://maketecheasier.com/arecibo-zinc-creep-collapse/",
+      "score": 7,
+      "by": "ohjeez",
+      "comments": 1
+    },
+    {
+      "id": "caa5ab6961ed1d84",
+      "title": "Anthropic blocks users for anything touching training larger models",
+      "url": "https://twitter.com/jiahaoshao1/status/2116475922190922088",
+      "score": 165,
+      "by": "pretext",
+      "comments": 69
+    },
+    {
+      "id": "a1fb7aeecd96110b",
+      "title": "Show HN: A language model that lives in a boot sector",
+      "url": "https://github.com/kerlenton/bootgpt",
+      "score": 49,
+      "by": "kerlenton",
+      "comments": 0
+    },
+    {
+      "id": "946a8a1e712bdf16",
+      "title": "Simple circuits can create complex behaviors",
+      "url": "https://aatishb.com/myriad/lets-build-a-brain/",
+      "score": 209,
+      "by": "aatish",
+      "comments": 66
     }
   ],
   "sources_ok": [
@@ -2344,5 +2524,5 @@
     "36氪",
     "虎嗅:ReadTimeout"
   ],
-  "total": 241
+  "total": 261
 }
