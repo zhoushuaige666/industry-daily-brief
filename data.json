@@ -1,6 +1,177 @@
 {
-  "generated_at": "2026-11-01T08:33:25.814187+08:00",
+  "generated_at": "2026-11-02T08:34:52.968499+08:00",
   "items": [
+    {
+      "id": "827d91bf401a5d99",
+      "title": "​传苹果逐步淘汰非触控 MacBook Pro；谷歌 AI 被指正切断互联网流量；赛力斯：问界全面进入欧洲市场",
+      "url": "http://www.geekpark.net/news/373252",
+      "source": "极客公园",
+      "category": "AI",
+      "published": "2026-11-02T08:27:02+08:00",
+      "summary": "苹果 CEO：不会为了做 AI 而做产品 苹果 CEO 约翰·特努斯近日接受采访时，为苹果当前在人工智能领域的布局进行辩护。过去几年，外界常认为苹果在 AI 赛道落后，尤其是苹果推迟推出更强版本的 Siri，该功能直到今年夏天才正式上线。 特努斯是苹果资深高管，9 月初正式出任 CEO。他承认「每个人都有自己的看法」，但坚称：「我对我们现在所处的阶段很满意。」 特努斯补充，苹果一定会在新产品中运用人工智能，但他表示：「我们不想为了做 AI 而推出 AI。如果我们做得好，用户不会去思考这个功能到底是 AI 实现的，还是传统软件实现的。重点在于，我们是否打造出用户真正喜爱的产品。」（来源：环球市场"
+    },
+    {
+      "id": "6834cbe6625dce6c",
+      "title": "Edge AI Daily 早报（11月2日）",
+      "url": "https://www.tmtpost.com/8189326.html",
+      "source": "钛媒体",
+      "category": "创投",
+      "published": "2026-11-02T08:16:00+08:00",
+      "summary": "OpenAI以153亿美元收购ADT锁定六百万家庭物理入口，并筹划数据中心改名与政策公关闪电战；ChatGPT与Codex额度并池，订阅制向按量付费过渡。苹果拒绝成为模型公司，触屏Mac难改估值逻辑，监管削弱App Store佣金。xAI为Grok全系模型默认部署隐形水印以合欧盟AI法案。英伟达预研OOI光互联，现行CPO或成中转站。七巨头EPS增速22.6%首被标普其余493家32.6%反超。Claude被植入Volta木马实现受害者自动分级。"
+    },
+    {
+      "id": "377c07875df07434",
+      "title": "早报｜苹果或为iPad Pro加入均热板/ChatGPT与Codex将共享额度/奇瑞回应智界独立：希望团队更像新势力",
+      "url": "https://www.ifanr.com/1687043?utm_source=rss&utm_medium=rss&utm_campaign=",
+      "source": "爱范儿",
+      "category": "科技",
+      "published": "2026-11-02T08:03:03+08:00",
+      "summary": "· 多家车企公布 10 月成绩单 · 奥特曼与三星约 50 名高管座谈，讨论 AI 未来十年的商业应用 · 西湖大学成立世界模型研究中心，计划三年内构建千亿参数模型#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。"
+    },
+    {
+      "id": "8012a7cdc1cdf467",
+      "title": "派早报：Apple 智能将随 iOS 27.3 登陆中国",
+      "url": "https://sspai.com/post/118191",
+      "source": "少数派",
+      "category": "科技",
+      "published": "2026-11-02T07:22:45+08:00",
+      "summary": "Apple 智能将随 iOS 27.3 登陆中国苹果对闪存的议价权受到压制Claude Code 官方扩展被植入后门美国 FCC 禁止中国实验室认证输美电子产品百度网盘通过磁力计数据规避「摇一摇」广告权限币安 63 亿美元资产被盗看看就行的简讯少数派的近期动态你可能错过的好文章查看全文"
+    },
+    {
+      "id": "f154f3e703355378",
+      "title": "【钛晨报】事关股市，央行、金融监管总局、证监会今日将召开会议；中国国新、中国诚通，各获大行新增千亿级股票回购增持贷款额度；小鹏、小米10月交付量首超5万，鸿蒙智行同比腰斩",
+      "url": "https://www.tmtpost.com/8189217.html",
+      "source": "钛媒体",
+      "category": "创投",
+      "published": "2026-11-02T07:20:00+08:00",
+      "summary": "沪深上市公司前三季度净利润超5万亿元，创四年新高；DeepSeek发布全新Agent架构；英伟达展示下一代CPO方案；阿里巴巴与苹果达成合作，将千问集成至Apple智能；载人月球探测工程采用“两次发射、环月对接”方案；央行：11月2日起，每个工作日开展隔夜逆回购操作招标。"
+    },
+    {
+      "id": "4e761570a692438c",
+      "title": "Google AI Mode 未给网站带来流量",
+      "url": "https://www.solidot.org/story?sid=85767",
+      "source": "Solidot",
+      "category": "科技",
+      "published": "2026-11-02T00:46:31+08:00",
+      "summary": "Reddit 的最新财报证实了众多网站的抱怨：Google AI Mode 未给网站带来流量。AI Mode 通过生成总结的方式响应用户的查询，而不是传统搜索的提供网站链接以及简要摘要。硅谷对 AI 的全面拥抱牺牲了构成互联网的无数网站。Reddit 联合创始人兼 CEO Steve Huffman 表示：“用户依然需要 Reddit，只是 Google 不再像过去那样将他们引导到 Reddit。”上季度来自 Google 搜索的引荐流量显著下滑。Google 向 AI Mode 及 AI overviews 的转型切断了原本流向 Reddit 的流量。Reddit 的回应和很多新闻网站类似："
+    },
+    {
+      "id": "6a465f5b0d29a49c",
+      "title": "赫拉利深度访谈：真正的 AI 危机来了！",
+      "url": "https://www.tmtpost.com/8189151.html",
+      "source": "钛媒体",
+      "category": "创投",
+      "published": "2026-11-01T20:04:54+08:00",
+      "summary": "《人类简史》作者尤瓦尔・赫拉利在最新访谈中告诉我们，真正的危机，根本不是电影里那一套，它正在现实世界中上演。"
+    },
+    {
+      "id": "f1d27d76ad2be408",
+      "title": "数据中心抵消了过去 15 年美国的减排努力",
+      "url": "https://www.solidot.org/story?sid=85766",
+      "source": "Solidot",
+      "category": "科技",
+      "published": "2026-11-01T19:45:13+08:00",
+      "summary": "Sierra Club 的分析显示，到 2030 年美国电力行业的二氧化碳排放量可能达到 21 亿公吨，比 2025 年的水平高出约 42%。这一预计增幅将抵消过去 15 年电力行业在减排上取得的成果。随着数据中心对资源的需求持续增长，AI 基础设施的电力需求正以清洁能源电网无法跟上的速度快速增长。为绕过缓慢的公用电网接入排队流程，部分科技公司建设了主要依赖化石燃料的自备发电设施。到 2030 年由数据中心开发商建设或委托建设的离网发电设施每年可能产生逾 4.6 亿公吨的二氧化碳，大致相当于墨西哥全年的碳排放量。"
+    },
+    {
+      "id": "3d4c30f560d94a20",
+      "title": "NASA 征询拯救哈勃望远镜的方案",
+      "url": "https://www.solidot.org/story?sid=85765",
+      "source": "Solidot",
+      "category": "科技",
+      "published": "2026-11-01T19:32:53+08:00",
+      "summary": "哈勃望远镜在轨运行 36 年之后仍然极具价值，但它的轨道高度已经大幅下降，如果不采取行动它将于 2030 年代中期前重返大气层。NASA 本周公布了一份 Request For Information(RFI)，向商业公司征询提升哈勃的轨道、进行维护或对其进行受控重返大气层的方案。方案递交截至日期 11 月 30 日。NASA 未承诺是否资助一次哈勃拯救任务，它想知道有多少公司对此有兴趣，以及成本多少。哈勃的轨道高度已从 2002 年的 583 公里降至目前的 470 公里，如果不进行干预，哈勃预计会在 2033 年或 2034 年坠入大气层。NASA 想要将哈勃的轨道高度重新提升至 600 "
+    },
+    {
+      "id": "f29ad2b2a959ada9",
+      "title": "个人灵光 2.0 实测：个人 AI 助理的机会和门槛｜AI 上新",
+      "url": "http://www.geekpark.net/news/373249",
+      "source": "极客公园",
+      "category": "AI",
+      "published": "2026-11-01T18:03:12+08:00",
+      "summary": "作者｜汤一涛 编辑｜靖宇 10 月 21 日的 Meta 财报会上，扎克伯格披露了一组关于个人智能体 Muse 的关键数据：超过 1000 万人设置了 Muse，购物是 Muse 最常见的用途，超过四分之一的用户在用它买东西，平均客单价超过200 美元；上线第一周，Muse 交易量便超出了预期，Meta 不得不与支付合作伙伴 Stripe 一起临时上调了信用额度。 六天后的 10 月 27 日，蚂蚁集团发布了灵光 2.0，将产品定位从最初的「30 秒用自然语言生成小应用」，彻底转向「能管事的个人 AI 助理」，官方口号概括为九个字：「记得住、盯得牢、办得了」。它打通了支付宝账单、钉钉、飞书、米"
+    },
+    {
+      "id": "c7f69dd795737ef0",
+      "title": "DeepSeek，怎么就变成了一条「大肥鱼」",
+      "url": "http://www.geekpark.net/news/373248",
+      "source": "极客公园",
+      "category": "AI",
+      "published": "2026-11-01T17:57:50+08:00",
+      "summary": "作者｜Moonshot 编辑｜靖宇 最近，B 站评论区闹起了「鱼灾」。 先是有人开了个「Claude 大小姐在运营」的账号，让 AI 负责选题、制作和运营。第二天，「DeepSeek 鲸鱼娘在运营」跟着上线，第一条视频播放量就超过了 200 万。 由于目前 DeepSeek 暂无生图功能，该账号形象还是由 GPT 绘制的。｜图源：Bilibili 网友纷纷效仿，给自己的 Agent 装上刷 B 站的工具，很快，科技区出现了一大群「XX 的大肥鱼」、「XX 小飞鲸」的 AI 账号，还喜欢在评论区互相艾特、互相捧场。还有人专门写了个「大肥鱼清除计划」插件，就为了屏蔽这些 AI 评论。 就这样，一个"
+    },
+    {
+      "id": "b7dbe7a0f297784d",
+      "title": "Agent改写算力账本，CPU不再是AI服务器的配角？",
+      "url": "https://www.tmtpost.com/8189082.html",
+      "source": "钛媒体",
+      "category": "创投",
+      "published": "2026-11-01T17:13:10+08:00",
+      "summary": "AI算力的投入逻辑正在从只采购加速卡，转向搭配一整套均衡的算力机柜"
+    },
+    {
+      "id": "dd4335ed3555b542",
+      "title": "从车工到巴西总统，卢拉为何看重中国车企？",
+      "url": "https://www.tmtpost.com/8189118.html",
+      "source": "钛媒体",
+      "category": "创投",
+      "published": "2026-11-01T17:13:08+08:00",
+      "summary": "七十年前，汽车工业改变了巴西，也制造出了卢拉。七十年后，中国车企进入，一个汽车大国再次寻找工业出路。这一次，我们从卢拉和巴西汽车工业的故事，聊聊中国车企正在进入一个怎样的巴西。"
+    },
+    {
+      "id": "01bfb9264d5ef31b",
+      "title": "从卖电芯到卖“并网承诺”，宁德时代在澳洲抬高了什么门槛？",
+      "url": "https://www.tmtpost.com/8189078.html",
+      "source": "钛媒体",
+      "category": "创投",
+      "published": "2026-11-01T17:13:06+08:00",
+      "summary": "宁德时代在澳展推储能新品，输出长期资产化方案。"
+    },
+    {
+      "id": "04520ee0bce10c42",
+      "title": "南十字星下的中国能源军团：All-Energy Australia 2026 背后的光储棋局",
+      "url": "https://www.tmtpost.com/8189075.html",
+      "source": "钛媒体",
+      "category": "创投",
+      "published": "2026-11-01T17:13:05+08:00",
+      "summary": "不是内卷外溢，也不是简单出海。是一场从“卖产品”到“卖系统能力”的产业位移，正在南半球悄然发生。"
+    },
+    {
+      "id": "972d050a82ce7ef6",
+      "title": "补贴到账了，消费者为何却未必省下更多？",
+      "url": "https://www.tmtpost.com/8189112.html",
+      "source": "钛媒体",
+      "category": "创投",
+      "published": "2026-11-01T17:13:03+08:00",
+      "summary": "拿到补贴的人，不一定是最终受益者"
+    },
+    {
+      "id": "eae06e11ef336586",
+      "title": "全球买电动车最积极的地方，为什么是越南？",
+      "url": "https://www.tmtpost.com/8189070.html",
+      "source": "钛媒体",
+      "category": "创投",
+      "published": "2026-11-01T17:13:00+08:00",
+      "summary": "越南人为什么突然开始买电动车？"
+    },
+    {
+      "id": "38a9bddbb241612b",
+      "title": "详解Super Agent：会主动干活，更懂何时闭嘴",
+      "url": "https://www.tmtpost.com/8189032.html",
+      "source": "钛媒体",
+      "category": "创投",
+      "published": "2026-11-01T16:26:38+08:00",
+      "summary": "既强大又有边界感，就是费额度。"
+    },
+    {
+      "id": "cb05af842fe4c3e1",
+      "title": "怀旧手记｜夏普 Telios：20 多年前，Handheld PC 中的「少数派」",
+      "url": "https://sspai.com/post/116991",
+      "source": "少数派",
+      "category": "科技",
+      "published": "2026-11-01T15:02:46+08:00",
+      "summary": "Matrix首页推荐Matrix是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选Matrix最优质的文章，展示来自用户的最真实的体验和观点。文章代表作者个人观点 ...查看全文"
+    },
     {
       "id": "c6c920a5dfb8e857",
       "title": "DeepSeek 公布 Super Agent 架构；苹果超越英伟达，重回市值第一；传 Meta 与傅利叶打造 Muse 机器人",
@@ -2353,164 +2524,164 @@
   ],
   "hot": [
     {
+      "id": "1f38819c8071f04a",
+      "title": "Show HN: HackerBooks – HackerTube, but for books mentioned on HN",
+      "url": "https://hackerbooks.org",
+      "score": 857,
+      "by": "roansh",
+      "comments": 170
+    },
+    {
       "id": "e3c1ebaed2a46f65",
       "title": "HackerTube: YouTube built from videos recommended by HN",
       "url": "https://karpathy.bearblog.dev/hacker-tube/",
-      "score": 601,
+      "score": 2242,
       "by": "karpathy",
-      "comments": 217
+      "comments": 537
     },
     {
-      "id": "38a18656aeb48b54",
-      "title": "An Italian farmer found some unknown seeds in his attic and planted them",
-      "url": "https://www.smithsonianmag.com/science-nature/italian-farmer-found-unknown-seeds-attic-with-nothing-lose-planted-them-result-biblical-180989644/",
-      "score": 72,
-      "by": "ecares",
-      "comments": 28
+      "id": "06350d2c75acfce3",
+      "title": "Nibnib: Image compression with extreme decompression speed",
+      "url": "https://github.com/raphlinus/nibnib",
+      "score": 85,
+      "by": "raphlinus",
+      "comments": 10
     },
     {
-      "id": "f067070332b69923",
-      "title": "TCP Use-After-Free: CVE-2026-98432 / CVSS 9.8",
-      "url": "https://atlasum.net/blog/cve-2026-98432-linux-ipv4-tcp-uaf",
-      "score": 294,
-      "by": "oger",
-      "comments": 143
+      "id": "e462b14144b867eb",
+      "title": "Ask HN: Which TV do you recommend for privacy?",
+      "url": "https://news.ycombinator.com/item?id=50328896",
+      "score": 102,
+      "by": "LecroJS",
+      "comments": 178
     },
     {
-      "id": "5979ad8bcf3ac456",
-      "title": "Memdoor: A team of 5 Qwen3.8-27B models beats Fable 5 on LiveCodeBench Hard",
-      "url": "https://github.com/guregodevo/memdoor/tree/main/examples/workflows/team-solve",
-      "score": 33,
-      "by": "guregodevo",
-      "comments": 12
+      "id": "1fa68333043346c0",
+      "title": "Tips for more effective fuzz testing with AFL++",
+      "url": "https://nullprogram.com/blog/2025/02/05/",
+      "score": 67,
+      "by": "luu",
+      "comments": 10
     },
     {
-      "id": "f455ac3eaca3f232",
-      "title": "When electric cars were for women",
-      "url": "https://spectrum.ieee.org/early-electric-vehicles",
-      "score": 19,
-      "by": "dverlaeckt80",
-      "comments": 2
-    },
-    {
-      "id": "283812d29f8952ef",
-      "title": "Altoids Project",
-      "url": "https://uvdn7.github.io/altoids-project/",
-      "score": 10,
-      "by": "uvdn7",
-      "comments": 0
-    },
-    {
-      "id": "27425e6731d63b2f",
-      "title": "It's the memory latency, stupid",
-      "url": "https://pivotlake.io/blog/its-the-memory-latency-stupid/",
-      "score": 109,
-      "by": "ntur1337",
-      "comments": 34
-    },
-    {
-      "id": "c4fd7101a3510ee5",
-      "title": "First response from the Project Suncatcher prototype satellite",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/google-research/project-suncatcher-satellite-response/",
-      "score": 18,
-      "by": "praccu",
-      "comments": 15
-    },
-    {
-      "id": "9f2ad819e64cc15c",
-      "title": "With 86% of the words, you might understand only 38% of an anime's lines",
-      "url": "https://learnfromx.com/research/anime-word-coverage-vs-lines-understood",
-      "score": 57,
-      "by": "lakesare",
-      "comments": 36
-    },
-    {
-      "id": "e9aa4171e6c72eef",
-      "title": "Surviving \"The Graduate\"",
-      "url": "https://www.newyorker.com/culture/the-weekend-essay/dustin-hoffman-on-surviving-the-graduate",
-      "score": 47,
-      "by": "samizdis",
-      "comments": 12
-    },
-    {
-      "id": "636d5c7258f80d44",
-      "title": "Molly (Signal fork) has not been updated since 3 months and is vulnerable",
-      "url": "https://piefed.world/post/1503394",
-      "score": 296,
-      "by": "DeepLogin",
-      "comments": 172
-    },
-    {
-      "id": "b03bb5c4b0ef990a",
-      "title": "The Duty of a Scholar",
-      "url": "https://www.daemonology.net/blog/2026-10-31-The-Duty-of-a-Scholar.html",
-      "score": 79,
-      "by": "gslin",
-      "comments": 28
-    },
-    {
-      "id": "92539ef4e184f6b2",
-      "title": "Jepsen: ParticleDB 1.1.4",
-      "url": "https://jepsen.io/analyses/particledb-1.1.4",
-      "score": 182,
-      "by": "aphyr",
-      "comments": 96
-    },
-    {
-      "id": "6cca35dacaf9dbee",
-      "title": "Show HN: NES Contra (1987) port (ASM –> C and then C –> WebAssembly)",
-      "url": "https://epoyraz.github.io/nes-contra-us/",
-      "score": 40,
-      "by": "tevlon",
-      "comments": 28
-    },
-    {
-      "id": "f42a5ef6bed991e9",
-      "title": "Do the math: How we took over ChatGPT accounts",
-      "url": "https://www.parameter.ai/labs/we-found-a-gap-at-openai",
-      "score": 300,
-      "by": "armcat",
-      "comments": 148
-    },
-    {
-      "id": "84aaefa3e41c8f67",
-      "title": "Much Ado About None: Sentinel Values in Python",
-      "url": "https://florianwilhelm.info/2026/10/sentinel_values/",
-      "score": 41,
-      "by": "sebg",
-      "comments": 27
-    },
-    {
-      "id": "5299bdc074fd0f39",
-      "title": "Zinc creep in cable spelter sockets brought down the Arecibo telescope in 2020",
-      "url": "https://maketecheasier.com/arecibo-zinc-creep-collapse/",
-      "score": 7,
-      "by": "ohjeez",
+      "id": "3d9749abeaa5885e",
+      "title": "Keeping Up Appearances – The women taking over the funeral industry",
+      "url": "https://lareviewofbooks.org/article/death-industry-mortuary-programs-women-andie-eisen-quarterly/",
+      "score": 13,
+      "by": "TMWNN",
       "comments": 1
     },
     {
-      "id": "caa5ab6961ed1d84",
-      "title": "Anthropic blocks users for anything touching training larger models",
-      "url": "https://twitter.com/jiahaoshao1/status/2116475922190922088",
-      "score": 165,
-      "by": "pretext",
-      "comments": 69
+      "id": "d2b5e2518e626001",
+      "title": "New 3D thermal invisibility cloak makes objects disappear from infrared cameras",
+      "url": "https://www.sciencedaily.com/releases/2026/10/261025073051.htm",
+      "score": 35,
+      "by": "stevenalowe",
+      "comments": 18
     },
     {
-      "id": "a1fb7aeecd96110b",
-      "title": "Show HN: A language model that lives in a boot sector",
-      "url": "https://github.com/kerlenton/bootgpt",
-      "score": 49,
-      "by": "kerlenton",
+      "id": "baf5ef82c6a749e6",
+      "title": "Show HN: OmniDiff – Opensource, super fast, content aware Git difftool, in Rust",
+      "url": "https://github.com/ivankovic/omnidiff",
+      "score": 144,
+      "by": "FabCH",
+      "comments": 38
+    },
+    {
+      "id": "358f74b5ce0d667a",
+      "title": "Mathematics has changed. Let's act like it",
+      "url": "https://terrytao.wordpress.com/2026/11/01/mathematics-has-changed-lets-act-like-it/",
+      "score": 208,
+      "by": "smilelamp",
+      "comments": 225
+    },
+    {
+      "id": "53fff4b82c5320a8",
+      "title": "AI delivers 'zero financial payoff' to most companies, Apollo economist says",
+      "url": "https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist/",
+      "score": 111,
+      "by": "throwoutway",
+      "comments": 90
+    },
+    {
+      "id": "834245ec2e7a6c87",
+      "title": "Copper – A minimal low-level programming language with OOP and generics",
+      "url": "https://tibleiz.net/copper/",
+      "score": 120,
+      "by": "bogdanoff_2",
+      "comments": 72
+    },
+    {
+      "id": "787b839185274062",
+      "title": "The She-Wolves of Jülich",
+      "url": "https://www.historytoday.com/archive/history-matters/she-wolves-julich",
+      "score": 9,
+      "by": "Thevet",
       "comments": 0
     },
     {
-      "id": "946a8a1e712bdf16",
-      "title": "Simple circuits can create complex behaviors",
-      "url": "https://aatishb.com/myriad/lets-build-a-brain/",
-      "score": 209,
-      "by": "aatish",
-      "comments": 66
+      "id": "dd43d9fe896b0612",
+      "title": "Proving and improving the Platonic Representation Hypothesis with JEPAs",
+      "url": "https://arxiv.org/abs/2610.39302",
+      "score": 105,
+      "by": "Anon84",
+      "comments": 57
+    },
+    {
+      "id": "87b3fbd5e2d47e77",
+      "title": "Lenovo's 'encrypted' fingerprint USB is just an unencrypted SD card in a case",
+      "url": "https://www.reddit.com/r/technology/comments/1xl2pr3/lenovos_encrypted_fingerprint_usb_drive_is_just/",
+      "score": 381,
+      "by": "entryleveljobsc",
+      "comments": 135
+    },
+    {
+      "id": "14f8e0200e376aa3",
+      "title": "Bidirectional charging during grid outages",
+      "url": "https://www.jefftk.com/p/bidirectional-charging-during-grid-outages",
+      "score": 83,
+      "by": "luu",
+      "comments": 119
+    },
+    {
+      "id": "5a45f223c3c1042f",
+      "title": "One-minute frequency disturbances from synchronization in power systems",
+      "url": "https://www.nature.com/articles/s41560-026-02144-0",
+      "score": 117,
+      "by": "croes",
+      "comments": 39
+    },
+    {
+      "id": "096720d80cf3e246",
+      "title": "Novellas with Groff",
+      "url": "https://movq.de/blog/postings/2026-10-31/0/POSTING-en.html",
+      "score": 107,
+      "by": "dverlaeckt80",
+      "comments": 48
+    },
+    {
+      "id": "28101cd7b36a50a1",
+      "title": "The AI cost of JavaScript frameworks",
+      "url": "https://nolanlawson.com/2026/10/28/the-ai-cost-of-javascript-frameworks/",
+      "score": 290,
+      "by": "luu",
+      "comments": 225
+    },
+    {
+      "id": "4b177d6bc15c04a1",
+      "title": "Radiation Map of the World",
+      "url": "https://radiaverse.com/",
+      "score": 125,
+      "by": "slater",
+      "comments": 39
+    },
+    {
+      "id": "5daf4f2462afb217",
+      "title": "Parchment Paper History: How We Got Paper Perfect for Baking (2019)",
+      "url": "https://tedium.co/2019/11/21/nonstick-parchment-paper-history/",
+      "score": 36,
+      "by": "colinprince",
+      "comments": 17
     }
   ],
   "sources_ok": [
@@ -2524,5 +2695,5 @@
     "36氪",
     "虎嗅:ReadTimeout"
   ],
-  "total": 261
+  "total": 280
 }
