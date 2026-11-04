@@ -1,6 +1,312 @@
 {
-  "generated_at": "2026-11-03T08:35:28.234200+08:00",
+  "generated_at": "2026-11-04T08:34:44.043511+08:00",
   "items": [
+    {
+      "id": "7bb8e4a7cde8a7b1",
+      "title": "国行版苹果 AI 开始测试；ChatGPT 搜索量已达到谷歌 20%；Seedance 被曝五成收入来自海外｜极客早知道",
+      "url": "http://www.geekpark.net/news/373427",
+      "source": "极客公园",
+      "category": "AI",
+      "published": "2026-11-04T08:28:02+08:00",
+      "summary": "国行 Apple 智能开始测试：iOS 27.3 首个开发者 Beta 版已推送 11 月 4 日，苹果向开发者推送 iOS 27.3 首个 Beta 版，国行 iPhone 用户开始测试首批 Apple 智能功能，包括实时翻译、照片消除、写作工具和通知摘要等。国行 Apple 智能与阿里巴巴达成合作，在部分体验中接入千问。国内用户可直接在 Siri、写作工具和视觉智能中调用千问，覆盖文本与图像理解相关能力。 这次开放的是开发者测试版，正式版计划于 12 月推出。首批支持 iPhone 15 Pro 系列、iPhone 16 及后续机型，以及 iPhone Air 和 iPhone Duo；W"
+    },
+    {
+      "id": "fc831246b0b85616",
+      "title": "早报｜国行苹果AI开测，Siri接入千问/中兴否认出售手机业务传闻/多所高校免费发Token",
+      "url": "https://www.ifanr.com/1687477?utm_source=rss&utm_medium=rss&utm_campaign=",
+      "source": "爱范儿",
+      "category": "科技",
+      "published": "2026-11-04T08:26:05+08:00",
+      "summary": "· GPT 爆改 Qwen 权重，团队测试数学成绩提升约 6 倍 · 盗用 AI 平台算力，上海一男子获刑三年 · 中兴否认出售手机业务传闻#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。"
+    },
+    {
+      "id": "97bca547ba4e5949",
+      "title": "【钛晨报】报告提出下一步中国金融工作有5方面考虑；中兴拟成立合资公司出售手机业务，回应称“不属实”｜独家；百度否认昆仑芯IPO推迟",
+      "url": "https://www.tmtpost.com/8192223.html",
+      "source": "钛媒体",
+      "category": "创投",
+      "published": "2026-11-04T07:20:00+08:00",
+      "summary": "姚顺宇否认创业：目前仍是DeepMind员工；Seedance海外收入占比已达50%，国内市场腾讯、B站等互联网企业为主要客户；Anthropic到2026年底算力规模将超过3.5吉瓦；多家券商中标第三次互换便利，数百亿资金将用来增持股票和股票ETF；电子布11月涨价落地，多家产业链上市公司回应；世界黄金协会：三季度全球实物黄金ETF重回净流入态势，合计净流入211吨；苹果预计存储芯片成本压力或持续至明年"
+    },
+    {
+      "id": "e9138f5a584fb79d",
+      "title": "纽约时报等起诉 Brave 绕过付费墙抓取内容并提供给 AI 公司",
+      "url": "https://www.solidot.org/story?sid=85788",
+      "source": "Solidot",
+      "category": "科技",
+      "published": "2026-11-04T00:58:29+08:00",
+      "summary": "《纽约时报》、《芝加哥论坛报》和《奥兰多哨兵报》等美国出版商起诉 Brave Software，指控其未经许可抓取网站内容，并帮助用户绕过付费墙。Brave Software 被控将其抓取内容的索引数据库 Brave Index 提供给 Anthropic、Perplexity、Mistral、xAI 和 Cohere 等 AI 公司，通过 Paywall blocker 功能帮助用户绕过数百家新闻媒体的付费墙。《纽约时报》发言人 Graham James 在一份声明中表示：“我们支持合乎道德且负责任的使用与开发 AI，但 Brave 公然蔑视现行版权法，对《纽约时报》多次要求其停止侵权行为的"
+    },
+    {
+      "id": "756363216d80f17e",
+      "title": "Google 将对拒绝 AI 的美国学校关闭搜索",
+      "url": "https://www.solidot.org/story?sid=85787",
+      "source": "Solidot",
+      "category": "科技",
+      "published": "2026-11-04T00:33:42+08:00",
+      "summary": "Google 宣布美国 K-12 学校学生使用的软件将默认关闭所有 AI 功能，除非学校管理人员自己选择启用。此举旨在回应教育工作者和家长的诉求，他们希望在孩子与 AI 互动上有更多的掌控权。今天 AI 功能已成为 Google 商用搜索引擎的标配，Google 负责教育的副总裁 Chris Phillips 表示，搜索与 AI 已深度融合，如果学校禁用了 AI，那么学生将无法使用搜索。美国 K-12 学校广泛使用 Google 的软件，包括 Gmail、Docs 以及作业平台 Classroom。Google 的 Chromebook 是美国学校最广泛使用的笔记本电脑。"
+    },
+    {
+      "id": "2da0e75a3e4f4937",
+      "title": "Fedora Linux 45 释出",
+      "url": "https://www.solidot.org/story?sid=85786",
+      "source": "Solidot",
+      "category": "科技",
+      "published": "2026-11-04T00:22:33+08:00",
+      "summary": "Fedora Linux 项目释出了 v45。Fedora Linux 项目同时释出了 Fedora Workstation、Fedora KDE Plasma Desktop、Fedora Server、Fedora Cloud、Fedora CoreOS 和 Fedora IoT，以及 Atomic Desktops 等众多衍生版本。Fedora Linux 45 的主要变化包括：支持通过 Anaconda 或 Kickstart 在 Stratis 存储上进行安装，移除 NetworkManager 不再维护的 VPN 插件，GNOME 和 KDE ​​Plasma 桌面环境的最新版本，"
+    },
+    {
+      "id": "e420bf3d773b29e0",
+      "title": "iPad mini 8 首发评测：本该是一台完美的平板电脑",
+      "url": "https://www.ifanr.com/1687473?utm_source=rss&utm_medium=rss&utm_campaign=",
+      "source": "爱范儿",
+      "category": "科技",
+      "published": "2026-11-03T23:18:46+08:00",
+      "summary": "全网最细的iPad mini 8 评测，屏幕到底锁没锁帧，我们挖出了超多细节。#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。"
+    },
+    {
+      "id": "7bb3115a8b2ee137",
+      "title": "一眼的熟悉，满眼的惊喜：新款 iPad mini 首发体验",
+      "url": "https://sspai.com/post/118263",
+      "source": "少数派",
+      "category": "科技",
+      "published": "2026-11-03T22:00:00+08:00",
+      "summary": "更轻、更薄、更好「看」，依然是那台纯粹的 iPad mini。查看全文"
+    },
+    {
+      "id": "caeb4b0002676e9c",
+      "title": "九赴进博，西门子把工业 AI 推上产线",
+      "url": "https://www.tmtpost.com/8192212.html",
+      "source": "钛媒体",
+      "category": "创投",
+      "published": "2026-11-03T21:33:10+08:00",
+      "summary": "本届进博会上，西门子将持续聚焦以工业AI为引领的数智化、低碳化技术创新，重点展示高增长行业应用（数据中心、人形机器人等）、绿色转型成果（从企业自身运营到供应链），以及40余家企业数智化、低碳化转型与工业AI应用落地案例，彰显“全球经验、本土创新、中国速度”的乘数效应。"
+    },
+    {
+      "id": "042b3807b406181a",
+      "title": "拿下近亿美元融资后，他们造了个开放动态真实世界的「行动伙伴」",
+      "url": "http://www.geekpark.net/news/373424",
+      "source": "极客公园",
+      "category": "AI",
+      "published": "2026-11-03T19:54:26+08:00",
+      "summary": "作者｜苏子华 编辑｜郑玄 博尔赫斯写过一则著名的寓言。一个帝国的制图师们绘制了一张与领土等大的地图，精确到每一寸土地、每一条河流。后代人发现这张地图毫无用处，把它弃置在荒野中，任其腐烂。 真正在一个地方走路的人，靠的从来不是一张一比一的图纸，而是脚底的感觉、眼睛的判断，以及走错了再调整的能力。 具身智能行业正在上演这则寓言的现实版。 过去两年，人形机器人学会了跳舞、翻跟头、弹钢琴。但一个略显尴尬的事实是，这些编排的动作，大多是提前反复排练，且发生在受控的封闭环境里。如果放在现实社会的开放环境中，这些机器人该怎么办，它们到底能帮你干什么？ 费莫一科技（PHYMI）试图回答这个命题。成立初期便完成"
+    },
+    {
+      "id": "cdbb1a23eab31f72",
+      "title": "推理时代，算力产业需要换一套账本丨ToB产业观察",
+      "url": "https://www.tmtpost.com/8191692.html",
+      "source": "钛媒体",
+      "category": "创投",
+      "published": "2026-11-03T19:00:09+08:00",
+      "summary": "推理的崛起，除了改变了原有的算里账本之外，也在改写着芯片产业的结构。"
+    },
+    {
+      "id": "511c7c19190cf213",
+      "title": "亚玛顿控股股东拟出让控制权，卡牌品牌Hitcard疑改道借壳上市",
+      "url": "https://www.tmtpost.com/8192045.html",
+      "source": "钛媒体",
+      "category": "创投",
+      "published": "2026-11-03T18:43:28+08:00",
+      "summary": "各有各的诉求。"
+    },
+    {
+      "id": "986a68a96c8aeb7d",
+      "title": "康佳退市：同一代彩电巨头，为什么活成了完全不同的样子",
+      "url": "https://www.tmtpost.com/8188443.html",
+      "source": "钛媒体",
+      "category": "创投",
+      "published": "2026-11-03T18:30:50+08:00",
+      "summary": "康佳黯然摘牌退市，曾经同一起跑线的国产彩电巨头走向分化。TCL 押注面板、海信深耕显示技术、小米依托 IoT 生态、创维转向光伏、长虹困于代工，康佳却在无序多元化与治理失序中溃败，折射存量时代制造企业构建核心壁垒的生死命题。"
+    },
+    {
+      "id": "7ab69e974ed23165",
+      "title": "从消费互联网到AI，迪拜投资人寻找中国新标的｜出海参考",
+      "url": "https://www.tmtpost.com/8191572.html",
+      "source": "钛媒体",
+      "category": "创投",
+      "published": "2026-11-03T18:13:15+08:00",
+      "summary": "迪拜投资人寻找的不只是中国技术，更是能将技术优势转化为当地生意的企业。"
+    },
+    {
+      "id": "c1aa0a1cd1590d15",
+      "title": "科学家发现 1.15 亿年前的恐龙红细胞",
+      "url": "https://www.solidot.org/story?sid=85785",
+      "source": "Solidot",
+      "category": "科技",
+      "published": "2026-11-03T17:54:53+08:00",
+      "summary": "血细胞并不容易形成化石。大多数血细胞在死亡后不久便会分解，这使得找到令人信服的、非常古老的血液痕迹非常困难。然而澳大利亚科廷大学的研究团队在 PNAS 上发表论文称，凭借多条证据，他们在巴西一只 1.15 亿年前的恐龙遗骸中发现了最古老的红细胞化石。这项研究的对象是巴西恐龙“阿拉塔龙”的骨骼化石。研究人员估计，这只恐龙体长约 3 米、重约 34 公斤，死亡后遗体沉入水底，微生物生长并将其掩埋，从而保存了下来。在显微镜下，研究人员在这只恐龙的骨骼中发现化石细胞的迹象：这些结构呈圆形，中心凹陷，每个细胞平均长 23 微米、宽 20 微米，嵌在曾经让血管穿过骨骼的通道中。下一步则是寻找化学线索，以证"
+    },
+    {
+      "id": "abc5820ec42e0efb",
+      "title": "Transsion Under Memory Inflation: Stockpiles, a Cold H-Share, and an AI Bet",
+      "url": "https://www.tmtpost.com/8191938.html",
+      "source": "钛媒体",
+      "category": "创投",
+      "published": "2026-11-03T17:46:06+08:00",
+      "summary": "Transsion Holdings, long known as the “king of African phones,” built one of China’s most successful consumer-electronics export stories by dominating low-end handsets across emerging markets. Revenue and profit peaked in 2023–2024. In 2025, a super-cycle of “memory inflation” cut net profit roughly"
+    },
+    {
+      "id": "295105020192a457",
+      "title": "星巴克的“沙发”，不养“闲人”",
+      "url": "https://www.tmtpost.com/8191902.html",
+      "source": "钛媒体",
+      "category": "创投",
+      "published": "2026-11-03T17:39:11+08:00",
+      "summary": "星巴克的增长，得先过“回本”这一关。"
+    },
+    {
+      "id": "94de36c36a88590c",
+      "title": "营收新高，报表优化，主动终止H股IPO，欣旺达的价值重构",
+      "url": "https://www.tmtpost.com/8191205.html",
+      "source": "钛媒体",
+      "category": "创投",
+      "published": "2026-11-03T17:39:08+08:00",
+      "summary": "轻装上阵。"
+    },
+    {
+      "id": "1ae1858720495a18",
+      "title": "火山和阿里MaaS“双第一”的虚与实",
+      "url": "https://www.tmtpost.com/8191199.html",
+      "source": "钛媒体",
+      "category": "创投",
+      "published": "2026-11-03T17:39:03+08:00",
+      "summary": "一个是高毛利的单价游戏，一个是高周转的规模战争"
+    },
+    {
+      "id": "a1b89d6d9a386c09",
+      "title": "Enlightenment 0.28.0 释出，初步支持 BSD",
+      "url": "https://www.solidot.org/story?sid=85783",
+      "source": "Solidot",
+      "category": "科技",
+      "published": "2026-11-03T16:16:40+08:00",
+      "summary": "轻量级桌面环境 Enlightenment 项目释出了 v0.28.0。主要变化包括：初步支持 NetBSD，支持 Network Manager，原生支持 PipeWire，新的剪贴板管理器，电池管理、AC 轮询等相关代码进行重写，新增设置电池阈值和支持 ACPI 电源配置等等，以及大量 bug 修复和更改。"
+    },
+    {
+      "id": "56922215e08bdae6",
+      "title": "全球加速发展核电",
+      "url": "https://www.solidot.org/story?sid=85782",
+      "source": "Solidot",
+      "category": "科技",
+      "published": "2026-11-03T15:41:34+08:00",
+      "summary": "全球在建核电站已增至 79 个机组，达到 40 年来的高水平。据世界核协会统计，2026 年全球有 11 个新核电机组开工建设，截至 10 月 16 日，在建核电机组数量达到 79 个。这是 1986 年（91 个）以来的高位。1986 年是切尔诺贝利核电站事故发生的年份，此后全球新建核电机组数量有所减少。如果将预计未来 15 年内投入运营的正在规划的核电机组也计算在内，数量将达到 201 个。目前全球在运核电机组共有 443 个。即使考虑到因老化而退役的核电机组，到 2040 年前后，全球在运核电机组数量仍有可能超过 600 个。目前全球在建的79个核电机组中，仅中国就有38个，约占总数的一"
+    },
+    {
+      "id": "022fd19b581a1872",
+      "title": "GPT-6 Astra 爆改 Qwen 大脑：只动 0.016% 参数，数学成绩疯涨",
+      "url": "https://www.ifanr.com/1687285?utm_source=rss&utm_medium=rss&utm_campaign=",
+      "source": "爱范儿",
+      "category": "科技",
+      "published": "2026-11-03T15:22:57+08:00",
+      "summary": "我「编程」我自己#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。"
+    },
+    {
+      "id": "5c91822e8d6729b8",
+      "title": "社区速递 164 | 1500 元圆梦昔日卡皇与派友们做的 AI 平替",
+      "url": "https://sspai.com/post/118317",
+      "source": "少数派",
+      "category": "科技",
+      "published": "2026-11-03T15:12:54+08:00",
+      "summary": "手工压花器、二手 TITAN V，以及派友们用开源项目与 AI Coding 替代付费订阅的讨论。查看全文"
+    },
+    {
+      "id": "2cfd79fb4b857eca",
+      "title": "心言巴布「Bubbo 1」：一台机器人，如何成为家人",
+      "url": "http://www.geekpark.net/news/373399",
+      "source": "极客公园",
+      "category": "AI",
+      "published": "2026-11-03T15:11:52+08:00",
+      "summary": "头图来源：心言机器人 2026 年 10 月 29 日，心言机器人正式发布具身家庭智能体「巴布（Bubbo 1）」。 这台毛绒外形的机器人，基于心言自研的 Bubbo OS，主打「伙伴式交互」：它不是一台等人发号施令的家电，而是一个会主动走近、主动回应的家庭成员。产品即日起在京东等官方渠道发售，售价 9499 元，前 1000 名订购者可享 7999 元。 在心言机器人创始人、Bubbo 1 首席设计师任永亮看来，「技术决定体验的下限，交互决定体验的上限。」过去的 AI，是你不开口它就不在的工具；而巴布要做的，是从「外部」视角搭起一个 Family Agent—— 识别家里的每一个人，也关注他"
+    },
+    {
+      "id": "d5b4c68865b0d5d5",
+      "title": "Tor Browser 16.0 释出",
+      "url": "https://www.solidot.org/story?sid=85781",
+      "source": "Solidot",
+      "category": "科技",
+      "published": "2026-11-03T15:10:27+08:00",
+      "summary": "Tor Browser 16.0 释出，它是首个基于 Firefox ESR 153 的稳定版本。主要变化包括：Linux 版本支持 64 位 ARM 架构，重新设计设置，名为通用窗口标题（generic window titles）的功能有助于防止其它应用窥探用户的浏览器活动，Android 版本使用 Google 的 Material Design 3 更新了界面，停止支持 32 位 x86 Linux 系统，等等。更多变化可浏览更新日志。"
+    },
+    {
+      "id": "481d630dc555ae70",
+      "title": "不穿的旧衣服呢？放「AI 版转转」，毛利 80%",
+      "url": "https://www.ifanr.com/1687274?utm_source=rss&utm_medium=rss&utm_campaign=",
+      "source": "爱范儿",
+      "category": "科技",
+      "published": "2026-11-03T15:05:31+08:00",
+      "summary": "旧衣千千万，AI 替你挑对的那件#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。"
+    },
+    {
+      "id": "41885aec4ac3991e",
+      "title": "Swift 天文台将于 11 月 4 日重返大气层",
+      "url": "https://www.solidot.org/story?sid=85780",
+      "source": "Solidot",
+      "category": "科技",
+      "published": "2026-11-03T14:48:25+08:00",
+      "summary": "拯救失败的 NASA Neil Gehrels Swift 天文台将于 11 月 4 日重返大气层。但目前还不清楚其坠落地点以及它会有哪些组件会在穿过大气层后仍然幸存下来。Swift 天文台重 1.5 吨，于 2004 年发射升空，旨在研究高能伽马射线暴的起源。过去 22 年受大气阻力的影响 Swift 天文台的轨道高度在缓慢下降，过去两年活跃的太阳活动加速了其坠落。今年 7 月 NASA 曾尝试了一次拯救任务，但任务失败。10 月 20 日其轨道高度降至 275 公里，其使命正式结束。Swift 天文台的轨道经过了澳大利亚、非洲、印度、东南亚以及中南美洲上空，最有可能的坠落地点是海洋。"
+    },
+    {
+      "id": "78f8aa56faae2b4d",
+      "title": "北欧将可能出现 40°C 高温",
+      "url": "https://www.solidot.org/story?sid=85779",
+      "source": "Solidot",
+      "category": "科技",
+      "published": "2026-11-03T14:33:39+08:00",
+      "summary": "挪威、瑞典和芬兰等北欧国家传统上经历的热浪强度低于欧洲大陆的其它地区。然而在近年的极端天气事件中，例如 2026 年的热浪，欧洲大部分地区都观测到了异常高温，40 °C 的高温天气也出现在比以往更靠北的地区。根据发表在《npj Natural Hazards》期刊上的一项研究，芬兰科学家报告，北欧出现 40°C 高温不再像以前认为的那样不可能发生。研究人员估算，2025 年北欧某个地点 40 °C 的年发生率为 0.53%，比 1981 年的概率增加了 6 倍。如果以迄今为止各国已观测到的最高气温纪录作为标准，那么在当前气候条件下，挪威突破本国历史最高气温纪录的年概率最高达到 10.9%。研究"
+    },
+    {
+      "id": "3afa8ec99ba87c76",
+      "title": "国际空间站 PrK 模块因漏气被关闭",
+      "url": "https://www.solidot.org/story?sid=85778",
+      "source": "Solidot",
+      "category": "科技",
+      "published": "2026-11-03T13:52:24+08:00",
+      "summary": "专注于报道俄罗斯太空新闻的媒体 Russianspacewe 称，位于 Progress（进步号）气闸舱和 Zvezda（星辰号）服务舱之间的 PrK 模块已被永久关闭。NASA 以及俄罗斯航天局尚未正式宣布这一消息，但早在 6 月就有消息称俄罗斯计划退役漏气的国际空间站 PrK 模块。PrK 模块因结构裂缝导致的漏气过去几年一直困扰着国际空间站，今年初漏气问题一度被认为已经修复，但 6 月报告漏气再次加剧，该模块的裂缝总数达到 16 处。俄罗斯货运飞船将改为与 Poisk 舱对接。计划于 11 月 24 日发射的 Progress MS-36 货运飞船将通过 Poisk 舱卸载货物。"
+    },
+    {
+      "id": "329c935e2fd26b6e",
+      "title": "苹果的一切都在变贵，全怪 AI",
+      "url": "https://www.ifanr.com/1687259?utm_source=rss&utm_medium=rss&utm_campaign=",
+      "source": "爱范儿",
+      "category": "科技",
+      "published": "2026-11-03T12:09:46+08:00",
+      "summary": "赚得多，花得更狠#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。"
+    },
+    {
+      "id": "3394357b03e067da",
+      "title": "Disc Image Studio：你想不想在光盘上「画」点什么？",
+      "url": "https://sspai.com/post/118211",
+      "source": "少数派",
+      "category": "科技",
+      "published": "2026-11-03T10:53:50+08:00",
+      "summary": "把喜欢的图烧进 CD 里，你也可以。查看全文"
+    },
+    {
+      "id": "08d115782896d222",
+      "title": "乔布斯的「祖训」和触屏 MacBook，何以同时成立？｜硬哲学",
+      "url": "https://www.ifanr.com/1686623?utm_source=rss&utm_medium=rss&utm_campaign=",
+      "source": "爱范儿",
+      "category": "科技",
+      "published": "2026-11-03T10:09:08+08:00",
+      "summary": "让特努斯引领一个全新的时代，全盘「拥有」这些新产品，无论它们最终的评价是好是坏。#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。"
+    },
+    {
+      "id": "d4af622fb6edd1d4",
+      "title": "马斯克回应 Grok Bot 额度消耗过快：服务成本高到难以为继；Altman 称个人内存浪费遭全网声讨；《影之刃零》销量破 400 万份",
+      "url": "http://www.geekpark.net/news/373358",
+      "source": "极客公园",
+      "category": "AI",
+      "published": "2026-11-03T08:40:51+08:00",
+      "summary": "Anthropic 更新 IPO 招股书：第三季度营收近 170 亿美元，算力承诺达 8954 亿美元 11 月 2 日，Anthropic 向美国证券交易委员会提交更新后的 S-1 招股文件，首次补充截至今年 9 月底的第三季度财务数据。 Anthropic 第三季度营收达到 169.6 亿美元，较第二季度增长 47%，但增速低于第二季度的 144%。公司第三季度营业亏损为 5.67 亿美元，而第二季度曾实现 9.74 亿美元营业利润。 与此同时，Anthropic 披露约 8954 亿美元的 AI 基础设施相关支出承诺，涉及亚马逊、谷歌等合作伙伴。公司警告，部分算力供应依赖第三方融资，如果"
+    },
+    {
+      "id": "d29e0fcd5e23a657",
+      "title": "派早报：猛玛推出探境 3 直播相机、美团发布 LongCat-2.5 模型等",
+      "url": "https://sspai.com/post/118232",
+      "source": "少数派",
+      "category": "科技",
+      "published": "2026-11-03T08:18:34+08:00",
+      "summary": "Raspberry Pi 再次上调 16 GB 产品价格、Keychron 推出 Q19 HE 8K 磁轴键盘等。查看全文"
+    },
     {
       "id": "75c12f071b49b092",
       "title": "早报｜苹果第四财季营收增长12%，服务收入再创新高/《影之刃零》72小时销量突破400万套/曝三星Fold9回归屏下摄像头",
@@ -63,6 +369,15 @@
       "category": "创投",
       "published": "2026-11-02T20:26:42+08:00",
       "summary": "如何重新建立增长与盈利之间的平衡，可能比单纯追求销量规模更加迫切。"
+    },
+    {
+      "id": "bddc5482f20dcf5d",
+      "title": "全面支持华为手机！奔驰发布新款长轴距 E 级，42.38 万元起",
+      "url": "https://www.ifanr.com/1687178?utm_source=rss&utm_medium=rss&utm_campaign=",
+      "source": "爱范儿",
+      "category": "科技",
+      "published": "2026-11-02T20:18:09+08:00",
+      "summary": "来看奔驰很清楚他们的短板所在。#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。"
     },
     {
       "id": "397adb53abd95f6e",
@@ -2794,164 +3109,164 @@
   ],
   "hot": [
     {
-      "id": "4130c3e484655404",
-      "title": "Astra can read and write weights to improve Qwen",
-      "url": "https://rikiyat.github.io/blog/weight-space-programming/",
-      "score": 1797,
-      "by": "dbreunig",
-      "comments": 568
-    },
-    {
-      "id": "ce687a0d17621a16",
-      "title": "Show HN: Subvocal – Talk to your computer without making noise",
-      "url": "https://news.ycombinator.com/item?id=50340088",
-      "score": 517,
-      "by": "aarushyadav",
-      "comments": 283
-    },
-    {
-      "id": "4e152830163ceaba",
-      "title": "US boy names that became girl names and vice versa",
-      "url": "https://namedaisy.com/blog/boy-names-that-became-girl-names",
-      "score": 271,
-      "by": "xoobdev",
-      "comments": 295
-    },
-    {
-      "id": "f1f261ab2202086b",
-      "title": "If you love a website, back it up",
-      "url": "https://blog.mistys-internet.website/post/2026/10/29/if-you-love-a-website-back-it-up/",
-      "score": 375,
-      "by": "ingve",
-      "comments": 94
-    },
-    {
-      "id": "d39c17aeedf72b2f",
-      "title": "Launch HN: Momentic (YC W24) – Agents that catch bugs by using your app",
-      "url": "https://momentic.ai/",
-      "score": 116,
-      "by": "wuweiweiwu",
-      "comments": 75
-    },
-    {
-      "id": "843d4e0322bdd915",
-      "title": "Show HN: Warsaw in voxels – An interactive 3D map of the city centre",
-      "url": "https://p.migdal.pl/warsaw-vibe-voxel/",
-      "score": 204,
-      "by": "stared",
-      "comments": 35
-    },
-    {
-      "id": "ba116c9403bcb9c8",
-      "title": "The SEC Should Block Anthropic's IPO to Protect the Public",
-      "url": "https://www.techpolicy.press/the-sec-should-block-anthropics-ipo-to-protect-the-public/",
-      "score": 134,
-      "by": "cdrnsf",
-      "comments": 77
-    },
-    {
-      "id": "7c94b8730f77d0bb",
-      "title": "The Ford Privacy Promise: You're in Control of Your Data",
-      "url": "https://www.fromtheroad.ford.com/us/en/articles/2026/introducing-the-ford-privacy-promise",
-      "score": 23,
-      "by": "KoftaBob",
-      "comments": 15
-    },
-    {
-      "id": "7c123d08ae3b2890",
-      "title": "Ask HN: Who is hiring? (November 2026)",
-      "url": "https://news.ycombinator.com/item?id=50338728",
-      "score": 167,
-      "by": "whoishiring",
-      "comments": 138
-    },
-    {
-      "id": "cb2d130c68febf41",
-      "title": "Egoless Mathematics in the AI Era",
-      "url": "https://terrytao.wordpress.com/2026/11/02/egoless-mathematics-in-the-ai-era/",
-      "score": 100,
-      "by": "smilelamp",
-      "comments": 78
-    },
-    {
-      "id": "07e938a08a7bb9e6",
-      "title": "Sneaking into the auditorium for the Windows 2000 launch rehearsal",
-      "url": "https://devblogs.microsoft.com/oldnewthing/20261102-00/?p=112818/",
-      "score": 95,
+      "id": "31aae4f1030010b9",
+      "title": "The Little Book of Generative AI Foundations: An Intuitive Mathematical Primer",
+      "url": "https://arxiv.org/abs/2605.29713",
+      "score": 178,
       "by": "ibobev",
-      "comments": 30
+      "comments": 29
     },
     {
-      "id": "d48ed9f4efdf9113",
-      "title": "Self-Employed? Solopreneur? NIST Has a Cybersecurity Guide Just for You",
-      "url": "https://www.nist.gov/news-events/news/2026/11/self-employed-solopreneur-nist-has-cybersecurity-guide-just-you",
-      "score": 70,
-      "by": "tomrod",
-      "comments": 21
+      "id": "84e89cc48ca304a4",
+      "title": "Safari introduces Adaptive Dark Mode in 27.3",
+      "url": "https://webkit.org/blog/18541/introducing-adaptive-dark-mode/",
+      "score": 242,
+      "by": "paddingtone",
+      "comments": 151
     },
     {
-      "id": "0d66c4838e644924",
-      "title": "Ubuntu still has not released patch for Linux 0day RCE in almost 3 weeks",
-      "url": "https://freenode.net/article/ubuntu-lts-kernels-still-unfixed-for-critical-cve-2026-98432",
-      "score": 294,
-      "by": "majorchord",
-      "comments": 67
+      "id": "f799499e987eba87",
+      "title": "Jailbreaking my car's navigation system just so I can change the time",
+      "url": "https://blog.nns.ee/2026/11/02/renault-hack/",
+      "score": 588,
+      "by": "xx_ns",
+      "comments": 236
     },
     {
-      "id": "534b67ecbbe557cf",
-      "title": "Anthropic's growth just flattened",
-      "url": "https://www.regenerator1.com/p/anthropics-growth-just-flattened",
-      "score": 137,
-      "by": "cdrnsf",
-      "comments": 160
+      "id": "d2d11f2eb0d85777",
+      "title": "The Internals of PostgreSQL",
+      "url": "https://www.interdb.jp/pg/index.html",
+      "score": 71,
+      "by": "ibobev",
+      "comments": 2
     },
     {
-      "id": "f7d8c03fdd0e4c9f",
-      "title": "WTF Ubuntu?",
-      "url": "https://chalmovsky.com/posts/wtf-ubuntu",
-      "score": 1286,
-      "by": "chalmovsky",
-      "comments": 576
+      "id": "df0e1a379a6460b4",
+      "title": "Stringman, an $800 open-source room scale gripper robot",
+      "url": "https://neufangled.com/",
+      "score": 342,
+      "by": "nharada",
+      "comments": 133
     },
     {
-      "id": "09daacd815b47895",
-      "title": "Polyend releases the Tracker firmware source code",
-      "url": "https://polyend.com/whats-up/tracker-the-biggest-update-yet/",
-      "score": 73,
-      "by": "austinallegro",
-      "comments": 15
+      "id": "17288f973135d057",
+      "title": "Show HN: HackerTV – HN's most-recommended Youtube videos as 24/7 TV channels",
+      "url": "https://hackertv.org",
+      "score": 143,
+      "by": "dsalzman",
+      "comments": 33
     },
     {
-      "id": "52cd86cf2ccf9a25",
-      "title": "A Conversation with Paul Masurel, Creator of Tantivy",
-      "url": "https://www.paradedb.com/blog/tantivy-interview",
-      "score": 15,
-      "by": "philippemnoel",
-      "comments": 0
+      "id": "f76553cec466228c",
+      "title": "Japan's Jimi 'Mundane' Halloween Costumes of 2026",
+      "url": "https://spoon-tamago.com/japan-jimi-mundane-halloween-costumes-2026/",
+      "score": 86,
+      "by": "zdw",
+      "comments": 14
     },
     {
-      "id": "2481e8921b025e31",
-      "title": "SLAC researchers find proof of altermagnetism, a new magnetic phase",
-      "url": "https://www6.slac.stanford.edu/news/2026-10-29-slac-researchers-find-proof-altermagnetism-new-magnetic-phase",
-      "score": 13,
+      "id": "5510ed6e47948af1",
+      "title": "Qwen 3.8 27B on my laptop can interpret model weights, too",
+      "url": "https://simonwillison.net/2026/Nov/3/qwen-can-interpret-model-weights/",
+      "score": 469,
+      "by": "theanonymousone",
+      "comments": 148
+    },
+    {
+      "id": "fc688a6aad362df5",
+      "title": "Fujifilm to boost tape production 5x as AI fuels archiving demand",
+      "url": "https://arstechnica.com/gadgets/2026/10/fujifilm-to-boost-tape-production-5x-as-ai-fuels-archiving-demand/",
+      "score": 363,
+      "by": "bookofjoe",
+      "comments": 149
+    },
+    {
+      "id": "d94c6b0b862a6d27",
+      "title": "Postman silently auto-installs AI plugins and attempts to share all API data",
+      "url": "https://github.com/postmanlabs/postman-app-support/issues/14370",
+      "score": 984,
+      "by": "sidgarimella",
+      "comments": 327
+    },
+    {
+      "id": "74147ae72089af60",
+      "title": "macOS 27 does not support CoreStorage volumes",
+      "url": "https://wadetregaskis.com/macos-27-golden-gate-does-not-actually-support-corestorage-or-hfs-volumes/",
+      "score": 92,
+      "by": "colejohnson66",
+      "comments": 57
+    },
+    {
+      "id": "1a40936046f4241e",
+      "title": "Show HN: Kairos – Open-source risk and fraud decisioning platform",
+      "url": "https://github.com/finic-ai/kairos",
+      "score": 40,
+      "by": "ayanb9440",
+      "comments": 4
+    },
+    {
+      "id": "63d2c342ac251a4d",
+      "title": "We're Training a Figma-Fluent Editing Model",
+      "url": "https://www.figma.com/blog/training-a-figma-fluent-editing-model/",
+      "score": 60,
       "by": "gmays",
+      "comments": 31
+    },
+    {
+      "id": "f52803f3e8f7d292",
+      "title": "Introduction to Programming in ATS",
+      "url": "https://ats-lang.sourceforge.net/DOCUMENT/INT2PROGINATS/HTML/book1.html",
+      "score": 48,
+      "by": "ibobev",
+      "comments": 7
+    },
+    {
+      "id": "350a72ef4198011c",
+      "title": "US tech giants' hidden AI debt swells 90% to $3.2T in 6 months",
+      "url": "https://asia.nikkei.com/business/technology/artificial-intelligence/us-tech-giants-hidden-ai-debt-swells-90-to-3.2tn-in-6-months",
+      "score": 171,
+      "by": "angry_impala",
+      "comments": 57
+    },
+    {
+      "id": "bec870e185952f1e",
+      "title": "Curiosity Traps",
+      "url": "https://www.autodidacts.io/curiosity-traps/",
+      "score": 30,
+      "by": "surprisetalk",
       "comments": 3
     },
     {
-      "id": "3d68b9f3d1739cc0",
-      "title": "Skill to Create Product Videos",
-      "url": "https://github.com/aaitor/skill-video-studio",
-      "score": 61,
-      "by": "aaitor",
-      "comments": 20
+      "id": "e7654a8a6247e2d4",
+      "title": "Preparing for the Flipper One Kickstarter and opening pre-orders",
+      "url": "https://flipper.net/pages/flipper-one",
+      "score": 167,
+      "by": "user_7832",
+      "comments": 76
     },
     {
-      "id": "ac4ebaaa6159d57f",
-      "title": "Apple reports fourth quarter results",
-      "url": "https://www.apple.com/newsroom/2026/11/apple-reports-fourth-quarter-results/",
-      "score": 73,
-      "by": "mfiguiere",
-      "comments": 72
+      "id": "09323131c4540fb2",
+      "title": "Could a modern chess engine on a Pentium have defeated Kasparov in 1996?",
+      "url": "https://nicholas.carlini.com/writing/2026/algorithmic-improvements-chess.html",
+      "score": 438,
+      "by": "markusw",
+      "comments": 207
+    },
+    {
+      "id": "5f184dcb64b2cfa6",
+      "title": "Mac at Any Scale",
+      "url": "https://namespace.so/blog/mac-at-any-scale",
+      "score": 306,
+      "by": "anner_",
+      "comments": 173
+    },
+    {
+      "id": "5d96334362871acf",
+      "title": "How I use AI (Oct 2026)",
+      "url": "https://ben.stolovitz.com/posts/how-use-ai-oct-2026/",
+      "score": 72,
+      "by": "citelao",
+      "comments": 68
     }
   ],
   "sources_ok": [
@@ -2965,5 +3280,5 @@
     "36氪",
     "虎嗅:ReadTimeout"
   ],
-  "total": 310
+  "total": 345
 }
