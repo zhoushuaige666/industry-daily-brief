@@ -1,6 +1,303 @@
 {
-  "generated_at": "2026-11-04T08:34:44.043511+08:00",
+  "generated_at": "2026-11-05T08:40:51.325425+08:00",
   "items": [
+    {
+      "id": "8d787e467c3c07cb",
+      "title": "早报｜苹果收紧员工Token预算/手机越卖越贵，全球手机出货量降19%/雷军：小米机器人在工厂「实习」8小时",
+      "url": "https://www.ifanr.com/1687750?utm_source=rss&utm_medium=rss&utm_campaign=",
+      "source": "爱范儿",
+      "category": "科技",
+      "published": "2026-11-05T08:15:59+08:00",
+      "summary": "· 彭博调查：69% 中国受访者至少等到明年才换手机 · ChatGPT 新增 GIF 生成，可调播放速度、逐帧修改 · 近七成汽车经销商试用 AI，部分已设智能体专员#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。"
+    },
+    {
+      "id": "6b01f00fb400a31f",
+      "title": "【钛晨报】五部门最新部署：“一行一策”开展节能改造，加强原材料回收利用；字节限制外部AI工具访问内部资料？知情人士回应；倍轻松实控人被罚没1184万元、禁入证券市场5年",
+      "url": "https://www.tmtpost.com/8194022.html",
+      "source": "钛媒体",
+      "category": "创投",
+      "published": "2026-11-05T07:20:00+08:00",
+      "summary": "央行今日开展3000亿元买断式逆回购操作；华为、阿里等20家单位共建智能体互联基础设施，加速智能体赋能千行百业；比亚迪辟谣“天神之眼智驾方案更换及停产”；董宇辉官宣新品牌；德明利拟每10股派现6元，控股股东承诺延长一年不减持；三环集团拟5亿元至10亿元回购公司股份。"
+    },
+    {
+      "id": "e561ff28a63c0ef0",
+      "title": "实测 iPhone 国行 AI：有亮点有槽点，还有一个惊喜点",
+      "url": "https://www.ifanr.com/1687733?utm_source=rss&utm_medium=rss&utm_campaign=",
+      "source": "爱范儿",
+      "category": "科技",
+      "published": "2026-11-05T01:30:04+08:00",
+      "summary": "这次你一定要用上 Apple 智能！#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。"
+    },
+    {
+      "id": "4bedb86727474d2b",
+      "title": "AMD 营收预计将首次超过英特尔",
+      "url": "https://www.solidot.org/story?sid=85799",
+      "source": "Solidot",
+      "category": "科技",
+      "published": "2026-11-05T01:20:06+08:00",
+      "summary": "AMD 周二公布了 2026 财年第三季度财报，营收同比增长 45% 达到 134 亿美元。其中数据中心业务贡献了 85 亿美元营收同比增长 97%。客户端与游戏业务部门的营收下滑了 8% 降至 37 亿美元。作为 AMD 在 x86 市场的主要竞争对手，英特尔下一季度营收预计为 150-160 亿美元，其增长几乎停滞。相比下 AMD 预计下一季度营收将达到约 170 亿美元。如果达到这一目标，这将标志着 AMD 营收首次超过英特尔。"
+    },
+    {
+      "id": "a05b39b1fb773824",
+      "title": "韩国游戏 PC 启动器被植入恶意代码",
+      "url": "https://www.solidot.org/story?sid=85798",
+      "source": "Solidot",
+      "category": "科技",
+      "published": "2026-11-05T01:05:10+08:00",
+      "summary": "韩国游戏《胜利女神：新的希望（NIKKE）》的 PC 启动器被植入恶意代码。恶意代码是通过纂改 Level Infinite CDN 分发的四个官方 JavaScript 文件实现的，篡改发生于 2026 年 9 月 27 日前后，攻击则始于 2026 年 10 月 23 日到 11 月 3 日，在此期间打开 PC 启动器的用户可能会被植入木马。恶意程序会窃取浏览器保存的密码、Windows 凭据管理器信息、SSH 密钥以及云服务或 AI 服务的访问令牌，还能窃取 28 种基于浏览器的加密货币钱包数据、执行任意命令、读取文件以及屏幕截图。攻击期间打开过启动器的玩家可以打开游戏文件夹，搜寻 de"
+    },
+    {
+      "id": "9b1b52119bf7e5e0",
+      "title": "法国银行被盗走 1.18 亿欧元",
+      "url": "https://www.solidot.org/story?sid=85797",
+      "source": "Solidot",
+      "category": "科技",
+      "published": "2026-11-05T00:02:44+08:00",
+      "summary": "法国国民互助信贷银行（Crédit Mutuel Arkéa）被黑客通过欺诈性交易盗走 1.18 亿欧元。被盗走的钱随后被转移到多个加密货币账号。该银行证实遭到网络攻击，但尚未证实 1.18 亿欧元的数字，只是表示攻击已得到控制，客户不会遭受任何经济损失。国民互助信贷银行暂停了其应用的部分转账功能。"
+    },
+    {
+      "id": "1ec29325248aa389",
+      "title": "Firefox 测试迷你窗口功能",
+      "url": "https://www.solidot.org/story?sid=85796",
+      "source": "Solidot",
+      "category": "科技",
+      "published": "2026-11-04T23:54:37+08:00",
+      "summary": "Mozilla 正在新版 Firefox Nightly 中测试迷你窗口（Mini Window）功能。该功能类似视频画中画功能，将一个标签页作为独立窗口一直显示在当前标签页之上，这个窗口隐去了地址栏、各类控件、滚动条等常见标签页元素，但如果用户将鼠标悬停在迷你窗口内，各种标签页元素将会显示。迷你窗口方便用户在当前标签页上工作的同时参考迷你窗口的内容，免于在两个标签页之间反复切换。用户可以在专注于当前标签页的同时查看迷你窗口。"
+    },
+    {
+      "id": "e264267c9d05d3e1",
+      "title": "一文看懂 2026 中国车市：卷死合资不是胜利，「金九银十」已然消失",
+      "url": "https://www.ifanr.com/1687720?utm_source=rss&utm_medium=rss&utm_campaign=",
+      "source": "爱范儿",
+      "category": "科技",
+      "published": "2026-11-04T23:12:46+08:00",
+      "summary": "车市的天花板，可能比我们想的更低。#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。"
+    },
+    {
+      "id": "ba93455fb4ab39bd",
+      "title": "单项致胜：五星偏股混合型基金产品深度参考（2026年三季度）",
+      "url": "https://www.tmtpost.com/8194019.html",
+      "source": "钛媒体",
+      "category": "创投",
+      "published": "2026-11-04T21:27:45+08:00",
+      "summary": "我们聚焦2026年第三季度获评五星偏股混合型基金中单项能力优秀的产品，具体标准为“单项能力五星且综合评级五星”的双五星产品，通过梳理其评价标准、季度表现变化和具体产品评级，为投资者提供该类优质产品的核心参考。"
+    },
+    {
+      "id": "8c8fd4c3343cc290",
+      "title": "基金市场概况与资产配置观点 （10.26—11.01）",
+      "url": "https://www.tmtpost.com/8194003.html",
+      "source": "钛媒体",
+      "category": "创投",
+      "published": "2026-11-04T21:25:00+08:00",
+      "summary": "腾讯济安指数上周下跌1.58%。"
+    },
+    {
+      "id": "4d22b806009feb37",
+      "title": "上市公司TOP5济安评估（10月26日至11月1日）",
+      "url": "https://www.tmtpost.com/8193992.html",
+      "source": "钛媒体",
+      "category": "创投",
+      "published": "2026-11-04T21:21:33+08:00",
+      "summary": "本周机构调研热度飙升，受上市公司三季报披露进入高峰驱动，调研活动仍保持活跃，公募机构的活跃度在短期内出现了爆发式增长。调研数据不仅反映了资金关注方向，也折射出当前行业景气度的变化趋势。谁是本周最受机构青睐的公司？"
+    },
+    {
+      "id": "4ab25f1f82512c53",
+      "title": "同样是破净，为什么有的可能是错杀，有的却是价值陷阱？",
+      "url": "https://www.tmtpost.com/8193964.html",
+      "source": "钛媒体",
+      "category": "创投",
+      "published": "2026-11-04T20:59:03+08:00",
+      "summary": "判断一个行业是否值得关注，不能只看PB有多低，还要追问两个问题：公司的“家底”是在变厚还是变薄？市场给出的价格，是在认可基本面，还是在提前反映风险？"
+    },
+    {
+      "id": "f033ff19e224c897",
+      "title": "价值判断：跌停板的投资机会和风险提示（11月3日）｜上市公司观察",
+      "url": "https://www.tmtpost.com/8193958.html",
+      "source": "钛媒体",
+      "category": "创投",
+      "published": "2026-11-04T20:57:36+08:00",
+      "summary": "本期两只标的分两类：聚石化学是首次跌停的高位修正，奥精医疗因财务立案连续跌停，收盘已低于济安定价七成一。"
+    },
+    {
+      "id": "025cd0e97c8d1860",
+      "title": "价值判断：涨停板的投资机会和风险提示（11月3日）｜上市公司观察",
+      "url": "https://www.tmtpost.com/8193950.html",
+      "source": "钛媒体",
+      "category": "创投",
+      "published": "2026-11-04T20:51:36+08:00",
+      "summary": "本期三只标的分为两头：三只首板涨停、收盘仍低于济安定价三成八至四成九，来自光伏发电、焊材与热缩膜；三只连续涨停、收盘已高于济安定价七成四至一倍，分别是白酒的皇台酒业、铝塑膜的紫竹高科与复牌重组的高争民爆。"
+    },
+    {
+      "id": "4a89e4afa3d878f9",
+      "title": "你不知道的客户端开发：AI 时代下的选型、原生与借力",
+      "url": "https://sspai.com/post/117713",
+      "source": "少数派",
+      "category": "科技",
+      "published": "2026-11-04T20:25:55+08:00",
+      "summary": "选型选得好只是锦上添花，最终还是要先把用户最真实的需求解决好。查看全文"
+    },
+    {
+      "id": "fbcf5134f5a2785d",
+      "title": "富士胶片因 AI 热加大磁带产能",
+      "url": "https://www.solidot.org/story?sid=85795",
+      "source": "Solidot",
+      "category": "科技",
+      "published": "2026-11-04T19:26:51+08:00",
+      "summary": "富士胶片表示它将大幅增加磁带产能，原因是磁带备份成为 AI 热的一个意外受益者。普通消费者可能早在几十年前就已不再使用磁带，但业界却从未将其抛弃。云服务巨头依靠磁带对海量数据进行备份。富士胶片称，大型云服务商和数据中心运营商正在扩大对磁带的使用，因为磁带能以相对较低的成本存储海量数据。磁带备份可以轻松与系统断开连接，存放在抽屉、保险库或独立设施内。富士胶片强调，磁带介质能实现物理隔离（air-gap），为用户数据提供最后一道防线。"
+    },
+    {
+      "id": "01011f31d75d3c92",
+      "title": "Nexus Mods 公布 AI 生成内容政策",
+      "url": "https://www.solidot.org/story?sid=85794",
+      "source": "Solidot",
+      "category": "科技",
+      "published": "2026-11-04T18:57:52+08:00",
+      "summary": "最大 PC 游戏 Mod 分享托管平台 Nexus Mods 公布了 AI 生成内容政策。Nexus Mods 没有禁止 AI 生成 Mod，但对此类 Mod 的分享设定了更严格的规定。新上传 Mod 必须披露是否使用 AI，AI 辅助 Mod 必须说明如何使用 AI 以及 AI 的使用范围。现有 Mod 需在 2027 年 1 月 2 日前符合新要求。如果 Mod 作者无视平台方提出的要求，可能会面临权限受限或被下架的后果。它计划针对 AI 使用、AI 模型训练、分支和衍生 Mod 引入新的授权选项，默认选项为“需征求作者同意（Ask me）”。Nexus Mods 承诺绝不会利用用户上传的"
+    },
+    {
+      "id": "22545586e9f15543",
+      "title": "谁在害怕“字节时间”？",
+      "url": "https://www.tmtpost.com/8190644.html",
+      "source": "钛媒体",
+      "category": "创投",
+      "published": "2026-11-04T18:45:00+08:00",
+      "summary": "“时间”都去哪儿了？"
+    },
+    {
+      "id": "eafd6bbee16bd37d",
+      "title": "大模型时代，智驾芯片的算力赢学失效了",
+      "url": "https://www.tmtpost.com/8193596.html",
+      "source": "钛媒体",
+      "category": "创投",
+      "published": "2026-11-04T18:44:24+08:00",
+      "summary": "玩不过通用芯片，就玩定制芯片。"
+    },
+    {
+      "id": "72be582e3c0d0add",
+      "title": "为什么大家都学腾讯，把对手的模型请进来？",
+      "url": "https://www.tmtpost.com/8192671.html",
+      "source": "钛媒体",
+      "category": "创投",
+      "published": "2026-11-04T18:44:14+08:00",
+      "summary": "这又牵出AI办公竞争的另一面：公司要如何围绕任务协同，重组自身的能力与资源。"
+    },
+    {
+      "id": "f6bf56e951b36441",
+      "title": "Anthropic微微发力，AI中转站的天就要塌了？",
+      "url": "https://www.ifanr.com/1687702?utm_source=rss&utm_medium=rss&utm_campaign=",
+      "source": "爱范儿",
+      "category": "科技",
+      "published": "2026-11-04T18:34:38+08:00",
+      "summary": "就像发邮件加上数字签名一样#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。"
+    },
+    {
+      "id": "22255be583f12021",
+      "title": "安东内利加冕 F1 最年轻世界冠军，梅赛德斯的十年豪赌拿到了大结果",
+      "url": "https://www.ifanr.com/1687672?utm_source=rss&utm_medium=rss&utm_campaign=",
+      "source": "爱范儿",
+      "category": "科技",
+      "published": "2026-11-04T18:06:47+08:00",
+      "summary": "一位天才车手的圆梦之旅。#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。"
+    },
+    {
+      "id": "39d456d18f047dd9",
+      "title": "加油、充电还能加甲醇！吉利银河星耀 6 EF 上市，7.68 万元起",
+      "url": "https://www.ifanr.com/1687688?utm_source=rss&utm_medium=rss&utm_campaign=",
+      "source": "爱范儿",
+      "category": "科技",
+      "published": "2026-11-04T18:04:58+08:00",
+      "summary": "不挑食。#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。"
+    },
+    {
+      "id": "5fc3f47813e0098b",
+      "title": "苹果开始在中国推出 Apple Intelligence",
+      "url": "https://www.solidot.org/story?sid=85793",
+      "source": "Solidot",
+      "category": "科技",
+      "published": "2026-11-04T17:55:53+08:00",
+      "summary": "苹果从 11 月 4 日起开始在中国推出 AI 功能 Apple Intelligence，中国用户可通过最新的 iOS 开发者 Beta 版进行测试，AI 功能将于 12 月随 iOS 27.3 的发布正式推出。中国版本的 Apple Intelligence 是苹果和阿里巴巴合作推出的，基于阿里巴巴的千问模型。首批 AI 功能包括实时翻译、写作工具、视觉智能、照片 app 的消除工具、智绘表情、照片 app 中的自然语言搜索、在照片 app 中创建回忆影片、识别优先邮件、邮件摘要、智能回复、通知摘要、首要通知、减少干扰、备忘录 app 中的音频转录摘要、通话转录文本的摘要、输⼊⽂字与 Si"
+    },
+    {
+      "id": "a30558f1132c8d87",
+      "title": "拓竹给 3D 打印机装了 9 个头，这次真能打印万物了？",
+      "url": "https://www.ifanr.com/1687646?utm_source=rss&utm_medium=rss&utm_campaign=",
+      "source": "爱范儿",
+      "category": "科技",
+      "published": "2026-11-04T17:55:11+08:00",
+      "summary": "桌面制造的新物种#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。"
+    },
+    {
+      "id": "9c87c0729831d54f",
+      "title": "出生前后大脑会清理突变神经元",
+      "url": "https://www.solidot.org/story?sid=85792",
+      "source": "Solidot",
+      "category": "科技",
+      "published": "2026-11-04T17:24:42+08:00",
+      "summary": "根据发表在《自然》上的一项研究，出生前后大脑会清理突变神经元。对 2300 多个神经细胞进行的分析显示，在从人类胎儿大脑中采样的神经元中，超过 1/4 出现了染色体片段增加或缺失的情况。相比之下，出生后婴儿大脑中的神经元中，只有约 6% 存在此类异常。研究结果揭示了一种新的机制，该机制不仅调控着一个人的神经元数量，还决定了哪些胎儿神经元能够在大脑中存活下来。针对小鼠的研究表明，在早期发育过程中，哺乳动物会通过激活一个导致细胞死亡的分子程序，清除大量脑细胞。分析结果显示，在胎儿发育过程中，存在数量惊人的、具有广泛拷贝数变异的细胞。然而出生后，这些异常神经元的比例下降至原来的 1/4，表明它们在发"
+    },
+    {
+      "id": "310f5be883fea0b0",
+      "title": "奥运赛事首次来到非洲，AI 也学着「入乡随俗」",
+      "url": "https://www.ifanr.com/1687242?utm_source=rss&utm_medium=rss&utm_campaign=",
+      "source": "爱范儿",
+      "category": "科技",
+      "published": "2026-11-04T17:01:48+08:00",
+      "summary": "用最硬核的技术，给在地文化最充分的尊重#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。"
+    },
+    {
+      "id": "2cb515993046d586",
+      "title": "实测腾讯Hy4：我用它复刻《王者荣耀》，WorkBuddy 真能接大活了",
+      "url": "https://www.ifanr.com/1687613?utm_source=rss&utm_medium=rss&utm_campaign=",
+      "source": "爱范儿",
+      "category": "科技",
+      "published": "2026-11-04T16:37:32+08:00",
+      "summary": "国产开源模型的竞争白热化时刻#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。"
+    },
+    {
+      "id": "14779fa4c65a9547",
+      "title": "SUSE 因 AI 而计划裁员十分之一",
+      "url": "https://www.solidot.org/story?sid=85791",
+      "source": "Solidot",
+      "category": "科技",
+      "published": "2026-11-04T16:23:37+08:00",
+      "summary": "德国开源软件公司 SUSE 现有员工 1900 人，它计划裁掉十分之一的员工。CEO Dirk-Peter van Leeuwen 在电子邮件里表示，自动化和 AI 降低了某些岗位的需求。他表示做出这一决定是非常痛苦的，但也是必要的。Van Leeuwen 称，在被瑞典私募股权投资公司殷拓集团收购后，公司在仔细审视了其未来战略、所需能力及团队架构后做出了裁员决定,“显而易见自动化和 AI 正从根本上改变软件公司的运营方式。AI 技术正呈指数级发展，迫使我们彻底重新构想工作模式。无论是所在行业，还是在更广泛的经济领域，我们都已经看到了这一趋势。这意味着 SUSE 目前所依托的组织架构和成本基础，"
+    },
+    {
+      "id": "9b1a1abebd73e000",
+      "title": "Bethesda 宣布《上古卷轴VI：哨兵》",
+      "url": "https://www.solidot.org/story?sid=85790",
+      "source": "Solidot",
+      "category": "科技",
+      "published": "2026-11-04T15:35:02+08:00",
+      "summary": "在 2018 年宣布《上古卷轴VI》八年之后，Bethesda 宣布了游戏的副标题《上古卷轴VI：哨兵》。知名游戏记者 Jason Schreier 称，该游戏至少还要两年时间才会面世。Bethesda 是在庆祝工作室诞生四十周年的视频中公布这一消息的。《上古卷轴VI》是与《星空》一同宣布的，2023 年 9 月《星空》发售后游戏才进入正式开发阶段，预计至少到 2028 年 Bethesda 才会公布更多游戏相关信息。"
+    },
+    {
+      "id": "eb055d8a0900bd53",
+      "title": "微诗：从诗入画、且唱且行，这款免费 app 把诗装进手机",
+      "url": "https://sspai.com/post/115819",
+      "source": "少数派",
+      "category": "科技",
+      "published": "2026-11-04T14:50:48+08:00",
+      "summary": "没有融资、没有收费，也没有什么商业计划。花这些钱，只是为了把一个自己喜欢了很多年的东西做成自己心里的样子。查看全文"
+    },
+    {
+      "id": "b4d9308ee7110b47",
+      "title": "Claude 开始拒绝抄游戏，但可能已经太晚了",
+      "url": "https://www.ifanr.com/1687508?utm_source=rss&utm_medium=rss&utm_campaign=",
+      "source": "爱范儿",
+      "category": "科技",
+      "published": "2026-11-04T12:34:29+08:00",
+      "summary": "惟创意与热爱不可辜负#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。"
+    },
+    {
+      "id": "c0c8056ef389cb12",
+      "title": "国行 Apple 智能上手：这些功能已经准备好",
+      "url": "https://sspai.com/post/118404",
+      "source": "少数派",
+      "category": "科技",
+      "published": "2026-11-04T10:41:10+08:00",
+      "summary": "iOS 27.3 Beta 带来了姗姗来迟的国行版 Apple 智能，这些细节你值得了解。查看全文"
+    },
     {
       "id": "7bb8e4a7cde8a7b1",
       "title": "国行版苹果 AI 开始测试；ChatGPT 搜索量已达到谷歌 20%；Seedance 被曝五成收入来自海外｜极客早知道",
@@ -18,6 +315,15 @@
       "category": "科技",
       "published": "2026-11-04T08:26:05+08:00",
       "summary": "· GPT 爆改 Qwen 权重，团队测试数学成绩提升约 6 倍 · 盗用 AI 平台算力，上海一男子获刑三年 · 中兴否认出售手机业务传闻#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。"
+    },
+    {
+      "id": "b977cf98ae41863f",
+      "title": "派早报：Apple 智能国行版开放测试、拓竹发布 H3C 3D 打印机等",
+      "url": "https://sspai.com/post/118402",
+      "source": "少数派",
+      "category": "科技",
+      "published": "2026-11-04T08:00:00+08:00",
+      "summary": "Surface 鼠标第 2 代国行预售，Windows 11 优化 8 GB 内存表现等。查看全文"
     },
     {
       "id": "97bca547ba4e5949",
@@ -3109,164 +3415,164 @@
   ],
   "hot": [
     {
-      "id": "31aae4f1030010b9",
-      "title": "The Little Book of Generative AI Foundations: An Intuitive Mathematical Primer",
-      "url": "https://arxiv.org/abs/2605.29713",
-      "score": 178,
-      "by": "ibobev",
-      "comments": 29
+      "id": "ffc7b7b8615e0e93",
+      "title": "Residential proxies detected on White House network",
+      "url": "https://layer3intel.com/blog/residential-proxies-white-house-network",
+      "score": 561,
+      "by": "Rasbora",
+      "comments": 167
     },
     {
-      "id": "84e89cc48ca304a4",
-      "title": "Safari introduces Adaptive Dark Mode in 27.3",
-      "url": "https://webkit.org/blog/18541/introducing-adaptive-dark-mode/",
-      "score": 242,
-      "by": "paddingtone",
-      "comments": 151
+      "id": "cda679bed05ed9a0",
+      "title": "Introducing Images 2.6",
+      "url": "https://openai.com/index/introducing-images-2-6/",
+      "score": 44,
+      "by": "davidbarker",
+      "comments": 20
     },
     {
-      "id": "f799499e987eba87",
-      "title": "Jailbreaking my car's navigation system just so I can change the time",
-      "url": "https://blog.nns.ee/2026/11/02/renault-hack/",
-      "score": 588,
-      "by": "xx_ns",
-      "comments": 236
+      "id": "f1913508addef008",
+      "title": "AI is forcing us to pay off 40 years of technical debt",
+      "url": "https://spectrum.ieee.org/ai-in-cybersecurity-php2shell-vulnerability",
+      "score": 1038,
+      "by": "pseudolus",
+      "comments": 621
     },
     {
-      "id": "d2d11f2eb0d85777",
-      "title": "The Internals of PostgreSQL",
-      "url": "https://www.interdb.jp/pg/index.html",
-      "score": 71,
-      "by": "ibobev",
+      "id": "c0a5b37582f62dd8",
+      "title": "Ripple-65B Preview: U.S. Open-Weight SOTA on Agentic Coding",
+      "url": "https://www.ricursive.com/ripple",
+      "score": 206,
+      "by": "Philpax",
+      "comments": 74
+    },
+    {
+      "id": "eec02c152225d7cc",
+      "title": "Local privilege escalation vulnerabilities in Linux",
+      "url": "https://openai.com/index/a-thousand-fewer-paths-to-root/",
+      "score": 35,
+      "by": "dangelosaurus",
+      "comments": 23
+    },
+    {
+      "id": "51c126f587cd55d8",
+      "title": "Insects don't swarm at LED lights",
+      "url": "https://www.birdsoutsidemywindow.org/2026/11/03/insects-dont-swarm-at-led-lights/",
+      "score": 154,
+      "by": "speckx",
+      "comments": 91
+    },
+    {
+      "id": "2d2f46aa14bf7690",
+      "title": "Hacking the Xbox 360 Hypervisor Part 3: Bad Update Improvements",
+      "url": "https://icode4.coffee/?p=1746",
+      "score": 48,
+      "by": "muricula",
       "comments": 2
     },
     {
-      "id": "df0e1a379a6460b4",
-      "title": "Stringman, an $800 open-source room scale gripper robot",
-      "url": "https://neufangled.com/",
-      "score": 342,
-      "by": "nharada",
-      "comments": 133
+      "id": "fd5164e78b9d62ef",
+      "title": "Kimi K3.1 Pro model weights are out",
+      "url": "https://huggingface.co/moonshotai/Kimi-K3.1-Pro",
+      "score": 349,
+      "by": "abrarthought",
+      "comments": 91
     },
     {
-      "id": "17288f973135d057",
-      "title": "Show HN: HackerTV – HN's most-recommended Youtube videos as 24/7 TV channels",
-      "url": "https://hackertv.org",
-      "score": 143,
-      "by": "dsalzman",
-      "comments": 33
+      "id": "c74edae14628f32c",
+      "title": "A new Go API for JSON",
+      "url": "https://go.dev/blog/jsonv2",
+      "score": 213,
+      "by": "olexsmir",
+      "comments": 88
     },
     {
-      "id": "f76553cec466228c",
-      "title": "Japan's Jimi 'Mundane' Halloween Costumes of 2026",
-      "url": "https://spoon-tamago.com/japan-jimi-mundane-halloween-costumes-2026/",
-      "score": 86,
-      "by": "zdw",
-      "comments": 14
+      "id": "65c9b675717d3fc7",
+      "title": "Qualcomm Cloud AI 100 Ultra – 150W AI Accelerator Card with 128GB at 548GB/s",
+      "url": "https://www.qualcomm.com/data-center/products/cloud-ai-100-ultra",
+      "score": 91,
+      "by": "peter_d_sherman",
+      "comments": 41
     },
     {
-      "id": "5510ed6e47948af1",
-      "title": "Qwen 3.8 27B on my laptop can interpret model weights, too",
-      "url": "https://simonwillison.net/2026/Nov/3/qwen-can-interpret-model-weights/",
-      "score": 469,
-      "by": "theanonymousone",
-      "comments": 148
+      "id": "ded95464ba78eaa1",
+      "title": "Conductor is joining Meta",
+      "url": "https://www.conductor.build/announcement",
+      "score": 95,
+      "by": "kenrose",
+      "comments": 131
     },
     {
-      "id": "fc688a6aad362df5",
-      "title": "Fujifilm to boost tape production 5x as AI fuels archiving demand",
-      "url": "https://arstechnica.com/gadgets/2026/10/fujifilm-to-boost-tape-production-5x-as-ai-fuels-archiving-demand/",
-      "score": 363,
-      "by": "bookofjoe",
-      "comments": 149
+      "id": "33a595e0f687f0bb",
+      "title": "Launch HN: Kino AI (YC S23) – AI media manager and video editor",
+      "url": "https://news.ycombinator.com/item?id=50368804",
+      "score": 67,
+      "by": "lukeigel",
+      "comments": 26
     },
     {
-      "id": "d94c6b0b862a6d27",
-      "title": "Postman silently auto-installs AI plugins and attempts to share all API data",
-      "url": "https://github.com/postmanlabs/postman-app-support/issues/14370",
-      "score": 984,
-      "by": "sidgarimella",
-      "comments": 327
-    },
-    {
-      "id": "74147ae72089af60",
-      "title": "macOS 27 does not support CoreStorage volumes",
-      "url": "https://wadetregaskis.com/macos-27-golden-gate-does-not-actually-support-corestorage-or-hfs-volumes/",
-      "score": 92,
-      "by": "colejohnson66",
-      "comments": 57
-    },
-    {
-      "id": "1a40936046f4241e",
-      "title": "Show HN: Kairos – Open-source risk and fraud decisioning platform",
-      "url": "https://github.com/finic-ai/kairos",
-      "score": 40,
-      "by": "ayanb9440",
-      "comments": 4
-    },
-    {
-      "id": "63d2c342ac251a4d",
-      "title": "We're Training a Figma-Fluent Editing Model",
-      "url": "https://www.figma.com/blog/training-a-figma-fluent-editing-model/",
-      "score": 60,
-      "by": "gmays",
-      "comments": 31
-    },
-    {
-      "id": "f52803f3e8f7d292",
-      "title": "Introduction to Programming in ATS",
-      "url": "https://ats-lang.sourceforge.net/DOCUMENT/INT2PROGINATS/HTML/book1.html",
-      "score": 48,
-      "by": "ibobev",
-      "comments": 7
-    },
-    {
-      "id": "350a72ef4198011c",
-      "title": "US tech giants' hidden AI debt swells 90% to $3.2T in 6 months",
-      "url": "https://asia.nikkei.com/business/technology/artificial-intelligence/us-tech-giants-hidden-ai-debt-swells-90-to-3.2tn-in-6-months",
+      "id": "adfd6e01c955865b",
+      "title": "Progress on provable inference for large language models",
+      "url": "https://www.anthropic.com/research/provable-inference",
       "score": 171,
-      "by": "angry_impala",
-      "comments": 57
+      "by": "ltononro",
+      "comments": 84
     },
     {
-      "id": "bec870e185952f1e",
-      "title": "Curiosity Traps",
-      "url": "https://www.autodidacts.io/curiosity-traps/",
-      "score": 30,
-      "by": "surprisetalk",
-      "comments": 3
+      "id": "25582f6d4c28bda5",
+      "title": "Show HN: After a decade of reversing, I got co-op working in DOS Wing Commander",
+      "url": "https://fireflyk64.github.io/wcmulti/",
+      "score": 100,
+      "by": "daniel_rh",
+      "comments": 11
     },
     {
-      "id": "e7654a8a6247e2d4",
-      "title": "Preparing for the Flipper One Kickstarter and opening pre-orders",
-      "url": "https://flipper.net/pages/flipper-one",
-      "score": 167,
-      "by": "user_7832",
-      "comments": 76
+      "id": "0dcf9d44b8657a7d",
+      "title": "Bf16 might be freezing your weight updates",
+      "url": "https://lacuna.tiptreesystems.com/paper/bf16-might-be-freezing-your-weight-updates/art_487b1ed949e745a6ae0c42815b8d3cba",
+      "score": 8,
+      "by": "martincsweiss",
+      "comments": 2
     },
     {
-      "id": "09323131c4540fb2",
-      "title": "Could a modern chess engine on a Pentium have defeated Kasparov in 1996?",
-      "url": "https://nicholas.carlini.com/writing/2026/algorithmic-improvements-chess.html",
-      "score": 438,
-      "by": "markusw",
-      "comments": 207
+      "id": "db31d3402edf5f0a",
+      "title": "Nvidia RTX Spark encrypted firmware slows inference speed to 35% on Linux",
+      "url": "https://www.mindstudio.ai/blog/linux-nvidia-rtx-spark-laptop",
+      "score": 586,
+      "by": "novaRom",
+      "comments": 270
     },
     {
-      "id": "5f184dcb64b2cfa6",
-      "title": "Mac at Any Scale",
-      "url": "https://namespace.so/blog/mac-at-any-scale",
-      "score": 306,
-      "by": "anner_",
-      "comments": 173
+      "id": "1ebb2d628f1597cf",
+      "title": "Guerrilla bike lanes: San Francisco makes illicit infrastructure permanent (2016)",
+      "url": "https://99percentinvisible.org/article/guerrilla-bike-lanes-san-francisco-makes-illicit-infrastructure-permanent/",
+      "score": 248,
+      "by": "zenincognito",
+      "comments": 180
     },
     {
-      "id": "5d96334362871acf",
-      "title": "How I use AI (Oct 2026)",
-      "url": "https://ben.stolovitz.com/posts/how-use-ai-oct-2026/",
-      "score": 72,
-      "by": "citelao",
-      "comments": 68
+      "id": "94533616f158b8bf",
+      "title": "Is Curiosity Good for Us?",
+      "url": "https://www.lrb.co.uk/the-paper/v48/n20/adam-phillips/is-curiosity-good-for-us",
+      "score": 14,
+      "by": "NaOH",
+      "comments": 5
+    },
+    {
+      "id": "c4be40bf76ddbae5",
+      "title": "Basically no one is using AI agents for their DoorDash orders",
+      "url": "https://arstechnica.com/ai/2026/10/doordash-says-outside-ai-agents-have-only-led-to-hundreds-of-orders-so-far/",
+      "score": 58,
+      "by": "PaulHoule",
+      "comments": 82
+    },
+    {
+      "id": "9b175a41f997a622",
+      "title": "OpenAI to acquire Pierre Computer Company",
+      "url": "https://openai.com/index/openai-to-acquire-pierre/",
+      "score": 169,
+      "by": "itunpredictable",
+      "comments": 55
     }
   ],
   "sources_ok": [
@@ -3280,5 +3586,5 @@
     "36氪",
     "虎嗅:ReadTimeout"
   ],
-  "total": 345
+  "total": 379
 }
