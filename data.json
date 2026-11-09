@@ -1,6 +1,204 @@
 {
-  "generated_at": "2026-11-08T08:35:09.930434+08:00",
+  "generated_at": "2026-11-09T08:37:17.460352+08:00",
   "items": [
+    {
+      "id": "145c9be6f381fddf",
+      "title": "早报｜曝特努斯要求加快AI研发/Win 11优化8GB内存电脑流畅度/马斯克：SpaceX明年12月年化营收或超5000亿美元",
+      "url": "https://www.ifanr.com/1688379?utm_source=rss&utm_medium=rss&utm_campaign=",
+      "source": "爱范儿",
+      "category": "科技",
+      "published": "2026-11-09T08:34:19+08:00",
+      "summary": "· 苹果称超 10 万款应用已适配 iPhone Duo · Anthropic 拟于本周启动 IPO 路演 · 比亚迪李柯回应玛莎拉蒂收购传闻#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。"
+    },
+    {
+      "id": "fcc48a3d417bcf74",
+      "title": "XPeng Tried to Sound Young and Sounded Insecure Instead",
+      "url": "https://www.tmtpost.com/8197837.html",
+      "source": "钛媒体",
+      "category": "创投",
+      "published": "2026-11-09T08:10:06+08:00",
+      "summary": "A MONA SUV launch meant to court first-time EV buyers turned into a fight over internet slang and “boss taste.” XPeng needed a volume car in a brutal price band. It got a debate about whether its youth strategy is product or posture."
+    },
+    {
+      "id": "b91091d2cfcb2a1f",
+      "title": "【钛晨报】国常会：完善资本市场稳市机制，增强股市内在稳定性；伯克希尔Q3营业利润小幅下滑，回购为年内单季最高，现金攀升至3774亿美元；中国央行连续第24个月增持黄金",
+      "url": "https://www.tmtpost.com/8197696.html",
+      "source": "钛媒体",
+      "category": "创投",
+      "published": "2026-11-09T07:20:00+08:00",
+      "summary": "小米汽车架构调整：成立国际业务部，副总裁于立国兼任国际业务部总经理；火山引擎汽车研发苏杰被曝离职，知情人士称非技术负责人；马斯克放话：Q4营收料将增长70%，明年剑指5000亿美元；苹果研究团队披露机器人“大脑”进展，单项任务测试平均成功率为91%；谷歌母公司Alphabet斥资约5.48亿美元建仓高通，押注AI数据中心芯片赛道；中国首个科技法学院在雄安新区成立；国家发改委：抓紧出台配套政策，支持“六网协同”新场景培育打造；七部门发布《关于加快航运保险高质量发展的指导意见》；上交所：沪市上市公司总市值超65万亿元；消息称OpenAI完成110亿美元首期新融资，估值1.25万亿美元；市场监管总局"
+    },
+    {
+      "id": "2c821f57183a5686",
+      "title": "派早报：特斯拉将停产 Cybertruck",
+      "url": "https://sspai.com/post/118805",
+      "source": "少数派",
+      "category": "科技",
+      "published": "2026-11-09T06:41:56+08:00",
+      "summary": "特斯拉将停产 Cybertruck深圳在 APEC 前夕整顿非法市场美国数据中心股持续遭抛售，大量建设项目被取消京津冀三地消协组织敦促航司、平台规范机票退改签FBI 警告冰柜网络安全攻击风险广电总局部署开展新一轮微短剧专项治理工作看看就行的简讯少数派的近期动态你可能错过的好文章查看全文"
+    },
+    {
+      "id": "07de0e3112ee6307",
+      "title": "LG 因其智能电视监视用户面临法律诉讼",
+      "url": "https://www.solidot.org/story?sid=85829",
+      "source": "Solidot",
+      "category": "科技",
+      "published": "2026-11-08T23:23:44+08:00",
+      "summary": "今年 9 月，研究人员报告 LG 智能电视会在屏幕关闭但没有断电的待机状态下扫描家庭网络，寻找手机和智能手表等设备和记录麦克风音频。除了内部 IP 地址，智能电视还会收集邻近 Wi-Fi 网络的名称、信号强度以及位置数据。收集的数据会发送到 LG 的定向广告部门 LG Ad Solutions。LG 对该报告予以否认。消费者保护组织对此并不买账。葡萄牙的 Citizens Voice 请求葡萄牙法院对 LG 的声明进行审查，它希望法院介入调查，判定此类数据收集行为是否侵犯了消费者的权益；如果认定侵权，则不仅应针对 LG 采取行动，还应将零售商一并纳入追责范围。"
+    },
+    {
+      "id": "2734dfc702a9ad6c",
+      "title": "太平洋垃圾带海水变得更蓝更绿",
+      "url": "https://www.solidot.org/story?sid=85828",
+      "source": "Solidot",
+      "category": "科技",
+      "published": "2026-11-08T22:40:27+08:00",
+      "summary": "2002-2022 年间，在太平洋垃圾带内，部分太平洋海域的颜色发生了变化，部分区域明显变得更蓝、更绿。一项新研究表明，这可能是海水中微塑料浓度增加所致。直径小于 300 微米的微塑料颗粒造成的海洋污染难以直接测量，实验室研究表明，这一尺寸的微塑料具有特定的光学特性，或许能让人们通过遥感手段测量其在海水中的浓度。太平洋垃圾带适合用来检验这一方法，因为2016年的原位测量显示，该区域近表层海水中较大微塑料颗粒的含量可能超过每立方米 17 毫克。太平洋垃圾带位于太平洋亚热带环流中心海域，是人类丢弃的塑料垃圾在洋流作用下长期聚集形成的巨大漂浮垃圾堆积区。其面积约 16 0万平方公里，是全球最大的海洋"
+    },
+    {
+      "id": "cf769698c5eaffae",
+      "title": "微软移除了 PC 到 PC 的迁移功能",
+      "url": "https://www.solidot.org/story?sid=85827",
+      "source": "Solidot",
+      "category": "科技",
+      "published": "2026-11-08T22:34:13+08:00",
+      "summary": "Windows 11 曾提供了一种 PC-to-PC 迁移工具，允许用户通过 Wi-Fi 或以太网在两台 PC 之间直接传输文件和设置。然而该工具如今已经移除。微软更新后的支持文档推荐用户使用 Windows Backup 工具。该工具不再依赖两台 PC 之间的直接连接，而是基于云存储服务 OneDrive。Windows Backup 需要用户登录个人微软账户，将支持的文件夹 Desktop、Documents、Pictures、Videos 和 Music 备份到 OneDrive。免费版 OneDrive 账户仅提供 5GB 存储空间。如果用户积累了多年的照片和文档，存储空间很快会超出免"
+    },
+    {
+      "id": "4b1a8b171655212a",
+      "title": "台积电考虑进入内存行业",
+      "url": "https://www.solidot.org/story?sid=85826",
+      "source": "Solidot",
+      "category": "科技",
+      "published": "2026-11-08T21:43:08+08:00",
+      "summary": "应最大客户英伟达的要求，台积电考虑进入内存行业，生产名为 3D DRAM 的先进内存芯片。台积电可能会选择新建工厂生产先进内存芯片，但尚不清楚计划何时开始生产。它也在探索收购现有工厂将其改造为内存芯片生产基地的可能性。该项目由台积电负责先进封装业务的副总裁徐国晋的领导。如果台积电进军先进内存芯片行业，它将不得不与三星电子、SK 海力士以及美光等公司展开竞争。"
+    },
+    {
+      "id": "31ab917b105680b2",
+      "title": "屏幕竖起来，创作者不会矮一截",
+      "url": "https://www.tmtpost.com/8197337.html",
+      "source": "钛媒体",
+      "category": "创投",
+      "published": "2026-11-08T20:14:40+08:00",
+      "summary": "刷短剧的人，只是在找一个情绪出口。"
+    },
+    {
+      "id": "0cf50d6257c6e84c",
+      "title": "华为、OpenAI、字节等科技巨头为何都要插手制药？",
+      "url": "https://www.tmtpost.com/8197608.html",
+      "source": "钛媒体",
+      "category": "创投",
+      "published": "2026-11-08T20:13:38+08:00",
+      "summary": "为何科技巨头都要插手制药？以及，AI到底能给制药带来多大改变？"
+    },
+    {
+      "id": "abe88855af769b7e",
+      "title": "字节跳动正在巴西扩建数据中心",
+      "url": "https://www.tmtpost.com/8196975.html",
+      "source": "钛媒体",
+      "category": "创投",
+      "published": "2026-11-08T20:13:32+08:00",
+      "summary": "字节跳动正于巴西打造其海外最大规模算力资产布局。"
+    },
+    {
+      "id": "31e18e45d17600ae",
+      "title": "刘庆峰交出科大讯飞半张AI答卷",
+      "url": "https://www.tmtpost.com/8197516.html",
+      "source": "钛媒体",
+      "category": "创投",
+      "published": "2026-11-08T20:13:27+08:00",
+      "summary": "科大讯飞的AI布局像个杂货铺么？"
+    },
+    {
+      "id": "617c5f276a58b54d",
+      "title": "先进封装扩产潮，还差哪些？",
+      "url": "https://www.tmtpost.com/8197519.html",
+      "source": "钛媒体",
+      "category": "创投",
+      "published": "2026-11-08T20:10:41+08:00",
+      "summary": "透视国产先进封装产能落地和供应链的真实进度。"
+    },
+    {
+      "id": "d86083d703100295",
+      "title": "旷视的十五岁：不再等IPO，先谈扭亏",
+      "url": "https://www.tmtpost.com/8188516.html",
+      "source": "钛媒体",
+      "category": "创投",
+      "published": "2026-11-08T20:09:39+08:00",
+      "summary": "旷视战略收敛转做运营服务商，求可持续盈利。"
+    },
+    {
+      "id": "dab983c68019cacc",
+      "title": "修车店盯上了4S店最后的一块利润蛋糕",
+      "url": "https://www.tmtpost.com/8197385.html",
+      "source": "钛媒体",
+      "category": "创投",
+      "published": "2026-11-08T20:09:33+08:00",
+      "summary": "一辆车开进修理厂，老板最想接的活是“自己修得好、修得快、修完不返工的活”。"
+    },
+    {
+      "id": "f439b1eb410957a4",
+      "title": "中石油60%控股，与宇树、泛界合设公司，油气机器人“验收权”不能交给外部厂商",
+      "url": "https://www.tmtpost.com/8197535.html",
+      "source": "钛媒体",
+      "category": "创投",
+      "published": "2026-11-08T20:09:29+08:00",
+      "summary": "中石油控股三方合营，锚定油气具身机器人标准定义。"
+    },
+    {
+      "id": "f129f7ed82c29e37",
+      "title": "为什么「陪伴」，注定是 Personal AI 的核心",
+      "url": "http://www.geekpark.net/news/373653",
+      "source": "极客公园",
+      "category": "AI",
+      "published": "2026-11-08T17:52:45+08:00",
+      "summary": "作者｜宇航猿 编辑｜靖宇 最近这一波 Personal AI 实在太火了，我也注册了一个 Muse 体验了一下。 整个体验下来，我感觉 Muse 的能力实在一般，远没到让人惊叹的地步。但奇怪的是，它确实带来了一种真切的陪伴感。这种陪伴感，甚至直接改变了我的使用习惯，让我总是忍不住想找它聊聊，哪怕只是把最琐碎的需求丢给它。 就在本周，Muse 又往前迈了一步，正式上线了实时语音和会动的头像。无独有偶，各家 AI 助手最近都在做同一件事，就是给个人 AI 助手开通语音和对话功能。 这让我非常好奇，距离 ChatGPT 端出惊艳的语音模式，已经过去两年了，为什么到了现在这个时间点，所有的个人 AI "
+    },
+    {
+      "id": "18ad01ad62482c68",
+      "title": "别再拿《影之刃零》对比《黑神话》了",
+      "url": "https://www.ifanr.com/1688282?utm_source=rss&utm_medium=rss&utm_campaign=",
+      "source": "爱范儿",
+      "category": "科技",
+      "published": "2026-11-08T12:00:31+08:00",
+      "summary": "《影之刃》有自己的江湖。#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。"
+    },
+    {
+      "id": "6702fc44dda84974",
+      "title": "被年轻人遗忘的磁带，正在 AI 时代闷声发大财 原",
+      "url": "https://www.ifanr.com/1688364?utm_source=rss&utm_medium=rss&utm_campaign=",
+      "source": "爱范儿",
+      "category": "科技",
+      "published": "2026-11-08T11:35:42+08:00",
+      "summary": "磁带在 AI 时代迎来了第二春。#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。"
+    },
+    {
+      "id": "c5031a75d4fd8625",
+      "title": "苹果产品那些不够颠覆，却值得被学习的细节",
+      "url": "https://sspai.com/post/118114",
+      "source": "少数派",
+      "category": "科技",
+      "published": "2026-11-08T11:18:54+08:00",
+      "summary": "Matrix首页推荐Matrix是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选Matrix最优质的文章，展示来自用户的最真实的体验和观点。文章代表作者个人观点 ...查看全文"
+    },
+    {
+      "id": "848efd8bcd76fb36",
+      "title": "创业者做 Personal Agent，有没有一线生机？",
+      "url": "http://www.geekpark.net/news/373650",
+      "source": "极客公园",
+      "category": "AI",
+      "published": "2026-11-08T10:40:20+08:00",
+      "summary": "最近一阶段，Personal Agent 很热。有趣的是，这个概念迅速火爆又迅速有了一个共识，几波讨论下来大家的观点似乎是： Personal Agent 的机会是大厂的，创业者基本没戏。 虽然一般情况下，「入口级机会归大厂」确实是大概率发生的事情，但 Personal Agent 真的是个「入口」的问题吗？真的意味着「这件事里没有创业者的位置」吗？ 这依旧值得认真聊一聊。 真正值得兴奋的事：价值可以长在基模外 我们换一个视角看，Personal Agent 为什么让人兴奋？ 因为它给创业者提供了一种新的可能：产品的终极价值不来自于今天大模型公司提供的智能，而是可以借助大模型的能力来孕育产品，"
+    },
+    {
+      "id": "5c775e6b89c5c3e3",
+      "title": "收购 EA 后，银湖资本与沙特基金 250 亿美元报价 Unity；超10万款应用已适配iPhone Duo；美国再发生 NVIDIA AI 设备失窃案",
+      "url": "http://www.geekpark.net/news/373649",
+      "source": "极客公园",
+      "category": "AI",
+      "published": "2026-11-08T08:57:46+08:00",
+      "summary": "收购 EA 之后，银湖资本与沙特公共投资基金据报出价 250 亿美元收购 Unity 据路透社援引未具名知情人士的消息报道，由美国私募股权公司银湖资本（Silver Lake Partners）与沙特阿拉伯主权财富基金——公共投资基金（PIF）组成的投资者财团，已向 Unity Software 提出收购要约，对这家公司的估值约为 250 亿美元。据悉，Unity 正在认真考虑这一报价，并已聘请一家投资银行提供咨询。 据路透社援引未具名知情人士的消息报道，由美国私募股权公司银湖资本（Silver Lake Partners）与沙特阿拉伯主权财富基金——公共投资基金（PIF）组成的投资者财团，已"
+    },
     {
       "id": "2db8e5a347f0a864",
       "title": "最贵比亚迪来了！仰望鼎曜亮相中东，「山河鼎韵」限量版定金 30 万元",
@@ -4225,164 +4423,164 @@
   ],
   "hot": [
     {
-      "id": "24917baa0d3e1063",
-      "title": "The end of Microsoft Research's AI Frontiers group",
-      "url": "https://hunch.net/?p=13764006",
-      "score": 343,
-      "by": "srean",
-      "comments": 198
+      "id": "565f0052a837baed",
+      "title": "KetchUp – Open-source SketchUp alternative built with Rust and WebGPU",
+      "url": "https://ketchup3d.github.io/app/",
+      "score": 118,
+      "by": "dcoulmbe",
+      "comments": 18
     },
     {
-      "id": "386b129169daf771",
-      "title": "What I run on my $10 USD OpenStick homelab",
-      "url": "https://blog.bosscher.ch/posts/openstick/",
-      "score": 303,
-      "by": "LaurensBER",
-      "comments": 75
+      "id": "4a60ab92062b16d2",
+      "title": "Herb Sutter: When a language's creator and its owners strongly disagree [pdf]",
+      "url": "https://isocpp.org/files/papers/P4454R0.pdf",
+      "score": 27,
+      "by": "acossta",
+      "comments": 3
     },
     {
-      "id": "a7f4b166abfaf42a",
-      "title": "Making any integer with four 2s (2025)",
-      "url": "https://eli.thegreenplace.net/2025/making-any-integer-with-four-2s/",
-      "score": 39,
-      "by": "germanrabbit",
-      "comments": 8
+      "id": "24e08a42596b615a",
+      "title": "Chimera Vocal Synth",
+      "url": "https://chimera-vocal-synth.vercel.app/",
+      "score": 58,
+      "by": "nmstoker",
+      "comments": 10
     },
     {
-      "id": "094c74e51660199f",
-      "title": "GitHub New pull request overview page in public preview",
-      "url": "https://github.blog/changelog/2026-11-05-new-pull-request-overview-page-in-public-preview/",
-      "score": 29,
-      "by": "xiaoyu2006",
-      "comments": 21
+      "id": "7ee637d3d4cecb37",
+      "title": "Ask HN: What are you working on? (November 2026)",
+      "url": "https://news.ycombinator.com/item?id=50417407",
+      "score": 101,
+      "by": "david927",
+      "comments": 389
     },
     {
-      "id": "1738a6e2343e4475",
-      "title": "Claude Code's \"Don't Ask Again\" exposes passwords in 1,122 public GitHub files",
-      "url": "https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again",
-      "score": 130,
-      "by": "shmulc",
-      "comments": 95
+      "id": "6bae0f422ece83a9",
+      "title": "Dux: Free, open-source Wayland desktop shell with file manager and theming",
+      "url": "https://duxlabs.dev/",
+      "score": 179,
+      "by": "indigodaddy",
+      "comments": 58
     },
     {
-      "id": "67e9fcc6e19ac4a9",
-      "title": "Apple’s grey list: Words and phrases your iPhone won’t help you spell",
-      "url": "https://www.theguardian.com/technology/2026/nov/06/struggling-to-spell-male-chauvinist-pig-apple-grey-list-means-your-iphone-wont-help-you",
-      "score": 330,
-      "by": "user_7832",
-      "comments": 224
+      "id": "174d2013be33db1c",
+      "title": "Declarative Dragging",
+      "url": "https://declarative-dragging.github.io/",
+      "score": 314,
+      "by": "smusamashah",
+      "comments": 37
     },
     {
-      "id": "6f324f1f4f8fcc17",
-      "title": "Show HN: Coldframe, a honeypot that poses as a supermarket fridge controller",
-      "url": "https://github.com/hedgerow-dev/coldframe",
-      "score": 185,
-      "by": "hedgerow-dev",
+      "id": "8b32dd952524cf72",
+      "title": "Outlook.com Is Quietly Rejecting Email from Domains Without DMARC",
+      "url": "https://mailroute.net/blog/outlook-rejecting-email-without-dmarc",
+      "score": 215,
+      "by": "xmddmx",
+      "comments": 172
+    },
+    {
+      "id": "3248a67541b4f2e7",
+      "title": "Goldman Sachs is pulling Claude Code from its bankers and traders",
+      "url": "https://www.thestateofai.com/news/goldman-sachs-claude-code-traders-bankers",
+      "score": 566,
+      "by": "TheWiggles",
+      "comments": 339
+    },
+    {
+      "id": "8f5c159b236db8cb",
+      "title": "The Web Is More Than Enough, by Paul Ford",
+      "url": "https://ftrain.com/aboard-the-web-is-more-than-enough",
+      "score": 58,
+      "by": "edward",
+      "comments": 30
+    },
+    {
+      "id": "158aa6afb4ad17a5",
+      "title": "Llama-modchip: 284B DeepSeek on 64GB RAM, no GPU",
+      "url": "https://github.com/synchopate/llama-modchip",
+      "score": 351,
+      "by": "joshcsimmons",
+      "comments": 146
+    },
+    {
+      "id": "64e033dfe0424297",
+      "title": "Nvidia CEO Jensen Huang's letter to staff about affair",
+      "url": "https://www.axios.com/2026/11/08/nvidia-ceo-jensen-huang-affair-email-to-company",
+      "score": 285,
+      "by": "karimf",
+      "comments": 283
+    },
+    {
+      "id": "40bb06089e716e80",
+      "title": "Edward Hopper's Iconic Painting, \"Nighthawks",
+      "url": "https://lithub.com/the-story-behind-edward-hoppers-iconic-painting-nighthawks/",
+      "score": 64,
+      "by": "prismatic",
+      "comments": 22
+    },
+    {
+      "id": "cca77a9ef2800f42",
+      "title": "The History of Djgpp (1998)",
+      "url": "https://www.delorie.com/djgpp/history.html",
+      "score": 37,
+      "by": "atan2",
+      "comments": 10
+    },
+    {
+      "id": "683f591df5c9b628",
+      "title": "Playing with the STM32MP2",
+      "url": "https://serd.es/2026/11/08/playing-with-stm32mp2.html",
+      "score": 31,
+      "by": "dverlaeckt80",
+      "comments": 18
+    },
+    {
+      "id": "36c4ea812f54dc22",
+      "title": "Writing as a thinking tool",
+      "url": "http://muratbuffalo.blogspot.com/2026/11/writing-as-thinking-tool.html",
+      "score": 263,
+      "by": "jruohonen",
+      "comments": 80
+    },
+    {
+      "id": "86c87ea2a1b31f2b",
+      "title": "Show HN: Vegetable Gardening for Engineers",
+      "url": "https://jrcpl.us/contrib/2020/gardening-for-engineers/",
+      "score": 157,
+      "by": "jrcplus",
+      "comments": 31
+    },
+    {
+      "id": "312bebd4b2ca7733",
+      "title": "Goodbye Claude, hello Pi",
+      "url": "https://caleb.software/posts/claude-to-pi.html",
+      "score": 689,
+      "by": "karagenit",
+      "comments": 424
+    },
+    {
+      "id": "64687c6e24c305a9",
+      "title": "The Kekulé Problem – Cormac McCarthy",
+      "url": "https://nautil.us/the-kekul-problem-236574",
+      "score": 5,
+      "by": "bearseascape",
+      "comments": 1
+    },
+    {
+      "id": "4bb1e19e708e5161",
+      "title": "I'm not a fan of Deno's security model (2024)",
+      "url": "https://goldstein.lol/posts/deno-security/",
+      "score": 81,
+      "by": "maxloh",
       "comments": 39
     },
     {
-      "id": "2499a1378103199d",
-      "title": "MaxxBench – \"Nice DeepSWE score. But is it true?\"",
-      "url": "https://maxxbench.unlap.ai/research/why-maxxbench/",
-      "score": 183,
-      "by": "antiuniverse",
-      "comments": 55
-    },
-    {
-      "id": "52fcf43341762315",
-      "title": "Uranium cubes reveal why the German nuclear project failed",
-      "url": "https://arstechnica.com/science/2026/11/uranium-cubes-reveal-why-the-german-nuclear-project-failed/",
-      "score": 51,
-      "by": "rbanffy",
-      "comments": 11
-    },
-    {
-      "id": "40cf650a3ac1a6f0",
-      "title": "Need for Speed Underground 2 online in the browser",
-      "url": "https://nfsu2.xyz/",
-      "score": 783,
-      "by": "fluxusars",
-      "comments": 223
-    },
-    {
-      "id": "d307d321896f4d91",
-      "title": "Turning Every Radio into a Radar",
-      "url": "https://tiaminetworks.com/turning-every-radio-into-a-radar/",
-      "score": 19,
-      "by": "hasley",
-      "comments": 5
-    },
-    {
-      "id": "29a9825ab50eca9a",
-      "title": "Show HN: An offline desktop companion to help maintain a healthy blink rhythm",
-      "url": "https://eyesrhythm.com/",
-      "score": 22,
-      "by": "prnysoni",
-      "comments": 6
-    },
-    {
-      "id": "80b72895a17adb5e",
-      "title": "Five memorable books about programming (2008)",
-      "url": "https://prog21.dadgum.com/19.html",
-      "score": 79,
-      "by": "andsoitis",
-      "comments": 50
-    },
-    {
-      "id": "45cfc843e49e1682",
-      "title": "Study solved a 150-year-old mystery into the identity of the extinct giant crane",
-      "url": "https://www.bournemouth.ac.uk/news/2026-10-28/study-has-solved-150-year-old-mystery-identity-extinct-giant-crane",
-      "score": 8,
-      "by": "gmays",
-      "comments": 0
-    },
-    {
-      "id": "18ddbf90f0494918",
-      "title": "Every Mac comes with an (undocumented) family member classifier",
-      "url": "https://8rank.ai/game/apple-intelligence-personal-knowledge-graph",
-      "score": 582,
-      "by": "infwhispers",
-      "comments": 333
-    },
-    {
-      "id": "7c024aac1bbfda5b",
-      "title": "Retro Song Bird: Plug in any Game Boy cartridge to hear the soundtrack",
-      "url": "https://www.retrosongbird.com/",
-      "score": 29,
-      "by": "hentrep",
-      "comments": 7
-    },
-    {
-      "id": "7520271269d663be",
-      "title": "The $8 Linux Computer (2022)",
-      "url": "http://thelittleengineerthatcould.blogspot.com/2022/12/the-8-linux-computer.html",
-      "score": 192,
-      "by": "zenincognito",
-      "comments": 84
-    },
-    {
-      "id": "0a26384861c2225c",
-      "title": "Every Windows 11 app should kill Electron, and Discord just showed why",
-      "url": "https://www.windowslatest.com/2026/11/06/every-windows-11-app-should-kill-electron-and-discord-just-showed-why-no-starting-screen-and-70-less-ram-even-with-two-accounts-signed-in/",
-      "score": 199,
-      "by": "thunderbong",
-      "comments": 196
-    },
-    {
-      "id": "440450fcfd814198",
-      "title": "How Long Can Life Wait?",
-      "url": "https://mceglowski.substack.com/p/how-long-can-life-wait",
-      "score": 119,
-      "by": "Ariarule",
-      "comments": 69
-    },
-    {
-      "id": "32bcf442713596ba",
-      "title": "GeoWorks, Microsoft Windows' Upstart '90s Competitor (2016)",
-      "url": "https://www.atlasobscura.com/articles/the-history-of-geoworks-microsoft-windows-upstart-90s-competitor",
-      "score": 37,
-      "by": "andsoitis",
-      "comments": 14
+      "id": "85a77bd2ee1c260d",
+      "title": "Nvidia Board of Directors Is Investigating Jensen Huang",
+      "url": "https://nvidianews.nvidia.com/news/statement-from-nvidia-board-of-directors",
+      "score": 360,
+      "by": "vincentchau",
+      "comments": 275
     }
   ],
   "sources_ok": [
@@ -4396,5 +4594,5 @@
     "36氪",
     "虎嗅:ReadTimeout"
   ],
-  "total": 469
+  "total": 491
 }
