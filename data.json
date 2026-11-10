@@ -1,6 +1,348 @@
 {
-  "generated_at": "2026-11-09T08:37:17.460352+08:00",
+  "generated_at": "2026-11-10T08:34:49.761804+08:00",
   "items": [
+    {
+      "id": "61f5c190c64ded62",
+      "title": "Edge AI Daily 早报（11月10日）",
+      "url": "https://www.tmtpost.com/8198977.html",
+      "source": "钛媒体",
+      "category": "创投",
+      "published": "2026-11-10T08:32:31+08:00",
+      "summary": "英伟达董事会就CEO黄仁勋被指成为外国情报行动目标启动独立调查，黄仁勋承认个人不忠并配合调查，股价三日累计下跌约13.6%、市值蒸发超7000亿美元，亚洲供应链同步重挫——SK海力士跌11.7%、台积电跌8.5%，市场重估关键人依赖与治理折价。"
+    },
+    {
+      "id": "20d718fb9cef924e",
+      "title": "全球视野下的社会力量支持基础研究：从\"补位\"到\"共建\"",
+      "url": "https://www.tmtpost.com/8197977.html",
+      "source": "钛媒体",
+      "category": "创投",
+      "published": "2026-11-10T08:30:00+08:00",
+      "summary": "社会力量不是基础研究资助的\"锦上添花\"，而是多元化投入格局中不可或缺的结构性支柱。"
+    },
+    {
+      "id": "d8bc291c6be6a8fd",
+      "title": "ChatGPT 占全球 AI 聊天流量超 81%；iOS 27.3 曝光 Siri「个人记忆系统」；传玛莎拉蒂+尊界合作新车曝光｜极客早知道",
+      "url": "http://www.geekpark.net/news/373736",
+      "source": "极客公园",
+      "category": "AI",
+      "published": "2026-11-10T08:19:15+08:00",
+      "summary": "8 天从零搓出操作系统：Anthropic 最强 Claude Fable / Mythos 5.2 AI 模型登场，API 调用费下降 20%11 月 10 日消息，Anthropic 昨日（11 月 9 日）官宣推出 Claude Fable 5.2 和 Claude Mythos 5.2，两款模型基于同一底层模型，前者面向普通用户并内置网络安全与生物安全防护，后者则面向通过审核的网络安全和生命科学机构开放，用于高风险的专业应用。定价方面，Claude Fable 5.2 每 100 万词元（Token）输入费用为 8 美元（IT 之家注：现汇率约合 53.4 元人民币），每 100 万词"
+    },
+    {
+      "id": "1b712a30988160ea",
+      "title": "【钛晨报】“星云星座计划”发布，中国太空算力网加快部署；对冲基金以史上最快的速度之一抛售全球科技股；谷歌推出两款新TPU芯片，加码与英伟达竞争",
+      "url": "https://www.tmtpost.com/8198851.html",
+      "source": "钛媒体",
+      "category": "创投",
+      "published": "2026-11-10T07:20:00+08:00",
+      "summary": "中国10月CPI同比上涨0.7%，环比持平；李强签署国务院令，公布《中医药传统知识保护条例》；字节跳动发布豆包图像模型Seedream 5.5；英伟达宣布对多家韩国AI初创企业投资计划；媒体：黄仁勋或被英伟达免职，尚未指定接班人；AMD：第五代EPYC处理器为谷歌TPU 8tx提供主机基础设施"
+    },
+    {
+      "id": "a20d0c93192b6cad",
+      "title": "刚刚，Claude Fable 5.2 登顶世界第一，一夜斩杀 Opus 5.5",
+      "url": "https://www.ifanr.com/1688605?utm_source=rss&utm_medium=rss&utm_campaign=",
+      "source": "爱范儿",
+      "category": "科技",
+      "published": "2026-11-10T06:54:06+08:00",
+      "summary": "全球最强模型再次易主#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。"
+    },
+    {
+      "id": "940a2805b45b99b2",
+      "title": "玛莎拉蒂将与尊界联合造车，首发车型或为双门 GT，明年正式量产",
+      "url": "https://www.ifanr.com/1688586?utm_source=rss&utm_medium=rss&utm_campaign=",
+      "source": "爱范儿",
+      "category": "科技",
+      "published": "2026-11-09T22:56:35+08:00",
+      "summary": "中国车企买标充门面的时代已经过去了。#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。"
+    },
+    {
+      "id": "81bf2dec37184a8f",
+      "title": "火星发现存在活火山的证据",
+      "url": "https://www.solidot.org/story?sid=85841",
+      "source": "Solidot",
+      "category": "科技",
+      "published": "2026-11-09T21:19:02+08:00",
+      "summary": "科学家将通常由岩浆产生的气体证据与在火星表面新发现的裂缝联系起来，指出火星可能存在火山活动。这一发现可谓寻找生命过程中的好消息，因为要使微生物免受火星表面严寒温度的侵害，就需要持续的热源。科学家已发现火星在过去几百万年间存在火山活动的证据，地震活动也暗示其中一些火山可能仍然活跃，但此前从未发现过熔岩流动或喷发的证据。2019 年，欧空局“微量气体火星轨道器”在火星大气中探测到了氯化氢的存在。这种气体在地球上通常与岩浆喷口相关联，因此，研究人员想知道火星上是否也存在类似情况。为了进一步探究，波兰研究人员分析了仅有的少量气体数据以及新拍摄的火星表面照片。他们成功将火星阿尔巴山地区近期出现的狭窄裂缝"
+    },
+    {
+      "id": "30200c75a9026188",
+      "title": "世界大城市都在沉降",
+      "url": "https://www.solidot.org/story?sid=85840",
+      "source": "Solidot",
+      "category": "科技",
+      "published": "2026-11-09T21:08:27+08:00",
+      "summary": "北大 Lijun Wang 等人在《Nature Cities》期刊上发表了一篇论文，利用卫星雷达对地面微小位移的测量分析了全世界人口超过百万的 465 座城市城市的地面沉降。数据显示，10 座地面沉降最严重的城市分别是：墨西哥的托雷翁、墨西哥城和托卢卡，巴西的弗洛里亚诺波利斯、伊朗的伊斯法罕、孟加拉国的吉大港、缅甸的仰光、印尼的棉兰和万隆，以及中国的天津。地面沉降现象在东南亚、西亚、中亚和北美地区最为严重，南美洲和非洲也出现了类似问题。地面沉降的最主要因素是抽取地下水。真正危险的是不均匀沉降。未参与这项研究的加州伯克利地球物理学家 Roland Bürgmann 指出：如果整座城市能平稳整体"
+    },
+    {
+      "id": "e6decaed54037c53",
+      "title": "30 公斤的巨鼠曾在三千万年前生活在今天的泰国",
+      "url": "https://www.solidot.org/story?sid=85839",
+      "source": "Solidot",
+      "category": "科技",
+      "published": "2026-11-09T20:41:39+08:00",
+      "summary": "科学家根据两枚化石牙齿识别出一种体重约 30 公斤的巨型啮齿动物曾在 3300 万至 3500 万年前活跃于今天的泰国南部地区。泰国矿产资源部地质学家于 2004 年在甲米省一处煤矿中发现的一枚臼齿和一枚门齿。甲米盆地此前曾出土过古代灵长类、食肉动物和有蹄类哺乳动物的化石。当时研究团队缺乏足够的证据和技术手段确定该物种的身份。二十多年后泰国、法国和加拿大的研究人员对牙齿进行详细分析，确定该动物的体重约为 30 公斤——大约相当于现存世界最大啮齿动物——水豚体重的一半。与南美洲水豚不同的是，这种史前啮齿动物属于现已灭绝的古鼠科。该物种被命名为 Yakamys sirindhornae，致敬了支持"
+    },
+    {
+      "id": "6ef0b322a9fc1179",
+      "title": "实测 Seedream5.5，豆包想把 AI 作图接进整条工作流",
+      "url": "https://www.ifanr.com/1688447?utm_source=rss&utm_medium=rss&utm_campaign=",
+      "source": "爱范儿",
+      "category": "科技",
+      "published": "2026-11-09T20:01:18+08:00",
+      "summary": "还有改图 100 轮都不糊#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。"
+    },
+    {
+      "id": "503fbcc3a3e1bd90",
+      "title": "*ST亿晶重整易主引爆五连板：中润光能拟入主，游资击鼓传花",
+      "url": "https://www.tmtpost.com/8198759.html",
+      "source": "钛媒体",
+      "category": "创投",
+      "published": "2026-11-09T19:57:26+08:00",
+      "summary": "不过是又一场借题发挥的游资狂欢。"
+    },
+    {
+      "id": "4e63cc8b346aaa8c",
+      "title": "唐山工控集团投资者交流会落地上海，三大上市平台协同构筑产业发展新格局",
+      "url": "https://www.tmtpost.com/8197722.html",
+      "source": "钛媒体",
+      "category": "创投",
+      "published": "2026-11-09T19:37:36+08:00",
+      "summary": "三家上市平台各据赛道，产业协同逻辑进一步清晰。"
+    },
+    {
+      "id": "df8eeb063fd5a614",
+      "title": "光模块龙头股价腰斩之际，天安新材拟2.5亿“追光”｜并购一线",
+      "url": "https://www.tmtpost.com/8198545.html",
+      "source": "钛媒体",
+      "category": "创投",
+      "published": "2026-11-09T19:30:48+08:00",
+      "summary": "天安新材拟跨界。"
+    },
+    {
+      "id": "9e53e5b1fb65c991",
+      "title": "商超重拾散装零食",
+      "url": "https://www.tmtpost.com/8198256.html",
+      "source": "钛媒体",
+      "category": "创投",
+      "published": "2026-11-09T19:04:23+08:00",
+      "summary": "商超重拾散装零食"
+    },
+    {
+      "id": "84d97c01aa91592e",
+      "title": "高盛限制交易员和银行家使用第三方 AI 智能体",
+      "url": "https://www.solidot.org/story?sid=85838",
+      "source": "Solidot",
+      "category": "科技",
+      "published": "2026-11-09T19:04:21+08:00",
+      "summary": "高盛限制交易员和银行家使用 Anthropic 的 Claude Code 和微软的 GitHub，此举主要是出于风险方面的考虑。AI 编程工具主要提供给软件工程师，以及负责交易、量化研究和软件工程等的策略师。交易员将无法再使用这些工具监控客户交易流、模拟市场走势和持仓，以及制作文字和图表。此次限制适用于能独立编写和运行代码的第三方智能体。以 Claude Code 为例，它能读取文件、编写程序并运行，通常拥有与使用者相同的权限。工程师用此类工具编写的代码通常会经过审查、测试和部署控制，然后才会投入使用。交易员编写的脚本则可能未经任何审查就被投入日常使用。使用智能体模拟仓位的交易员不太可能了解"
+    },
+    {
+      "id": "aedf969f1f8fb19a",
+      "title": "AI进不了相亲相爱一家人，怎么办？",
+      "url": "https://www.tmtpost.com/8198165.html",
+      "source": "钛媒体",
+      "category": "创投",
+      "published": "2026-11-09T19:00:16+08:00",
+      "summary": "微信不妨学一学？"
+    },
+    {
+      "id": "58713c5c4d1b3261",
+      "title": "黄仁勋婚外情背后：黄乐的神秘履历、48亿美元芯片生意与美国政策博弈",
+      "url": "https://www.tmtpost.com/8198370.html",
+      "source": "钛媒体",
+      "category": "创投",
+      "published": "2026-11-09T19:00:11+08:00",
+      "summary": "接下来，英伟达要查清这段关系有没有越过公司的制度边界；华盛顿则会借这场风波，重新计算黄仁勋、英伟达与美国AI政策之间的距离。"
+    },
+    {
+      "id": "10a19bd03507b443",
+      "title": "AI带得动这届双十一吗？",
+      "url": "https://www.tmtpost.com/8198668.html",
+      "source": "钛媒体",
+      "category": "创投",
+      "published": "2026-11-09T19:00:07+08:00",
+      "summary": "AI省下的效率，还没换来电商对等的增长。"
+    },
+    {
+      "id": "a1fe8bc6737ef5a3",
+      "title": "派评 | 近期值得关注的 App",
+      "url": "https://sspai.com/post/118833",
+      "source": "少数派",
+      "category": "科技",
+      "published": "2026-11-09T18:27:59+08:00",
+      "summary": ">下载少数派客户端、关注少数派公众号，解锁全新阅读体验📰>实用、好用的正版软件，少数派为你呈现🚀查看全文"
+    },
+    {
+      "id": "5686ada2e930de62",
+      "title": "噪声污染伤害全球野生动物",
+      "url": "https://www.solidot.org/story?sid=85837",
+      "source": "Solidot",
+      "category": "科技",
+      "published": "2026-11-09T18:23:27+08:00",
+      "summary": "科学家早就知道，从喷气发动机的轰鸣到船舶螺旋桨的嗡鸣，人类活动产生的噪声会伤害动物，甚至会干扰鱼卵的正常发育。但此前人们并不清楚这一问题的普遍严重程度。一项大规模分析表明，噪声带来的影响远比研究人员预想的范围更广。研究涵盖陆地与水域共 177 个物种的数据，结果显示，人为噪声会从根本上改变动物的生理机能与行为模式，还会造成许多动物过早死亡。对野生动物而言，人为噪声绝不只是烦恼。噪声会改变鸟类的鸣叫模式，让蜘蛛心跳加速，还会迫使北极一角鲸放弃觅食下潜。总体来看，80% 的被研究物种至少有一项性状受到噪声影响而改变。对部分物种而言，噪声会改变基因表达，另一些物种的免疫功能或呼吸机能受到干扰，还有的"
+    },
+    {
+      "id": "5883c10f33efe33c",
+      "title": "英国纯电动汽车销量即将超过汽油车",
+      "url": "https://www.solidot.org/story?sid=85836",
+      "source": "Solidot",
+      "category": "科技",
+      "published": "2026-11-09T17:57:37+08:00",
+      "summary": "根据英国汽车行业组织 SMMT 的数据，10 月纯电汽车销量占英国新车的份额达到了 32%，而汽油车份额则降至 37.2%。按此趋势，英国纯电动汽车的销量将在一年内超过汽油车，甚至最早今年 12 月就能实现。10 月英国新车注册量为 152,730 辆，同比增长 5.4%，这一增长完全由插电式车型（包括纯电动和插电混动）驱动：纯电动汽车注册量激增 32.7% 达到 48,858 辆；插电混动汽车增长 30.1% 达到 22,898 辆。汽油车注册量下降 11.6% 至 56,876 辆；柴油车下降 15.9%；传统混动汽车下滑 5%。英国增长最快的汽车品牌多来自中国。10 月比亚迪注册量 6,"
+    },
+    {
+      "id": "448145336cb362c2",
+      "title": "谁家 AI 这么听劝？Seedream 5.5 爆改 iPhone Duo 界面，精准到像素级",
+      "url": "https://www.ifanr.com/1688514?utm_source=rss&utm_medium=rss&utm_campaign=",
+      "source": "爱范儿",
+      "category": "科技",
+      "published": "2026-11-09T17:19:02+08:00",
+      "summary": "AI 版 PS 的时代来了#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。"
+    },
+    {
+      "id": "6d9192d1fec8e7dc",
+      "title": "Aaron Swartz 诞辰四十周年",
+      "url": "https://www.solidot.org/story?sid=85835",
+      "source": "Solidot",
+      "category": "科技",
+      "published": "2026-11-09T16:42:54+08:00",
+      "summary": "Aaron Swartz 出生于 1986 年 11 月 8 日，上周日原本是他四十岁生日。2011 年他因为从 MIT 网络下载数百万篇 JSTOR 学术论文计划免费公开而遭到逮捕，检方指控他犯有计算机欺诈等罪名，面临最高数十年监禁。2013 年 1 月 11 日他自杀身亡，年仅 26 岁。虽然他已去世 14 年但他的遗产仍然活着。Swartz 与 John Gruber 合作开发了 Markdown，一种简化的纯文本格式系统，允许用户使用普通文本创建结构化文档，不需要私有软件。Markdown 于 2004 年推出，二十多年后成为了最流行的文档和出版格式之一，广泛应用于论坛和维基等社区网站"
+    },
+    {
+      "id": "8f80a4b50c7f81d1",
+      "title": "双十一 | 少数派会员、正版软件、付费栏目限时优惠",
+      "url": "https://sspai.com/post/118799",
+      "source": "少数派",
+      "category": "科技",
+      "published": "2026-11-09T16:24:03+08:00",
+      "summary": "多款付费栏目和正版软件上新，以及口碑、质量都非常优秀的现有产品优惠活动，快来看看有没有你需要的吧。查看全文"
+    },
+    {
+      "id": "d5a60b596dfc1ca8",
+      "title": "一颗植物工厂草莓，离你的果盘还有多远？多多农研拉近现场",
+      "url": "http://www.geekpark.net/news/373715",
+      "source": "极客公园",
+      "category": "AI",
+      "published": "2026-11-09T16:15:03+08:00",
+      "summary": "作者｜徐珊 编辑｜ 郑玄 这可能是你见过最安静的一块「草莓地」。 没有虫鸣，没有鸟叫，50 平方米的房间里，草莓植株一层层码到头顶，叶片舒展，几乎找不到一个虫眼，枝头挂满了还没转红的青果，也有不少已经熟透。不靠天、不靠地，草莓在这个赛博农场里被「种上了天」。 这里是第五届「多多农研科技大赛」一等奖赛博农人团队的植物工厂。从 5 月 12 日定植算起，这些草莓等了 113 天才迎来第一次采收，采收 50 天累计产量达到 284.45 公斤，而日常照料它们的，只有 1 名工人。评委贺冬仙说，如果再给它半年，这一架草莓产量会相当可观。 但每一束光、每一度低温背后都是成本。过去几年，Plenty、Bo"
+    },
+    {
+      "id": "f240e8ff130b7bf4",
+      "title": "苹果罕见公布人形机器人进展，宇树 G1 背着一台跑千问的 Mac mini",
+      "url": "https://www.ifanr.com/1688485?utm_source=rss&utm_medium=rss&utm_campaign=",
+      "source": "爱范儿",
+      "category": "科技",
+      "published": "2026-11-09T15:56:58+08:00",
+      "summary": "终于不是后空翻、跳舞、跑步了#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。"
+    },
+    {
+      "id": "e7a0388e146e1f5a",
+      "title": "一家人的客厅，和一个人的深夜 — Sonos Beam Ultra 与 Ace Ultra 体验",
+      "url": "https://sspai.com/post/118227",
+      "source": "少数派",
+      "category": "科技",
+      "published": "2026-11-09T15:40:22+08:00",
+      "summary": "本文是少数派联合Sonos发起的SonosPlay众测活动（第二期）「最佳体验官」奖项获奖文章，奖品为免费保留送测的SonosAceUltra。除本文外，本期获得优秀体验官的作者及文章是：mivans ...查看全文"
+    },
+    {
+      "id": "aecf8042366b1ae6",
+      "title": "脚本 Ram Altman 监视 PC 闲置内存然后发邮件给 Sam Altman",
+      "url": "https://www.solidot.org/story?sid=85834",
+      "source": "Solidot",
+      "category": "科技",
+      "published": "2026-11-09T15:32:15+08:00",
+      "summary": "OpenAI CEO Sam Altman 因为一句 PC 内存浪费的评论而成为无数梗图的讽刺对象，他甚至为此自嘲，在社交媒体上将用户名改名为“Ram Altman”。现在开发者 Iain Kay 为 Linux 系统开发了一个 BASH 脚本 Ram Altman，旨在监测 PC 的闲置内存容量。闲置内存的百分比会被发送邮件给 Sam Altman。当然只是说说，具体取决于用户的设置。默认情况下脚本未预先配置电邮服务器。如果闲置内存超过了总内存的 10%，Ram Altman 会从预设讽刺邮件模板库随机选择一条发送出去。其中一则模板是：“Hi Sam。请别惊慌，我有 8.6 GiB 内存在 "
+    },
+    {
+      "id": "8d052e0d103e005f",
+      "title": "天花板上的白色盒子，是怎样保护我们的安全的？",
+      "url": "https://sspai.com/post/118029",
+      "source": "少数派",
+      "category": "科技",
+      "published": "2026-11-09T15:02:44+08:00",
+      "summary": "2026 年 11 月 9 日是第 35 个全国消防日。我们来学点消防知识。查看全文"
+    },
+    {
+      "id": "33b96689b0a19aa6",
+      "title": "苹果将工程师的每日 AI 预算限制在 200 美元",
+      "url": "https://www.solidot.org/story?sid=85833",
+      "source": "Solidot",
+      "category": "科技",
+      "published": "2026-11-09T14:40:12+08:00",
+      "summary": "世界市值最高的公司也开始对 AI 预算设限。苹果据报道将部分工程师的每日 AI 预算从 300 美元削减至 200 美元。苹果市值最近再次超过英伟达跃居第一。苹果此举并非是因为缺乏现金支持内部研发，而是因为在企业级规模下生成式 AI 存在着无法回避的经济规律。如果对先进模型的使用不加限制，成本曲线将呈指数级增长，这足以摧毁任何企业的利润空间，即便苹果也不例外。"
+    },
+    {
+      "id": "0f6cb992ad98f3db",
+      "title": "Asahi Linux 从 MIT 许可证切换到 GPL 许可证",
+      "url": "https://www.solidot.org/story?sid=85832",
+      "source": "Solidot",
+      "category": "科技",
+      "published": "2026-11-09T14:29:20+08:00",
+      "summary": "旨在将 Linux 移植到运行 Apple Silicon 芯片的 Mac 电脑的发行版项目 Asahi Linux 宣布从 MIT 许可证切换到 GPLv2 或以上版本的许可证。原因是有人将开发者分支尚在开发中的代码未注明出处发表，甚至利用 AI 重写代码以掩盖来源意图取代原项目和进行牟利。AI 出现前，代码洗白（Code laundering）通常涉及逐行手动重写代码、修改变量名，通过调整函数结构，使代码看起来与原版截然不同。LLM 的出现让这一过程变得更轻松、成本也更低。Asahi 团队此前已经注意到有人在利用宽松的 MIT 许可证劫持他们的工作成果。因此他们决定采用更严格的 GPL 许"
+    },
+    {
+      "id": "18f7336d4b33c688",
+      "title": "微信 AI 录音笔体验：手机都能装的办公神器，免费！",
+      "url": "https://www.ifanr.com/1688410?utm_source=rss&utm_medium=rss&utm_campaign=",
+      "source": "爱范儿",
+      "category": "科技",
+      "published": "2026-11-09T12:00:04+08:00",
+      "summary": "又能摸鱼了#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。"
+    },
+    {
+      "id": "a34ac26b1d979d03",
+      "title": "实测 HY4：腾讯最「夯」大模型，离一线还有多远？",
+      "url": "http://www.geekpark.net/news/373644",
+      "source": "极客公园",
+      "category": "AI",
+      "published": "2026-11-09T11:57:03+08:00",
+      "summary": "头图来源：腾讯混元 11 月 4 日，混元 Hy4 正式发布，模型权重将在近期开源，主打性价比的轻量版 Hy4 flash 也一起亮相。腾讯给它的定位是——首次跻身最强开源模型之列。 过去一年，腾讯在 AI 上最多被人看见的，是 WorkBuddy 这类 Agent 和应用产品；到了更底层的模型上，它的声量明显弱于应用。Hy4 真正要回答的，是腾讯在模型这条线上的身位。 从榜单表现来看，在开源模型里，Hy4 已经站进第一梯队；放到全球，和顶尖闭源模型的差距仍然清晰。 而根据国家数据局最近公布的一组数据，我国日均 Token 调用量已经从 2024 年初的 1000 亿，增长到今年 7 月的超 "
+    },
+    {
+      "id": "231e5d58215c5575",
+      "title": "双十一好物精选：Sonos Play 85 折送充电套装，CD 机加赠透明面盖",
+      "url": "https://sspai.com/post/118612",
+      "source": "少数派",
+      "category": "科技",
+      "published": "2026-11-09T11:00:00+08:00",
+      "summary": "从墨水屏到手机壳，从磁吸信息屏到CD播放器，这些看似平常的数码产品，经过一些新的设计和尝试，也能带来不太一样的使用体验。今年双十一，各大平台的促销活动陆续开始，不过满减、凑单等规则可能还是有些繁琐。所 ...查看全文"
+    },
+    {
+      "id": "7ab1549e38ec590b",
+      "title": "黄仁勋承认「婚外情」，英伟达启动调查；ChatGPT 突现封号风波，200 美元 Pro 用户也遭殃；腾讯姚顺雨谈「AI 公司护城河」：在产品层，而不是模型层",
+      "url": "http://www.geekpark.net/news/373687",
+      "source": "极客公园",
+      "category": "AI",
+      "published": "2026-11-09T10:58:04+08:00",
+      "summary": "黄仁勋承认「婚外情」，英伟达启动调查 11 月 9 日消息，英伟达 CEO 黄仁勋当地时间 8 日于公司官网发布致全员公开信，就个人私事致歉，同时披露董事会将针对相关报道提及的国家安全关切展开独立调查。 黄仁勋在信中承认自己对妻子不忠，坦言该行为伤害家人，对此承担全部责任，并接受外界批评。他表示家人不应为其个人选择负责，恳请公众给予家人隐私空间，希望能有机会重新赢回家人信任。他强调自己对英伟达始终坚定，将努力重新赢得团队与投资方的信赖。 针对近期报道带出的国家安全相关质疑，黄仁勋确认董事会已启动独立调查，本人将全力配合。 此前据《纽约时报》报道，美国政府认为黄仁勋与一家名为 Megaspeed"
+    },
+    {
+      "id": "3db0ed2355b3589a",
+      "title": "刚刚，马斯克评价黄仁勋出轨事件",
+      "url": "https://www.ifanr.com/1688626?utm_source=rss&utm_medium=rss&utm_campaign=",
+      "source": "爱范儿",
+      "category": "科技",
+      "published": "2026-11-09T10:56:41+08:00",
+      "summary": "当创始人成为公司的代名词#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。"
+    },
+    {
+      "id": "32f244eb058ae201",
+      "title": "具身智能，也到了 API 时刻？",
+      "url": "http://www.geekpark.net/news/373683",
+      "source": "极客公园",
+      "category": "AI",
+      "published": "2026-11-09T10:18:55+08:00",
+      "summary": "具身智能的 API 时刻意味着部分具身模型已经开始具备跨本体迁移、在一定范围内适应新任务的能力。作者｜Li Yuan编辑｜郑玄具身智能，也到了 API 时刻？过去，想知道一个具身模型有多强，往往要看它在发布视频里完成了什么任务。不过，这条线正在松动。就在近期，一些公司开始把另一种检验方式交到开发者手里：接上你自己的机器人，试着把你的任务做出来。10 月，Physical Intelligence（PI）开放了模型 API 测试。开发者可以上传自己的机器人数据，在平台上微调模型，再通过云端推理驱动机器人。PI 表示，一家公司，用这套服务迭代了四天，让双臂机器人开始为自身的零部件去毛刺。同月，Dr"
+    },
+    {
+      "id": "7189606781639cb5",
+      "title": "M6 MacBook Pro 体验：38 块的灵魂，一万五的身体",
+      "url": "https://www.ifanr.com/1688127?utm_source=rss&utm_medium=rss&utm_campaign=",
+      "source": "爱范儿",
+      "category": "科技",
+      "published": "2026-11-09T09:54:03+08:00",
+      "summary": "苹果的下一座围城，是创作#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。"
+    },
     {
       "id": "145c9be6f381fddf",
       "title": "早报｜曝特努斯要求加快AI研发/Win 11优化8GB内存电脑流畅度/马斯克：SpaceX明年12月年化营收或超5000亿美元",
@@ -4423,164 +4765,164 @@
   ],
   "hot": [
     {
-      "id": "565f0052a837baed",
-      "title": "KetchUp – Open-source SketchUp alternative built with Rust and WebGPU",
-      "url": "https://ketchup3d.github.io/app/",
-      "score": 118,
-      "by": "dcoulmbe",
-      "comments": 18
+      "id": "ab2320785f489d05",
+      "title": "Claude Fable 5.2 and Mythos 5.2",
+      "url": "https://www.anthropic.com/claude-fable-and-mythos-5-2",
+      "score": 882,
+      "by": "meetpateltech",
+      "comments": 529
     },
     {
-      "id": "4a60ab92062b16d2",
-      "title": "Herb Sutter: When a language's creator and its owners strongly disagree [pdf]",
-      "url": "https://isocpp.org/files/papers/P4454R0.pdf",
-      "score": 27,
-      "by": "acossta",
-      "comments": 3
+      "id": "0dc6ef271427cb42",
+      "title": "USPS now offers official ZIP Code boundary polygons",
+      "url": "https://postalpro.usps.com/zcb",
+      "score": 421,
+      "by": "munro",
+      "comments": 211
     },
     {
-      "id": "24e08a42596b615a",
-      "title": "Chimera Vocal Synth",
-      "url": "https://chimera-vocal-synth.vercel.app/",
-      "score": 58,
-      "by": "nmstoker",
-      "comments": 10
+      "id": "736df55a7f89c9c8",
+      "title": "TPU 8tx and TPU 8i Max",
+      "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/tpu-8i-max-and-8tx/",
+      "score": 175,
+      "by": "_benx_",
+      "comments": 29
     },
     {
-      "id": "7ee637d3d4cecb37",
-      "title": "Ask HN: What are you working on? (November 2026)",
-      "url": "https://news.ycombinator.com/item?id=50417407",
-      "score": 101,
-      "by": "david927",
-      "comments": 389
+      "id": "0a5fe2a1f7d849ab",
+      "title": "Google Gemini routes personal Drive files and emails to human annotators",
+      "url": "https://github.com/thisisme6598/gemini_files/",
+      "score": 348,
+      "by": "gf74918",
+      "comments": 88
     },
     {
-      "id": "6bae0f422ece83a9",
-      "title": "Dux: Free, open-source Wayland desktop shell with file manager and theming",
-      "url": "https://duxlabs.dev/",
-      "score": 179,
-      "by": "indigodaddy",
+      "id": "0b1ce598883c9dc9",
+      "title": "Fable 5.2 one-shotted my nephew's dream game",
+      "url": "https://notesbylex.com/fable-5-2-one-shotted-my-nephews-dream-game",
+      "score": 42,
+      "by": "lexandstuff",
+      "comments": 20
+    },
+    {
+      "id": "9eaa8b1e4b331c7e",
+      "title": "Payments Canada announces launch of Canada's Real-Time Rail (RTR) payment system",
+      "url": "https://www.payments.ca/canada-launches-real-time-rail-bringing-247-payment-infrastructure-national-economy",
+      "score": 451,
+      "by": "ocd",
+      "comments": 253
+    },
+    {
+      "id": "1f9158191b5ad86a",
+      "title": "E-means: 10x faster k-means at equal loss",
+      "url": "https://e-means.github.io/",
+      "score": 253,
+      "by": "porridgeraisin",
+      "comments": 15
+    },
+    {
+      "id": "22517c71c3a43d9c",
+      "title": "Claude Fable 5.2 Scores 65 on Artificial Analysis, Highest So Far",
+      "url": "https://artificialanalysis.ai/models/claude-fable-5-2",
+      "score": 262,
+      "by": "theanonymousone",
+      "comments": 186
+    },
+    {
+      "id": "84e3ba2801dc64b0",
+      "title": "Our Smallest, Most Efficient Model: Muse Ember",
+      "url": "https://research.meta.ai/blog/muse-ember",
+      "score": 234,
+      "by": "dvaplima",
+      "comments": 97
+    },
+    {
+      "id": "0b163ba117fb69c7",
+      "title": "Fold Epic Paper Airplanes",
+      "url": "https://www.foldableflight.com",
+      "score": 826,
+      "by": "vismit2000",
+      "comments": 134
+    },
+    {
+      "id": "bbd62f86c305a3cd",
+      "title": "Infineon marks innovation milestone with 300mm power silicon carbide wafer",
+      "url": "https://www.infineon.com/press-release/2026/infpr202611-028",
+      "score": 94,
+      "by": "sshah03",
       "comments": 58
     },
     {
-      "id": "174d2013be33db1c",
-      "title": "Declarative Dragging",
-      "url": "https://declarative-dragging.github.io/",
-      "score": 314,
-      "by": "smusamashah",
-      "comments": 37
+      "id": "c96e64e6377b4917",
+      "title": "Magenta solar panels may be agrivoltaics' cleverest trick yet",
+      "url": "https://www.anthropocenemagazine.org/2026/10/magenta-solar-panels-may-be-agrivoltaics-cleverest-trick-yet/",
+      "score": 266,
+      "by": "speckx",
+      "comments": 167
     },
     {
-      "id": "8b32dd952524cf72",
-      "title": "Outlook.com Is Quietly Rejecting Email from Domains Without DMARC",
-      "url": "https://mailroute.net/blog/outlook-rejecting-email-without-dmarc",
-      "score": 215,
-      "by": "xmddmx",
-      "comments": 172
+      "id": "030515756f8c9203",
+      "title": "Exact – a new cross platform UI framework by the Expo team",
+      "url": "https://github.com/expo/exact",
+      "score": 21,
+      "by": "vmg12",
+      "comments": 9
     },
     {
-      "id": "3248a67541b4f2e7",
-      "title": "Goldman Sachs is pulling Claude Code from its bankers and traders",
-      "url": "https://www.thestateofai.com/news/goldman-sachs-claude-code-traders-bankers",
-      "score": 566,
-      "by": "TheWiggles",
-      "comments": 339
+      "id": "ed251ed3f81007bd",
+      "title": "Parking-app convenience fees in 312 U.S. cities (median $0.35 per session)",
+      "url": "https://parkgraph.com/parking-app-fees",
+      "score": 47,
+      "by": "parkgraph",
+      "comments": 26
     },
     {
-      "id": "8f5c159b236db8cb",
-      "title": "The Web Is More Than Enough, by Paul Ford",
-      "url": "https://ftrain.com/aboard-the-web-is-more-than-enough",
-      "score": 58,
-      "by": "edward",
-      "comments": 30
+      "id": "cc3cc935db995a34",
+      "title": "A primer on GPUs and kernel optimization",
+      "url": "https://www.nabo.dev/blogs/kernel-primer",
+      "score": 80,
+      "by": "nomi_uw",
+      "comments": 2
     },
     {
-      "id": "158aa6afb4ad17a5",
-      "title": "Llama-modchip: 284B DeepSeek on 64GB RAM, no GPU",
-      "url": "https://github.com/synchopate/llama-modchip",
-      "score": 351,
-      "by": "joshcsimmons",
-      "comments": 146
+      "id": "80af84e98e1445ff",
+      "title": "Show HN: Every satellite that passed over any place this week, and its photos",
+      "url": "https://www.watched.earth",
+      "score": 214,
+      "by": "a585gupt",
+      "comments": 42
     },
     {
-      "id": "64e033dfe0424297",
-      "title": "Nvidia CEO Jensen Huang's letter to staff about affair",
-      "url": "https://www.axios.com/2026/11/08/nvidia-ceo-jensen-huang-affair-email-to-company",
-      "score": 285,
-      "by": "karimf",
-      "comments": 283
+      "id": "6e4d8e451ac64628",
+      "title": "CUI – Native UI components for C",
+      "url": "https://yappologistic.github.io/CUI/",
+      "score": 143,
+      "by": "hilti",
+      "comments": 73
     },
     {
-      "id": "40bb06089e716e80",
-      "title": "Edward Hopper's Iconic Painting, \"Nighthawks",
-      "url": "https://lithub.com/the-story-behind-edward-hoppers-iconic-painting-nighthawks/",
-      "score": 64,
-      "by": "prismatic",
-      "comments": 22
+      "id": "26c9db6f57c0f8db",
+      "title": "Is Opus 5.5 nerfed? Thinking patterns changed on November 3",
+      "url": "https://twitter.com/shanemelaugh/status/2119192075505893695",
+      "score": 730,
+      "by": "rzk",
+      "comments": 469
     },
     {
-      "id": "cca77a9ef2800f42",
-      "title": "The History of Djgpp (1998)",
-      "url": "https://www.delorie.com/djgpp/history.html",
-      "score": 37,
-      "by": "atan2",
-      "comments": 10
+      "id": "224001b488e9d368",
+      "title": "An ode to livelyness analysis; SSA to registers",
+      "url": "https://xnacly.me/posts/2026/an-ode-to-livelyness-analysis/",
+      "score": 30,
+      "by": "xnacly",
+      "comments": 0
     },
     {
-      "id": "683f591df5c9b628",
-      "title": "Playing with the STM32MP2",
-      "url": "https://serd.es/2026/11/08/playing-with-stm32mp2.html",
-      "score": 31,
-      "by": "dverlaeckt80",
-      "comments": 18
-    },
-    {
-      "id": "36c4ea812f54dc22",
-      "title": "Writing as a thinking tool",
-      "url": "http://muratbuffalo.blogspot.com/2026/11/writing-as-thinking-tool.html",
-      "score": 263,
-      "by": "jruohonen",
-      "comments": 80
-    },
-    {
-      "id": "86c87ea2a1b31f2b",
-      "title": "Show HN: Vegetable Gardening for Engineers",
-      "url": "https://jrcpl.us/contrib/2020/gardening-for-engineers/",
-      "score": 157,
-      "by": "jrcplus",
-      "comments": 31
-    },
-    {
-      "id": "312bebd4b2ca7733",
-      "title": "Goodbye Claude, hello Pi",
-      "url": "https://caleb.software/posts/claude-to-pi.html",
-      "score": 689,
-      "by": "karagenit",
-      "comments": 424
-    },
-    {
-      "id": "64687c6e24c305a9",
-      "title": "The Kekulé Problem – Cormac McCarthy",
-      "url": "https://nautil.us/the-kekul-problem-236574",
-      "score": 5,
-      "by": "bearseascape",
-      "comments": 1
-    },
-    {
-      "id": "4bb1e19e708e5161",
-      "title": "I'm not a fan of Deno's security model (2024)",
-      "url": "https://goldstein.lol/posts/deno-security/",
-      "score": 81,
-      "by": "maxloh",
-      "comments": 39
-    },
-    {
-      "id": "85a77bd2ee1c260d",
-      "title": "Nvidia Board of Directors Is Investigating Jensen Huang",
-      "url": "https://nvidianews.nvidia.com/news/statement-from-nvidia-board-of-directors",
-      "score": 360,
-      "by": "vincentchau",
-      "comments": 275
+      "id": "6b8d077cf14349cd",
+      "title": "Show HN: MeowDisplay Is iPhone Mirroring, but in Reverse",
+      "url": "https://meowdisplay.app/",
+      "score": 72,
+      "by": "raiseCatError",
+      "comments": 26
     }
   ],
   "sources_ok": [
@@ -4594,5 +4936,5 @@
     "36氪",
     "虎嗅:ReadTimeout"
   ],
-  "total": 491
+  "total": 529
 }
