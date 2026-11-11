@@ -1,6 +1,312 @@
 {
-  "generated_at": "2026-11-10T08:34:49.761804+08:00",
+  "generated_at": "2026-11-11T08:36:22.332600+08:00",
   "items": [
+    {
+      "id": "1eef4ebbd7ad6bc1",
+      "title": "Anthropic 启动 IPO 路演，创始人将套现 17.5 亿美元；谷歌最强 AI 模型正式开放；任天堂招新：经典游戏保存员",
+      "url": "http://www.geekpark.net/news/373796",
+      "source": "极客公园",
+      "category": "AI",
+      "published": "2026-11-11T08:34:34+08:00",
+      "summary": "英伟达董事会聘请前美国联邦检察官，调查 CEO 黄仁勋相关事件 11 月 11 日消息，英伟达发布公告，宣布已聘请美国前联邦检察官金正贤（Joon H. Kim）及其所在的律师事务所 Wachtell, Lipton, Rosen & Katz，负责开展一项全面、独立的调查。 此前，英伟达董事会表示，鉴于近期有关公司创始人兼 CEO 黄仁勋可能成为外国情报机构目标的报道，董事会决定启动独立调查。董事会将成立由独立董事组成的委员会，并在外部独立法律顾问协助下监督调查。 英伟达董事会此前还表示，目前没有理由认为美国国家安全或英伟达的商业机密已经遭到泄露，但调查将审查所有可获得的信息。黄仁勋支持此次"
+    },
+    {
+      "id": "9f389a71d683b262",
+      "title": "Hong Kong IPOs Stall as Issuers Pull Deals at the Last Step",
+      "url": "https://www.tmtpost.com/8200654.html",
+      "source": "钛媒体",
+      "category": "创投",
+      "published": "2026-11-11T08:28:05+08:00",
+      "summary": "Companies that had cleared hearings and opened books are delaying listings, citing market conditions. Fresh first filings have gone quiet even as a long queue remains. Weak secondary demand, not a shortage of applicants, is resetting the calendar."
+    },
+    {
+      "id": "95193a6911d16b21",
+      "title": "今天起，Gemini 4 Carbon 正式上线，但不是所有人都用得上",
+      "url": "https://www.ifanr.com/1688883?utm_source=rss&utm_medium=rss&utm_campaign=",
+      "source": "爱范儿",
+      "category": "科技",
+      "published": "2026-11-11T08:26:39+08:00",
+      "summary": "非付费用户什么时候能用上？#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。"
+    },
+    {
+      "id": "9d0d1268400923d5",
+      "title": "早报｜华为小折叠电脑MateBook Fold S亮相/《GTA VI》开启预载，全平台目标30fps/董明珠回应格力业绩下滑：铜价上涨，格力将继续用铜",
+      "url": "https://www.ifanr.com/1688852?utm_source=rss&utm_medium=rss&utm_campaign=",
+      "source": "爱范儿",
+      "category": "科技",
+      "published": "2026-11-11T08:20:24+08:00",
+      "summary": "· 李斌：蔚来 ES9 将迎来第 4 万辆交付 · 台积电 10 月营收创今年单月新高，同比增长近六成 · 奥迪与上汽合作项目 CEO 称，AUDI 未来三年将推三款新车#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。"
+    },
+    {
+      "id": "4d3f9638cae143a1",
+      "title": "【钛晨报】李强签署国务院令，公布修订后的《基金会管理条例》；阿里拟分拆平头哥独立赴港上市；Anthropic IPO定价区间确定，目标市值约1万亿美元低于预期",
+      "url": "https://www.tmtpost.com/8200471.html",
+      "source": "钛媒体",
+      "category": "创投",
+      "published": "2026-11-11T07:20:00+08:00",
+      "summary": "i茅台将从“抢购”模式逐步转为日常售卖；台积电批准409亿美元资本预算，用于长期产能扩张；华为新型存储系统即将启动试商用；贾国龙质押西贝股权，股权数额超2660万；英伟达、黄仁勋遭股东集体诉讼；国家发改委：多渠道增加普通高中和高等教育学位供给；减少个人信息泄露，首批700专用码号服务业务试点获批。"
+    },
+    {
+      "id": "7b38e87510e576ad",
+      "title": "微软宣布 .NET 11",
+      "url": "https://www.solidot.org/story?sid=85851",
+      "source": "Solidot",
+      "category": "科技",
+      "published": "2026-11-11T00:50:48+08:00",
+      "summary": "微软宣布了 .NET 11。该版本是标准支持版本 STS，提供两年支持，上个版本 .NET 10 则是长期支持版本 LTS。.NET 11 改进 C# 15、ASP.NET Core、.NET MAUI 以及 Windows，缩短了应用构建时间，主要变化包括：C# 15 引入了联合类型和封闭类层次结构；Native AOT CLI；ASP.NET Core 支持异步验证和 OpenAPI 3.2，以及 Blazor 和 SignalR 应用的新功能；等等。"
+    },
+    {
+      "id": "1935d4327535021a",
+      "title": "2026 年全球化石燃料碳排放量预计下降 0.4%",
+      "url": "https://www.solidot.org/story?sid=85850",
+      "source": "Solidot",
+      "category": "科技",
+      "published": "2026-11-11T00:23:20+08:00",
+      "summary": "根据 Global Carbon Project 发表的报告《2026 Global Carbon Budget》，因太阳能风能扩张以及冲突导致的石油供应问题，2026 年全球化石燃料碳排放量预计下降 0.4%。今年全球化石燃料二氧化碳（CO2）排放量预计为 382 亿吨，其中石油相关排放量预计下降 1.9%。尽管全球能源需求持续增长，但三分之二增量已被太阳能、风能以及电动汽车的发展所抵消或满足。报告同时指出清洁能源的增长速度尚不足以促使全球化石燃料二氧化碳排放量持续下降。由于土地利用变化（如森林砍伐）导致今年的总排放量略有增加，2026 年全球二氧化碳排放总量预计达到 433 亿吨，高于去年"
+    },
+    {
+      "id": "ff4599e8a9ea71e1",
+      "title": "实测 MiniMax H3 Image：GPT 的效果加上 MJ 的审美，居然被它开源了",
+      "url": "https://www.ifanr.com/1688790?utm_source=rss&utm_medium=rss&utm_campaign=",
+      "source": "爱范儿",
+      "category": "科技",
+      "published": "2026-11-11T00:04:24+08:00",
+      "summary": "4K 像素最快 10 秒生成#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。"
+    },
+    {
+      "id": "e6a7b1d8dd424100",
+      "title": "波士顿动力为其人形机器人加入了轮子",
+      "url": "https://www.solidot.org/story?sid=85849",
+      "source": "Solidot",
+      "category": "科技",
+      "published": "2026-11-10T23:58:19+08:00",
+      "summary": "波士顿动力通过官方 YouTube 频道公布了一则新视频，展示了其人形机器人 Atlas 改用轮子在地面上移动。视频展示了 Atlas 能通过足部的轮子用脚尖旋转，以及做出其它高强度的动作。Atlas 能在平坦地面上的快速滚动与应对障碍物或不规则地面的关节式腿部运动之间实现平滑切换。Atlas 项目控制工程师 Andy Wu 称，系统在模拟环境中进行了训练，在模拟环境中学会所有动作后能在现实世界中以高准确度执行出来。Atlas 转换到移动模式仅需一个定制的适配器，就能将现有的滑板车轮毂安装到 Atlas 原有的踝关节执行器上。"
+    },
+    {
+      "id": "65973b103ac58095",
+      "title": "4000万失能老人背后，为何有笔至今算不平的照护账？",
+      "url": "https://www.tmtpost.com/8200404.html",
+      "source": "钛媒体",
+      "category": "创投",
+      "published": "2026-11-10T22:42:55+08:00",
+      "summary": "当各方力量形成合力，居家养老才能走出“叫好不叫座”的困局，让专业、有尊严的照护，真正走进每一个有需要的家庭。"
+    },
+    {
+      "id": "92c425f4617e3854",
+      "title": "第三代国潮来袭：藏在桌面与旷野里的中国智造",
+      "url": "https://www.tmtpost.com/8200254.html",
+      "source": "钛媒体",
+      "category": "创投",
+      "published": "2026-11-10T22:42:28+08:00",
+      "summary": "硬核办公国货，在京东11.11迎来破圈时刻。"
+    },
+    {
+      "id": "662a5b0667d714bb",
+      "title": "亚朵集团三季度营收34.29亿元，酒店业务稳健发展；欧莱雅进博会首发五大成果；优衣库进博会聚焦可持续发展 ｜消研所周报",
+      "url": "https://www.tmtpost.com/8200086.html",
+      "source": "钛媒体",
+      "category": "创投",
+      "published": "2026-11-10T21:28:54+08:00",
+      "summary": "Dr.Jart+蒂佳婷新品亮相进博会；泡泡玛特首次以双展位形式亮相进博会。"
+    },
+    {
+      "id": "8151b8e3172db49a",
+      "title": "Chinese Short Dramas Own Overseas Attention but Not Yet the Profits",
+      "url": "https://www.tmtpost.com/8200340.html",
+      "source": "钛媒体",
+      "category": "创投",
+      "published": "2026-11-10T20:00:06+08:00",
+      "summary": "Vertical micro-dramas from Chinese teams now command extreme mobile engagement abroad. The real product is a paid-hook, ad-bought industrial system, not cultural soft power. Thin margins, rising user-acquisition costs, and copycats will decide whether the boom becomes a lasting business."
+    },
+    {
+      "id": "f45228c869929e9c",
+      "title": "中国 Android 厂商开始要求开发者身份验证",
+      "url": "https://www.solidot.org/story?sid=85848",
+      "source": "Solidot",
+      "category": "科技",
+      "published": "2026-11-10T19:18:31+08:00",
+      "summary": "Google 从今年 9 月起要求验证所有 Android 应用开发者的身份，未经身份验证的开发者的应用未来将无法在 Android 设备上安装（sideload）。Google 官方博客声称它是出于安全理由要求验证开发者身份，理由是其分析显示来自第三方源的恶意应用数量是 Google Play 的 90 多倍。现在，中国主要 Android 厂商也启动了开发者身份验证：OPPO、vivo、小米、荣耀推出 Android 侧载应用开发者身份验证（Android Developer Verification，简称 ADV），支持各方验证结果互认。ADV 旨在建立开发者与其应用之间的可信关联，为用"
+    },
+    {
+      "id": "c64fd6cc9334aaf7",
+      "title": "生成式 AI 过度美化现实",
+      "url": "https://www.solidot.org/story?sid=85847",
+      "source": "Solidot",
+      "category": "科技",
+      "published": "2026-11-10T19:04:32+08:00",
+      "summary": "生成式 AI 如 ChatGPT 正融入日常生活，成为人们获取信息和辅助决策的重要工具。然而大模型中嵌入的错误信息和偏见引发了一系列伦理方面的担忧。以往的研究已揭示出 AI 在涉及人类特征的内容上存在偏见，例如肤色、性别以及地理文化背景等。为减轻文本生成图像（Text-to-Image）生成式模型中的偏见，OpenAI 等公司引入了提示词修订（Prompt Revision）机制。一种隐性的处理过程，即通过重写用户输入的提示词，添加更多细节，例如要求图像中呈现不同性别和肤色的人物，从而促进图像的多样性。然而重写用户提示词也可能引入其他偏见，在用户不知情下改变其原本的意图。发表在《Technol"
+    },
+    {
+      "id": "20b014756b988143",
+      "title": "等位超5000桌，餐饮排队王，为什么都爱开在高端商场？",
+      "url": "https://www.tmtpost.com/8198486.html",
+      "source": "钛媒体",
+      "category": "创投",
+      "published": "2026-11-10T18:07:58+08:00",
+      "summary": "最火餐饮扎堆开在万象城，商场图的不止是租金。"
+    },
+    {
+      "id": "c0a07dae8a46ec85",
+      "title": "猪肉不停降价，给了“云南猪王”更多磨练二代的机会",
+      "url": "https://www.tmtpost.com/8198696.html",
+      "source": "钛媒体",
+      "category": "创投",
+      "published": "2026-11-10T18:07:55+08:00",
+      "summary": "二代接班会不会提速?"
+    },
+    {
+      "id": "2134e7afcb17ae4d",
+      "title": "管窥AI游戏的产业现状，从Roblox这份“意外”的财报",
+      "url": "https://www.tmtpost.com/8199114.html",
+      "source": "钛媒体",
+      "category": "创投",
+      "published": "2026-11-10T18:07:49+08:00",
+      "summary": "方兴未艾，暗流涌动。"
+    },
+    {
+      "id": "86f2add2e16db730",
+      "title": "美女陪打LOL，腾讯入局AI游戏陪伴，会走米哈游的老路吗？",
+      "url": "https://www.tmtpost.com/8199749.html",
+      "source": "钛媒体",
+      "category": "创投",
+      "published": "2026-11-10T18:05:53+08:00",
+      "summary": "行业长期趋势看，AI陪伴赛道已经告别“只要有好看数字人、会聊天就能吸引用户”的早期幻想。"
+    },
+    {
+      "id": "f035fcb19c51aeb1",
+      "title": "特努斯施压 Siri 掌门人，苹果 AI 不能再等了",
+      "url": "https://www.ifanr.com/1688570?utm_source=rss&utm_medium=rss&utm_campaign=",
+      "source": "爱范儿",
+      "category": "科技",
+      "published": "2026-11-10T17:30:18+08:00",
+      "summary": "油门焊死#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。"
+    },
+    {
+      "id": "dd7b22d51b7d38eb",
+      "title": "有「眼力」，也有「洁癖」，戴森智能扫拖机器人改变了什么？",
+      "url": "https://www.ifanr.com/1688755?utm_source=rss&utm_medium=rss&utm_campaign=",
+      "source": "爱范儿",
+      "category": "科技",
+      "published": "2026-11-10T17:30:04+08:00",
+      "summary": "在习以为常的将就里，戴森的执拗是一种稀缺的浪漫#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。"
+    },
+    {
+      "id": "9d2e1446603d9367",
+      "title": "Epic Games 计划支持尽可能多的 Linux 发行版",
+      "url": "https://www.solidot.org/story?sid=85846",
+      "source": "Solidot",
+      "category": "科技",
+      "published": "2026-11-10T17:09:26+08:00",
+      "summary": "Epic Games 通讯主管 Jake Jones 表示，新 Epic Games 启动器目前处于预览阶段。Epic Games 计划支持尽可能多的 Linux 发行版，包括 Fedora、SteamOS、CachyOS、Omarchy 等，目前正在测试和评估各种打包格式，将于本月恢复对 AppImage 的支持。如果 Epic Games 支持 Flatpak 打包格式并将其发布到 Flathub 上，那么 SteamOS 用户将会很容易使用 Epic Games——只需要切换到桌面模式，然后在 Discover 应用中直接安装。"
+    },
+    {
+      "id": "72bb052ab41d80a2",
+      "title": "社区速递 165 | 透明工牌与派友十月购物清单",
+      "url": "https://sspai.com/post/118861",
+      "source": "少数派",
+      "category": "科技",
+      "published": "2026-11-10T16:44:26+08:00",
+      "summary": "除了首页时间流和侧栏的精选展位，少数派Matrix社区还有很多优秀内容因条件所限无法得到有效曝光，因此我们决定重启Matrix周报，并在此基础上添加更多社区内容、作者投稿新玩意呈现给大家。上周社区速递 ...查看全文"
+    },
+    {
+      "id": "92d68694afd0bc21",
+      "title": "幼儿园小学初中学龄人口已达到峰值",
+      "url": "https://www.solidot.org/story?sid=85845",
+      "source": "Solidot",
+      "category": "科技",
+      "published": "2026-11-10T16:08:03+08:00",
+      "summary": "国家发展改革委社会发展司副司长黄玮茹在周二的新闻发布会上表示，从全国层面看，目前幼儿园、小学、初中学龄人口已经达峰，高中和高等教育学龄人口还在持续增长，对资源配置提出了新的要求。十四五时期，我国幼儿园、小学、初中在校生减少将近 1700 万人。2021 年—2025 年，我国基础教育城镇和乡村在校生之比由约 8：2 提高到约 9：1，越来越多的孩子进城读书。根据教育部数据，去年全国幼儿园、小学和初中的在校生总人数约为 1 亿 8900 万人。去年中国人口出生率降至至少 1949 年以来的最低水平。与此同时 65 岁及以上老年人口突破 2 亿 2300 万人，创下历史新高。"
+    },
+    {
+      "id": "3004d3080b701fde",
+      "title": "报名人数创下新高，第十一届「移动应用创新赛」圆满落幕",
+      "url": "https://sspai.com/post/118824",
+      "source": "少数派",
+      "category": "科技",
+      "published": "2026-11-10T16:02:37+08:00",
+      "summary": "北京时间11月8日，第十一届「移动应用创新赛」在浙江大学紫金港校区完成决赛评选并举行颁奖典礼。从2016年的161所高校开始，这项由全国高等学校计算机教育研究会主办、浙江大学与Apple联合承办的比赛 ...查看全文"
+    },
+    {
+      "id": "b4b48755b84452ef",
+      "title": "科学家在碲化锰观察到交替磁性证据",
+      "url": "https://www.solidot.org/story?sid=85844",
+      "source": "Solidot",
+      "category": "科技",
+      "published": "2026-11-10T15:30:38+08:00",
+      "summary": "科学家在碲化锰中观测到一种被称为“手性交替磁振子”的集体自旋运动，为交替磁性这一新型磁态提供了关键实验证据，也意味着未来芯片和信息存储技术有了新的可能。交替磁性被认为是介于铁磁与反铁磁之间的第三类磁有序。普通磁铁内部电子自旋像一排同向排列的小磁针，整体产生明显磁场；反铁磁体中相邻自旋方向相反，磁性彼此抵消。交替磁体同样没有明显外磁场，却因原子空间排列方式特殊，保留了一些通常只在铁磁体里出现的电子自旋特性，因此被寄望于开发干扰更小、更紧凑的自旋电子器件。此次实验把目光投向磁振子。材料受热或受扰后，局部自旋变化会像水波一样向周围传递，这种集体波动的量子化单位就是磁振子。理论曾预言，交替磁体中的磁振"
+    },
+    {
+      "id": "875a8d09761feb54",
+      "title": "FDA 警告 GLP-1 减肥药可能增加突然失明风险",
+      "url": "https://www.solidot.org/story?sid=85843",
+      "source": "Solidot",
+      "category": "科技",
+      "published": "2026-11-10T14:35:14+08:00",
+      "summary": "FDA 周一表示，GLP-1 药物生产商须在产品标签上增加一项可能导致突然失明的警示。被称为非动脉炎性前部缺血性视神经病变(nonarteritic anterior ischemic optic neuropathy，NAION)的眼部疾病会影响视神经——负责将信号从眼睛传输至大脑的神经。当流向视神经的血液减少或受阻时，可能导致视力突然丧失，这种损伤是永久性的，目前无已知疗法。2024 年《JAMA Ophthalmology》期刊发表了一项研究，发现使用司美格鲁肽处方药的糖尿病患者患 NAION 的可能性是未使用该药患者的四倍。FDA 随后展开了调查，在审查了递交的副作用报告和多项临床试验"
+    },
+    {
+      "id": "dfda24d3bd42c7c4",
+      "title": "中国汽车市场，不止一种赢法 | 极客车间",
+      "url": "http://www.geekpark.net/news/373765",
+      "source": "极客公园",
+      "category": "AI",
+      "published": "2026-11-10T13:43:08+08:00",
+      "summary": "对消费者来说，当下的中国汽车消费市场，新品琳琅满目、供给充沛到足以挑花眼。 锚定一个预算区间，从外观设计、内饰风格，到舒适配置、智能化能力，总能找到各有所长的产品。选择足够丰富，也让一个问题变得更值得讨论：参数和价格之外，我们究竟为什么选择一辆车？ 从产品定义的角度看，造车很像求解一道「方程式」：在一定的成本和技术条件下，通过一系列判断、决策与取舍，找到品牌个性与用户需求的交点。 理解这些取舍背后的思考，也许能为我们评价一辆车提供另一个视角。 2026 年，基于全新纯电架构的全新梅赛德斯-奔驰纯电 GLC 正式上市。在这家百年车企眼中，「电车」本质上首先得是一辆拥有优秀底盘素质的「好车」，然后"
+    },
+    {
+      "id": "3eba284e6360cc22",
+      "title": "法国称伊朗黑客组织攻击了超市的制冷控制器",
+      "url": "https://www.solidot.org/story?sid=85842",
+      "source": "Solidot",
+      "category": "科技",
+      "published": "2026-11-10T13:31:35+08:00",
+      "summary": "法国网络危机协调中心周一发表报告，称上个月对逾 700 家超市制冷控制器发动网络攻击的黑客组织是伊朗的 Shahid Kaveh aka Cyber​​Av3ngers。报告称，受影响的零售集团包括了 Casino、Leclerc、Coopérative U、Metro、Carrefour 和 Intermarché，攻击引发了至少 15 起火灾，造成了数千万欧元的食品损失。法国欧洲与外交部在一份声明中表示：“就规模和攻击强度而言，这是一场前所未有的行动，这也是在法国领土上首次发生的、纯粹以破坏为目的的网络攻击行动。”"
+    },
+    {
+      "id": "31f7dd6b41e50693",
+      "title": "千问办公押注 Team Agent，企业 AI 的流水线时刻真的来了",
+      "url": "http://www.geekpark.net/news/373760",
+      "source": "极客公园",
+      "category": "AI",
+      "published": "2026-11-10T12:52:07+08:00",
+      "summary": "作者｜Cynthia 编辑｜郑玄 传说，光明之神巴德尔梦见自己将死，于是，巴德尔的母亲弗丽嘉遍走世间，令万物立下了绝不伤害他的誓言。众神也因此放下心来，甚至还发明了一种新的消遣：轮番向巴德尔投掷武器和石块，看着他毫发无损，来确定他们已经战胜了预言。直到一小枝被遗漏的槲寄生投向巴德尔。光明之神轰然倒下，诸神的黄昏由此拉开序章。 这是北欧神话中巴德尔之死的故事。危险早已被预见，人们也采取了行动，却仍然自欺欺人，把一次次看似成功的演示，当成了问题已经解决的证明。 2026 年上半年的企业级 Agent 市场，也曾有过这样的笃定。 每一场发布会上，AI 写方案、做表格、敲代码、生成海报的单任务能力都会"
+    },
+    {
+      "id": "e4c25a8d290eb3cb",
+      "title": "今年双十一，这些鼠标值得一看",
+      "url": "https://sspai.com/post/111065",
+      "source": "少数派",
+      "category": "科技",
+      "published": "2026-11-10T11:00:25+08:00",
+      "summary": "介绍点值得买的鼠标，顺便推荐一点鼠标垫和耳机。查看全文"
+    },
+    {
+      "id": "cd8b6a0d7740a110",
+      "title": "Codex 游戏掌机突然开卖，网友却在催更 GPT-6.2",
+      "url": "https://www.ifanr.com/1688678?utm_source=rss&utm_medium=rss&utm_campaign=",
+      "source": "爱范儿",
+      "category": "科技",
+      "published": "2026-11-10T09:19:39+08:00",
+      "summary": "人类的快乐却还是如此朴素。#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。"
+    },
+    {
+      "id": "65febf3c643c916c",
+      "title": "早报｜苹果国行AI备案新增iPad和笔记本/Claude Fable 5.2发布，价格降20%/曝玛莎拉蒂拟与尊界合作，新车将由江淮生产",
+      "url": "https://www.ifanr.com/1688654?utm_source=rss&utm_medium=rss&utm_campaign=",
+      "source": "爱范儿",
+      "category": "科技",
+      "published": "2026-11-10T08:47:46+08:00",
+      "summary": "· 曝苹果调整 iOS 28 开发节奏，首阶段留出六周探索功能 · 谷歌发布两套第八代 TPU 系统，分别面向长上下文和保密推理 · 迪士尼与 Adobe 达成多年合作，将为旗下 IP 定制生成模型#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。"
+    },
+    {
+      "id": "0005113402bf880e",
+      "title": "曾号称订单超百万，累计仅卖 6.3 万辆，量产不到四年的特斯拉 Cybertruck 官宣停产",
+      "url": "https://www.ifanr.com/1688639?utm_source=rss&utm_medium=rss&utm_campaign=",
+      "source": "爱范儿",
+      "category": "科技",
+      "published": "2026-11-10T08:45:56+08:00",
+      "summary": "长得像未来，但没能活到未来。#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。"
+    },
     {
       "id": "61f5c190c64ded62",
       "title": "Edge AI Daily 早报（11月10日）",
@@ -18,6 +324,15 @@
       "category": "创投",
       "published": "2026-11-10T08:30:00+08:00",
       "summary": "社会力量不是基础研究资助的\"锦上添花\"，而是多元化投入格局中不可或缺的结构性支柱。"
+    },
+    {
+      "id": "0fe1ff6beb440ecd",
+      "title": "派早报：火山引擎发布 Seedream 5.5，苹果研究团队用仿真训练人形机器人等",
+      "url": "https://sspai.com/post/118854",
+      "source": "少数派",
+      "category": "科技",
+      "published": "2026-11-10T08:24:40+08:00",
+      "summary": "少数派的近期动态我们已开设专页，汇总展示「优秀作者评选」奖项及结果。「优秀作者评选」是编辑部自2023年起实行的机制，于每季度结束后，评选该季度贡献突出的现有作者，以及涌现出的有潜力新作者。获奖者会获 ...查看全文"
     },
     {
       "id": "d8bc291c6be6a8fd",
@@ -4765,164 +5080,164 @@
   ],
   "hot": [
     {
-      "id": "ab2320785f489d05",
-      "title": "Claude Fable 5.2 and Mythos 5.2",
-      "url": "https://www.anthropic.com/claude-fable-and-mythos-5-2",
-      "score": 882,
-      "by": "meetpateltech",
-      "comments": 529
-    },
-    {
-      "id": "0dc6ef271427cb42",
-      "title": "USPS now offers official ZIP Code boundary polygons",
-      "url": "https://postalpro.usps.com/zcb",
-      "score": 421,
-      "by": "munro",
+      "id": "0d98bfbb3e410f48",
+      "title": "Scion is back and is going to sell a kei truck in America",
+      "url": "https://www.theautopian.com/scion-is-back-and-its-going-to-sell-a-freaking-kei-truck-in-america/",
+      "score": 297,
+      "by": "NaOH",
       "comments": 211
     },
     {
-      "id": "736df55a7f89c9c8",
-      "title": "TPU 8tx and TPU 8i Max",
-      "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/tpu-8i-max-and-8tx/",
-      "score": 175,
-      "by": "_benx_",
-      "comments": 29
+      "id": "a31cf18945b02ed6",
+      "title": "After 7 months, Glasswing overwelms maintainers with underwhelming findings",
+      "url": "https://www.vulncheck.com/blog/anthropic-glasswing-november-update",
+      "score": 134,
+      "by": "panic",
+      "comments": 43
     },
     {
-      "id": "0a5fe2a1f7d849ab",
-      "title": "Google Gemini routes personal Drive files and emails to human annotators",
-      "url": "https://github.com/thisisme6598/gemini_files/",
-      "score": 348,
-      "by": "gf74918",
-      "comments": 88
+      "id": "d0e22c28b11571ff",
+      "title": ".name Grandfathered",
+      "url": "https://neil.fraser.name/news/2026/11/10/",
+      "score": 655,
+      "by": "p4bl0",
+      "comments": 150
     },
     {
-      "id": "0b1ce598883c9dc9",
-      "title": "Fable 5.2 one-shotted my nephew's dream game",
-      "url": "https://notesbylex.com/fable-5-2-one-shotted-my-nephews-dream-game",
-      "score": 42,
-      "by": "lexandstuff",
-      "comments": 20
+      "id": "4f45723ee25b796f",
+      "title": "Smart home devices should work without the internet",
+      "url": "https://docodethatmatters.com/home-automation-overnight-success/",
+      "score": 666,
+      "by": "skittleson",
+      "comments": 241
     },
     {
-      "id": "9eaa8b1e4b331c7e",
-      "title": "Payments Canada announces launch of Canada's Real-Time Rail (RTR) payment system",
-      "url": "https://www.payments.ca/canada-launches-real-time-rail-bringing-247-payment-infrastructure-national-economy",
-      "score": 451,
-      "by": "ocd",
-      "comments": 253
+      "id": "258c85be024c065f",
+      "title": "Six Math Essentials by Terence Tao",
+      "url": "https://teorth.github.io/tao-web/six-math-essentials.html",
+      "score": 102,
+      "by": "digital55",
+      "comments": 23
     },
     {
-      "id": "1f9158191b5ad86a",
-      "title": "E-means: 10x faster k-means at equal loss",
-      "url": "https://e-means.github.io/",
-      "score": 253,
-      "by": "porridgeraisin",
-      "comments": 15
-    },
-    {
-      "id": "22517c71c3a43d9c",
-      "title": "Claude Fable 5.2 Scores 65 on Artificial Analysis, Highest So Far",
-      "url": "https://artificialanalysis.ai/models/claude-fable-5-2",
-      "score": 262,
-      "by": "theanonymousone",
-      "comments": 186
-    },
-    {
-      "id": "84e3ba2801dc64b0",
-      "title": "Our Smallest, Most Efficient Model: Muse Ember",
-      "url": "https://research.meta.ai/blog/muse-ember",
-      "score": 234,
-      "by": "dvaplima",
-      "comments": 97
-    },
-    {
-      "id": "0b163ba117fb69c7",
-      "title": "Fold Epic Paper Airplanes",
-      "url": "https://www.foldableflight.com",
-      "score": 826,
-      "by": "vismit2000",
-      "comments": 134
-    },
-    {
-      "id": "bbd62f86c305a3cd",
-      "title": "Infineon marks innovation milestone with 300mm power silicon carbide wafer",
-      "url": "https://www.infineon.com/press-release/2026/infpr202611-028",
-      "score": 94,
-      "by": "sshah03",
-      "comments": 58
-    },
-    {
-      "id": "c96e64e6377b4917",
-      "title": "Magenta solar panels may be agrivoltaics' cleverest trick yet",
-      "url": "https://www.anthropocenemagazine.org/2026/10/magenta-solar-panels-may-be-agrivoltaics-cleverest-trick-yet/",
-      "score": 266,
+      "id": "9af80fb3bbd008fd",
+      "title": "Synaptics patent claims stop work on DisplayLink drivers",
+      "url": "https://lwn.net/SubscriberLink/1102549/acbc92e00cee3a3f/",
+      "score": 276,
       "by": "speckx",
-      "comments": 167
+      "comments": 135
     },
     {
-      "id": "030515756f8c9203",
-      "title": "Exact – a new cross platform UI framework by the Expo team",
-      "url": "https://github.com/expo/exact",
-      "score": 21,
-      "by": "vmg12",
-      "comments": 9
+      "id": "416b20a9fe43d2b9",
+      "title": "Starlink Mini 2",
+      "url": "https://starlink.com/mini-2",
+      "score": 202,
+      "by": "robertjfclarke",
+      "comments": 226
     },
     {
-      "id": "ed251ed3f81007bd",
-      "title": "Parking-app convenience fees in 312 U.S. cities (median $0.35 per session)",
-      "url": "https://parkgraph.com/parking-app-fees",
-      "score": 47,
-      "by": "parkgraph",
-      "comments": 26
+      "id": "50222976cff44cf3",
+      "title": "Val Town is winding down",
+      "url": "https://blog.val.town/winding-down",
+      "score": 291,
+      "by": "tosh",
+      "comments": 76
     },
     {
-      "id": "cc3cc935db995a34",
-      "title": "A primer on GPUs and kernel optimization",
-      "url": "https://www.nabo.dev/blogs/kernel-primer",
-      "score": 80,
-      "by": "nomi_uw",
-      "comments": 2
+      "id": "9cd5990990d92703",
+      "title": "AlphaProof Code",
+      "url": "https://deepmind.google/blog/introducing-alphaproof-code/",
+      "score": 568,
+      "by": "ilreb",
+      "comments": 174
     },
     {
-      "id": "80af84e98e1445ff",
-      "title": "Show HN: Every satellite that passed over any place this week, and its photos",
-      "url": "https://www.watched.earth",
-      "score": 214,
-      "by": "a585gupt",
-      "comments": 42
+      "id": "9cb2b0e66b6ee048",
+      "title": "Show HN: Get your coding agent off ~2019 JavaScript, onto modern web primitives",
+      "url": "https://github.com/GoogleChrome/modern-web-guidance",
+      "score": 243,
+      "by": "paulirish",
+      "comments": 69
     },
     {
-      "id": "6e4d8e451ac64628",
-      "title": "CUI – Native UI components for C",
-      "url": "https://yappologistic.github.io/CUI/",
-      "score": 143,
-      "by": "hilti",
-      "comments": 73
-    },
-    {
-      "id": "26c9db6f57c0f8db",
-      "title": "Is Opus 5.5 nerfed? Thinking patterns changed on November 3",
-      "url": "https://twitter.com/shanemelaugh/status/2119192075505893695",
-      "score": 730,
-      "by": "rzk",
-      "comments": 469
-    },
-    {
-      "id": "224001b488e9d368",
-      "title": "An ode to livelyness analysis; SSA to registers",
-      "url": "https://xnacly.me/posts/2026/an-ode-to-livelyness-analysis/",
-      "score": 30,
-      "by": "xnacly",
+      "id": "49a97db7865c175c",
+      "title": "Pinot Noir: inside the criminal gangs making fake wine",
+      "url": "https://www.economist.com/interactive/2026/11/06/pinot-noir-inside-the-criminal-gangs-making-fake-wine",
+      "score": 16,
+      "by": "axiomdata316",
       "comments": 0
     },
     {
-      "id": "6b8d077cf14349cd",
-      "title": "Show HN: MeowDisplay Is iPhone Mirroring, but in Reverse",
-      "url": "https://meowdisplay.app/",
-      "score": 72,
-      "by": "raiseCatError",
-      "comments": 26
+      "id": "782386f533a50f74",
+      "title": "AMD's Zen 6 Family: Feeding the Beast",
+      "url": "https://chipsandcheese.com/p/amds-zen-6-family-feeding-the-beast",
+      "score": 177,
+      "by": "pixelpoet",
+      "comments": 64
+    },
+    {
+      "id": "99d5e245dd0ed977",
+      "title": "What objective is reasoning solving?",
+      "url": "https://alexwang.ai/posts/reasoning-as-pathfinding/",
+      "score": 90,
+      "by": "gmays",
+      "comments": 42
+    },
+    {
+      "id": "e04f8e7da4d2d16c",
+      "title": "Sherman Anti-Trust Act (1890)",
+      "url": "https://www.archives.gov/milestone-documents/sherman-anti-trust-act",
+      "score": 65,
+      "by": "hashmap",
+      "comments": 36
+    },
+    {
+      "id": "41df24089a76db4b",
+      "title": "The DRAM interface and the PHY (why a DDR3+ interface must be tuned at boot)",
+      "url": "https://github.com/enjoy-digital/litedram/blob/master/doc/manual/03_dram_interface.md",
+      "score": 7,
+      "by": "peter_d_sherman",
+      "comments": 0
+    },
+    {
+      "id": "94f5821f04eccb59",
+      "title": "Hacking the meta ray-ban smartglasses",
+      "url": "https://p0pcycle.com/2026/11/06/hacking-the-meta-ray-ban-smartglasses/",
+      "score": 19,
+      "by": "moooooky",
+      "comments": 6
+    },
+    {
+      "id": "b9dfaf646374f3d4",
+      "title": "Process Explorer for macOS",
+      "url": "https://github.com/microsoft/Procexp-Mac",
+      "score": 127,
+      "by": "ingve",
+      "comments": 45
+    },
+    {
+      "id": "8e2a5315bfe23fa1",
+      "title": "Ableton Live 13",
+      "url": "https://www.ableton.com/en/live/",
+      "score": 267,
+      "by": "phaser",
+      "comments": 293
+    },
+    {
+      "id": "a62993854b034998",
+      "title": "Show HN: Valencia, Spain in Sim City/Isometric View",
+      "url": "https://tinyvalencia.com/",
+      "score": 185,
+      "by": "leugim",
+      "comments": 46
+    },
+    {
+      "id": "246295afcc3c2686",
+      "title": "A comprehensive study of how fingerprintable users are",
+      "url": "https://fingerprinting.study/",
+      "score": 59,
+      "by": "tomrittervg",
+      "comments": 28
     }
   ],
   "sources_ok": [
@@ -4936,5 +5251,5 @@
     "36氪",
     "虎嗅:ReadTimeout"
   ],
-  "total": 529
+  "total": 564
 }
