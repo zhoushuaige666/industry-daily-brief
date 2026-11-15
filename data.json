@@ -1,6 +1,159 @@
 {
-  "generated_at": "2026-11-14T08:36:17.282919+08:00",
+  "generated_at": "2026-11-15T08:36:46.657755+08:00",
   "items": [
+    {
+      "id": "3b173a035cae57d4",
+      "title": "传小米联手 AMG 之父，打造极致性能车；SpaceX 首次实现筷子夹飞船；「苹果最暗产品」诞生",
+      "url": "http://www.geekpark.net/news/373993",
+      "source": "极客公园",
+      "category": "AI",
+      "published": "2026-11-15T08:02:41+08:00",
+      "summary": "曝小米与「AMG 之父」创办的 HWA 秘密合作，希望打造「载入史册」新车 当地时间 11 月 5 日，意媒 Quattroruote 援引不具名知情人士消息称，小米与 HWA 或在秘密合作开发一款超高性能汽车，部分知名零部件供应商也有望参与其中。 双方据称希望打造一款性能前所未有、足以载入汽车史册的车型。新车的具体形式仍未确定，既有可能是全新的旗舰车型，也有可能是小米现有两款车型（SU7/YU7）的极致性能版。 过去几周，多辆采用更激进设计的 SU7 Ultra 测试车现身纽博格林赛道。该媒体分析称，不排除小米已在开发更侧重赛道性能的 SU7 Ultra 升级版。 接近项目的技术人员此前透露"
+    },
+    {
+      "id": "d7794aa715c71b22",
+      "title": "美国失去麻疹消除地位",
+      "url": "https://www.solidot.org/story?sid=85889",
+      "source": "Solidot",
+      "category": "科技",
+      "published": "2026-11-15T00:52:55+08:00",
+      "summary": "受益于疫苗接种，美国自 2000 年起被认定“消灭”了麻疹。但最近几年疫苗接种率持续下降，麻疹卷土重来在美国多地再次流行。如果由同一毒株引起的感染在同一国家内持续发生人际传播，且时间至少达到一年，那么该感染即被视为“地方性流行”，即失去消除地位。犹他州的研究人员今年 8 月报告，麻疹同一毒株引起的感染在该州持续传播超过一年。今年美国已报告逾 5400 例麻疹病例，创下自 1991 年以来的最高纪录。今年报告的病例几乎所有患者此前都未接种过麻疹、腮腺炎和风疹（MMR）疫苗，或者其疫苗接种状况不明。根据美国各州的报告，至少 10 人在感染麻疹后死亡。"
+    },
+    {
+      "id": "94798e78f1306727",
+      "title": "天问四号将尝试登陆木卫四",
+      "url": "https://www.solidot.org/story?sid=85887",
+      "source": "Solidot",
+      "category": "科技",
+      "published": "2026-11-14T22:12:32+08:00",
+      "summary": "11 月 13 日，探月与航天工程中心发布通知，天问四号有效载荷研制方案开展征集。天问四号任务将执行环绕木星、环绕木卫四、着陆木卫四三大任务。木卫四或 Callisto 是太阳系第三大卫星，也是木星第二大卫星，仅次于木卫三。木卫四的直径为水星直径的 99%，但是质量只有它的三分之一。木卫四由近乎等量的岩石和水所构成，其表面下 100 公里处可能有一个液态水构成的地下海洋，可能具有孕育生命的基本条件。"
+    },
+    {
+      "id": "36185f58851da9c2",
+      "title": "微软云服务宕机持续逾 24 小时",
+      "url": "https://www.solidot.org/story?sid=85886",
+      "source": "Solidot",
+      "category": "科技",
+      "published": "2026-11-14T21:55:50+08:00",
+      "summary": "微软周六表示，影响各国企业和政府所用 Microsoft 365 应用的全球服务中断已经结束，这次中断持续了超过 24 小时。微软在 X 上发文说：“我们已完成解决这一事件根本问题的工作，并为其余受影响的客户和地区恢复了服务。”Teams、Outlook 和 Copilot 等微软应用都受到了这次服务中断的影响，导致数十个国家出现通信问题。微软表示，“没有发现”任何可能导致这次服务中断的外部干扰，并将问题归咎于服务器故障。这次中断是微软历史上持续时间最长的中断之一，也是今年的第二次。英国国家网络安全中心前负责人 Ciaran Martin 认为这次宕机事故在规模上类似亚马逊 AWS 和 Cro"
+    },
+    {
+      "id": "55993733a62a17bc",
+      "title": "美国历史上第三次航班大停飞",
+      "url": "https://www.solidot.org/story?sid=85884",
+      "source": "Solidot",
+      "category": "科技",
+      "published": "2026-11-14T21:24:23+08:00",
+      "summary": "美国 FAA 本周五宣布了其历史上第三次全国航班停飞，持续 4.5 小时后解除。此举导致近 1 万架次航班被取消。FAA 历史上第一次全国航班停飞是 2001 年的 911 事件，第二次是 2023 年 1 月 11 日，持续不到 2 小时。对于最新的事件，美国交通部长 Sean Duffy 给出的理由是空管系统依赖的仍是几十年前的模拟设备，已完全无法满足 21 世纪的需求。但也有报道称此次事件与软件升级失败有关：由 L3Harris Technologies 管理的通信网络更新时导致系统重启，进而导致系统崩溃及通信中断。L3Harris 未回应这一说法。"
+    },
+    {
+      "id": "545d3ee004cb236a",
+      "title": "库克接班，可能真是英伟达的最优解",
+      "url": "https://www.tmtpost.com/8205427.html",
+      "source": "钛媒体",
+      "category": "创投",
+      "published": "2026-11-14T18:37:06+08:00",
+      "summary": "再找一个黄仁勋很难，先找一个库克呢？"
+    },
+    {
+      "id": "e30735d27a4d0703",
+      "title": "ADC载荷迭代迈入加速期",
+      "url": "https://www.tmtpost.com/8205391.html",
+      "source": "钛媒体",
+      "category": "创投",
+      "published": "2026-11-14T18:37:01+08:00",
+      "summary": "从分子竞争到平台比拼。"
+    },
+    {
+      "id": "58962dbe06f21e14",
+      "title": "A股一级行业，PS偏离度分布与深潜分析",
+      "url": "https://www.tmtpost.com/8205459.html",
+      "source": "钛媒体",
+      "category": "创投",
+      "published": "2026-11-14T17:58:58+08:00",
+      "summary": "就结论而言，偏离度剔除了市场整体水位，使行业间的相对贵贱在横截面与时间序列上都可比；但它只衡量相对贵贱，并不回答这份贵贱是否合理——偏离度为正，未必是高估；偏离度为负，也未必是低估。"
+    },
+    {
+      "id": "9174494976f510d9",
+      "title": "营收增长与PS变化：A股一级行业五年估值位移的经济含义",
+      "url": "https://www.tmtpost.com/8205450.html",
+      "source": "钛媒体",
+      "category": "创投",
+      "published": "2026-11-14T17:57:36+08:00",
+      "summary": "PS的变化，本质是两条曲线的差。五年合起来看，扩张落在收入与市值两端，利润没有跟上——市值跑赢收入的那一段距离，来自估值水位与收入结构，不是盈利改善。"
+    },
+    {
+      "id": "c2b71192af9fed4c",
+      "title": "价值判断：跌停板的投资机会和风险提示（11月13日）｜上市公司观察",
+      "url": "https://www.tmtpost.com/8205442.html",
+      "source": "钛媒体",
+      "category": "创投",
+      "published": "2026-11-14T17:57:13+08:00",
+      "summary": "跌停的构成分三路。一路被隔夜外围直接砸下来：英伟达宣布黄仁勋辞任首席执行官，股价收跌四个多点，元件跌逾八个点、通信设备跌逾六个点，沪电股份、景旺电子、华正新材封死跌停。一路是前期靠机器人概念上来的高位股，襄阳轴承连拉八个板后熄火，尾盘被摁在地板；大业股份的腱绳停在送样，午后同样跌停。第三路是医疗器械的集体走弱，南卫股份跌幅居前。本期三只都是本轮第一根跌停，收盘对济安定价的溢价仍在六成三至近一倍。"
+    },
+    {
+      "id": "424688d057d7d612",
+      "title": "价值判断：涨停板的投资机会和风险提示（11月13日）｜上市公司观察",
+      "url": "https://www.tmtpost.com/8205437.html",
+      "source": "钛媒体",
+      "category": "创投",
+      "published": "2026-11-14T17:57:00+08:00",
+      "summary": "本期五只标的分两头：三只首板、收盘低于济安定价四成四至六成九，分属色纺纱、汽车橡塑与港口机械；两只连板、高于九成五至一倍二，分属汽车胶管与输水管道。"
+    },
+    {
+      "id": "4bf39f867643ad31",
+      "title": "美国精英阶层并非学术分歧，而是政治博弈与利益选择",
+      "url": "https://www.tmtpost.com/8205430.html",
+      "source": "钛媒体",
+      "category": "创投",
+      "published": "2026-11-14T17:56:39+08:00",
+      "summary": "美债问题早已不只是金融学或经济学的学术争论，更是利益分配、政治周期与全球权力博弈交织而成的现实选择。"
+    },
+    {
+      "id": "447733c940c18049",
+      "title": "中国越野车，正在打两场不同的仗",
+      "url": "https://www.tmtpost.com/8205404.html",
+      "source": "钛媒体",
+      "category": "创投",
+      "published": "2026-11-14T17:17:43+08:00",
+      "summary": "在国内，越野车正从少数人的专业爱好走向大众消费；在海外，中国品牌则开始从产品竞争转向体系竞争。"
+    },
+    {
+      "id": "0018788f33961e1a",
+      "title": "当广告开始被追更：肌肉唐僧唱摇滚，AI改写游戏获客",
+      "url": "https://www.tmtpost.com/8205248.html",
+      "source": "钛媒体",
+      "category": "创投",
+      "published": "2026-11-14T16:54:00+08:00",
+      "summary": "素材可以量产，好创意却不能一键生成。"
+    },
+    {
+      "id": "70371bc28443c2f7",
+      "title": "字节的2029与腾讯的“一半人”",
+      "url": "https://www.tmtpost.com/8201267.html",
+      "source": "钛媒体",
+      "category": "创投",
+      "published": "2026-11-14T16:39:41+08:00",
+      "summary": "不管是什么时间，大厂都想为AI“争取时间”。"
+    },
+    {
+      "id": "57f7064d7b88b5ec",
+      "title": "怀旧手记｜索尼 CLIE：千禧年的高端 Palm OS PDA",
+      "url": "https://sspai.com/post/118276",
+      "source": "少数派",
+      "category": "科技",
+      "published": "2026-11-14T15:40:21+08:00",
+      "summary": "Matrix首页推荐Matrix是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选Matrix最优质的文章，展示来自用户的最真实的体验和观点。文章代表作者个人观点 ...查看全文"
+    },
+    {
+      "id": "78fa16f6c0ded38a",
+      "title": "早报｜英伟达员工请愿黄仁勋回归/余承东重申华为与赛力斯分工/Microsoft 365故障延续至48小时",
+      "url": "https://www.ifanr.com/1689450?utm_source=rss&utm_medium=rss&utm_campaign=",
+      "source": "爱范儿",
+      "category": "科技",
+      "published": "2026-11-14T08:00:42+08:00",
+      "summary": "· 两部门公布新型储能方案，提出到 2030 年平均储能约 3 小时 · LangChain 完成 3 亿美元 C 轮融资，估值 30 亿美元 · 荣耀 700 系列定档 11 月 23 日，背屏可贴 GIF、看通知#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。"
+    },
     {
       "id": "f0b41b1ebea6d5ad",
       "title": "余承东公布华为问界新合作模式！新 M8 同步上市，起售价 37.98 万元",
@@ -5998,164 +6151,164 @@
   ],
   "hot": [
     {
-      "id": "195a05b293bc4fa1",
-      "title": "FAA issues national ground stop",
-      "url": "https://www.nbcnews.com/news/us-news/faa-orders-nationwide-ground-stop-departing-flights-reasons-safety-rcna609247",
-      "score": 1200,
-      "by": "zulln",
-      "comments": 722
+      "id": "1822b29f89d97574",
+      "title": "SpaceX catches the Starship to end Flight 15",
+      "url": "https://www.spacex.com/launches/starship-flight-15",
+      "score": 586,
+      "by": "ls612",
+      "comments": 380
     },
     {
-      "id": "a0cf6e13e33ce5e9",
-      "title": "First Strike",
-      "url": "https://geohot.github.io//blog/jekyll/update/2026/11/13/first-strike.html",
-      "score": 31,
-      "by": "vinyl7",
-      "comments": 15
+      "id": "9dc96dc07c710a72",
+      "title": "Lovable apps expose passport details and more than 200K private messages",
+      "url": "https://www.crissyfield.de/research/lovable-en/",
+      "score": 603,
+      "by": "armcat",
+      "comments": 250
     },
     {
-      "id": "beeb78a1d3b2c606",
-      "title": "Live airband on all frequencies from KORS. Victoria, CA also ground stopped",
-      "url": "https://orcasairband.com/",
-      "score": 148,
-      "by": "mmaunder",
-      "comments": 37
-    },
-    {
-      "id": "00a8feb89de966e8",
-      "title": "FM-1 Workbench",
-      "url": "https://open.m-vave.com/fm1-workbench",
-      "score": 174,
-      "by": "simonebrunozzi",
-      "comments": 100
-    },
-    {
-      "id": "8ded6552203743f9",
-      "title": "What Happened to 3Com?",
-      "url": "https://dfarq.homeip.net/what-happened-to-3com/",
-      "score": 9,
-      "by": "gvieri",
-      "comments": 2
-    },
-    {
-      "id": "47680b0d38452637",
-      "title": "Reverse engineering my Coway air purifier to ditch the cloud",
-      "url": "https://scottjg.com/posts/2026-11-11-reverse-engineering-my-coway-air-purifier-to-ditch-the-cloud/",
-      "score": 664,
-      "by": "scottjg",
-      "comments": 197
-    },
-    {
-      "id": "e84e02bc5278c0e7",
-      "title": "Found: A protein that drives ageing without unleashing inflammation",
-      "url": "https://www.nature.com/articles/d41586-026-03638-3",
-      "score": 111,
-      "by": "gumby",
+      "id": "0b96403f5d38f9d2",
+      "title": "How did Woz write the Apple 1 BASIC before building the computer?",
+      "url": "https://retrocomputing.stackexchange.com/questions/17957",
+      "score": 59,
+      "by": "Skyfall106",
       "comments": 17
     },
     {
-      "id": "98d22fe9366bd3fa",
-      "title": "After 600 experiments, here's what I discovered about JEPA world models",
-      "url": "https://haddyalchaer.com/jepa",
-      "score": 206,
-      "by": "halcdev",
-      "comments": 34
+      "id": "066824838f04764c",
+      "title": "A family tree of software job titles",
+      "url": "https://zwischenzugs.com/2026/11/03/a-family-tree-of-software-job-titles/",
+      "score": 187,
+      "by": "umerf",
+      "comments": 91
     },
     {
-      "id": "549177affb066716",
-      "title": "Terminal borders that don't cost a cell",
-      "url": "https://www.joshka.net/cell-borders/",
-      "score": 30,
-      "by": "vinhnx",
-      "comments": 13
+      "id": "9bd623c008b62be4",
+      "title": "KDE: The documentary [video]",
+      "url": "https://tube.kockatoo.org/w/fFinNHfanLT7aBEb2B8y4c",
+      "score": 366,
+      "by": "mrkn1",
+      "comments": 78
     },
     {
-      "id": "3b486c425094b81f",
-      "title": "Perplexity Decider v1.3: Training, eval, and use cases",
-      "url": "https://www.perplexity.ai/hub/blog/perplexity-decider",
-      "score": 92,
-      "by": "gmays",
+      "id": "50599e999e5f001e",
+      "title": "PyPI's redesigned project pages with clearer security signals are now live",
+      "url": "https://blog.pypi.org/posts/2026-11-06-ui-updates-complete/",
+      "score": 197,
+      "by": "rbanffy",
+      "comments": 89
+    },
+    {
+      "id": "6acab54df9440d6e",
+      "title": "Nvidia deliberately kept GPU prices high through circular financing deals",
+      "url": "https://www.techspot.com/news/114558-nvidia-deliberately-kept-gpu-prices-high-through-circular.html",
+      "score": 98,
+      "by": "madihaa",
+      "comments": 46
+    },
+    {
+      "id": "aaacd8eef8b89a2d",
+      "title": "Why get an expensive Pi when I have an old phone?",
+      "url": "https://so.long.thanks.fish/why-pi-when-i-have-an-old-phone/",
+      "score": 495,
+      "by": "casi",
+      "comments": 279
+    },
+    {
+      "id": "980022552f08b7f2",
+      "title": "Show HN: DeepSeek V3 in ~200 lines of pure Jax",
+      "url": "https://github.com/Vaibhaav-Tiwari/deepseek-v3-jax",
+      "score": 154,
+      "by": "VaibhaavTiwari",
+      "comments": 8
+    },
+    {
+      "id": "bb52ff19bb2a3e99",
+      "title": "Seagate's new hybrid drive raises some old questions",
+      "url": "https://arstechnica.com/gadgets/2026/11/seagate-resurrects-the-ssd-hdd-hybrid-drive/",
+      "score": 64,
+      "by": "PaulHoule",
+      "comments": 37
+    },
+    {
+      "id": "4a3370244240e83d",
+      "title": "Advancing science and engineering with Antigravity's /teamwork",
+      "url": "https://research.google/blog/advancing-science-engineering-with-antigravitys-teamwork-feature/",
+      "score": 157,
+      "by": "acossta",
+      "comments": 36
+    },
+    {
+      "id": "0fc3176d1513c399",
+      "title": "Reverse engineering a vintage diode-transistor logic chip",
+      "url": "https://www.righto.com/2026/11/signetics-st680a-dtl-nand.html",
+      "score": 89,
+      "by": "dverlaeckt80",
+      "comments": 5
+    },
+    {
+      "id": "7c61a0df65998cf1",
+      "title": "Generative AI uses more energy on non-English text",
+      "url": "https://news.umich.edu/generative-ai-uses-more-energy-on-non-english-text/",
+      "score": 171,
+      "by": "DeepLogin",
+      "comments": 95
+    },
+    {
+      "id": "0ca33b8253bea255",
+      "title": "Testing a trash can Faraday cage",
+      "url": "https://www.jefftk.com/p/testing-a-trash-can-faraday-cage",
+      "score": 62,
+      "by": "torutofu",
+      "comments": 55
+    },
+    {
+      "id": "87b2791726aab779",
+      "title": "'Grey Rocking': The Life-Improving Power of Being Really, Really Boring (2021)",
+      "url": "https://www.esquire.com/uk/life/a38473153/grey-rock-technique-being-boring/",
+      "score": 82,
+      "by": "NaOH",
+      "comments": 48
+    },
+    {
+      "id": "de0b650bb071e175",
+      "title": "L3Harris statement on the Nov. 13 ground stop",
+      "url": "https://www.l3harris.com/newsroom/press-release/2026/11/l3harris-statement-nov-13-ground-stop",
+      "score": 50,
+      "by": "taspeotis",
       "comments": 19
     },
     {
-      "id": "710db3fa062d67d1",
-      "title": "Doomsday: Friday, 13 November, A.D. 2026 (1960)",
-      "url": "https://www.science.org/doi/10.1126/science.132.3436.1291",
-      "score": 441,
-      "by": "voxleone",
-      "comments": 302
+      "id": "074512d306ba185a",
+      "title": "LinkedIn, Monster take down over 1000 fake job postings after CBC investigation",
+      "url": "https://www.cbc.ca/news/canada/linkedin-monster-take-down-over-1-000-fake-job-postings-after-cbc-investigation-9.7415379",
+      "score": 170,
+      "by": "gnabgib",
+      "comments": 87
     },
     {
-      "id": "d053ff0100173ac0",
-      "title": "Live-migration support in FreeBSD and bhyve coming",
-      "url": "https://gyptazy.com/blog/freebsd-bhyve-live-migration-support-rfc/",
-      "score": 61,
-      "by": "JohnDohnBohn",
-      "comments": 15
+      "id": "ce0e44d0a2e7873d",
+      "title": "Show HN: A terminal-native idle factory game, written in Rust with ratatui",
+      "url": "https://gitlab.com/snipedbywifi/terminactory",
+      "score": 130,
+      "by": "snipedbywifi",
+      "comments": 27
     },
     {
-      "id": "e51fca8ba6a82a8e",
-      "title": "Autonomous (YC F25) is hiring MTS to build AI agents that manage your wealth",
-      "url": "https://atg.science/careers",
-      "score": 1,
-      "by": "dkobran",
-      "comments": 0
+      "id": "80f0eb5dc4d75c4a",
+      "title": "Project Zero will disclose vulnerabilities 90 days after reporting",
+      "url": "https://projectzero.google/2026/11/disclosure-policy.html",
+      "score": 139,
+      "by": "hacb",
+      "comments": 32
     },
     {
-      "id": "e507681b080f650f",
-      "title": "Show HN: Isometric SF – A pixel-art map of the SF Bay Area",
-      "url": "https://isometricsf.com/",
-      "score": 144,
-      "by": "juscha1",
-      "comments": 49
-    },
-    {
-      "id": "3d69c1873d30daee",
-      "title": "Ctrl+C, Ctrl+v, Ctrl+cve: Bypassing Android's Clipboard Read Security Measures",
-      "url": "https://toninoble.com/post/ctrlc-ctrlv-ctrlcve",
-      "score": 65,
-      "by": "dethmasque",
-      "comments": 29
-    },
-    {
-      "id": "a7d9ebfdd35fe4c3",
-      "title": "All US airports are currently ground stopped",
-      "url": "https://twitter.com/flightradar24/status/2121347654714077605",
-      "score": 149,
-      "by": "defly",
-      "comments": 29
-    },
-    {
-      "id": "9f2ab2e78070eb5a",
-      "title": "A technical vision for the Haskell ecosystem",
-      "url": "https://discourse.haskell.org/t/a-technical-vision-for-the-haskell-ecosystem/15078",
-      "score": 174,
-      "by": "cosmic_quanta",
-      "comments": 79
-    },
-    {
-      "id": "1de6024152bb7fc5",
-      "title": "$11.4M in Nvidia hardware vanishes during shipment from CA to TX",
-      "url": "https://www.freightwaves.com/news/11-4-million-in-nvidia-hardware-vanishes-during-shipment-from-california-to-texas",
-      "score": 276,
-      "by": "crescit_eundo",
-      "comments": 154
-    },
-    {
-      "id": "081fcd7267e9b90c",
-      "title": "Minnesota guitarist's \"palmfrets\" invention strikes a new chord",
-      "url": "https://www.echopress.com/business/minnesota-guitarists-invention-strikes-a-new-chord",
-      "score": 128,
-      "by": "bookofjoe",
-      "comments": 81
-    },
-    {
-      "id": "415bf8a8467b734d",
-      "title": "Weight Space Misfolding",
-      "url": "https://www.alphaxiv.org/abs/2611.weight-space-misfolding",
-      "score": 128,
-      "by": "mkglees",
-      "comments": 45
+      "id": "bd9818d6615aa365",
+      "title": "Oxford Molecular Motors",
+      "url": "https://www.physics.ox.ac.uk/research/group/oxford-molecular-motors/research/bacterial-flagellar-motor",
+      "score": 3,
+      "by": "handfuloflight",
+      "comments": 1
     }
   ],
   "sources_ok": [
@@ -6169,5 +6322,5 @@
     "36氪",
     "虎嗅:ReadTimeout"
   ],
-  "total": 666
+  "total": 683
 }
