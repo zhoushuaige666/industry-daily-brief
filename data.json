@@ -1,6 +1,294 @@
 {
-  "generated_at": "2026-11-16T08:50:32.562709+08:00",
+  "generated_at": "2026-11-17T08:41:42.677480+08:00",
   "items": [
+    {
+      "id": "8235cd6da18aef44",
+      "title": "早报｜iPhone Duo新增外屏人脸解锁/曝英伟达董事会无意请回黄仁勋/华为Mate X8定档11月24日",
+      "url": "https://www.ifanr.com/1689760?utm_source=rss&utm_medium=rss&utm_campaign=",
+      "source": "爱范儿",
+      "category": "科技",
+      "published": "2026-11-17T08:18:50+08:00",
+      "summary": "· 阿里发布 Qwen4-Max，缓存命中价格低至每百万 Token 0.5 元 · 腾讯混元推出 Hy4 flash，WorkBuddy 限时开放免费使用 · 腾讯公开司庆讲话，要求核心业务团队面向 AI 再创业#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。"
+    },
+    {
+      "id": "d8d6b8c833ed0ae5",
+      "title": "【钛晨报】涉比亚迪、“蔚小理”、小米等，17家重点车企供应商账期将接受评估；消息人士称360市场负责人被带走调查；金饰克价较年内高点跌去530元",
+      "url": "https://www.tmtpost.com/8207624.html",
+      "source": "钛媒体",
+      "category": "创投",
+      "published": "2026-11-17T07:20:00+08:00",
+      "summary": "百度三季度AI云基础设施收入同比增长94%；胖东来今年销售额已超258亿元；华为云发布并开源昇腾原生具身世界模型；胜宏科技拟向多家银行申请合计707亿元授信额度；黄仁勋考虑回归英伟达；文投控股：AI漫剧相关业务收入占公司营收比例约为2.57%，占比仍然较小；中国中小学校、幼儿园将聘任健康副校（园）长，由医疗卫生机构等派出。"
+    },
+    {
+      "id": "cd85c5f6f12eb027",
+      "title": "Robert Pattinson 成为第七任 007",
+      "url": "https://www.solidot.org/story?sid=85905",
+      "source": "Solidot",
+      "category": "科技",
+      "published": "2026-11-17T00:18:40+08:00",
+      "summary": "英国演员 Robert Pattinson 成为继 Daniel Craig 之后的第七任 007，将出演首部由亚马逊制作的 007 电影。Robert Pattinson 也成为第一位出演过蝙蝠侠的 007 演员。在 Daniel Craig 获选饰演 007 时，他当时还不是一线明星；相比其他竞争第七任 007 的演员，Robert Pattinson 已经是一位知名度极高的明星，大多数人都听说过他的名字。亚马逊显然是希望由一名有强大票房号召力的明星领衔主演其首部 007 电影。"
+    },
+    {
+      "id": "f89e734b8878bb71",
+      "title": "没有足够的植物纤维肠道细菌可能会吃你的肠道内壁",
+      "url": "https://www.solidot.org/story?sid=85904",
+      "source": "Solidot",
+      "category": "科技",
+      "published": "2026-11-16T23:51:27+08:00",
+      "summary": "植物性食物中的纤维和蛋白对我们有益，但它们是如何在人体内发挥有益作用的？普林斯顿大学研究团队在 PNAS 和 Nature Metabolism 期刊上发表了两篇论文，揭示了植物蛋白和纤维在体内转化为有益代谢产物的过程。研究人员针对了名为酚代谢物的化学物质：当肠道细菌消化特定氨基酸时会产生酚代谢物。酚代谢物源自两种氨基酸酪氨酸（tyrosine）和苯丙氨酸（phenylalanine）。研究人员发现，植物纤维和特定蛋白能影响这些氨基酸最终转化为何种化学物质。研究发现，植物纤维和无法被消化的蛋白 Prif 能改变酚代谢物的平衡，将原本由酪氨酸转化而成的有害代谢产物，转变为由苯丙氨酸衍生而来的有益"
+    },
+    {
+      "id": "0e17312cd7db27b6",
+      "title": "英伟达股价无需黄仁勋强势回归也能走强",
+      "url": "https://www.tmtpost.com/8207692.html",
+      "source": "钛媒体",
+      "category": "创投",
+      "published": "2026-11-16T23:06:04+08:00",
+      "summary": "在黄仁勋辞职引发的余波影响下，英伟达股价大幅下跌。但这并不意味着他就该回归。"
+    },
+    {
+      "id": "f58070bfc8c84465",
+      "title": "美光股价：为何强劲的内存价格可能无济于事",
+      "url": "https://www.tmtpost.com/8207689.html",
+      "source": "钛媒体",
+      "category": "创投",
+      "published": "2026-11-16T23:05:35+08:00",
+      "summary": "尽管有人预测明年内存价格会上涨，但美光的股价并未因此受益。"
+    },
+    {
+      "id": "efbafc7b0ea3690a",
+      "title": "微软称一个隐藏的 Windows Bug 触发了持续逾一天的宕机事故",
+      "url": "https://www.solidot.org/story?sid=85903",
+      "source": "Solidot",
+      "category": "科技",
+      "published": "2026-11-16T23:00:34+08:00",
+      "summary": "微软公布了初步事件报告，称一个隐藏的 Windows Bug 触发了持续逾一天的宕机事故。它将于 11 月 20 日公布更详细的信息。微软称，它于今年 7 月部署了针对 Microsoft 365 网络网关服务器的一项修正，运行三个多月未出现问题。但这次修正引入了一个锁争用的 bug：一个 Windows 内部进程中多个任务争夺对共享资源的访问权，特定流量条件下会耗尽处理器和内存资源。微软此前的测试未能发现这一问题，原因是测试是在硬件性能较弱的机器上进行的，在拥有更多核心的新硬件上，该问题会非常显著。两个条件触发了该 bug：Teams 流量从一个备用网关迁移到了与 Exchange Onli"
+    },
+    {
+      "id": "48082d765329d544",
+      "title": "微软称下一代 Xbox 游戏机能玩 PC 游戏",
+      "url": "https://www.solidot.org/story?sid=85902",
+      "source": "Solidot",
+      "category": "科技",
+      "published": "2026-11-16T22:13:59+08:00",
+      "summary": "微软证实，代号为 Project Helix 的下一代 Xbox 游戏机既能玩主机游戏也能玩 PC 游戏。但暂时还不清楚游戏机是否能运行 Steam、Epic 等竞争对手的 PC 游戏启动器。目前所知的信息是 Project Helix 使用了基于 AMD Zen6 CPU + RDNA5 GPU 的定制 APU，与 PC 使用的 APU 区别并不大（游戏机配备的 RDNA5 CU 数量更多），因此玩 PC 游戏没多少问题，问题在于它如何控制玩家玩任意 PC 游戏。负责 Project Helix 业务的副总裁 Jason Ronald 表示， “我们的设计目标非常明确：Helix 是一款游戏"
+    },
+    {
+      "id": "1feb3fa92f508091",
+      "title": "新增51款1类新药、129万CAR-T首次纳入：医保目录的平衡与商保新变量丨行业风向标",
+      "url": "https://www.tmtpost.com/8207495.html",
+      "source": "钛媒体",
+      "category": "创投",
+      "published": "2026-11-16T20:34:23+08:00",
+      "summary": "基本医保进一步向高临床价值的创新药倾斜，同时通过商保目录承接差异化、更高端的创新需求。"
+    },
+    {
+      "id": "a8348f923761500d",
+      "title": "移芯通信：营收稳步增长却盈亏反复，Cat.1bis芯片售价近乎腰斩",
+      "url": "https://www.tmtpost.com/8200859.html",
+      "source": "钛媒体",
+      "category": "创投",
+      "published": "2026-11-16T20:01:42+08:00",
+      "summary": "营收增长背后，移芯通信盈利稳定性较差，三年半仅2024年实现盈利，其余时段持续亏损，累计亏损2.01亿元。"
+    },
+    {
+      "id": "6a3ce065e49296c4",
+      "title": "维眸生物：十年无产品商业化，累计亏损近11亿，现金链承压",
+      "url": "https://www.tmtpost.com/8200883.html",
+      "source": "钛媒体",
+      "category": "创投",
+      "published": "2026-11-16T20:00:30+08:00",
+      "summary": "拉长时间线看，若剔除股改影响，截至2026年6月末，维眸生物的累计亏损金额为-10.92亿元，这也意味着，公司成立近十年累计资金投入消耗接近11亿元，如何扭亏、打通商业化路径，是其必须解决的核心难题。"
+    },
+    {
+      "id": "1a924aa1e5dcb4f9",
+      "title": "影石这张「魔法相纸」，怎么治好了我的相册吃灰症？",
+      "url": "https://www.ifanr.com/1689594?utm_source=rss&utm_medium=rss&utm_campaign=",
+      "source": "爱范儿",
+      "category": "科技",
+      "published": "2026-11-16T20:00:01+08:00",
+      "summary": "纸面上流转的不再是魔法世界的头条新闻，而是我们生活里那些真正值得举杯的闪光时刻。#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。"
+    },
+    {
+      "id": "da16904c88d2aa14",
+      "title": "AI变量下的多线博弈，面板行业迎来新卡位战",
+      "url": "https://www.tmtpost.com/8206976.html",
+      "source": "钛媒体",
+      "category": "创投",
+      "published": "2026-11-16T19:30:16+08:00",
+      "summary": "过去，企业需要思考如何生产更多、更便宜的屏幕。AI时代，则需要思考如何生产更有价值、更符合未来需求的屏幕。"
+    },
+    {
+      "id": "acbb64bbc7941007",
+      "title": "连续五年亏损、实控人被刑拘，南卫股份控制权格局引关注",
+      "url": "https://www.tmtpost.com/8207448.html",
+      "source": "钛媒体",
+      "category": "创投",
+      "published": "2026-11-16T19:28:16+08:00",
+      "summary": "随着公司实控人被刑拘，3年前就开始筹划的控制权变更，再次被推至聚光灯下"
+    },
+    {
+      "id": "618007e168449276",
+      "title": "拟4.6亿拿下酷尔芯控股权：征和工业跨界押注液冷，标的两月估值抬升18%",
+      "url": "https://www.tmtpost.com/8207398.html",
+      "source": "钛媒体",
+      "category": "创投",
+      "published": "2026-11-16T19:22:32+08:00",
+      "summary": "链传动龙头跨界押注液冷，主业承压下的第二曲线突围。"
+    },
+    {
+      "id": "169c5f9c6fdd0745",
+      "title": "阿里文娱最长任期一号位离场，樊路远辞任或转身创业",
+      "url": "https://www.tmtpost.com/8207387.html",
+      "source": "钛媒体",
+      "category": "创投",
+      "published": "2026-11-16T19:13:25+08:00",
+      "summary": "掌舵阿里大文娱八年，留下一个“瘦身版”的虎鲸文娱。"
+    },
+    {
+      "id": "3aea1ee34dc77338",
+      "title": "苹果眼镜明年见：没有屏幕，全靠 Siri 撑场面？",
+      "url": "https://www.ifanr.com/1689712?utm_source=rss&utm_medium=rss&utm_campaign=",
+      "source": "爱范儿",
+      "category": "科技",
+      "published": "2026-11-16T18:53:45+08:00",
+      "summary": "这不会是苹果真正想带给这个时代的答案#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。"
+    },
+    {
+      "id": "dccc8905a69a4ce7",
+      "title": "美国 ULA 的 Vulcan 火箭发射失败 40 颗亚马逊卫星被毁",
+      "url": "https://www.solidot.org/story?sid=85900",
+      "source": "Solidot",
+      "category": "科技",
+      "published": "2026-11-16T18:33:21+08:00",
+      "summary": "联合发射联盟（ULA）周日使用其 Vulcan 火箭发射 40 颗亚马逊 Leo 宽带卫星，火箭在二级飞行阶段出现了异常而发射失败，亚马逊的卫星未能正常入轨。Vulcan 火箭此前由于其火箭助推器的喷管问题而从今年 2 月起就停飞。Vulcan 火箭执行了四次发射，两次发生了喷管问题。执行此次发射任务 LV-01 的是其最强大的型号 Vulcan VC6L，配备了 6 枚固体火箭助推器。亚马逊向 ULA 订购了 38 次 Vulcan 发射订单，这次任务是第一次，亚马逊正快速扩大其宽带卫星阵容，以与 Starlink 展开竞争。如果发射成功，亚马逊的在轨宽带卫星数量将达到 432 颗，而它启动"
+    },
+    {
+      "id": "c17121bc3e58da65",
+      "title": "几乎每家国产新能源都在营销的「6 人 12 箱」，原来根本就是违法的！",
+      "url": "https://www.ifanr.com/1689701?utm_source=rss&utm_medium=rss&utm_campaign=",
+      "source": "爱范儿",
+      "category": "科技",
+      "published": "2026-11-16T18:27:22+08:00",
+      "summary": "别让营销高于安全。#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。"
+    },
+    {
+      "id": "d1f79de0836d85e2",
+      "title": "派评 | 近期值得关注的 App",
+      "url": "https://sspai.com/post/119148",
+      "source": "少数派",
+      "category": "科技",
+      "published": "2026-11-16T18:09:47+08:00",
+      "summary": ">下载少数派客户端、关注少数派公众号，解锁全新阅读体验📰>实用、好用的正版软件，少数派为你呈现🚀查看全文"
+    },
+    {
+      "id": "558455c0e15959a4",
+      "title": "实测腾讯 Hy4 flash：花两毛钱，就能让 AI 从零做个 3D 交互网页",
+      "url": "https://www.ifanr.com/1689653?utm_source=rss&utm_medium=rss&utm_campaign=",
+      "source": "爱范儿",
+      "category": "科技",
+      "published": "2026-11-16T17:53:01+08:00",
+      "summary": "比 DeepSeek V4.1 Flash 性价比更高#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。"
+    },
+    {
+      "id": "c230b1683ed304f4",
+      "title": "部分因为 AI Overviews Reddit 年访问量下滑 13%",
+      "url": "https://www.solidot.org/story?sid=85899",
+      "source": "Solidot",
+      "category": "科技",
+      "published": "2026-11-16T17:26:54+08:00",
+      "summary": "根据分析公司 Similarweb 的数据，2025 年 10 月至 2026 年 10 月期间，Reddit 的全球访问量下滑了 13%。来自 Google 搜索的流量减少，促使 Reddit 准备强制要求所有访客必须登录。2024 年 Reddit 与 Google 达成协议授权其使用平台内容用于 AI 训练，当时受益于 Google 的 Reddit 搜索流量处于激增阶段。根据 Similarweb 的数据，2023 年 5 月至 2024 年 5 月期间 Reddit 的流量增长了 39%。然而随着 AI Overviews 功能日益常见且实用，Reddit 的流量出现了下滑。一旦仅限"
+    },
+    {
+      "id": "a7967b9bea9e2f12",
+      "title": "制糖工厂推出 EdgeTie 边边线，以转角贴边设计改善车内充电体验",
+      "url": "https://www.ifanr.com/1689628?utm_source=rss&utm_medium=rss&utm_campaign=",
+      "source": "爱范儿",
+      "category": "科技",
+      "published": "2026-11-16T16:37:10+08:00",
+      "summary": "硬糖边边线，今日上线。#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。"
+    },
+    {
+      "id": "060c60340e4c0549",
+      "title": "苹果智能眼镜细节曝光，居然是戴在脸上的 AirPods",
+      "url": "https://www.ifanr.com/1689616?utm_source=rss&utm_medium=rss&utm_campaign=",
+      "source": "爱范儿",
+      "category": "科技",
+      "published": "2026-11-16T16:24:59+08:00",
+      "summary": "真正认真对待软件的人，应该自己去制造硬件。#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。"
+    },
+    {
+      "id": "d8644203e1e88afa",
+      "title": "互联网档案存档 Salon",
+      "url": "https://www.solidot.org/story?sid=85898",
+      "source": "Solidot",
+      "category": "科技",
+      "published": "2026-11-16T16:24:55+08:00",
+      "summary": "有 31 年历史的 Salon 于 2026 年 11 月 5 日宣布从即日起停止出版。Salon 创办于 1995 年 11 月 5 日，是互联网早期重要的出版物。互联网档案的时光机器（Wayback Machine）已对 Salon 进行了近 30 年的存档——它先后使用过 salon1999.com、salonmag.com 等域名 1999 年后开始用 salon.com——互联网档案发布了一个实验性工具 Salon Explorer，方便用户挖掘 Salon 历年的新闻报道，浏览逾 25 万篇文章，查找特定报道，发现可能以前错过的精彩文章。"
+    },
+    {
+      "id": "623095802eb46987",
+      "title": "科学家发明电梳能促进头发生长",
+      "url": "https://www.solidot.org/story?sid=85897",
+      "source": "Solidot",
+      "category": "科技",
+      "published": "2026-11-16T16:00:27+08:00",
+      "summary": "如果你受到脱发的困扰，也许未来可以尝试名为 Detangle 的电梳。它是一种梳子形状的生物电子装置。北京航空航天大学研究人员在《Nature Communications》期刊上发表研究报告，Detangle 系统采用嵌入式电子梳齿结构，配备高度差异化的电极以及集成式药物负载模块，能产生增强电场，渗透毛囊区域的深度达到传统外用给药方式的约 9 倍。小鼠研究显示，Detangle 电梳能成为雄激素遗传性脱发的有力工具，全球有逾十亿人受到这种常见脱发的困扰。实验中，针对因睾酮诱导而出现脱发的雄鼠，对照组在 28 天内其背部剃毛区域仅长出约 1% 的毛发，而接受 Detangle 系统电刺激的小鼠"
+    },
+    {
+      "id": "2a6099ad31bbbdd7",
+      "title": "Rosetta 2 即将退役，Mac 老应用何去何从？",
+      "url": "https://sspai.com/post/118100",
+      "source": "少数派",
+      "category": "科技",
+      "published": "2026-11-16T15:37:51+08:00",
+      "summary": "Apple在Mac电脑的发展历程中经历过数次架构转换。其中最广为人知的，当属2005年从PowerPC转向Intelx86架构，以及从2020年启动、由Intelx86转向ARM64架构的AppleS ...查看全文"
+    },
+    {
+      "id": "8816a826844df010",
+      "title": "Tor 中继节点遭遇大规模 DDoS 攻击",
+      "url": "https://www.solidot.org/story?sid=85896",
+      "source": "Solidot",
+      "category": "科技",
+      "published": "2026-11-16T15:09:17+08:00",
+      "summary": "Tor 中继节点遭遇大规模 DDoS 攻击，Tor 项目释出更新 v0.4.9.17，加强中继节点对 IPv6 处理相关的 DoS 防御能力。中继节点运营者需要尽快升级。这次 DDoS 攻击影响到了大多数中继节点运营者。有运营者称其家庭网络受攻击影响而被堵塞，下载速度比正常水平下降了 99%。Tor 项目表示在评估更多的防御措施，会在未来发布后续更新。"
+    },
+    {
+      "id": "fb323825f0c5a08b",
+      "title": "Microsoft 365 宕机导致 15 名酒店客人氯气中毒",
+      "url": "https://www.solidot.org/story?sid=85895",
+      "source": "Solidot",
+      "category": "科技",
+      "published": "2026-11-16T14:38:00+08:00",
+      "summary": "微软 Microsoft 365 服务上周发生了持续逾 24 小时的宕机事故，受影响的应用之一是电子邮件 Outlook。德国 Brühl 的梦幻乐园（Phantasialand）周六证实，由于 Outlook 下线，当自动加药系统向泳池内注入过量的氯，触发安全监控系统发出警报时，相关人员未能收到通过电子邮件发送的警报。结果导致 15 名入住乐园酒店 Hotel Ling Bao 的客人在使用泳池后遭遇氯气中毒。在接到酒店客人的投诉后，急救人员和消防部门赶赴现场。泳池一度关闭，后恢复开放。有 4 人送往医院，其中一人因情况较严重而仍留在医院接受观察。"
+    },
+    {
+      "id": "70161310f56adc12",
+      "title": "App+1｜不卡带：给你爱听的「老调」，配点记忆中的风味",
+      "url": "https://sspai.com/post/119012",
+      "source": "少数派",
+      "category": "科技",
+      "published": "2026-11-16T10:52:11+08:00",
+      "summary": "能切换老设备音质的媒体播放器。查看全文"
+    },
+    {
+      "id": "70bbe2c96acbf833",
+      "title": "超 16 万人请愿，黄仁勋准备「回宫」",
+      "url": "https://www.ifanr.com/1689559?utm_source=rss&utm_medium=rss&utm_campaign=",
+      "source": "爱范儿",
+      "category": "科技",
+      "published": "2026-11-16T09:11:22+08:00",
+      "summary": "辞职三天，想回来了#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。"
+    },
+    {
+      "id": "be71988af40a337b",
+      "title": "反转！黄仁勋考虑重返英伟达，科技大佬连夜组建「作战室」",
+      "url": "https://www.ifanr.com/1689549?utm_source=rss&utm_medium=rss&utm_campaign=",
+      "source": "爱范儿",
+      "category": "科技",
+      "published": "2026-11-16T08:56:45+08:00",
+      "summary": "黄仁勋的故事还没有结束#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。"
+    },
     {
       "id": "cb34861ab67f476c",
       "title": "曝黄仁勋考虑重返英伟达担任 CEO；苹果计划明年发布首款智能眼镜；OpenAI 撤销独立机器人研究团队",
@@ -6331,164 +6619,164 @@
   ],
   "hot": [
     {
-      "id": "5fd311c5db80e7f3",
-      "title": "Old Bitly Links Are Being Hijacked",
-      "url": "https://ransomnews.com/burger-king-tweet-bitly-link-hijack-2026/",
-      "score": 136,
-      "by": "hspeiser",
-      "comments": 66
-    },
-    {
-      "id": "dc4972c0b2faccfa",
-      "title": "Preserving 30 Years of Salon Journalism",
-      "url": "https://blog.archive.org/2026/11/12/preserving-30-years-of-salon-journalism/",
-      "score": 52,
-      "by": "CharlesW",
-      "comments": 9
-    },
-    {
-      "id": "41cdd61b3c46421d",
-      "title": "Protomaps: Self-hosting map tiles has gotten cheap and easy",
-      "url": "https://bruceroettgers.eu/blog/protomaps/",
-      "score": 142,
-      "by": "bcye",
-      "comments": 32
-    },
-    {
-      "id": "f1993de1e5b38b7c",
-      "title": "Show HN: The Last Complication, a Zachtronics-style watchmaking puzzle game",
-      "url": "https://lastcomplication.com/",
-      "score": 26,
-      "by": "tdeangelis",
-      "comments": 4
-    },
-    {
-      "id": "fd6fa814c98a3569",
-      "title": "A short explainer on how El Niño works [video]",
-      "url": "https://www.youtube.com/watch?v=7_JF3etiAv8",
-      "score": 163,
-      "by": "nharada",
-      "comments": 66
-    },
-    {
-      "id": "c08b37c21ca253e1",
-      "title": "WebGL Flight Simulator with seed generated terrain",
-      "url": "https://baron.by.dai.studio/",
-      "score": 78,
-      "by": "ranger_danger",
-      "comments": 10
-    },
-    {
-      "id": "874f63bbd5488ef1",
-      "title": "'Birdbrain' Is a Misnomer. Crows Make Decisions Faster Than We Can",
-      "url": "https://www.nytimes.com/2026/11/15/science/birdbrain-crows-birds-research-decision.html",
-      "score": 156,
-      "by": "gumby",
-      "comments": 118
-    },
-    {
-      "id": "6ed392bf906044e8",
-      "title": "The MacBook Pro's OLED PWM problem",
-      "url": "https://macanorak.com/the-macbook-pros-oled-pwm-problem-when-a-better-display-becomes-worse-to-use/",
-      "score": 414,
-      "by": "MacAnorak",
-      "comments": 229
-    },
-    {
-      "id": "63eede08da9bfbbf",
-      "title": "Handwriting, as a Font",
-      "url": "https://ductus.sorenblank.com",
-      "score": 107,
-      "by": "coinfused",
-      "comments": 27
-    },
-    {
-      "id": "1146456f4a9f2f92",
-      "title": "Mini.nvim Is Now on Tangled",
-      "url": "https://tangled.org/nvim-mini.org/mini.nvim",
-      "score": 12,
-      "by": "nerdypepper",
-      "comments": 1
-    },
-    {
-      "id": "37cdc38087fdb268",
-      "title": "Claude Code and Codex reverse engineered my 1994 Jeep's ECU over a $3 Arduino [video]",
-      "url": "https://www.youtube.com/watch?v=WPj3aQ-xxpI",
-      "score": 326,
-      "by": "envoked",
-      "comments": 160
-    },
-    {
-      "id": "a78dd19e942af554",
-      "title": "What's Next for Nvidia?",
-      "url": "https://steveblank.com/2026/11/15/whats-next-for-nvidia/",
-      "score": 4,
-      "by": "zdw",
-      "comments": 1
-    },
-    {
-      "id": "f6d1391936354ee1",
-      "title": "Microsoft 365 outage leads to chlorine gas poisoning of 15 hotel guests",
-      "url": "https://www1.wdr.de/nrw/rheinland/rhein-erft-kreis/technischer-defekt-chlor-phantasialand-100.html",
-      "score": 365,
-      "by": "DeepLogin",
-      "comments": 175
-    },
-    {
-      "id": "b90b16f5853a67f9",
-      "title": "Things That Turbo Pascal Is Smaller Than (2011)",
-      "url": "https://prog21.dadgum.com/116.html",
-      "score": 195,
-      "by": "ksec",
-      "comments": 100
-    },
-    {
-      "id": "16a8fcc7bdbbc17f",
-      "title": "Eclipse Mosquitto – An open source MQTT broker",
-      "url": "https://github.com/eclipse-mosquitto/mosquitto",
-      "score": 59,
-      "by": "gregsadetsky",
-      "comments": 23
-    },
-    {
-      "id": "e77ab581503b03d8",
-      "title": "Aspidistra: A British wartime radio transmitter used for MitM attacks",
-      "url": "https://en.wikipedia.org/wiki/Aspidistra_(transmitter)",
-      "score": 25,
-      "by": "BoxOfRain",
-      "comments": 3
-    },
-    {
-      "id": "bd3c3026b59e2170",
-      "title": "Emacs Is My Browser",
-      "url": "https://joshblais.com/blog/emacs-as-my-browser/",
-      "score": 174,
-      "by": "nyc111",
+      "id": "b273732b59b6be33",
+      "title": "Carnegie Mellon is putting computer science courses on YouTube for free",
+      "url": "https://www.cs.cmu.edu/learn/",
+      "score": 561,
+      "by": "pcompeau",
       "comments": 91
     },
     {
-      "id": "ce78c7d73316fef7",
-      "title": "Understanding Positional Embeddings in Modern LLMs",
-      "url": "https://magazine.sebastianraschka.com/p/understanding-positional-embeddings",
-      "score": 195,
-      "by": "vismit2000",
-      "comments": 26
+      "id": "a4aed939971412ca",
+      "title": "Windows 11 Is Collecting Data on Which Coding Agents and Developer Tools You Use",
+      "url": "https://xusheng.dev/posts/windows-coding-agent-telemetry/",
+      "score": 124,
+      "by": "cwaffles",
+      "comments": 51
     },
     {
-      "id": "fb27fda072bd61ca",
-      "title": "A quest to create the perfect whiskey glass",
-      "url": "https://www.nytimes.com/2026/11/13/dining/drinks/kurt-josef-zalto-whiskey-glass.html",
+      "id": "daf7b4c7323272da",
+      "title": "BugMeNot has closed",
+      "url": "https://www.bugmenot.com/",
+      "score": 264,
+      "by": "lode",
+      "comments": 142
+    },
+    {
+      "id": "17aff8cc02a95789",
+      "title": "World's Largest Brands Infected With Malware Via Optimizely",
+      "url": "https://blog.report-uri.com/worlds-largest-brands-infected-with-malware-via-optimizely/",
+      "score": 148,
+      "by": "martinald",
+      "comments": 27
+    },
+    {
+      "id": "178fcb17ea8b91ae",
+      "title": "How to Break into Security, Ptacek Edition (2012)",
+      "url": "https://krebsonsecurity.com/2012/06/how-to-break-into-security-ptacek-edition/",
+      "score": 64,
+      "by": "ronfriedhaber",
+      "comments": 16
+    },
+    {
+      "id": "6479d14248ac25b4",
+      "title": "OpenCode Browse",
+      "url": "https://opencode.ai/product/browse",
+      "score": 92,
+      "by": "mfiguiere",
+      "comments": 42
+    },
+    {
+      "id": "19a3117a0a96e2df",
+      "title": "Optimizely Compromised, Served Malware on Zoom, GitLab",
+      "url": "https://blog.report-uri.com/worlds-largest-brands-infected-with-malware-via-optimizely/",
       "score": 46,
-      "by": "Kaibeezy",
-      "comments": 46
+      "by": "kristjansson",
+      "comments": 15
     },
     {
-      "id": "630bb43d4213ba46",
-      "title": "Ask HN: Stripe closed us after one $1,500 invoice and never asked for evidence",
-      "url": "https://news.ycombinator.com/item?id=50510042",
-      "score": 140,
-      "by": "snirgbs",
-      "comments": 46
+      "id": "6bfcdf85296f59f4",
+      "title": "Chemistry is Actually Geometry",
+      "url": "https://chillphysicsenjoyer.substack.com/p/chemistry-is-actually-geometry",
+      "score": 82,
+      "by": "sebg",
+      "comments": 21
+    },
+    {
+      "id": "ca5c8b34ba1a4b99",
+      "title": "Grazing sheep in fields with solar arrays",
+      "url": "https://news.cornell.edu/stories/2026/10/sheep-grazing-solar-fields-offers-farmers-economic-ecological-gains",
+      "score": 204,
+      "by": "PaulHoule",
+      "comments": 200
+    },
+    {
+      "id": "2ad9f2bdb5b5a9dc",
+      "title": "Jiff 1.0: A datetime library for Rust",
+      "url": "https://burntsushi.net/jiff/",
+      "score": 293,
+      "by": "burntsushi",
+      "comments": 70
+    },
+    {
+      "id": "c45ea8aecfe1d294",
+      "title": "Frame – 31.5\" color ePaper display",
+      "url": "https://trmnl.com/blog/introducing-frame",
+      "score": 279,
+      "by": "geerlingguy",
+      "comments": 200
+    },
+    {
+      "id": "17f606a4d55c3add",
+      "title": "Technical issue at JPMorgan Chase triggers online banking delays for US banks",
+      "url": "https://apnews.com/article/bank-outage-chase-wells-fargo-truist-50fee2693c22f597fa6ca51a97ef2cda",
+      "score": 697,
+      "by": "samk3nny",
+      "comments": 574
+    },
+    {
+      "id": "d94b2ddb8bf471b9",
+      "title": "Formal Verification Is Not Verifiable",
+      "url": "https://alperenkeles.com/posts/formal-verification-is-not-verifiable/",
+      "score": 40,
+      "by": "zdw",
+      "comments": 5
+    },
+    {
+      "id": "937d42c01724072f",
+      "title": "Rust changed me as a developer",
+      "url": "https://blog.startifact.com/posts/how-rust-changed-me/",
+      "score": 166,
+      "by": "speckx",
+      "comments": 105
+    },
+    {
+      "id": "b2efad94b120c89b",
+      "title": "Do Repeat Yourself",
+      "url": "https://arcentry.com/blog/do-repeat-yourself/",
+      "score": 10,
+      "by": "max_sendfeld",
+      "comments": 0
+    },
+    {
+      "id": "5d9619428b214548",
+      "title": "Squircles",
+      "url": "https://linebender.org/wiki/curves/squircle/",
+      "score": 117,
+      "by": "raphlinus",
+      "comments": 35
+    },
+    {
+      "id": "adc62b1c12668dc5",
+      "title": "Launch HN: Axonnic (YC F26) – Sleeves that track fingers and estimate force",
+      "url": "https://news.ycombinator.com/item?id=50522776",
+      "score": 25,
+      "by": "arshpatankar",
+      "comments": 10
+    },
+    {
+      "id": "398188f21b39f333",
+      "title": "United Airlines experiencing a widespread system outage, airline says",
+      "url": "https://www.cnn.com/2026/11/16/us/united-airlines-outage",
+      "score": 144,
+      "by": "bearsyankees",
+      "comments": 69
+    },
+    {
+      "id": "4439dc8eacda17b7",
+      "title": "Show HN: Sutra-OS – A self-hosted ontology platform",
+      "url": "https://github.com/0nelight/sutra-os",
+      "score": 17,
+      "by": "0nelight",
+      "comments": 2
+    },
+    {
+      "id": "1136b8fcfc3d9adf",
+      "title": "Spamhaus new email sender requirements in November",
+      "url": "https://www.spamhaus.org/sender-guidelines/",
+      "score": 64,
+      "by": "computer23",
+      "comments": 49
     }
   ],
   "sources_ok": [
@@ -6502,5 +6790,5 @@
     "36氪",
     "虎嗅:ReadTimeout"
   ],
-  "total": 703
+  "total": 735
 }
