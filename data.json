@@ -1,6 +1,231 @@
 {
-  "generated_at": "2026-11-17T08:41:42.677480+08:00",
+  "generated_at": "2026-11-18T08:49:35.634689+08:00",
   "items": [
+    {
+      "id": "297790f5da1b0e5a",
+      "title": "OpenAI 发布 GPT-6.2 Astra 和 Sol；王兴兴：家用机器人或将迎来技术突破；《GTA 6》开发商批评 AI 公司放任游戏仿制行为｜极客早知道",
+      "url": "http://www.geekpark.net/news/374109",
+      "source": "极客公园",
+      "category": "AI",
+      "published": "2026-11-18T08:48:04+08:00",
+      "summary": "OpenAI 发布 GPT-6.2 Astra 和 Sol，强化编程、电脑操作与专业工作 OpenAI 正式发布 GPT-6.2 Astra 和 GPT-6.2 Sol 两款模型，重点提升专业任务、Coding、电脑操作和执行效率，并降低部分使用成本。新模型将应用于 ChatGPT Work、Codex 和 API。 其中，Astra 面向复杂编程和专业工作，Sol 则更强调日常多模态任务及工具使用。 OpenAI 同时发布系统安全卡，披露两款模型在网络安全能力方面均达到其 Preparedness Framework 的 Critical 门槛，Astra 的 AI 自我改进能力达到 Hig"
+    },
+    {
+      "id": "63093cde44ed1d95",
+      "title": "黄仁勋官宣愿意回归，英伟达董事会：不考虑！",
+      "url": "https://www.ifanr.com/1689994?utm_source=rss&utm_medium=rss&utm_campaign=",
+      "source": "爱范儿",
+      "category": "科技",
+      "published": "2026-11-18T08:39:56+08:00",
+      "summary": "出走容易，回归难#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。"
+    },
+    {
+      "id": "40dddf095b50465f",
+      "title": "早报｜黄仁勋称愿重返英伟达/李飞飞加入AMD，向苏姿丰直接汇报/红果短剧治理肖像侵权",
+      "url": "https://www.ifanr.com/1689915?utm_source=rss&utm_medium=rss&utm_campaign=",
+      "source": "爱范儿",
+      "category": "科技",
+      "published": "2026-11-18T08:32:49+08:00",
+      "summary": "· 英伟达季度营收首次突破千亿美元，数据中心收入增长 110% · TGA 2026 公布提名，《GTA 6》领跑、《影之刃零》角逐年度游戏 · macOS 27.3 收紧 App 文件访问权限#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。"
+    },
+    {
+      "id": "aebeec76645f61ed",
+      "title": "学校禁止手机有助于提高学生成绩",
+      "url": "https://www.solidot.org/story?sid=85915",
+      "source": "Solidot",
+      "category": "科技",
+      "published": "2026-11-18T00:24:55+08:00",
+      "summary": "美国学生的成绩从十多年前开始下滑，这一时间趋势与智能手机的流行基本一致，引发了对智能手机在学生成绩下滑中所扮演角色的疑问。很多美国州和学校开始执行手机禁令。最新研究显示，手机禁令略微提升了学生成绩。研究调查了 2021-2026 年间就读于 4600 所学校的 330 万名三至十年级的美国学生，使用 MAP 测试成绩，比较了实施严格手机禁令的学校与未实施禁令学校的学生的学业表现。研究发现，手机禁令学校学生至少部分考试成绩略有提高——少许提升幅度更大——且有证据表明，这种提高会随着时间的推移而增加。研究人员解释说，正如成绩的下降会逐年累积一样，进步也可能是渐进的。美国已有 46 个州对学校使用手"
+    },
+    {
+      "id": "d5e605b878ec07c1",
+      "title": "最大规模具身大模型挑战赛落幕，48 小时真机总决赛比出了什么？",
+      "url": "http://www.geekpark.net/news/374103",
+      "source": "极客公园",
+      "category": "AI",
+      "published": "2026-11-17T19:18:55+08:00",
+      "summary": "开发者围绕同一块基础模型进行实验，让模型直面成功的方法、失败的经验和真实世界的问题。作者｜Li Yuan编辑｜郑玄最大规模具身大模型挑战赛总决赛结果出炉，排名第三的队伍 SST 只额外采集了 13 条数据。他们没有大量补数据，而是让 DeepSeek 先理解任务，再用视觉分割模型标出目标物体，最后交给 LingBot-VLA 2.0 完成动作，并在真机评测中拿到 65.87 分。通用大模型与具身模型的协同在这里变得很具体：DeepSeek 负责弄清楚要做什么，具身基础模型帮机器人找准操作对象、做出动作。11 月 16 日，首届蚂蚁灵波具身大模型挑战赛在上海张江收官。经过线上初赛，15 支战队进"
+    },
+    {
+      "id": "12121f5f5b951034",
+      "title": "加州理工数学教授不再根据作业打分，因为作业很容易用 AI 完成",
+      "url": "https://www.solidot.org/story?sid=85914",
+      "source": "Solidot",
+      "category": "科技",
+      "published": "2026-11-17T18:22:40+08:00",
+      "summary": "加州理工教授 Yi Ni 教的是学校每一位学生都必须修的数学必修课，他仍然采用传统的授课方法，没有用笔记本电脑和投影仪，而是在黑板上写满粉笔字。在加州理工任教 17 年的 Ni 教授表示不再根据作业题目做的是否正确打分，因为学生可以使用 AI 完成作业。他现在只根据作业是否完成打分。他说，如今教育的一大问题是所有大学数学作业都可以用 AI 完成。一名数学专业学生表示自己不使用 AI，因为一旦参加线下考试就会暴露自己对 AI 的依赖。Ni 教授表示无法判断学生是否使用 AI 完成作业。因为不同于 AI 生成的有特征的文本，AI 程序非常擅长用数学语言解数学题目。"
+    },
+    {
+      "id": "2ff1b424d8fb63a3",
+      "title": "Mac 收紧权限，苹果开始防着 AI 了",
+      "url": "https://www.ifanr.com/1689832?utm_source=rss&utm_medium=rss&utm_campaign=",
+      "source": "爱范儿",
+      "category": "科技",
+      "published": "2026-11-17T18:00:27+08:00",
+      "summary": "AI 越自由，人越麻烦#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。"
+    },
+    {
+      "id": "92de093822f7e3cf",
+      "title": "AI，没有抛弃小城商家",
+      "url": "http://www.geekpark.net/news/374101",
+      "source": "极客公园",
+      "category": "AI",
+      "published": "2026-11-17T17:58:33+08:00",
+      "summary": "作者｜李苏 编辑｜郑玄 理解本地商业，是 AI 走出实验室后的新课程。 过去几年，AI 界擅长讲的故事变了。 从最开始谈技术，讲参数有多大，算得有多快，跑分超过多少人，慢慢转变为讲落地，讲 AI 怎么一分钟生成商业计划书，怎么给被生活困扰的人们出情绪价值满满的建议。 走出实验室，AI 下一站在哪里？这背后，是一段讲了一半的「AI 平权」故事。前面讲的这一半，是消费者：普通人用 AI 获取信息、写方案、做攻略。还有没讲完的一半，在经营者那里——对小店老板来说，AI 平不平权，从来不是能不能跟它聊天，而是它能不能帮自己管钱、管货、管客流。 OpenAI 11 月上线测试功能「Businesses "
+    },
+    {
+      "id": "f4f11cce1d13d5b5",
+      "title": "灵晟继续登顶 Top500 榜单",
+      "url": "https://www.solidot.org/story?sid=85913",
+      "source": "Solidot",
+      "category": "科技",
+      "published": "2026-11-17T17:54:30+08:00",
+      "summary": "Top500 公布了 2026 年 11 月的最新超算榜单，深圳国家超算中心的灵晟第二次登顶。Top10 榜单完全没变：灵晟以 2.198 Exaflop/s 的 HPL 测试性能稳居第一，它是 Top500 榜单中首个仅靠 CPU 实现持续双精度浮点性能逾 2 Exaflops 的超算系统，灵晟使用了有 304 个核心的 LX2 CPU，总共 1379 万个核心，运行频率 1.55 GHz，操作系统是麒麟，功耗为 42.2 兆瓦。排名前十的还有；美国劳伦斯利弗莫尔国家实验室的 El Capitan，使用 AMD 第四代 EPYC 处理器，性能 1.809 Exaflop/s；橡树岭国家实验室"
+    },
+    {
+      "id": "257031d334078b3c",
+      "title": "卡内基梅隆免费公开计算机科学课程",
+      "url": "https://www.solidot.org/story?sid=85912",
+      "source": "Solidot",
+      "category": "科技",
+      "published": "2026-11-17T17:25:29+08:00",
+      "summary": "卡内基梅隆大学上线了 CS Learn 平台，类似 25 年前的 MIT 开放课程 OpenCourseWare，免费提供计算机科学(CS)相关课程，相关教学视频则托管在 YouTube 上。运营者表示会陆续上传大学计算机科学系课程的完整学期讲义，涵盖各种主题，本周每天一门课程。更多课程将于明年一月上线。"
+    },
+    {
+      "id": "adb8445b1ee0d68d",
+      "title": "社区速递 166｜柯尼卡胶片机、iPhone Duo 体验与假期省钱实操大赏",
+      "url": "https://sspai.com/post/119184",
+      "source": "少数派",
+      "category": "科技",
+      "published": "2026-11-17T17:02:00+08:00",
+      "summary": "除了首页时间流和侧栏的精选展位，少数派Matrix社区还有很多优秀内容因条件所限无法得到有效曝光，因此我们决定重启Matrix周报，并在此基础上添加更多社区内容、作者投稿新玩意呈现给大家。上周社区速递 ...查看全文"
+    },
+    {
+      "id": "b03fc2b5c175ff38",
+      "title": "DeepSeek 不限额的用法，都在这里了 | 附指南",
+      "url": "https://www.ifanr.com/1689869?utm_source=rss&utm_medium=rss&utm_campaign=",
+      "source": "爱范儿",
+      "category": "科技",
+      "published": "2026-11-17T16:51:24+08:00",
+      "summary": "花钱接 API，导入历史记录#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。"
+    },
+    {
+      "id": "d8c274388bf19e08",
+      "title": "富岳运行系统遭非法访问",
+      "url": "https://www.solidot.org/story?sid=85911",
+      "source": "Solidot",
+      "category": "科技",
+      "published": "2026-11-17T16:35:50+08:00",
+      "summary": "日本理化学研究所超算富岳的运行系统遭到外部非法访问，用户信息可能已经外泄。除大学等研究机构外，产业界也可使用“富岳”。因遭到非法访问，理研已暂停富岳运行，据悉恢复时间未定。遭到非法访问的是用户申请使用“富岳”时需连接的系统。受害范围取决于用户登记了多少个人信息。目前正在调查非法访问发生的时间以及被发现的经过。"
+    },
+    {
+      "id": "aff601c73a0e9dd9",
+      "title": "FBI 警告黑客利用 Artex 能在三小时内入侵网络",
+      "url": "https://www.solidot.org/story?sid=85910",
+      "source": "Solidot",
+      "category": "科技",
+      "published": "2026-11-17T16:07:03+08:00",
+      "summary": "FBI 发出警告，黑客正在利用名为 Artex 的 AI 驱动渗透测试工具，在部分情况下不到三个小时即可成功入侵网络。该工具已被发现与针对韩国金融机构、至少 2250 家 ConnectWise 客户以及 Barracuda 公司的攻击事件有关。Artex 最初是一个开源工具，开发者已将其转为闭源，但其开源版本在互联网上仍然很容易找到。Artex 会通过快速扫描受害者的网络寻找弱点，随后利用简单的安全漏洞如防护薄弱、密码泄露或被盗等建立立足点，之后借助 Artex 在网络内搜寻数据库、邮箱及其它敏感信息。"
+    },
+    {
+      "id": "99eeec70a17c7ac8",
+      "title": "Canonical 向订阅用户提供可选的 AI 生成安全补丁",
+      "url": "https://www.solidot.org/story?sid=85909",
+      "source": "Solidot",
+      "category": "科技",
+      "published": "2026-11-17T15:56:48+08:00",
+      "summary": "在 AI 辅助漏洞发现时代，漏洞发现的数量越来越多，补丁开发的速度都跟不上了。Linux 发行版 Ubuntu 开发商 Canonical 向其付费订阅用户提供了一个选项：用 AI 生成的安全补丁修复 AI 发现的漏洞。Canonical 为 Ubuntu Pro 用户提供了 AI 安全补丁库 Edge archive。Canonical 表示，它不会在稳定版本中自动合并 AI 生成的补丁，但 Ubuntu Pro 用户可以选择使用。Edge archive 中的补丁未经过全面的扩展测试与验证合格，用户可自行评估。通过常规安全渠道发布的安全更新，仍将由人工进行验证。"
+    },
+    {
+      "id": "16ec8b59a3fcf13b",
+      "title": "腾讯 Hy4 flash 实测：快速、实惠、聪明，国模进入过日子时代",
+      "url": "http://www.geekpark.net/news/374083",
+      "source": "极客公园",
+      "category": "AI",
+      "published": "2026-11-17T15:12:48+08:00",
+      "summary": "作者｜Cynthia 编辑｜郑玄 过日子的风，还是吹到了大模型行业。 2026 年之前，一款模型能不能刷屏，往往取决于它又做到了什么。GPT-4o 的实时语音交互、Claude 的编程能力、DeepSeek R1 的推理表现，一度轮番成为讨论焦点。一款新模型发布，大家首先关心的是它超过了谁，又做到了什么过去做不到的事。 但到了 2026 年，Agent 真正流行起来之后，风向开始变了。SOTA 模型的领先能力开始以季度为单位被轮番刷新，变得不再新鲜。而模型能力能不能用得起、等得起，成为了新的议题。 毕竟，让模型回答一个问题，和让 Agent 接手一项工作，对应的资源消耗模式完全不同。在 Age"
+    },
+    {
+      "id": "a5e5251f92bee4a8",
+      "title": "TDS REVIEW｜Bose 有线消噪耳塞体验",
+      "url": "https://sspai.com/post/118976",
+      "source": "少数派",
+      "category": "科技",
+      "published": "2026-11-17T15:00:00+08:00",
+      "summary": "这篇文章是TDSStudio在少数派上的第35篇文章，依然是全平台首发。早先我们评价过绯乐的虹，当时在评论区曾经有一些读者好奇它和BoseQC20的区别。有线降噪入耳耳机，在TWS时代到来之前曾经是一 ...查看全文"
+    },
+    {
+      "id": "3e0c278b8cd36c74",
+      "title": "Windows 收集用户计算机安装的编程智能体和开发工具",
+      "url": "https://www.solidot.org/story?sid=85908",
+      "source": "Solidot",
+      "category": "科技",
+      "published": "2026-11-17T14:50:24+08:00",
+      "summary": "一位开发者利用 AI 工具寻找 Windows 未记录的功能，结果发现了一个 DLL 文件记录了用户使用的编程智能体如 codex.exe、claude.exe、copilot.exe 和 cursor.exe 等，以及开发者工具如 python.exe、dotnet.exe、 gcc.exe 和 code.exe 等。该 DLL 文件是 MissionControlAggregator.dll，是一个运行中的 Windows 组件，它会将记录的信息保存在本地，报告给 Windows 诊断系统。除非用户选择退出诊断数据收集（默认启用），那么这些数据最终会发送给微软。MissionControl"
+    },
+    {
+      "id": "aca0d6df1fdeaa01",
+      "title": "全村希望，千问 4 Max 正式发布，2.4 万亿参数模型「进厂打工」",
+      "url": "http://www.geekpark.net/news/374079",
+      "source": "极客公园",
+      "category": "AI",
+      "published": "2026-11-17T14:41:48+08:00",
+      "summary": "作者｜桦林舞王 编辑｜靖宇 底座架构重写，单任务成本暴降近六成，阿里把旗舰模型拉进了真实排班表。 终于，一款国产旗舰模型现身了。 11 月 16 日，阿里千问正式发布新一代旗舰模型 Qwen4-Max。就在五天前，它的预览版 qwen4-max-preview 刚在 Token Plan 里低调露过面，今天正式版直接亮出了完整底牌。 新模型依然维持着 2.4 万亿（2.4T）的主干总参数规模，原生支持文本、图像和视频输入，上下文窗口拉到了 100 万 Token。不过比参数表更显眼的，是官方同时给出的一笔账单：在模拟真实工作场景的评测里，千问 4 Max 跑完单个任务的平均费用，从上一代的 2"
+    },
+    {
+      "id": "077617724953c1bb",
+      "title": "OpenAI 和 Meta 联手，打通了 Agent 商业「最后一公里」",
+      "url": "http://www.geekpark.net/news/374075",
+      "source": "极客公园",
+      "category": "AI",
+      "published": "2026-11-17T14:24:52+08:00",
+      "summary": "作者｜桦林舞王 编辑｜靖宇 Agent 能进门了，也能付钱了。 Agent 替用户「消费」的时代，终于到来了。 美国时间 2026 年 11 月 13 日，两家公司两场发布会同天发生。一边是企业级对话式智能体公司 Sierra 联合 Meta 正式发布个人代理协议 Poppy v1.0，解决助手怎么「进门」的问题；另一边是 OpenAI 推出面向个人助手 dots 的 ChatGPT Wallet，解决助手怎么「付钱」的问题。 同一天打通进门和结账，本身就足够耐人寻味。更值得留意的，是站在两套方案背后的同一批名字。Visa 和 Mastercard 同时出现在两边的名单里，Shopify、St"
+    },
+    {
+      "id": "56b8a8a0db305496",
+      "title": "美国超大规模数据中心的用电量与部分州的总用电量相当",
+      "url": "https://www.solidot.org/story?sid=85907",
+      "source": "Solidot",
+      "category": "科技",
+      "published": "2026-11-17T14:11:57+08:00",
+      "summary": "根据发表在《Nature Sustainability》期刊上的一项研究，美国超大规模数据中心的用电量与部分州的总用电量相当。超大规模数据中心为云计算、大模型训练以及 AI 工具的全球部署等服务提供支撑，它们主要依赖化石燃料提供电力。研究人员利用卫星图像分析了美国 403 座超大规模数据中心，估算了它们在 2024 年 5 月至 2025 年 4 月期间不同运行负荷下的年度耗电量，根据数据中心所在地区电网的能源构成估算出其碳排放量。结果显示超大规模数据中心总用电量根据不同运行负荷在 68-99 TWh 之间，用电量上限已接近印第安纳州、密歇根州和田纳西州等州全年的总用电量。研究期间这些数据中心"
+    },
+    {
+      "id": "3d2106f35ded449f",
+      "title": "12.69 万的「穷人版卫士」，成了中国汽车出海的「老鼠屎」",
+      "url": "https://www.ifanr.com/1689792?utm_source=rss&utm_medium=rss&utm_campaign=",
+      "source": "爱范儿",
+      "category": "科技",
+      "published": "2026-11-17T11:22:08+08:00",
+      "summary": "一人犯错，全员受罚。#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。"
+    },
+    {
+      "id": "f089a2212ce36b1e",
+      "title": "为了另一种可能性：在国内折腾 Linux 打游戏的二三事",
+      "url": "https://sspai.com/post/118442",
+      "source": "少数派",
+      "category": "科技",
+      "published": "2026-11-17T10:59:51+08:00",
+      "summary": "当外部的限制开始逐渐渗透、内化到每个人的内心，另一种真正的「可能性」在现今尤为珍贵。查看全文"
+    },
+    {
+      "id": "a7e6c7b6c4f7c597",
+      "title": "微软全球大宕机，AI 怎么又成了背锅侠",
+      "url": "https://www.ifanr.com/1689638?utm_source=rss&utm_medium=rss&utm_campaign=",
+      "source": "爱范儿",
+      "category": "科技",
+      "published": "2026-11-17T10:23:50+08:00",
+      "summary": "微软宕机与美国航班停飞，背后都是 AI 失控吗？#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。"
+    },
+    {
+      "id": "fc24a5b646e1b341",
+      "title": "消息称黄仁勋回归尚未进入英伟达董事会议程；腾讯总办号召AI时代再创业；AI 演员虚假代言被罚",
+      "url": "http://www.geekpark.net/news/374056",
+      "source": "极客公园",
+      "category": "AI",
+      "published": "2026-11-17T08:42:16+08:00",
+      "summary": "消息称黄仁勋回归尚未进入英伟达董事会议程，已有 18 万人联署呼吁复职 11 月 17 日消息，CNBC 今天（11 月 17 日）发布博文，援引一名知情人士透露信息，英伟达董事会目前没有考虑让黄仁勋重新担任首席执行官，也未就其回归展开讨论。报道称英伟达董事会的工作重心，目前聚焦推进针对黄仁勋相关行为的调查。 报道称，英伟达已聘请 Wachtell Lipton 律师事务所，调查黄仁勋的行为。此前，黄仁勋在承认婚外情、并面临其他涉及员工的恋情报道后，于上周辞去职务，结束了在这家由其创立的公司长达 33 年的 CEO 任期。 围绕其是否回归，外界讨论持续升温。《金融时报》此前报道称，黄仁勋曾与支"
+    },
     {
       "id": "8235cd6da18aef44",
       "title": "早报｜iPhone Duo新增外屏人脸解锁/曝英伟达董事会无意请回黄仁勋/华为Mate X8定档11月24日",
@@ -9,6 +234,15 @@
       "category": "科技",
       "published": "2026-11-17T08:18:50+08:00",
       "summary": "· 阿里发布 Qwen4-Max，缓存命中价格低至每百万 Token 0.5 元 · 腾讯混元推出 Hy4 flash，WorkBuddy 限时开放免费使用 · 腾讯公开司庆讲话，要求核心业务团队面向 AI 再创业#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。"
+    },
+    {
+      "id": "606402634225adc9",
+      "title": "派早报：OPPO 发布 Reno17 系列、影石发布 Insta360 Toast 墨水屏相纸等",
+      "url": "https://sspai.com/post/119160",
+      "source": "少数派",
+      "category": "科技",
+      "published": "2026-11-17T07:57:40+08:00",
+      "summary": "少数派的近期动态我们已开设专页，汇总展示「优秀作者评选」奖项及结果。「优秀作者评选」是编辑部自2023年起实行的机制，于每季度结束后，评选该季度贡献突出的现有作者，以及涌现出的有潜力新作者。获奖者会获 ...查看全文"
     },
     {
       "id": "d8d6b8c833ed0ae5",
@@ -6619,176 +6853,176 @@
   ],
   "hot": [
     {
-      "id": "b273732b59b6be33",
-      "title": "Carnegie Mellon is putting computer science courses on YouTube for free",
-      "url": "https://www.cs.cmu.edu/learn/",
-      "score": 561,
-      "by": "pcompeau",
-      "comments": 91
+      "id": "b9f35dbfb79d6abe",
+      "title": "Java4Shell: RCE in OpenJDK when processing Base64",
+      "url": "https://calif.io/java4shell/",
+      "score": 460,
+      "by": "werrett",
+      "comments": 119
     },
     {
-      "id": "a4aed939971412ca",
-      "title": "Windows 11 Is Collecting Data on Which Coding Agents and Developer Tools You Use",
-      "url": "https://xusheng.dev/posts/windows-coding-agent-telemetry/",
-      "score": 124,
-      "by": "cwaffles",
-      "comments": 51
+      "id": "b5b7198ed884df5a",
+      "title": "GPT‑6.2 Astra and Sol",
+      "url": "https://openai.com/index/introducing-gpt-6-2-astra-sol/",
+      "score": 1060,
+      "by": "jasondavies",
+      "comments": 671
     },
     {
-      "id": "daf7b4c7323272da",
-      "title": "BugMeNot has closed",
-      "url": "https://www.bugmenot.com/",
-      "score": 264,
-      "by": "lode",
-      "comments": 142
+      "id": "34dc97a913670cf3",
+      "title": "Quad9's withdrawal from France: A canary in the coal mine",
+      "url": "https://blog.cloudflare.com/quad9-withdrawal-from-france/",
+      "score": 222,
+      "by": "subset",
+      "comments": 61
     },
     {
-      "id": "17aff8cc02a95789",
-      "title": "World's Largest Brands Infected With Malware Via Optimizely",
-      "url": "https://blog.report-uri.com/worlds-largest-brands-infected-with-malware-via-optimizely/",
-      "score": 148,
-      "by": "martinald",
-      "comments": 27
-    },
-    {
-      "id": "178fcb17ea8b91ae",
-      "title": "How to Break into Security, Ptacek Edition (2012)",
-      "url": "https://krebsonsecurity.com/2012/06/how-to-break-into-security-ptacek-edition/",
-      "score": 64,
-      "by": "ronfriedhaber",
-      "comments": 16
-    },
-    {
-      "id": "6479d14248ac25b4",
-      "title": "OpenCode Browse",
-      "url": "https://opencode.ai/product/browse",
-      "score": 92,
-      "by": "mfiguiere",
-      "comments": 42
-    },
-    {
-      "id": "19a3117a0a96e2df",
-      "title": "Optimizely Compromised, Served Malware on Zoom, GitLab",
-      "url": "https://blog.report-uri.com/worlds-largest-brands-infected-with-malware-via-optimizely/",
-      "score": 46,
-      "by": "kristjansson",
-      "comments": 15
-    },
-    {
-      "id": "6bfcdf85296f59f4",
-      "title": "Chemistry is Actually Geometry",
-      "url": "https://chillphysicsenjoyer.substack.com/p/chemistry-is-actually-geometry",
-      "score": 82,
-      "by": "sebg",
-      "comments": 21
-    },
-    {
-      "id": "ca5c8b34ba1a4b99",
-      "title": "Grazing sheep in fields with solar arrays",
-      "url": "https://news.cornell.edu/stories/2026/10/sheep-grazing-solar-fields-offers-farmers-economic-ecological-gains",
-      "score": 204,
-      "by": "PaulHoule",
-      "comments": 200
-    },
-    {
-      "id": "2ad9f2bdb5b5a9dc",
-      "title": "Jiff 1.0: A datetime library for Rust",
-      "url": "https://burntsushi.net/jiff/",
-      "score": 293,
-      "by": "burntsushi",
-      "comments": 70
-    },
-    {
-      "id": "c45ea8aecfe1d294",
-      "title": "Frame – 31.5\" color ePaper display",
-      "url": "https://trmnl.com/blog/introducing-frame",
-      "score": 279,
-      "by": "geerlingguy",
-      "comments": 200
-    },
-    {
-      "id": "17f606a4d55c3add",
-      "title": "Technical issue at JPMorgan Chase triggers online banking delays for US banks",
-      "url": "https://apnews.com/article/bank-outage-chase-wells-fargo-truist-50fee2693c22f597fa6ca51a97ef2cda",
-      "score": 697,
-      "by": "samk3nny",
-      "comments": 574
-    },
-    {
-      "id": "d94b2ddb8bf471b9",
-      "title": "Formal Verification Is Not Verifiable",
-      "url": "https://alperenkeles.com/posts/formal-verification-is-not-verifiable/",
-      "score": 40,
-      "by": "zdw",
-      "comments": 5
-    },
-    {
-      "id": "937d42c01724072f",
-      "title": "Rust changed me as a developer",
-      "url": "https://blog.startifact.com/posts/how-rust-changed-me/",
-      "score": 166,
-      "by": "speckx",
-      "comments": 105
-    },
-    {
-      "id": "b2efad94b120c89b",
-      "title": "Do Repeat Yourself",
-      "url": "https://arcentry.com/blog/do-repeat-yourself/",
-      "score": 10,
-      "by": "max_sendfeld",
-      "comments": 0
-    },
-    {
-      "id": "5d9619428b214548",
-      "title": "Squircles",
-      "url": "https://linebender.org/wiki/curves/squircle/",
-      "score": 117,
-      "by": "raphlinus",
-      "comments": 35
-    },
-    {
-      "id": "adc62b1c12668dc5",
-      "title": "Launch HN: Axonnic (YC F26) – Sleeves that track fingers and estimate force",
-      "url": "https://news.ycombinator.com/item?id=50522776",
-      "score": 25,
-      "by": "arshpatankar",
+      "id": "1864c4431a8aec9f",
+      "title": "Archive Team is archiving the Apple Support Community (closes November 20, 2026)",
+      "url": "https://wiki.archiveteam.org/index.php/Apple_Discussions",
+      "score": 42,
+      "by": "digitaldragon",
       "comments": 10
     },
     {
-      "id": "398188f21b39f333",
-      "title": "United Airlines experiencing a widespread system outage, airline says",
-      "url": "https://www.cnn.com/2026/11/16/us/united-airlines-outage",
-      "score": 144,
-      "by": "bearsyankees",
-      "comments": 69
+      "id": "8948bbe27d790965",
+      "title": "Nvidia stopped disclosing Singapore sales as revenues hit $104B",
+      "url": "https://www.ft.com/content/dbde7a30-548c-4f9d-a4be-7898a0c24dcf",
+      "score": 374,
+      "by": "louiereederson",
+      "comments": 180
     },
     {
-      "id": "4439dc8eacda17b7",
-      "title": "Show HN: Sutra-OS – A self-hosted ontology platform",
-      "url": "https://github.com/0nelight/sutra-os",
-      "score": 17,
-      "by": "0nelight",
-      "comments": 2
+      "id": "5351b396508b0a2d",
+      "title": "Microsoft's ONNX Runtime has disappeared from GitHub",
+      "url": "https://github.com/microsoft/onnxruntime",
+      "score": 78,
+      "by": "nvader",
+      "comments": 14
     },
     {
-      "id": "1136b8fcfc3d9adf",
-      "title": "Spamhaus new email sender requirements in November",
-      "url": "https://www.spamhaus.org/sender-guidelines/",
-      "score": 64,
-      "by": "computer23",
-      "comments": 49
+      "id": "a1cafeb63b81968b",
+      "title": "jQuery 4.1.0",
+      "url": "https://github.com/jquery/jquery/releases/tag/4.1.0",
+      "score": 239,
+      "by": "petecooper",
+      "comments": 131
+    },
+    {
+      "id": "74b96bc3e749175e",
+      "title": "MAI Code 2 and Code 2 Flash",
+      "url": "https://microsoft.ai/news/introducing-mai-code-2-and-mai-code-2-flash/",
+      "score": 274,
+      "by": "lemonish97",
+      "comments": 129
+    },
+    {
+      "id": "cc89769538978f8e",
+      "title": "Phrack 73 Released",
+      "url": "https://phrack.org/issues/73/introduction_md",
+      "score": 260,
+      "by": "notmine1337",
+      "comments": 28
+    },
+    {
+      "id": "60545b774d28a5ab",
+      "title": "Highly classified US national security communications network goes down",
+      "url": "https://www.cnn.com/2026/11/17/politics/highly-classified-national-security-communications-network-goes-down",
+      "score": 451,
+      "by": "monkeydust",
+      "comments": 534
+    },
+    {
+      "id": "78cd5b872628aefd",
+      "title": "350 years ago, Ole Rømer discovered that light has a finite speed",
+      "url": "https://www.sciencenorway.no/culture-history-history-of-science/350-years-ago-this-man-discovered-that-light-has-a-finite-speed/2737969",
+      "score": 228,
+      "by": "dxs",
+      "comments": 72
+    },
+    {
+      "id": "2d7f751476777352",
+      "title": "Java4Shell: pre-auth RCE flaw in Java 17 puts servers at risk (CVE-2026-114938)",
+      "url": "https://www.aikido.dev/blog/java-17-rce-vulnerability-cve-2026-114938",
+      "score": 148,
+      "by": "b33f",
+      "comments": 26
+    },
+    {
+      "id": "42a89be997a5414d",
+      "title": "Solid 2.0",
+      "url": "https://www.solidjs.com/blog/solid-2-0-the-long-hold/",
+      "score": 214,
+      "by": "pier25",
+      "comments": 55
+    },
+    {
+      "id": "82b0dea81391b876",
+      "title": "Launch HN: StarSling (YC P25) – Self-improving CI for agent-volume repos",
+      "url": "https://starsling.dev",
+      "score": 51,
+      "by": "yonasb",
+      "comments": 28
+    },
+    {
+      "id": "5fd888bf160cb6c0",
+      "title": "Web Browser Engineering (2021)",
+      "url": "https://browser.engineering/",
+      "score": 115,
+      "by": "ibobev",
+      "comments": 20
+    },
+    {
+      "id": "f121da16945afc16",
+      "title": "What is the best harness for each model?",
+      "url": "https://runta.com/blog/introducing-frontierharness-eval-v1-1/",
+      "score": 332,
+      "by": "Edward40",
+      "comments": 114
+    },
+    {
+      "id": "f5d39a7f6f226b47",
+      "title": "Apple Services Down",
+      "url": "https://developer.apple.com/system-status/",
+      "score": 619,
+      "by": "willy_k",
+      "comments": 342
+    },
+    {
+      "id": "48c1fad258e64f1f",
+      "title": "Google's AI answers reducing search traffic by 40%",
+      "url": "https://revscope.co/blog/search-seo-geo-2026/",
+      "score": 6,
+      "by": "slashdev",
+      "comments": 0
+    },
+    {
+      "id": "7f72c19b92b160a3",
+      "title": "Tencent Hy4 Flash",
+      "url": "https://hy.tencent.ai/research/hy4-flash",
+      "score": 37,
+      "by": "lyra1337",
+      "comments": 8
+    },
+    {
+      "id": "1e22ef491e5828d9",
+      "title": "Who Builds the Machines That Build the Machines?",
+      "url": "https://read.corematter.com/p/section-232-us-machine-tools",
+      "score": 88,
+      "by": "gmays",
+      "comments": 27
     }
   ],
   "sources_ok": [
     "少数派(10)",
     "Solidot(10)",
     "爱范儿(10)",
-    "钛媒体(10)",
     "极客公园(10)"
   ],
   "sources_failed": [
     "36氪",
-    "虎嗅:ReadTimeout"
+    "虎嗅:ReadTimeout",
+    "钛媒体:HTTPError"
   ],
-  "total": 735
+  "total": 761
 }
