@@ -1,6 +1,285 @@
 {
-  "generated_at": "2026-11-19T08:51:05.979103+08:00",
+  "generated_at": "2026-11-20T08:42:29.986911+08:00",
   "items": [
+    {
+      "id": "3494234ca33851b0",
+      "title": "华尔街狂热，华盛顿划线：Anthropic的上市前夜",
+      "url": "https://www.tmtpost.com/8211445.html",
+      "source": "钛媒体",
+      "category": "创投",
+      "published": "2026-11-20T08:37:00+08:00",
+      "summary": "在算力被重新划定边界的当下，资本市场究竟在为什么定价？"
+    },
+    {
+      "id": "c2b8b390566b8205",
+      "title": "早报｜苹果招人打造「接管电脑」的AI智能体/史上最大IPO，Anthropic上市/华为官宣Mate 90 Air主打轻薄",
+      "url": "https://www.ifanr.com/1690473?utm_source=rss&utm_medium=rss&utm_campaign=",
+      "source": "爱范儿",
+      "category": "科技",
+      "published": "2026-11-20T08:29:44+08:00",
+      "summary": "· 旅行者 1 号距地球达一光日，信号单程需 24 小时 · 网易 UU 远程将上线付费会员，基础远控继续免费 · 腾讯大幅削减元宝投入，微信小微日活达 3000 万#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。"
+    },
+    {
+      "id": "638a167a11b46325",
+      "title": "Edge AI Daily 早报（11月20日）",
+      "url": "https://www.tmtpost.com/8211809.html",
+      "source": "钛媒体",
+      "category": "创投",
+      "published": "2026-11-20T08:25:18+08:00",
+      "summary": "Anthropic以83美元定价登陆纳斯达克，首日高开34%，估值约1.5万亿美元；亚马逊谷歌合计持股28.4%，算力承诺近9000亿美元。英伟达Q3营收1158亿美元，董事会接触Arm CEO哈斯接替黄仁勋。OpenAI因训练环境漏洞停训11天，亚利桑那调查AI代理访问银行；谷歌发布Gemini 4 Neon，苹果推进Siri代理平台。美国AI出口管制延伸至IaaS，特朗普推动联邦统一监管；AWS模型榜单与富智康接单重构模型评估及终端供应链。"
+    },
+    {
+      "id": "7b0aa6d262b72362",
+      "title": "OpenAI印证了梁文锋的“预言”",
+      "url": "https://www.tmtpost.com/8211368.html",
+      "source": "钛媒体",
+      "category": "创投",
+      "published": "2026-11-20T08:05:00+08:00",
+      "summary": "OpenAI裁撤机器人团队，通用模型“杀死”垂直模型？"
+    },
+    {
+      "id": "d87daf07cb02b687",
+      "title": "【钛晨报】《中俄美元首和平宣言》发布；31家出资主体现身，DeepSeek第二轮融资落地；比亚迪发布折叠方向盘，长鑫科技拟25亿至50亿元回购股份",
+      "url": "https://www.tmtpost.com/8211593.html",
+      "source": "钛媒体",
+      "category": "创投",
+      "published": "2026-11-20T07:20:00+08:00",
+      "summary": "燧原科技：在手订单充沛，并正在与多家国内半导体产业伙伴进行合作；吴泳铭：建设超过20GW规模全球数据中心的目标可能下调；拼多多Q3利润295亿元，同比基本持平；因150元成被执行人？格力电器最新回应；OpenAI进军手机领域；马斯克披露多项业务时间表，Optimus拟18个月内胜任家务。"
+    },
+    {
+      "id": "0655b5cb5b378359",
+      "title": "IEA 警告称到 2030 年数据中心碳排放量将增加七成",
+      "url": "https://www.solidot.org/story?sid=85937",
+      "source": "Solidot",
+      "category": "科技",
+      "published": "2026-11-20T00:34:10+08:00",
+      "summary": "国际能源署（IEA）发表报告警告，到 2030 年数据中心碳排放量将增加七成。报告称，到 2030 年数据中心的用电量将达到目前的水平的两倍，未来四年 AI 数据中心每年将额外消耗 350 TWh 的电力，这一数字超过了英国全年的总耗电量。IEA 预计到这个十年末，中国 AI 数据中心所需电力中约半数将来自燃煤电厂。其余电力将来自可再生能源，核能发电占比相对较小，天然气发电占比极低。相比下美国数据中心约 60% 的电力将依赖天然气供应。截至今年 8 月，美国已有约 180 GW 的新建天然气发电项目规划为数据中心供电。这一新增天然气发电装机容量，几乎相当于目前整个欧盟已安装的天然气发电总装机量"
+    },
+    {
+      "id": "c0d3f41ebdd123d0",
+      "title": "欧盟委员会如何向逾 4 万工作人员部署 Matrix",
+      "url": "https://www.solidot.org/story?sid=85936",
+      "source": "Solidot",
+      "category": "科技",
+      "published": "2026-11-19T23:19:01+08:00",
+      "summary": "Matrix 点对点通信协议正被越来越多的政府机构使用，其中之一是欧盟委员会。欧盟委员会在 2025 年 12 月完成了概念验证，证明 Matrix 协议及其客户端 Element 能完全满足其需求。2026 年 9 月欧盟将基于 Matrix 的工具部署到了每一台笔记本电脑，该工具由欧盟委员会自行运营，服务着逾 4 万名用户。开发 Element 的公司发表博客介绍了欧盟委员会的经验。"
+    },
+    {
+      "id": "9202e93b635954ae",
+      "title": "比亚迪发布折叠方向盘！首搭方程豹钛 9，27.99 万元起！",
+      "url": "https://www.ifanr.com/1690430?utm_source=rss&utm_medium=rss&utm_campaign=",
+      "source": "爱范儿",
+      "category": "科技",
+      "published": "2026-11-19T23:01:13+08:00",
+      "summary": "推翻百年来的空间格局。#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。"
+    },
+    {
+      "id": "ae7a38aa9f7cc6f2",
+      "title": "刚刚，Anthropic 敲钟上市！史上最大IPO却让硅谷吵翻了",
+      "url": "https://www.ifanr.com/1690375?utm_source=rss&utm_medium=rss&utm_campaign=",
+      "source": "爱范儿",
+      "category": "科技",
+      "published": "2026-11-19T22:58:57+08:00",
+      "summary": "例如，为什么就你 A 社封号这么严格#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。"
+    },
+    {
+      "id": "06a5576a996f8fdd",
+      "title": "基金市场概况与资产配置观点（11.09—11.15）",
+      "url": "https://www.tmtpost.com/8211721.html",
+      "source": "钛媒体",
+      "category": "创投",
+      "published": "2026-11-19T22:34:30+08:00",
+      "summary": "腾讯济安指数上周下跌2.71%。"
+    },
+    {
+      "id": "18c00179ee77e76b",
+      "title": "城镇夜空飞过的人造卫星数量超过肉眼可见星星数量",
+      "url": "https://www.solidot.org/story?sid=85935",
+      "source": "Solidot",
+      "category": "科技",
+      "published": "2026-11-19T22:27:21+08:00",
+      "summary": "在夜晚的任何时刻，中纬度地区城镇上空掠过的人造卫星数量超过 700 颗，很多情况下超过了肉眼可见的星星数量。目前地球低轨道运行着 15833 颗人造卫星，其中 Starlink 星座的卫星数量最多。Accu Components 公司的研究人员分析了 10 月 12 日和 18 日的卫星轨迹数据，发现如果视野完全无遮挡，那么一个典型的英国的城镇上空，夜晚任何时刻都有 710 颗卫星掠过。Starlink 卫星轨道与赤道呈约 53 度夹角，因此卫星集中在中纬度地区上空。赤道附近的夜空较为干净，平均有 490 颗。不是所有卫星都能被肉眼看见，人造卫星只有在被太阳照亮同时地面处黑暗中时才会被看见。根"
+    },
+    {
+      "id": "02b2ebee0e39cec5",
+      "title": "重庆汽车与医药制造双线并进，产业升级如何转化为企业长期价值？",
+      "url": "https://www.tmtpost.com/8211669.html",
+      "source": "钛媒体",
+      "category": "创投",
+      "published": "2026-11-19T22:17:37+08:00",
+      "summary": "重庆上市公司已有一批表现较突出的企业，但不同企业将产业优势转化为长期价值的能力仍有差异。"
+    },
+    {
+      "id": "214565edc94805da",
+      "title": "价值判断：跌停板的投资机会和风险提示（11月17日）｜上市公司观察",
+      "url": "https://www.tmtpost.com/8211651.html",
+      "source": "钛媒体",
+      "category": "创投",
+      "published": "2026-11-19T22:12:51+08:00",
+      "summary": "本期三只均为本轮第一根跌停，收盘对济安定价的溢价在一倍至一点四倍之间。"
+    },
+    {
+      "id": "bc8df316ce06f74e",
+      "title": "价值判断：涨停板的投资机会和风险提示（11月17日）｜上市公司观察",
+      "url": "https://www.tmtpost.com/8211631.html",
+      "source": "钛媒体",
+      "category": "创投",
+      "published": "2026-11-19T21:56:01+08:00",
+      "summary": "本期四只标的分两头：三只首板收在济安定价之下，折价从四成二到五成六；瀛通通讯两连板，收在定价的两倍以上。"
+    },
+    {
+      "id": "2f25b07c577c4428",
+      "title": "从英伟达到苹果、微软：同样拥抱AI，为什么企业的财富命运截然不同？",
+      "url": "https://www.tmtpost.com/8211622.html",
+      "source": "钛媒体",
+      "category": "创投",
+      "published": "2026-11-19T21:48:30+08:00",
+      "summary": "本文先讨论AI改变的四条决策前提，再借助七阶行为逻辑，观察不同领导方式可能带来的财富后果。这里讨论的是作用机制，不意味着某一种行为逻辑必然对应某一种财富结果。"
+    },
+    {
+      "id": "60c8986503afec34",
+      "title": "过度运动紊乱多巴胺",
+      "url": "https://www.solidot.org/story?sid=85934",
+      "source": "Solidot",
+      "category": "科技",
+      "published": "2026-11-19T21:31:27+08:00",
+      "summary": "高强度运动后如果没有充足的恢复时间，带来的影响可能不只是肌肉和耐力受损。一项研究表明，过度训练还会扰乱大脑的化学环境，有可能阻碍大脑回归正常静息状态。巴西圣保罗大学的科研人员发现，长时间高强度运动会改变海马体内多巴胺的调节机制。海马体是负责记忆与情绪调控的重要脑区。研究团队观察到，按照高强度方案训练的小鼠，本该进入恢复期时，多巴胺水平却持续偏高。多巴胺在动机、警觉性方面发挥重要作用。他们认为，人类体内如果出现类似的紊乱，或许可以解释为什么过度训练有时会伴随失眠、焦虑和持续性疲劳。如果这一推论得到证实，将进一步证明充足休息对体能与心理健康都至关重要。"
+    },
+    {
+      "id": "6e330ad9c486fa06",
+      "title": "今年是阔屏的元年，阔屏是手机的今后十年",
+      "url": "https://www.ifanr.com/1690322?utm_source=rss&utm_medium=rss&utm_campaign=",
+      "source": "爱范儿",
+      "category": "科技",
+      "published": "2026-11-19T21:00:02+08:00",
+      "summary": "新中产、新比例、新潮流#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。"
+    },
+    {
+      "id": "d52fe171396a8d09",
+      "title": "全球专利申请量创新高",
+      "url": "https://www.solidot.org/story?sid=85933",
+      "source": "Solidot",
+      "category": "科技",
+      "published": "2026-11-19T20:28:18+08:00",
+      "summary": "世界知识产权组织公布的年度《世界知识产权指标》（WIPI）报告显示，2025 年全球专利申请量 394 万件，同比增长 6%，创近十年来最快增速。这可能与利用 AI 加快专利申请相关。数据显示，中国继续高居第一达到 191万 件，同比增长 6%，其次是美国（489,766件）、日本（466,301件）、大韩民国（319,210件）和德国（132,714件）。 印度达到 105,163 件，同比增长 38%，首次突破 10 万件。计算机技术仍是专利申请量最大的技术领域，占所有已公布专利申请总量的 13%。世界知识产权组织称，部分知识产权局报告了来自个别案例的证据，表明 AI 起草工具可能影响了 "
+    },
+    {
+      "id": "e2983bd23682b5a2",
+      "title": "大衣只卖499元，中产在山姆捡漏MaxMara平替",
+      "url": "https://www.tmtpost.com/8211170.html",
+      "source": "钛媒体",
+      "category": "创投",
+      "published": "2026-11-19T19:02:56+08:00",
+      "summary": "继续改变品类认知。"
+    },
+    {
+      "id": "a30cefc1e3e6ed9f",
+      "title": "给 Apple 的 2026 年打分，请你一起参与",
+      "url": "https://sspai.com/post/119191",
+      "source": "少数派",
+      "category": "科技",
+      "published": "2026-11-19T18:25:05+08:00",
+      "summary": "2026年以来，Apple在硬件领域明显加快了产品线的拓展。定价亲民、采用A系列芯片的MacBookNeo让Mac触及更广泛的消费群体，也引发了对性能妥协与长期使用价值的讨论。M6芯片继续推进Appl ...查看全文"
+    },
+    {
+      "id": "e9c5e664cb2c6f88",
+      "title": "新玩意 256｜少数派的编辑们最近买了啥？",
+      "url": "https://sspai.com/post/119287",
+      "source": "少数派",
+      "category": "科技",
+      "published": "2026-11-19T17:16:00+08:00",
+      "summary": "编注：很多读者都会好奇少数派的编辑们到底平时都「买了啥」。我们希望通过「编辑部的新玩意」介绍编辑部成员们最近在用的新奇产品，让他们自己来谈谈这些新玩意的使用体验究竟如何。内容声明：《新玩意》栏目如含有 ...查看全文"
+    },
+    {
+      "id": "5d6952765d5b70e3",
+      "title": "黄仁勋的下台可能削弱开放权重模型让闭源模型受益",
+      "url": "https://www.solidot.org/story?sid=85932",
+      "source": "Solidot",
+      "category": "科技",
+      "published": "2026-11-19T17:09:08+08:00",
+      "summary": "黄仁勋的下台可能削弱开放权重模型生态，让 OpenAI 和 Anthropic 等闭源模型开发商受益。黄仁勋此前曾利用英伟达的资金打造一个广泛的 AI 生态系统。他通过投资和收购初创企业，支持开发开源和开放权重模型。黄仁勋是此类模型推广的坚定倡导者，曾游说反对华盛顿限制使用中国的开放权重模型，积极推动美国本土开放权重模型的开发。一位风险投资人表示，失去黄仁勋以及英伟达在投资上不再那么慷慨，我们可能最终会面对一个模型提供商高度集中的世界。一位业内人士表示不认为开放权重模型会就此消失，但失去黄仁勋这位最强大的财务支持者和拥护者，无疑会拖慢它们的发展进程。"
+    },
+    {
+      "id": "3755f00d7188e10a",
+      "title": "微软官方 agent-framework 软件包被黑客劫持安装恶意程序",
+      "url": "https://www.solidot.org/story?sid=85931",
+      "source": "Solidot",
+      "category": "科技",
+      "published": "2026-11-19T16:24:44+08:00",
+      "summary": "微软托管在 PyPI 上的 agent-framework 软件包被黑客劫持安装窃取信息的恶意程序。agent-framework 每月下载量近 20 万次，主要用于构建和部署 AI 智能体。受影响的版本是 v1.26.1 和 1.26.2，会窃取开发者在 Azure、Git、Docker、Hugging Face 等服务上的环境变量、凭据文件以及其它敏感信息。更糟糕的是软件包无需被导入，只要安装该软件包的 Python 解释器启动，恶意代码便会运行。微软发言人在一份声明中表示在调查期间它将部分软件包项目设为私有。"
+    },
+    {
+      "id": "6e1814a0f85d9f77",
+      "title": "蚊子在喜马拉雅冰川地区日益常见",
+      "url": "https://www.solidot.org/story?sid=85930",
+      "source": "Solidot",
+      "category": "科技",
+      "published": "2026-11-19T15:55:55+08:00",
+      "summary": "随着全球暖化冰川消退，蚊子在喜马拉雅冰川地区日益常见，将一些流行病带给了当地居民。克什米尔 Ladakh 一个名叫 Sakti 的村庄海拔 3900 米，居住着约四百户村民，大多属于 Boto 族。65 岁的村民 Phunchok Gyalpo 一生都居住在 Sakti，他说小时候每逢下雪，通常要等好几天才能清理出路。但过去二三十年这种情况再也没发生过。他提到现在的冬天也暖和多了。Ladakh 是一个高海拔寒冷沙漠地区，位于喜马拉雅山的雨影区，当地居民的饮用水和农业灌溉都依赖冰川。他们唯一的水源是融化的冰雪。很少有地方能像 Ladakh 展现全球暖化的影响，蚊子的出现就是证据。2022 年 L"
+    },
+    {
+      "id": "46023def8c116b4a",
+      "title": "有必要但欠平衡：浅评 macOS 27.3 新版权限控制机制",
+      "url": "https://sspai.com/prime/story/system-app-protection-override-macos-27-3",
+      "source": "少数派",
+      "category": "科技",
+      "published": "2026-11-19T15:34:11+08:00",
+      "summary": "[......]查看全文本文为会员文章，出自《单篇文章》，订阅后可阅读全文。"
+    },
+    {
+      "id": "c02fdb9fec90204d",
+      "title": "中国发现新直立人化石",
+      "url": "https://www.solidot.org/story?sid=85929",
+      "source": "Solidot",
+      "category": "科技",
+      "published": "2026-11-19T15:14:46+08:00",
+      "summary": "直立人是存在时间最长的人族物种之一，他们生存的年代从 190 万年前到 10.8 万年前。根据发表在《自然》期刊上的研究，中科院研究人员对采集自广西崇左岜仙洞、那线洞两处洞穴堆积化石地点的 9 枚古人类牙齿开展形态学和古蛋白质组学研究，发现其中 8 枚牙齿属于一个新识别出的直立人群体，该群体有别于北京周口店、安徽和县等地已知的直立人。研究结果显示，这种新直立人在 32.4 万年至 18.4 万年前曾活跃于中国南方，而该地区此前发现的最晚直立人化石生活在约 40 万年前。传统观点认为，直立人偏好开阔的疏林或稀树草原环境，很难在雨林环境中生存，本次在广西崇左的新发现则颠覆了这一认识，直立人完全可以"
+    },
+    {
+      "id": "0007b3c7b4753ee8",
+      "title": "美国破产法庭法官批准 Google 以千万美元收购 Spirit Airlines 数据",
+      "url": "https://www.solidot.org/story?sid=85928",
+      "source": "Solidot",
+      "category": "科技",
+      "published": "2026-11-19T14:46:48+08:00",
+      "summary": "美国联邦破产法庭法官 Sean Lane 批准了 Google 以 1000 万美元收购破产航空公司 Spirit Airlines 内部数据的交易。廉航 Spirit Airlines 于今年五月停止运营，作为资产清算程序的一部分，Google 在八月拍下了其内部数据，这些数据包括了员工数据如电子邮件、电子表格和日历信息，以及市场营销、生产力和运营方面的数据。Google 表示它计划将这些数据用于产品开发和 AI 训练。在工会以及国会议员对该交易表达关注之后，Google 上周同意对相关数据采取额外的隐私保护措施。"
+    },
+    {
+      "id": "ed8b2767906bc5be",
+      "title": "「北美大豆包」谷歌，终于杀回 AI 牌桌中央",
+      "url": "http://www.geekpark.net/news/374196",
+      "source": "极客公园",
+      "category": "AI",
+      "published": "2026-11-19T14:10:00+08:00",
+      "summary": "作者｜Wildcard 编辑｜靖宇 谷歌，这次是真的回来了。 11 月 18 日，Google DeepMind 点亮了Gemini 4 Neon的霓虹灯牌。 这是 Gemini 4 系列在短短 7 周内甩出的第 4 款元素模型。如果看一眼官方放出的基准跑分长表和社区实测反馈，你会发现它精准卡在了一个极其舒服的「甜点」位上，既有接近、甚至局部反超旗舰的硬核智商，又把单任务成本砍到了竞争对手的一半左右。 在 Reddit 技术社区里，挑剔的开发者们罕见地给出了一边倒的好评，直呼它「便宜得离谱又强得可怕」。每月花 19.99 美元订阅 Google AI Pro 的普通用户更是喜出望外，不用咬牙上"
+    },
+    {
+      "id": "e441492d951ba05b",
+      "title": "刚拒绝黄仁勋回归，英伟达官宣全员加薪，热门接班人曝光",
+      "url": "https://www.ifanr.com/1690288?utm_source=rss&utm_medium=rss&utm_campaign=",
+      "source": "爱范儿",
+      "category": "科技",
+      "published": "2026-11-19T10:59:25+08:00",
+      "summary": "英伟达何去何从#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。"
+    },
+    {
+      "id": "673a0004d679b424",
+      "title": "徒步旅行指南 | 玉龙虎跳峡与天堂雨崩",
+      "url": "https://sspai.com/post/119039",
+      "source": "少数派",
+      "category": "科技",
+      "published": "2026-11-19T10:58:08+08:00",
+      "summary": "Matrix首页推荐Matrix是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选Matrix最优质的文章，展示来自用户的最真实的体验和观点。文章代表作者个人观点 ...查看全文"
+    },
+    {
+      "id": "43c298aec3972030",
+      "title": "WorkBuddy 日活超过 1000 万；曝英伟达未投企业责任险，或因黄仁勋事件遭巨额索赔；DeepSeek 再调整 API 计费 | 极客早知道",
+      "url": "http://www.geekpark.net/news/374177",
+      "source": "极客公园",
+      "category": "AI",
+      "published": "2026-11-19T09:03:37+08:00",
+      "summary": "黄仁勋辞职风波升级：英伟达遭两起证券欺诈诉讼，公司自身却未投保企业责任险 11 月 18 日消息，据路透社报道，英伟达为公司高管和董事购买了责任保险，最高赔付额度达 9.5 亿美元，但公司自身没有购买通常用于覆盖证券诉讼辩护费用、和解金与判决赔偿的企业责任保险。 这意味着，如果围绕黄仁勋突然辞去 CEO 职务引发的诉讼最终胜诉，涉及股价暴跌的赔偿需要由公司自行承担。英伟达目前持有超过 500 亿美元现金储备。自 11 月 8 日黄仁勋承认对妻子不忠以来，针对英伟达及相关人员的诉讼至少已有两起，其中包括一名个人股东在旧金山联邦法院提起的拟议集体诉讼，指控公司及黄仁勋涉嫌证券欺诈、误导投资者。 该"
+    },
     {
       "id": "fb0833bd2d47b731",
       "title": "早报｜GTA6开售，评分破纪录/大疆多款相机涨价/豆包工作三个月日活破800万",
@@ -9,6 +288,15 @@
       "category": "科技",
       "published": "2026-11-19T08:36:04+08:00",
       "summary": "· Google 发布 Gemini 4 Neon，主打复杂任务与更低单次成本 · 英伟达员工大会：董事会不让黄仁勋回归，临时 CEO 承诺涨薪 · 英特尔再裁全球 IT 员工，继续推进组织精简#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。"
+    },
+    {
+      "id": "4c4252f6e80f261a",
+      "title": "派早报：Apple 年度应用、TGA 2026 分别公布入围名单等",
+      "url": "https://sspai.com/post/119239",
+      "source": "少数派",
+      "category": "科技",
+      "published": "2026-11-19T08:29:30+08:00",
+      "summary": "AMD 更新虚幻引擎 FSR 插件、Google Wallet 登陆 iOS 等。查看全文"
     },
     {
       "id": "609b283e0e48c93a",
@@ -7168,164 +7456,164 @@
   ],
   "hot": [
     {
-      "id": "78c71493b192ab48",
-      "title": "Gemini 4 Neon",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/",
-      "score": 390,
-      "by": "yigitdemirag",
-      "comments": 366
+      "id": "e2bd6d8340e53429",
+      "title": "Anthropic’s Nasdaq debut",
+      "url": "https://www.reuters.com/business/finance/anthropics-historic-debut-put-ais-promise-peril-wall-st-test-2026-11-19/",
+      "score": 864,
+      "by": "wslh",
+      "comments": 1679
     },
     {
-      "id": "063c1a96e91b1c7c",
-      "title": "Software companies are trying to kill home computing",
-      "url": "https://lateblt.livejournal.com/526188.html",
-      "score": 66,
-      "by": "sammatilda",
-      "comments": 24
+      "id": "04f94c18c13c7fde",
+      "title": "Pancreatic cancer halted by virus injection in three patients",
+      "url": "https://www.newscientist.com/article/2528235-pancreatic-cancer-halted-by-virus-injection-in-three-patients/",
+      "score": 522,
+      "by": "cybermango",
+      "comments": 74
     },
     {
-      "id": "d2c42d63a539c0b9",
-      "title": "Unauthenticated remote code execution in Nginx",
-      "url": "https://www.wiz.io/blog/nginx-http2-rce-vulnerabilities",
-      "score": 1109,
-      "by": "speedping",
-      "comments": 496
+      "id": "bd762792b8f1c024",
+      "title": "Synology Security Advisory",
+      "url": "https://www.synology.com/en-uk/security/advisory/Synology_SA_26_21",
+      "score": 86,
+      "by": "choult",
+      "comments": 52
     },
     {
-      "id": "35502d931959a10a",
-      "title": "Multiple vulnerabilities in Regexp and String case conversion",
-      "url": "https://www.ruby-lang.org/en/news/2026/11/18/multiple-vulnerabilities-in-regexp-and-string/",
+      "id": "a420fe853cb21f4e",
+      "title": "Claude solves two open problems in the physics of black holes",
+      "url": "https://www.anthropic.com/research/claude-black-hole-physics",
+      "score": 362,
+      "by": "cybermango",
+      "comments": 163
+    },
+    {
+      "id": "6a94e2ee8bbb67ac",
+      "title": "How to CAD Almost Anything",
+      "url": "https://ocw.mit.edu/courses/res-16-002-how-to-cad-almost-anything-january-iap-2024/",
+      "score": 99,
+      "by": "o4c",
+      "comments": 17
+    },
+    {
+      "id": "b4bf4879622bb614",
+      "title": "RegExr: Temporarily Offline",
+      "url": "https://regexr.com/",
+      "score": 34,
+      "by": "somebudyelse",
+      "comments": 17
+    },
+    {
+      "id": "b456f2c195baeae6",
+      "title": "Garage Door Spam",
+      "url": "https://blog.harrison.page/garage-door-spam/",
+      "score": 737,
+      "by": "harrisonpage",
+      "comments": 310
+    },
+    {
+      "id": "47dc7c6c4d39209d",
+      "title": "The 98% Slot Machine: How Paid Advertising Became an Extraction Tax",
+      "url": "https://globalcommercegraph.com/writing/the-ninety-eight-percent-slot-machine",
+      "score": 181,
+      "by": "dev1one1",
+      "comments": 95
+    },
+    {
+      "id": "0752674b34589b56",
+      "title": "Gemini 4 Neon is the new #1 on the Models Engineering Index",
+      "url": "https://git-aarvin.github.io/mei/",
       "score": 27,
-      "by": "runesoerensen",
-      "comments": 2
+      "by": "hn-aarvin",
+      "comments": 11
     },
     {
-      "id": "8beaebd608719712",
-      "title": "Seven new models at scalable price-performance",
-      "url": "https://microsoft.ai/news/microsoft-ignite-2026/",
-      "score": 439,
-      "by": "gmays",
-      "comments": 301
+      "id": "4f3b91412097b2ec",
+      "title": "Should governments slow frontier AI? Jacob Coxon and Robin Hanson debate [video]",
+      "url": "https://www.youtube.com/watch?v=lwfewYL7X0o",
+      "score": 66,
+      "by": "sandslash",
+      "comments": 127
     },
     {
-      "id": "9ab26611fdd761a9",
-      "title": "Inside Deutsche Bank",
-      "url": "https://www.inside-db.com/",
-      "score": 543,
-      "by": "gyre007",
-      "comments": 188
+      "id": "1fa0bebae4280c3f",
+      "title": "Show HN: Cornhole News – A Hacker News inspired site for news across the Midwest",
+      "url": "https://cornholenews.news",
+      "score": 183,
+      "by": "cornholemedia",
+      "comments": 89
     },
     {
-      "id": "cffe5ec2abd5904b",
-      "title": "AI agents ask better questions than KPMG accountants in audit trial",
-      "url": "https://europeanbusinessmagazine.com/ai-agents-better-questions-kpmg/",
-      "score": 337,
-      "by": "Betelbuddy",
-      "comments": 152
+      "id": "e5eee06598f04e7f",
+      "title": "Someone reported java4shell bug in September 2026",
+      "url": "https://github.com/openjdk/jdk/pull/32781",
+      "score": 354,
+      "by": "notmine1337",
+      "comments": 91
     },
     {
-      "id": "7b2834d3fb8efe8c",
-      "title": "DaisyRose-27B",
-      "url": "https://www.radixark.com/blog/daisyrose-27b",
-      "score": 129,
-      "by": "de_sty",
-      "comments": 33
-    },
-    {
-      "id": "95e58236f0ecc6f6",
-      "title": "DNS resolvers are the wrong place to fight piracy",
-      "url": "https://techstackups.com/articles/quad9-leaves-france-dns-blocking/",
-      "score": 583,
-      "by": "ritzaco",
-      "comments": 217
-    },
-    {
-      "id": "4ae669f84f62ba9a",
-      "title": "We need smart people who give a shit",
-      "url": "https://violetpixel.com/blog/2026-11-17-we-need-smart-people-who-give-a-shit/",
-      "score": 163,
-      "by": "ExMachina73",
-      "comments": 77
-    },
-    {
-      "id": "d75dcd3c0f3ba4da",
-      "title": "LLM assisted reverse engineering",
-      "url": "https://www.slowchronicle.com/posts/llm-assisted-reverse-engineering",
-      "score": 35,
-      "by": "ioma8",
-      "comments": 6
-    },
-    {
-      "id": "60febc54dbbf8975",
-      "title": "Cuttlefish on Mac: Android's Virtual Device Framework on Apple Silicon",
-      "url": "https://engineering.fb.com/2026/11/13/android/cuttlefish-on-mac/",
-      "score": 36,
-      "by": "acossta",
+      "id": "5952a69677dff050",
+      "title": "Visa, Mastercard and JPMorgan Customer Data Leaked by Hackers",
+      "url": "https://www.wsj.com/finance/banking/visa-mastercard-and-jpmorgan-customer-data-leaked-by-hackers-3b5a0f87",
+      "score": 46,
+      "by": "mikhael",
       "comments": 7
     },
     {
-      "id": "7192fedefe20e2be",
-      "title": "Advancing chip design with OpenAI models",
-      "url": "https://openai.com/index/advancing-chip-design-with-our-models/",
-      "score": 156,
-      "by": "vighneshiyer",
-      "comments": 96
+      "id": "b63473dd0b485607",
+      "title": "UK government forced to admit it issued Apple a secret encryption order",
+      "url": "https://macanorak.com/uk-government-forced-to-admit-it-issued-apple-a-secret-encryption-order/",
+      "score": 477,
+      "by": "Terretta",
+      "comments": 203
     },
     {
-      "id": "1665766555025084",
-      "title": "A Collage Showing 49 Drill Holes Made by NASA's Curiosity Mars Rover",
-      "url": "https://science.nasa.gov/photojournal/a-collage-showing-49-drill-holes-made-by-nasas-curiosity-mars-rover/",
-      "score": 26,
-      "by": "wawayanda",
-      "comments": 2
+      "id": "e21204162c20d7a4",
+      "title": "Rebuilding my local voice assistant pipeline",
+      "url": "https://blog.platypush.tech/article/Rewriting-my-voice-assistant-pipeline",
+      "score": 48,
+      "by": "todsacerdoti",
+      "comments": 7
     },
     {
-      "id": "0983331933ab1506",
-      "title": "Dumping an AES key from a MyQ garage opener to stop rebooting when offline",
-      "url": "https://kusha.me/blog/stop_myq_homebridge_819lmb_rebooting/",
-      "score": 25,
-      "by": "kusha",
-      "comments": 6
-    },
-    {
-      "id": "0bd0109c78e04249",
-      "title": "Fable: Written, painted and directed by Claude Fable 5.2",
-      "url": "https://claudia.gallery/fable/",
+      "id": "f893bfec84a38613",
+      "title": "Talking Venice with Mahesh Subramony at AMD In-Depth",
+      "url": "https://chipsandcheese.com/p/talking-venice-with-mahesh-subramony",
       "score": 5,
-      "by": "CharlesW",
-      "comments": 2
-    },
-    {
-      "id": "996d65befb9c2317",
-      "title": "The Executive Mindset: From Technical Certainty to Strategic Trade-Offs",
-      "url": "https://www.talkingtech.online/articles/the-executive-mindset-from-technical-certainty-to-strategic-trade-offs",
-      "score": 3,
-      "by": "ricardovano",
+      "by": "rbanffy",
       "comments": 0
     },
     {
-      "id": "9428b42a87360451",
-      "title": "The Cambridge Dictionary has named ‘human’ as the Word of the Year 2026",
-      "url": "https://www.cam.ac.uk/news/cambridge-dictionary-reveals-word-of-the-year-2026",
-      "score": 231,
-      "by": "DeepLogin",
-      "comments": 170
+      "id": "fa3ad53aa6160a85",
+      "title": "Launch HN: Onlook (YC W25) – An open-source developer tool for designers",
+      "url": "https://github.com/onlook-dev/onlook/",
+      "score": 83,
+      "by": "D_R_Farrell",
+      "comments": 66
     },
     {
-      "id": "afa69c2c4a946a4c",
-      "title": "Anthropic prices initial public offering",
-      "url": "https://www.anthropic.com/news/anthropic-prices-initial-public-offering",
-      "score": 14,
-      "by": "surprisetalk",
-      "comments": 2
+      "id": "afbcfeb74d92131d",
+      "title": "Making 8-page foldable zines from a single A4 sheet in the browser",
+      "url": "https://krthr.co/paper-folds-and-whats-new-in-fanzines-app/",
+      "score": 242,
+      "by": "krthr",
+      "comments": 53
     },
     {
-      "id": "3f9d53397098b309",
-      "title": "Show HN: ExitPath – Open-source ways out of Slack, Notion and Microsoft 365",
-      "url": "https://exitpath-ruddy.vercel.app/",
-      "score": 156,
-      "by": "zerocool0101",
-      "comments": 45
+      "id": "7016ca5e60453218",
+      "title": "Reverse-Engineering Kevin J. Lang's Lost OCaml Code in Apache DataSketches",
+      "url": "https://www.tisonkun.io/posts/ai-repair-program/",
+      "score": 31,
+      "by": "tison",
+      "comments": 1
+    },
+    {
+      "id": "2801e3bf122872d8",
+      "title": "Computer Graphics from Scratch (2021)",
+      "url": "https://www.gabrielgambetta.com/computer-graphics-from-scratch/index.html",
+      "score": 46,
+      "by": "ibobev",
+      "comments": 9
     }
   ],
   "sources_ok": [
@@ -7337,7 +7625,7 @@
   ],
   "sources_failed": [
     "36氪",
-    "虎嗅:ReadTimeout"
+    "虎嗅:HTTPError"
   ],
-  "total": 796
+  "total": 828
 }
