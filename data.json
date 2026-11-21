@@ -1,6 +1,294 @@
 {
-  "generated_at": "2026-11-20T08:42:29.986911+08:00",
+  "generated_at": "2026-11-21T08:46:04.812719+08:00",
   "items": [
+    {
+      "id": "3da6f5bbe4c833f8",
+      "title": "早报｜曝Claude证明黎曼猜想，陶哲轩回应/余承东更正发布会表述：开车不能睡觉/五月天公布Vision Pro演唱会，Apple Store可预约体验",
+      "url": "https://www.ifanr.com/1690759?utm_source=rss&utm_medium=rss&utm_campaign=",
+      "source": "爱范儿",
+      "category": "科技",
+      "published": "2026-11-21T08:25:08+08:00",
+      "summary": "· 三星任命手机和存储业务新负责人 · 5499 元起，华为星芒发布首款阔直板手机 OSTA O1 Pro · ColorOS 17 上线跨品牌一碰传#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。"
+    },
+    {
+      "id": "55b7d469fd25cc19",
+      "title": "林俊旸新公司估值升至 50 亿美元；丁磊：短剧爆发冲击游戏产业；华为新品牌星芒发布首款阔直板手机",
+      "url": "http://www.geekpark.net/news/374299",
+      "source": "极客公园",
+      "category": "AI",
+      "published": "2026-11-21T08:17:10+08:00",
+      "summary": "传林俊旸 AI 初创公司完成新融资，估值翻倍至 50 亿美元 据彭博社报道，阿里巴巴集团前 AI 负责人林俊旸创办的语用科技 ( Pragmatik Labs)，已完成新一轮融资，估值达 50 亿美元，短短几个月内估值翻了一倍多。 林俊旸曾是阿里的明星研究员，在离职后于今年夏季创立语用科技。据知情人士称，语用科技在最近结束的一轮融资中筹集了数千万美元资金。今年 8 月，该公司在首次融资中筹集了数亿美元，当时估值为 20 亿美元。 知情人士称，语用科技的新投资者包括华业天成资本、鼎晖投资以及汽车制造商吉利汽车。 语用科技总部位于上海，致力于开发面向数字世界和物理世界的 AI 智能体。该公司首轮融"
+    },
+    {
+      "id": "f88f017e1e933479",
+      "title": "Anthropic 的数论学家声称证明黎曼猜想",
+      "url": "https://www.solidot.org/story?sid=85949",
+      "source": "Solidot",
+      "category": "科技",
+      "published": "2026-11-20T23:14:05+08:00",
+      "summary": "美国数学家 Levent Alpöge 以数论和算术统计方面的工作著称，他目前在 AI 公司 Anthropic 工作。他发表声明，声称与公司 AI 工具 Claude 合作获得了数论经典难题黎曼猜想的一般性证明。他们发现了黎曼猜想的一个证明，而这个证明方法可以进一步证明广义黎曼猜想和扩展黎曼猜想。他称论证过程极其冗长，形式化工作已经完成，但产生的文档难以阅读，他表示正致力于对其进行简化，使其更通俗易懂。"
+    },
+    {
+      "id": "5663b670473f0941",
+      "title": "GTA 6 创游戏史上最高首日销售额",
+      "url": "https://www.solidot.org/story?sid=85948",
+      "source": "Solidot",
+      "category": "科技",
+      "published": "2026-11-20T22:38:21+08:00",
+      "summary": "根据 Sensor Tower 的数据，本周四上市的开放世界游戏 GTA 6 预购量和首日销量合计超过 2450 万份，收入约 23.6 亿美元。相比之下，今年票房最高的电影《蜘蛛侠：崭新之日》总票房收入为 25 亿美元。GTA 6 开发商 Rockstar 及其母公司 Take-Two 尚未披露销售数据，只是强调需求“空前”。GTA 6 的开发成本超过 10 亿美元，是史上制作成本最高的游戏。Sensor Tower 称，GTA 6 极高的热度将导致玩家在其它单机游戏上投入的时间减少 10%。它表示游戏四分之三的销量来自索尼的 PlayStation 5 平台，其余来自微软的 Xbox 平台"
+    },
+    {
+      "id": "5f11093ace1b972b",
+      "title": "新三板摘牌8天、连亏、负债率77%，康居人六成股权作价近亿并入可孚医疗丨并购一线",
+      "url": "https://www.tmtpost.com/8213168.html",
+      "source": "钛媒体",
+      "category": "创投",
+      "published": "2026-11-20T21:31:09+08:00",
+      "summary": "拉长周期看，行业天花板是更根本的约束。"
+    },
+    {
+      "id": "b8d42cb957300d3b",
+      "title": "阿里巴巴警告未来两年算力紧缺",
+      "url": "https://www.solidot.org/story?sid=85947",
+      "source": "Solidot",
+      "category": "科技",
+      "published": "2026-11-20T20:48:17+08:00",
+      "summary": "阿里巴巴集团首席执行官吴泳铭在星期四召开的二季度业绩电话会上说，全球各区域的算力政策出现了非常大的变化，将对阿里云的数据中心建设产生影响。根据目前的初步评估，阿里此前制定的到 2032 年全球数据中心规模超过 20 吉瓦的目标有可能下调，资本开支可能有一定程度降低。不过公司管理层相信，美国商务部的算力管制新规对 AI 产品进度的影响短暂，公司目前已经运用自行研发的晶片训练下一代大模型。阿里巴巴预测，2027 年及 2028 年将是中国算力市场最紧缺的两年。"
+    },
+    {
+      "id": "bf8950909dfe550b",
+      "title": "迪桑特于松花湖开启「逐雪而生」大秀；上海FILA HOUSE正式启幕；九牧全球首发可持续生态马桶｜消研所周报",
+      "url": "https://www.tmtpost.com/8213047.html",
+      "source": "钛媒体",
+      "category": "创投",
+      "published": "2026-11-20T19:38:43+08:00",
+      "summary": "狼爪欧洲首家新形象旗舰店落地慕尼黑；沃尔玛中国Q3净销售额增长28.5%。"
+    },
+    {
+      "id": "b2f5d6dda85e7d1c",
+      "title": "最后一周！「2026年度全球化公司榜」自荐通道即将关闭",
+      "url": "https://www.tmtpost.com/8213079.html",
+      "source": "钛媒体",
+      "category": "创投",
+      "published": "2026-11-20T18:59:23+08:00",
+      "summary": "钛媒体集团启动EDGE AWARDS 创新评选「年度全球化公司榜」，寻找并表彰那些开拓全球市场、推动技术创新、建立长期竞争优势的优秀企业。"
+    },
+    {
+      "id": "c29d8c38215aee2a",
+      "title": "小鹏预计全年海外销量破10万辆；涂鸦智能AI Energy方案在欧洲多国部署；美团索降无人机迪拜首秀｜一周大公司出海动态",
+      "url": "https://www.tmtpost.com/8213045.html",
+      "source": "钛媒体",
+      "category": "创投",
+      "published": "2026-11-20T18:58:48+08:00",
+      "summary": "一文看完本周大公司出海全全球化动态。"
+    },
+    {
+      "id": "79ab5b99cd7b1295",
+      "title": "无限滚动自动播放有害社会",
+      "url": "https://www.solidot.org/story?sid=85946",
+      "source": "Solidot",
+      "category": "科技",
+      "published": "2026-11-20T18:50:51+08:00",
+      "summary": "根据发表在《The Lancet Psychiatry》期刊上的一篇报告，全球逾十分之一人口可能受到问题性互联网使用的影响，每年由此带来的经济和社会成本可能高达数十亿美元。问题性互联网使用包括了：强迫性使用社交媒体、过度沉迷游戏、网络赌博、强迫性网购、问题性色情内容消费，以及反复搜索加剧焦虑的健康信息。无限滚动的信息流、视频自动播放、个性化推荐以及各类通知等都在诱导用户不断回到社交应用和平台中。报告作者认为责任不应仅由用户和家庭承担，设计数字产品的企业也难辞其咎。企业在设计数字产品时就刻意捕捉并留住用户的注意力。报告作者主张通过更强有力的监管减少危害，认为目前已有充分证据支持采取协调一致的国际"
+    },
+    {
+      "id": "f26b49e13532e437",
+      "title": "理想造了一颗登上台积电讲台的芯片，却希望你在开车时彻底忘掉它",
+      "url": "https://www.ifanr.com/1690596?utm_source=rss&utm_medium=rss&utm_campaign=",
+      "source": "爱范儿",
+      "category": "科技",
+      "published": "2026-11-20T18:39:47+08:00",
+      "summary": "最好的智驾芯片，是让你彻底忘掉它。#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。"
+    },
+    {
+      "id": "5fbe290bafc46904",
+      "title": "阿里发布2027年Q2财报：阿里云AI收入增长53%，即时零售减亏",
+      "url": "https://www.tmtpost.com/8212798.html",
+      "source": "钛媒体",
+      "category": "创投",
+      "published": "2026-11-20T18:31:54+08:00",
+      "summary": "AI相关产品收入已经连续第十三个季度保持三位数同比增长，互联网、汽车、具身智能、金融、生物科技等行业客户持续扩容算力采购需求。"
+    },
+    {
+      "id": "e4b503f943a44280",
+      "title": "沃尔玛Q3财报：中国电商渗透率首破五成",
+      "url": "https://www.tmtpost.com/8212919.html",
+      "source": "钛媒体",
+      "category": "创投",
+      "published": "2026-11-20T18:31:26+08:00",
+      "summary": "沃尔玛Q3财报：中国电商渗透率首破五成"
+    },
+    {
+      "id": "f9b96e91a0e672bf",
+      "title": "托举WorkBuddy登顶，腾讯AI高光藏软肋",
+      "url": "https://www.tmtpost.com/8212605.html",
+      "source": "钛媒体",
+      "category": "创投",
+      "published": "2026-11-20T18:31:14+08:00",
+      "summary": "WorkBuddy已登顶，腾讯AI待翻身。"
+    },
+    {
+      "id": "77cd4ad24842ead5",
+      "title": "贵航股份抛5.5亿定增扩产：控股股东拟斥不超1亿认购，高增业绩下的扩张成色几何",
+      "url": "https://www.tmtpost.com/8212908.html",
+      "source": "钛媒体",
+      "category": "创投",
+      "published": "2026-11-20T18:29:24+08:00",
+      "summary": "三季度扣非净利增近 250%，汽车新能源化与航空技术改造同步押注。"
+    },
+    {
+      "id": "cd5112dd2385bee6",
+      "title": "三名胰腺癌患者在注射病毒后遏制了肿瘤继续发展",
+      "url": "https://www.solidot.org/story?sid=85945",
+      "source": "Solidot",
+      "category": "科技",
+      "published": "2026-11-20T18:27:28+08:00",
+      "summary": "在美国的一项临床试验中，三名胰腺癌患者在注射病毒后成功遏制肿瘤继续发展。项目领导者、明尼苏达大学的 Masato Yamamoto 表示临床试验注射的剂量仅为最终目标剂量的十分之一，因此疗效超出了预期。研究人员将对另外 15 名患者使用更高剂量的药物以确定最佳给药水平。胰腺癌被称为最致命的癌症，原因之一是症状出现较晚，此时癌症已扩散无法通过手术切除。一旦确诊，患者生存期为三到六个月左右。另一大原因是胰腺肿瘤有坚硬的纤维外壳，阻碍了化疗药物的渗透。试验未设置对照组，很难判断杀癌病毒的效果是否优于其它疗法，甚至无法确定它是否真的有效。研究使用的病毒是一种经过基因改造的腺病毒，其特性是仅在肿瘤内部进"
+    },
+    {
+      "id": "a330430b86657563",
+      "title": "“物理AI第一股”冲刺A股：左手英伟达，右手摩尔线程",
+      "url": "https://www.tmtpost.com/8212915.html",
+      "source": "钛媒体",
+      "category": "创投",
+      "published": "2026-11-20T18:23:58+08:00",
+      "summary": "五一视界启动A股IPO辅导。"
+    },
+    {
+      "id": "6c4b97d3dedc5ba3",
+      "title": "2715亿营收、344亿现金流出：阿里的利润拐点与“未完成”的账单",
+      "url": "https://www.tmtpost.com/8211484.html",
+      "source": "钛媒体",
+      "category": "创投",
+      "published": "2026-11-20T18:23:51+08:00",
+      "summary": "14.5%的利润率证明投入方向对了，但344亿的现金流出证明代价还没走完——拐点不是一个季度，而是一条要用现金流与ROIC连续验证的曲线。"
+    },
+    {
+      "id": "bddd142045bb6715",
+      "title": "本周看什么 | 最近值得一看的 10 部作品",
+      "url": "https://sspai.com/post/119337",
+      "source": "少数派",
+      "category": "科技",
+      "published": "2026-11-20T17:54:01+08:00",
+      "summary": "📅本周新预告《克里夫·布斯的惊险再冒险》终极预告11月18日，《好莱坞往事》续集电影《克里夫·布斯的惊险再冒险》发布了终极预告，将于11月25日在北美上映，12月23日上线Netflix。大卫·芬奇执 ...查看全文"
+    },
+    {
+      "id": "807000b7468d60f4",
+      "title": "Vint Cerf 谈 TCP/IP 为何从未申请专利",
+      "url": "https://www.solidot.org/story?sid=85944",
+      "source": "Solidot",
+      "category": "科技",
+      "published": "2026-11-20T17:40:06+08:00",
+      "summary": "现年 83 岁的 Vint Cerf 因在 1970 年代与 Bob Kahn 合作设计了 TCP/IP 协议而被誉为互联网之父，他在今年早些时候卸任 Google 首席互联网布道官一职，但并没停止工作，他正参与创办名为 Tolero 的公司，为星际 互联网构建软件。他接受采访时开玩笑的说，光速太慢了。Vint Cerf 谈论了当年设计 TCP/IP 协议时为什么没有为其申请专利。他说，1970 年代初在开发 TCP/IP 项目时，曾反复思考几个问题：是否应该为它申请专利？是否应该设置其它限制？是否应该将其作为一项需要获得许可才能使用的技术？美国政府对于利用公共资金研发的技术，既可以采取许可授"
+    },
+    {
+      "id": "9a838cfe1b779f61",
+      "title": "首款鸿蒙 AI 手机发布：华为全新子品牌 OSTA 星芒有一个「增援未来计划」",
+      "url": "https://www.ifanr.com/1690642?utm_source=rss&utm_medium=rss&utm_campaign=",
+      "source": "爱范儿",
+      "category": "科技",
+      "published": "2026-11-20T17:17:05+08:00",
+      "summary": "在手机里打开了一个关于 AI 的「平行宇宙」#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。"
+    },
+    {
+      "id": "9a229f9b6a13af52",
+      "title": "给 Gemini 道歉，请自觉排队",
+      "url": "https://www.ifanr.com/1690572?utm_source=rss&utm_medium=rss&utm_campaign=",
+      "source": "爱范儿",
+      "category": "科技",
+      "published": "2026-11-20T17:03:13+08:00",
+      "summary": "Gemini 4 真的越来越好用了。#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。"
+    },
+    {
+      "id": "5c67ca67feb95067",
+      "title": "韩国利用紧急短信等方法抓住了 111 起高考作弊",
+      "url": "https://www.solidot.org/story?sid=85943",
+      "source": "Solidot",
+      "category": "科技",
+      "published": "2026-11-20T16:25:03+08:00",
+      "summary": "韩国高考从本周四开始，有约 50 万名考生参加。为打击高科技作弊，韩国采取了一种极端的方法：在全国范围内发送紧急短信，之后在没有预先通知的情况下不定时追加发送。该短信无法拒收，只要手机处于开机状态，手机就将持续发出 10.5 秒的提示音。据韩国媒体报道，该方法发现了 54 起未上交手机的案例。通过探测 WiFi 等方式查出 52 起携带智能设备案例。在考试过程中被发现利用智能终端的作弊案例 5 起，包括使用智能眼镜（1起）、使用微型摄像头和无线耳机（1起）、利用智能手机拍摄考卷（1起），以及在洗手间使用智能手机（2起）。韩国教育部称共发现 111 起涉电子设备作弊案。韩国如此高度关注考试作弊的"
+    },
+    {
+      "id": "1c94de5c5e4fe223",
+      "title": "估值 410 亿美元，贝佐斯打造「物理世界的 OpenAI」",
+      "url": "http://www.geekpark.net/news/374282",
+      "source": "极客公园",
+      "category": "AI",
+      "published": "2026-11-20T16:24:30+08:00",
+      "summary": "作者｜宇航猿 编辑｜靖宇 AI 吞掉了软件，现在，它要吞掉工业了。 卸任亚马逊 CEO 五年后，杰夫·贝佐斯没忍住，又给自己找了个班上。 当地时间 2026 年 11 月 17 日，加州门洛帕克的 Semafor「硅谷与世界」峰会现场，贝佐斯和物理学家维克·巴贾杰（Vik Bajaj）罕见同台。他现在的最新头衔，是 AI 初创公司 Prometheus 的联合创始人兼联席 CEO。这是自 2021 年交出亚马逊帅印后，这位商业巨头首次重回一线担任 CEO。 早在 2024 年底种子期就掏钱投资的贝佐斯，在台上毫不掩饰自己的兴奋，直言项目进展太快，自己根本「没法坐在场边干看着」。 能让贝佐斯重返"
+    },
+    {
+      "id": "d03ae3ab666103db",
+      "title": "微软测试对被盗或丢失设备远程锁定",
+      "url": "https://www.solidot.org/story?sid=85942",
+      "source": "Solidot",
+      "category": "科技",
+      "published": "2026-11-20T16:03:01+08:00",
+      "summary": "微软在测试一项新功能，允许企业 IT 管理员在不清除数据的情况下远程锁定丢失或被盗的 Windows 设备。被称为远程锁定（Remote Lock）的新功能已提供给运行 Build 26320.10003 或 Build 26340.10013 的 Windows 11 Insider Preview 设备。IT 管理员可通过 Microsoft Intune 自定义配置配置文件，锁定加入 Microsoft Entra 的运行 Windows 企业版、教育版或专业版的设备。一旦 IT 部门远程锁定设备，原有的 PIN 码、密码、本地管理员账户或网页登录方式将全部停止工作，设备仅能通过 Int"
+    },
+    {
+      "id": "c2b8311dd119669c",
+      "title": "游戏史最高分，不负 13 年的等待：《GTA 6》游玩体验",
+      "url": "https://sspai.com/post/119327",
+      "source": "少数派",
+      "category": "科技",
+      "published": "2026-11-20T15:34:26+08:00",
+      "summary": "编注：本文首发于「篝火营地」，原作者多边形。少数派经授权后转载，仅对文章格式略作调整。原标题：《侠盗猎车手6》游戏评测：10分｜篝火。作为RockstarGames时隔13年推出的《侠盗猎车手》系列新 ...查看全文"
+    },
+    {
+      "id": "19c1585e4ae811fd",
+      "title": "大脑的言语感知中枢也能生成口语词汇",
+      "url": "https://www.solidot.org/story?sid=85941",
+      "source": "Solidot",
+      "category": "科技",
+      "published": "2026-11-20T15:05:32+08:00",
+      "summary": "大脑名为韦尼克的区域（Wernicke’s area，该脑区长期以来被认为仅参与言语感知）也会生成口语词汇。韦尼克区是大脑听觉皮层的一部分，以往主要以其在言语感知中的关键作用而闻名。然而，韦尼克区受损者不仅难以理解言语，在组词造句方面也面临障碍。研究人员现在发现，韦尼克区不仅能感知词语，还能在言语产生前被激活以生成词语。利用高分辨率皮层脑电图，研究人员记录了 28 名参与者在执行说话和聆听任务时大脑皮层中单个神经元的活动。这些研究揭示了韦尼克区中的一个独立的神经元亚群，后者在参与者说话之前便被激活。随后该团队在因手术治疗而切除韦尼克区者的组织样本中对这一神经元区域进行了探究。他们观察到，这些神"
+    },
+    {
+      "id": "6be4a8a3bc57e1a0",
+      "title": "Google 于 2027 年 1 月在全球实施 Android 开发者身份验证",
+      "url": "https://www.solidot.org/story?sid=85940",
+      "source": "Solidot",
+      "category": "科技",
+      "published": "2026-11-20T14:49:01+08:00",
+      "summary": "Google 去年宣布了 Android 开发者身份验证计划。尽管遭到了开发者和用户的广泛反对，Google 仍然坚持推进该计划。Google 从今年 9 月起开始在部分国家阻止安装未经开发者身份验证的应用，而这一要求将很快推广到全球。Google 宣布将于 2027 年 1 月起在所有地区实施开发者身份验证，敦促尚未验证身份的应用开发者尽快完成登记。一旦 Android 开发者身份验证在用户所在的地区生效，那么用户将无法通过侧载（sideloading）安装未经开发者身份验证的应用。Google 坚称此举是为了安全，将增加恶意攻击者散播恶意软件或欺诈应用的难度。应用开发者在进行验证身份时需提"
+    },
+    {
+      "id": "a9b7908cdce88885",
+      "title": "触屏只是它最不起眼的升级｜MacBook PROLED 评测",
+      "url": "https://www.ifanr.com/1690404?utm_source=rss&utm_medium=rss&utm_campaign=",
+      "source": "爱范儿",
+      "category": "科技",
+      "published": "2026-11-20T12:00:17+08:00",
+      "summary": "触屏不是她的全部#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。"
+    },
+    {
+      "id": "6fcf1a0b13dc9fb2",
+      "title": "浮屏：截图即可「上岛」，还能帮你记录生活",
+      "url": "https://sspai.com/post/118879",
+      "source": "少数派",
+      "category": "科技",
+      "published": "2026-11-20T10:47:52+08:00",
+      "summary": "浮屏是我一个人开发的应用。它最初只是为了解决一杯柠檬水的取餐码问题，后来慢慢长成了一个记录生活小片段的工具。查看全文"
+    },
+    {
+      "id": "8e24565f276ff1d5",
+      "title": "AI Agent 元年，苹果是最后一个入局的巨头",
+      "url": "https://www.ifanr.com/1690510?utm_source=rss&utm_medium=rss&utm_campaign=",
+      "source": "爱范儿",
+      "category": "科技",
+      "published": "2026-11-20T09:17:16+08:00",
+      "summary": "苹果急了#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。"
+    },
+    {
+      "id": "8f66ac8d94339c25",
+      "title": "1.27 万亿美元，Anthropic 挂牌上市；吴泳铭：千问已在平头哥芯片训练下一代模型；苹果被曝自研 AI 智能体｜极客早知道",
+      "url": "http://www.geekpark.net/news/374235",
+      "source": "极客公园",
+      "category": "AI",
+      "published": "2026-11-20T09:04:08+08:00",
+      "summary": "「史上最大 IPO」：Anthropic 上市首日收盘大涨 17%，市值达 1.27 万亿美元 11 月 20 日消息，AI 公司 Anthropic 于当地时间 11 月 19 日在美国纳斯达克上市，首日股价以 97.17 美元（现汇率约合 649.2 元人民币）收盘，较 83 美元（现汇率约合 554.5 元人民币）的发行价上涨 17.07%。 该股开盘即报 111.5 美元（现汇率约合 744.9 元人民币），较发行价高出约 34.3%；盘中一度突破 115 美元（现汇率约合 768.3 元人民币），随后回落至 100 美元（现汇率约合 668.1 元人民币）下方。 按收盘价计算，Ant"
+    },
     {
       "id": "3494234ca33851b0",
       "title": "华尔街狂热，华盛顿划线：Anthropic的上市前夜",
@@ -9,6 +297,15 @@
       "category": "创投",
       "published": "2026-11-20T08:37:00+08:00",
       "summary": "在算力被重新划定边界的当下，资本市场究竟在为什么定价？"
+    },
+    {
+      "id": "32dbb6202d720444",
+      "title": "派早报：Google 推出 Gemini 4 Neon 模型，网易 UU 远程将于 12 月推出付费会员等",
+      "url": "https://sspai.com/post/119311",
+      "source": "少数派",
+      "category": "科技",
+      "published": "2026-11-20T08:34:31+08:00",
+      "summary": "Google Play 将强制要求应用适配折叠屏，微软宣布 Microsoft To Do 将于明年 6 月全面停用等。查看全文"
     },
     {
       "id": "c2b8b390566b8205",
@@ -7434,186 +7731,168 @@
       "published": "2026-10-22T11:36:57+08:00",
       "summary": "药物不能解决所有问题，这是是我学到的重要一课。查看全文",
       "id": "d77a2b2615c0c040"
-    },
-    {
-      "title": "派早报：荣耀发布 WIN2 系列新品、Google 开源 TorchTPU 等",
-      "url": "https://sspai.com/post/116953",
-      "source": "少数派",
-      "category": "科技",
-      "published": "2026-10-22T08:29:05+08:00",
-      "summary": "OpenBSD 8.0 正式发布、腾讯宣布元宝搜索对外开放等。查看全文",
-      "id": "0a27b757fc5afcff"
-    },
-    {
-      "title": "社区速递 162 | MUJI 靠垫、中兴路由器与派友们的长假吃灰装备",
-      "url": "https://sspai.com/post/116820",
-      "source": "少数派",
-      "category": "科技",
-      "published": "2026-10-21T17:00:00+08:00",
-      "summary": "除了首页时间流和侧栏的精选展位，少数派Matrix社区还有很多优秀内容因条件所限无法得到有效曝光，因此我们决定重启Matrix周报，并在此基础上添加更多社区内容、作者投稿新玩意呈现给大家。上周社区速递 ...查看全文",
-      "id": "f02ae8c2ec677119"
     }
   ],
   "hot": [
     {
-      "id": "e2bd6d8340e53429",
-      "title": "Anthropic’s Nasdaq debut",
-      "url": "https://www.reuters.com/business/finance/anthropics-historic-debut-put-ais-promise-peril-wall-st-test-2026-11-19/",
-      "score": 864,
-      "by": "wslh",
-      "comments": 1679
+      "id": "3941d3eb95e8dbff",
+      "title": "Hurried Announcement: Alessandro Masullo GRH",
+      "url": "https://math216.wordpress.com/2026/11/20/hurried-announcement-alessandro-masullo-grh/",
+      "score": 1464,
+      "by": "jasondavies",
+      "comments": 675
     },
     {
-      "id": "04f94c18c13c7fde",
-      "title": "Pancreatic cancer halted by virus injection in three patients",
-      "url": "https://www.newscientist.com/article/2528235-pancreatic-cancer-halted-by-virus-injection-in-three-patients/",
-      "score": 522,
-      "by": "cybermango",
-      "comments": 74
+      "id": "1f92975ce2ad391a",
+      "title": "Inkling 2 Mini",
+      "url": "https://thinkingmachines.ai/news/inkling-2-mini/",
+      "score": 614,
+      "by": "jasondavies",
+      "comments": 99
     },
     {
-      "id": "bd762792b8f1c024",
-      "title": "Synology Security Advisory",
-      "url": "https://www.synology.com/en-uk/security/advisory/Synology_SA_26_21",
-      "score": 86,
-      "by": "choult",
-      "comments": 52
+      "id": "9a01d915c7c9e361",
+      "title": "Levent Alpöge claims proof of the Generalized Riemann Hypothesis [pdf]",
+      "url": "https://alpo.ge/remark.pdf",
+      "score": 2319,
+      "by": "iamronaldo",
+      "comments": 1569
     },
     {
-      "id": "a420fe853cb21f4e",
-      "title": "Claude solves two open problems in the physics of black holes",
-      "url": "https://www.anthropic.com/research/claude-black-hole-physics",
-      "score": 362,
-      "by": "cybermango",
-      "comments": 163
+      "id": "690695df4757f749",
+      "title": "Re: Riemann",
+      "url": "https://borretti.me/article/re-riemann",
+      "score": 50,
+      "by": "_dain_",
+      "comments": 15
     },
     {
-      "id": "6a94e2ee8bbb67ac",
-      "title": "How to CAD Almost Anything",
-      "url": "https://ocw.mit.edu/courses/res-16-002-how-to-cad-almost-anything-january-iap-2024/",
-      "score": 99,
-      "by": "o4c",
-      "comments": 17
-    },
-    {
-      "id": "b4bf4879622bb614",
-      "title": "RegExr: Temporarily Offline",
-      "url": "https://regexr.com/",
-      "score": 34,
-      "by": "somebudyelse",
-      "comments": 17
-    },
-    {
-      "id": "b456f2c195baeae6",
-      "title": "Garage Door Spam",
-      "url": "https://blog.harrison.page/garage-door-spam/",
-      "score": 737,
-      "by": "harrisonpage",
-      "comments": 310
-    },
-    {
-      "id": "47dc7c6c4d39209d",
-      "title": "The 98% Slot Machine: How Paid Advertising Became an Extraction Tax",
-      "url": "https://globalcommercegraph.com/writing/the-ninety-eight-percent-slot-machine",
-      "score": 181,
-      "by": "dev1one1",
-      "comments": 95
-    },
-    {
-      "id": "0752674b34589b56",
-      "title": "Gemini 4 Neon is the new #1 on the Models Engineering Index",
-      "url": "https://git-aarvin.github.io/mei/",
-      "score": 27,
-      "by": "hn-aarvin",
-      "comments": 11
-    },
-    {
-      "id": "4f3b91412097b2ec",
-      "title": "Should governments slow frontier AI? Jacob Coxon and Robin Hanson debate [video]",
-      "url": "https://www.youtube.com/watch?v=lwfewYL7X0o",
-      "score": 66,
-      "by": "sandslash",
-      "comments": 127
-    },
-    {
-      "id": "1fa0bebae4280c3f",
-      "title": "Show HN: Cornhole News – A Hacker News inspired site for news across the Midwest",
-      "url": "https://cornholenews.news",
-      "score": 183,
-      "by": "cornholemedia",
-      "comments": 89
-    },
-    {
-      "id": "e5eee06598f04e7f",
-      "title": "Someone reported java4shell bug in September 2026",
-      "url": "https://github.com/openjdk/jdk/pull/32781",
-      "score": 354,
-      "by": "notmine1337",
-      "comments": 91
-    },
-    {
-      "id": "5952a69677dff050",
-      "title": "Visa, Mastercard and JPMorgan Customer Data Leaked by Hackers",
-      "url": "https://www.wsj.com/finance/banking/visa-mastercard-and-jpmorgan-customer-data-leaked-by-hackers-3b5a0f87",
-      "score": 46,
-      "by": "mikhael",
-      "comments": 7
-    },
-    {
-      "id": "b63473dd0b485607",
-      "title": "UK government forced to admit it issued Apple a secret encryption order",
-      "url": "https://macanorak.com/uk-government-forced-to-admit-it-issued-apple-a-secret-encryption-order/",
-      "score": 477,
-      "by": "Terretta",
-      "comments": 203
-    },
-    {
-      "id": "e21204162c20d7a4",
-      "title": "Rebuilding my local voice assistant pipeline",
-      "url": "https://blog.platypush.tech/article/Rewriting-my-voice-assistant-pipeline",
-      "score": 48,
-      "by": "todsacerdoti",
-      "comments": 7
-    },
-    {
-      "id": "f893bfec84a38613",
-      "title": "Talking Venice with Mahesh Subramony at AMD In-Depth",
-      "url": "https://chipsandcheese.com/p/talking-venice-with-mahesh-subramony",
-      "score": 5,
-      "by": "rbanffy",
-      "comments": 0
-    },
-    {
-      "id": "fa3ad53aa6160a85",
-      "title": "Launch HN: Onlook (YC W25) – An open-source developer tool for designers",
-      "url": "https://github.com/onlook-dev/onlook/",
+      "id": "eca23ed24feb5eef",
+      "title": "NINLIVE: The Nine Inch Nails live archive",
+      "url": "https://ninlive.com/",
       "score": 83,
-      "by": "D_R_Farrell",
-      "comments": 66
+      "by": "CharlesW",
+      "comments": 23
     },
     {
-      "id": "afbcfeb74d92131d",
-      "title": "Making 8-page foldable zines from a single A4 sheet in the browser",
-      "url": "https://krthr.co/paper-folds-and-whats-new-in-fanzines-app/",
-      "score": 242,
-      "by": "krthr",
-      "comments": 53
+      "id": "19f635837807c70e",
+      "title": "We promoted developers into architects without informing them",
+      "url": "https://manidoraisamy.com/developer-to-architect.html",
+      "score": 277,
+      "by": "QueensGambit",
+      "comments": 171
     },
     {
-      "id": "7016ca5e60453218",
-      "title": "Reverse-Engineering Kevin J. Lang's Lost OCaml Code in Apache DataSketches",
-      "url": "https://www.tisonkun.io/posts/ai-repair-program/",
-      "score": 31,
-      "by": "tison",
-      "comments": 1
+      "id": "ad3d475403063f09",
+      "title": "Unforced Navier-Stokes Singularity and the Generalized Riemann Hypothesis",
+      "url": "https://terrytao.wordpress.com/2026/11/20/unforced-euler-singularity-unforced-navier-stokes-singularity-and-the-generalized-riemann-hypothesis/",
+      "score": 324,
+      "by": "archon1410",
+      "comments": 131
     },
     {
-      "id": "2801e3bf122872d8",
-      "title": "Computer Graphics from Scratch (2021)",
-      "url": "https://www.gabrielgambetta.com/computer-graphics-from-scratch/index.html",
-      "score": 46,
-      "by": "ibobev",
-      "comments": 9
+      "id": "ff38a85759c4472f",
+      "title": "Sir Brian May adds new dimension to Hera asteroid",
+      "url": "https://www.esa.int/articles/about-us/directorates/operations/space-safety/hera/sir-brian-may-adds-new-dimension-to-hera-asteroid",
+      "score": 25,
+      "by": "mooreds",
+      "comments": 3
+    },
+    {
+      "id": "831701bbd92b66a0",
+      "title": "Language Models Can Rewrite Their Own Weights",
+      "url": "https://arxiv.org/abs/2611.21885",
+      "score": 326,
+      "by": "lwhsiao",
+      "comments": 106
+    },
+    {
+      "id": "45b28eecb649301f",
+      "title": "DreamCoder: Coding harness and IDE from the author of Mastering Emacs",
+      "url": "https://www.masteringemacs.org/article/announcing-dreamcoder",
+      "score": 89,
+      "by": "facundo_olano",
+      "comments": 13
+    },
+    {
+      "id": "181fd43bd403ef6c",
+      "title": "Finite-time blow-up for the Navier–Stokes equations",
+      "url": "https://github.com/tristanbuckmaster/navier-stokes/",
+      "score": 257,
+      "by": "trotro",
+      "comments": 80
+    },
+    {
+      "id": "09abaca03dad7095",
+      "title": "If you can't explain something in simple terms, you don't understand it (2017)",
+      "url": "https://kottke.org/17/06/if-you-cant-explain-something-in-simple-terms-you-dont-understand-it",
+      "score": 615,
+      "by": "sammatilda",
+      "comments": 289
+    },
+    {
+      "id": "9f9dcefa3b925421",
+      "title": "And yet, it moves",
+      "url": "https://signoregalilei.com/2026/11/20/and-yet-it-moves/",
+      "score": 70,
+      "by": "notfried",
+      "comments": 35
+    },
+    {
+      "id": "b2ed3f0fa6304374",
+      "title": "Vibecoding an inference chip",
+      "url": "https://ankitg.me/blog/vibecoding-inference-chip/",
+      "score": 106,
+      "by": "ankitvgupta",
+      "comments": 39
+    },
+    {
+      "id": "4f45a1deafd8dcaa",
+      "title": "Winedroid – run Android apps without Android (WASM demo)",
+      "url": "https://winedroid.soham.sh/demo/",
+      "score": 92,
+      "by": "sohzm",
+      "comments": 27
+    },
+    {
+      "id": "4481fbec7b128e8f",
+      "title": "The stochastic parrots have apparently proved the Riemann Hypothesis",
+      "url": "https://scottaaronson.blog/?p=10344",
+      "score": 201,
+      "by": "stratos123",
+      "comments": 165
+    },
+    {
+      "id": "44b8a88de39fdacb",
+      "title": "AI may have solved the most important problem in mathematics",
+      "url": "https://www.economist.com/science-and-technology/2026/11/20/ai-may-have-solved-the-most-important-problem-in-mathematics",
+      "score": 14,
+      "by": "vinni2",
+      "comments": 7
+    },
+    {
+      "id": "664084d183baf24b",
+      "title": "Frostbite: A new CPU architecture discovered, designed and verified by AI",
+      "url": "https://architectlabs.com/blog/frostbite",
+      "score": 616,
+      "by": "shioyama",
+      "comments": 322
+    },
+    {
+      "id": "5b8d34e55fcf1cc8",
+      "title": "Signal Is Serious About Protecting Your Privacy",
+      "url": "https://signal.org/blog/protecting-your-privacy/",
+      "score": 497,
+      "by": "dotcoma",
+      "comments": 297
+    },
+    {
+      "id": "0d37b3fcb589c881",
+      "title": "Nasdaq erases all 2026 gains",
+      "url": "https://www.cnbc.com/2026/11/19/stock-market-today-live-updates.html",
+      "score": 104,
+      "by": "mv4",
+      "comments": 38
     }
   ],
   "sources_ok": [
@@ -7625,7 +7904,7 @@
   ],
   "sources_failed": [
     "36氪",
-    "虎嗅:HTTPError"
+    "虎嗅:ReadTimeout"
   ],
-  "total": 828
+  "total": 859
 }
