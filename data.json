@@ -1,6 +1,222 @@
 {
-  "generated_at": "2026-11-22T08:37:24.775392+08:00",
+  "generated_at": "2026-11-23T08:43:20.785275+08:00",
   "items": [
+    {
+      "id": "a47d0ab73bd55f84",
+      "title": "早报｜曝苹果明年下半年发布iPhone 20与智能眼镜/丘成桐：AI证明黎曼猜想，数学进入新纪元/GTA6带动主机溢价，PS5 Pro涨至近1.6万元",
+      "url": "https://www.ifanr.com/1690857?utm_source=rss&utm_medium=rss&utm_campaign=",
+      "source": "爱范儿",
+      "category": "科技",
+      "published": "2026-11-23T08:25:24+08:00",
+      "summary": "· 曝小米汽车欧洲团队再添一名前小鹏高管 · 神舟二十四号完成发射前最后一次全区合练 · AI 服务器供应商被曝在交货前提价，部分订单涨幅达 45%#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。"
+    },
+    {
+      "id": "74f5d6da81c1379c",
+      "title": "派早报：Anthropic 研究员宣称用 Claude 证明黎曼猜想",
+      "url": "https://sspai.com/post/119418",
+      "source": "少数派",
+      "category": "科技",
+      "published": "2026-11-23T07:34:27+08:00",
+      "summary": "Anthropic 研究员宣称用 Claude 证明黎曼猜想OpenAI 公布反蒸馏举措黄仁勋据称将攻击下属作为管理方式GTA 6 首日销售额近 40 亿美元特斯拉升级 FSD，推出实景渲染功能AMD 股票被做空看看就行的简讯少数派的近期动态你可能错过的好文章查看全文"
+    },
+    {
+      "id": "d09984ed6648e222",
+      "title": "【钛晨报】A股利好！交易所打出稳市“组合拳”，事关两融、降费、创业板；积存金价格跌至“7字头”，银行纷纷提示贵金属市场风险；量子计算机“高速内存”全球首次真机实现",
+      "url": "https://www.tmtpost.com/8214014.html",
+      "source": "钛媒体",
+      "category": "创投",
+      "published": "2026-11-23T07:20:00+08:00",
+      "summary": "搜狐张朝阳辟谣“被出具警示函”；天孚通信拟在南昌投建新一代高速光器件研发和生产制造项目；多品牌宣布下调金饰克价；美方拟禁止中国电信运营商直接获取美国互联网电话号码资源，商务部回应；特斯拉在美推出FSDv 15；美国证券交易委员会据悉正对英伟达潜在会计问题展开调查。"
+    },
+    {
+      "id": "533c4f6fa53b9f8d",
+      "title": "iPhone 18 大更新，明年春天见！但苹果的挑战才刚刚开始",
+      "url": "https://www.ifanr.com/1690832?utm_source=rss&utm_medium=rss&utm_campaign=",
+      "source": "爱范儿",
+      "category": "科技",
+      "published": "2026-11-23T06:19:08+08:00",
+      "summary": "更多的新品，也不能消除苹果的 AI 焦虑#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。"
+    },
+    {
+      "id": "8be4efb227771a86",
+      "title": "Anthropic 到 2028 年使用的电力 98% 来自化石燃料",
+      "url": "https://www.solidot.org/story?sid=85959",
+      "source": "Solidot",
+      "category": "科技",
+      "published": "2026-11-22T23:32:03+08:00",
+      "summary": "美国的 AI 数据中心越来越依赖自己的发电设施供电，而这些发电设施基本上绝大多数使用化石燃料。目前规划中的数据中心发电设施装机容量高达 177 GW——足以满足美国 65% 家庭的用电需求。研究人员调查了刚刚上市的 AI 公司 Anthropic 的用电需求。他们发现 Anthropic 未在美国承诺使用任何可再生能源，它近期斥资 34 亿美元承诺采购 1.7 GW 的燃气发电设备。与 Anthropic 签署算力合同的美国数据中心提供商绝大部分将使用化石燃料提供电力。研究人员估计，到 2028 年 Anthropic 约 87% 的电力将来自天然气，11% 来自煤炭。Anthropic 数据"
+    },
+    {
+      "id": "369180c657459d66",
+      "title": "开户热、缴费冷：个人养老金产品缺一套靠谱的独立第三方标尺",
+      "url": "https://www.tmtpost.com/8214170.html",
+      "source": "钛媒体",
+      "category": "创投",
+      "published": "2026-11-22T22:47:29+08:00",
+      "summary": "独立第三方的个人养老金产品评价体系，正是破解这个难题、推动个人养老金市场良性发展的关键一环。"
+    },
+    {
+      "id": "1edf1342fd74be5a",
+      "title": "银行理财五星管理人评级报告 （2026年10月）",
+      "url": "https://www.tmtpost.com/8214167.html",
+      "source": "钛媒体",
+      "category": "创投",
+      "published": "2026-11-22T22:47:16+08:00",
+      "summary": "现金管理类五星理财子为：渝农商理财有限责任公司。本文将详细介绍各类五星理财产品，包括现金管理、固定收益、权益及混合类，帮助您更好地选择适合的投资方案。"
+    },
+    {
+      "id": "bd868b7bc3c2ee50",
+      "title": "价值判断：跌停板的投资机会和风险提示（11月20日）｜上市公司观察",
+      "url": "https://www.tmtpost.com/8214152.html",
+      "source": "钛媒体",
+      "category": "创投",
+      "published": "2026-11-22T22:44:44+08:00",
+      "summary": "本期六只标的分为两端：三只首跌收盘分别相当于定价的四倍四、两倍半与一点九倍，溢价来自尚未兑现的题材预期；三只连跌收在定价的五成八至六成，折价开始显现。"
+    },
+    {
+      "id": "9110ca816a265ca4",
+      "title": "价值判断：涨停板的投资机会和风险提示（11月20日）｜上市公司观察",
+      "url": "https://www.tmtpost.com/8214137.html",
+      "source": "钛媒体",
+      "category": "创投",
+      "published": "2026-11-22T22:12:03+08:00",
+      "summary": "本期五只标的分为两端：三只首板收盘落在定价的五成八与六成二，折价成因各异；两只四连板收在定价的两倍四之上，一只两连板收在定价的一点六倍，溢价集中在算力与半导体材料。"
+    },
+    {
+      "id": "8c292177d000d31f",
+      "title": "从黄仁勋看AI时代的领导力：为什么有些企业能够实现指数级增长？",
+      "url": "https://www.tmtpost.com/8214129.html",
+      "source": "钛媒体",
+      "category": "创投",
+      "published": "2026-11-22T22:09:45+08:00",
+      "summary": "领导者的决策边界仍然比较有限。企业能够走多远，很大程度上取决于领导者本人能够看到多大的范围，以及能不能把个人判断变成组织能力。"
+    },
+    {
+      "id": "ffe74f498ebfe620",
+      "title": "方向盘收起的 10 秒，比亚迪在给下一个十年立标杆",
+      "url": "https://www.tmtpost.com/8214070.html",
+      "source": "钛媒体",
+      "category": "创投",
+      "published": "2026-11-22T20:35:09+08:00",
+      "summary": "定义权比技术本身更稀缺"
+    },
+    {
+      "id": "79f569aafde0377a",
+      "title": "易天股份拟控股艾晨数能，主业承压下新管理层加码储能",
+      "url": "https://www.tmtpost.com/8214063.html",
+      "source": "钛媒体",
+      "category": "创投",
+      "published": "2026-11-22T20:12:40+08:00",
+      "summary": "易天股份加快布局数据中心供电和储能设备。"
+    },
+    {
+      "id": "7ed9eb58c18d638b",
+      "title": "Waymo 无人驾驶出租车因旧金山洪水而陷入困境",
+      "url": "https://www.solidot.org/story?sid=85958",
+      "source": "Solidot",
+      "category": "科技",
+      "published": "2026-11-22T20:01:39+08:00",
+      "summary": "无人驾驶汽车暂时还无法应付洪水淹没道路的情况：今年早些时候 Waymo 的无人驾驶出租车因亚特兰大的洪水而受困；本周旧金山遭遇强降雨，多处街道被淹，这也导致了多辆 Waymo 汽车受困。Golden Gate Park Panhandle 旁的 Oak 街有两条车道被淹，积水从井盖涌出，Waymo 汽车停在了井盖前，堵住了一条可通行的车道，迫使后面的汽车从水更深的车道绕路。一名 Waymo 乘客搭乘出租车从 North Beach 到 Mission Bay，整个行程耗时一个半小时，无人出租车遭遇积水路段先后靠边停车约 10 次。Waymo 随后暂停了当天所有服务。"
+    },
+    {
+      "id": "070e86c092d73270",
+      "title": "中国和印度，在非洲瓷砖市场的第二次交锋",
+      "url": "https://www.tmtpost.com/8213860.html",
+      "source": "钛媒体",
+      "category": "创投",
+      "published": "2026-11-22T19:06:02+08:00",
+      "summary": "中国和印度是全球最大的两个瓷砖生产国。过去十多年，双方在非洲市场频繁交手。印度依靠莫尔比的产业集群和低价出口，一度在非洲瓷砖出口市场超过中国。"
+    },
+    {
+      "id": "5195ddd8fa5bf275",
+      "title": "从快手独立，可灵要回答的问题变了",
+      "url": "https://www.tmtpost.com/8213670.html",
+      "source": "钛媒体",
+      "category": "创投",
+      "published": "2026-11-22T19:05:57+08:00",
+      "summary": "估值超过快手。"
+    },
+    {
+      "id": "901fc926aeb3231f",
+      "title": "地球捕获了一颗迷你月球",
+      "url": "https://www.solidot.org/story?sid=85957",
+      "source": "Solidot",
+      "category": "科技",
+      "published": "2026-11-22T18:31:07+08:00",
+      "summary": "地球引力在今年四月捕获了一颗迷你小行星。这颗直径约 2 米的迷你月球将在地球轨道上一直停留到 12 月初，之后它将摆脱地球引力继续沿着绕太阳的轨道运行。由于其极其微小且暗淡，天文学家花了数周时间才确认它并非报废的人造卫星或卫星碎片。负责跟踪太阳系内小行星、彗星等天体的国际天文学联合会小行星中心在 10 月下旬将其命名为 2026 QQ8。地球其实并不缺乏迷你月球，天文学家曾多次用该名称描述被地球引力捕获的小行星：在地球轨道上停留约一年的 2006 RH120，绕地球运行约三年 2020 CD3。小行星中心主任 Matthew Payne 表示， 平均而言，在任何给定时刻，地球附近很可能存在类似"
+    },
+    {
+      "id": "b05e0b3ce5a339ae",
+      "title": "丰田尼桑本田同意标准化零部件以降低成本",
+      "url": "https://www.solidot.org/story?sid=85956",
+      "source": "Solidot",
+      "category": "科技",
+      "published": "2026-11-22T18:05:07+08:00",
+      "summary": "日本三大汽车制造商丰田、尼桑和本田同意推进零部件标准化以降低制造成本。短期内标准化工作将从三个方面入手：统一钢材的质量标准、规范塑料和树脂的相关技术要求，统一线束的颜色编码方案。未来标准化范围将扩大至整车的更多零部件。选择这三个方面作为首批标准化对象，是因为它们通常不被消费者注意到，不会影响各大品牌的身份认同。而这三个方面在汽车制造商的生产成本中占比较大，采取标准化能带来立竿见影的成本削减效果。日本汽车制造商正面临来自中国汽车制造商日益激烈的竞争。"
+    },
+    {
+      "id": "8dd87557eced11dc",
+      "title": "重控制、轻渲染，达瓦科技的 AI 视频工业路线",
+      "url": "http://www.geekpark.net/news/374303",
+      "source": "极客公园",
+      "category": "AI",
+      "published": "2026-11-22T10:03:57+08:00",
+      "summary": "头图来源：极客公园 今年以来，视频生成模型的进步肉眼可见，AI 短剧、换脸、场景合成在各个平台越来越多，但一个现实问题始终存在：生成一条满意的视频，往往要反复「抽卡」，算力和时间成本都不低；而一旦进入专业影视管线，今天的模型能承担的工业级工作仍然有限。 关于这个问题，行业有两种思路。一种堆参数、扩算力，相信通用大模型终会跨过工业门槛；另一种扎进真实片场，从具体需求自下而上生长。达瓦科技走的是后一条路径。 达瓦科技总部位于重庆永川，团队从 2014 年开始运营科技影视片场，2023 年成立达瓦科技，转向 AI 模型，今年已连续完成 Pre-A 轮、A 轮融资，累计融资约 5 亿元人民币。 他们选"
+    },
+    {
+      "id": "23db7d1b613b0cad",
+      "title": "资本开支猛增 226%，AI 吞噬百亿利润：腾讯的 AI 故事，进入更重的阶段",
+      "url": "http://www.geekpark.net/news/374302",
+      "source": "极客公园",
+      "category": "AI",
+      "published": "2026-11-22T09:58:48+08:00",
+      "summary": "头图来源：腾讯 腾讯的 AI 故事，正在进入一个有些沉重的阶段。 11 月 18 日，腾讯发布 2026 年第三季度财报。本季度营收 2073.4 亿元，同比增长 8%；Non-IFRS 经营利润 681 亿元，同比下降 6%；Non-IFRS 归母净利润 665 亿元，同比下降 6%。 图片来源：腾讯财报 本季度，腾讯资本开支达到 814 亿元，同比增长 527%，单季支出已经超过 2025 年全年；研发投入 323.6 亿元，同比增长 42%。大规模算力采购和预付款之下，自由现金流为负 691 亿元；若剔除算力采购预付款，自由现金流仍有 169 亿元。 单看收入，这依旧是一份稳健的财报。但"
+    },
+    {
+      "id": "a01a58cea4347bee",
+      "title": "关于混元 4 模型、算力、刷榜与 RSI，姚顺雨回应一切",
+      "url": "http://www.geekpark.net/news/374301",
+      "source": "极客公园",
+      "category": "AI",
+      "published": "2026-11-22T09:56:28+08:00",
+      "summary": "头图来源：ChatGPT 生成 11 月 21 日凌晨，腾讯首席 AI 科学家、混元大模型负责人姚顺雨和混元团队的研究员现身 Reddit LocalLLaMA 社区，开启了混元团队史上第一场面向全球开发者的公开 AMA。 图片来源：x 两小时内，姚顺雨和混元团队解答了 300 余条开发者提问，从底层架构取舍到长期路线规划，从量化落地经验到开源生态适配，几乎覆盖了当前开源大模型领域所有核心争议与关切。 过去不到一个月，混元刚刚完成一轮高密度产品发布——11 月 4 日推出的 Hy4 首次跻身全球最强开源模型之列，拿下 Agent Arena 开源模型榜首、Artificial Analysis"
+    },
+    {
+      "id": "97d3e9ac677fbd86",
+      "title": "Claude 的黎曼猜想证明获 Lean 官方认证，马斯克直呼惊人成就",
+      "url": "https://www.ifanr.com/1690820?utm_source=rss&utm_medium=rss&utm_campaign=",
+      "source": "爱范儿",
+      "category": "科技",
+      "published": "2026-11-22T09:35:14+08:00",
+      "summary": "AI 恐怖如斯#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。"
+    },
+    {
+      "id": "53d22bbd71ab11fa",
+      "title": "伟大的 GTA 6，「不好玩」的 GTA 6",
+      "url": "https://www.ifanr.com/1690801?utm_source=rss&utm_medium=rss&utm_campaign=",
+      "source": "爱范儿",
+      "category": "科技",
+      "published": "2026-11-22T09:34:09+08:00",
+      "summary": "我都遵纪守法了，还能叫 GTA 吗？#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。"
+    },
+    {
+      "id": "4f8b996126a594cb",
+      "title": "从深圳到上海，少数派的共创故事还在继续",
+      "url": "https://sspai.com/post/119318",
+      "source": "少数派",
+      "category": "科技",
+      "published": "2026-11-22T09:05:44+08:00",
+      "summary": "11月20日，2026虹桥国际科技周在上海举行。作为聚焦科技创新、产业协作与未来趋势的交流平台，本届科技周汇聚了来自不同领域的创新者、创业者与行业观察者。少数派也在现场带来了主题论坛分享，与参与者一起 ...查看全文"
+    },
+    {
+      "id": "e665a914df467e5d",
+      "title": "黄仁勋遭董事会罢免主要原因曝光；《GTA6》首发收入 37.9 亿美元，超《复联 4》总票房；马斯克收到上海工厂员工特制边角料手办",
+      "url": "http://www.geekpark.net/news/374300",
+      "source": "极客公园",
+      "category": "AI",
+      "published": "2026-11-22T09:05:22+08:00",
+      "summary": "《GTA6》首发收入达 37.9 亿美元，超越《复仇者联盟 4》总票房 Take-Two Interactive 表示，《侠盗猎车手 6》（GTA6）的预购加上首发当日销售额达到 37.9 亿美元，这不仅创下电子游戏史上最高首发收入纪录，也大概率是娱乐史上所有创意作品中规模最大的首发。这场现象级首发展现了游戏 IP 在商业、文化以及好莱坞层面的巨大价值。 GTA6 的首发收入已经超过影史票房冠军《复仇者联盟 4：终局之战》的全球总票房 29 亿美元。 本次首发热度极高，甚至在周四改变了全球互联网流量走向。 互联网交换中心运营商 DE-CIX 称，该游戏上线催生全球数据流量新纪录。GTA6 上线"
+    },
     {
       "id": "3e6c400ff36f1565",
       "title": "地球 28 光年外发现一个三星系统",
@@ -7668,312 +7884,168 @@
       "published": "2026-10-24T10:07:19+08:00",
       "summary": "大而美的 Kimi 回来了#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
       "id": "9c63aa2262ab5656"
-    },
-    {
-      "title": "iPhone Duo正式交付；Kimi K3.1 Pro 、Seedance 2.5 4K正式发布；红果短剧上线防沉迷｜极客早知道",
-      "url": "http://www.geekpark.net/news/372858",
-      "source": "极客公园",
-      "category": "AI",
-      "published": "2026-10-24T08:34:27+08:00",
-      "summary": "苹果首款折叠屏手机 iPhone Duo 正式交付用户 部分订单预计明年 1 月才能送达 苹果首款折叠屏手机 iPhone Duo 于 2026 年 10 月 23 日正式进入上市交付阶段，首批预购用户开始收到新机，苹果零售店也迎来首发日消费者。由于预购需求强劲，加上生产供应受到限制，上市初期的现货数量相当有限，部分消费者即使在首发日下单，也可能需要等待数月才能拿到设备。 苹果此前表示，iPhon",
-      "id": "2d8383e0386636ea"
-    },
-    {
-      "title": "早报｜微信初步适配iPhone Duo，仍不能平板登录/全球PC出货下降21%/何刚出任华为董事",
-      "url": "https://www.ifanr.com/1685660?utm_source=rss&utm_medium=rss&utm_campaign=",
-      "source": "爱范儿",
-      "category": "科技",
-      "published": "2026-10-24T08:26:49+08:00",
-      "summary": "· 黄仁勋：对长鑫合作持开放态度，不认为 2029 年内存会过剩 · 沃尔沃汽车拟全球裁减约 2500 个岗位 · 华为 Pura90 Plus 开启预订#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
-      "id": "4161f816cd87cbea"
-    },
-    {
-      "title": "梵高名画《The Starry Night》可能描绘的是真实的夜空",
-      "url": "https://www.solidot.org/story?sid=85697",
-      "source": "Solidot",
-      "category": "科技",
-      "published": "2026-10-23T20:01:50+08:00",
-      "summary": "梵高于 1889 年创作的名画《The Starry Night》可能描绘的是 1889 年 7 月 22 日法国真实的夜空。《The Starry Night》被普遍认为风格化地呈现了梵高在法国普罗旺斯圣雷米的窗外看到的景象。争议在于这片夜空究竟是这位后印象派画家自己的幻想，即象征性表达，还是真实的天文观察结果。此外这幅画的具体创作日期也无法确定。为解决这一问题，韩国庆熙大学的研究人员开发了一个",
-      "id": "c93a8a2fb2094694"
-    },
-    {
-      "title": "希腊通过法案禁止 15 岁以下儿童使用社媒",
-      "url": "https://www.solidot.org/story?sid=85696",
-      "source": "Solidot",
-      "category": "科技",
-      "published": "2026-10-23T19:07:11+08:00",
-      "summary": "希腊议会周五通过了一项法案，禁止 15 岁以下的儿童使用社媒平台。此举旨在回应公众对社交媒体会对未成年人的健康与安全产生负面影响之日益增长的担忧。禁令将于 2027 年 1 月 1 日生效。澳大利亚是首个通过立法限制未成年人使用社媒的国家。法国也曾通过类似法律，但于 8 月被宪法委员会裁定无效。希腊总理基 Kyriakos Mitsotakis 表示，社媒平台有 2 个半月的时间制定方案，核实用户",
-      "id": "95026f5b61dca379"
-    },
-    {
-      "title": "本周看什么 | 最近值得一看的 12 部作品",
-      "url": "https://sspai.com/post/117169",
-      "source": "少数派",
-      "category": "科技",
-      "published": "2026-10-23T18:09:01+08:00",
-      "summary": "📅本周新预告《指环王：力量之戒第三季》正式预告10月22日，剧集《指环王：力量之戒第三季》发布了正式预告，将于11月11日上线PrimeVideo。故事发生在第二季事件的数年之后，正值精灵与索伦之战的 ...查看全文",
-      "id": "af7794e4540d71fd"
-    },
-    {
-      "title": "宫本茂成为首位获得日本文化勋章的游戏从业者",
-      "url": "https://www.solidot.org/story?sid=85695",
-      "source": "Solidot",
-      "category": "科技",
-      "published": "2026-10-23T18:03:59+08:00",
-      "summary": "日本文部科学省公布了 2026 年度文化勋章获得者名单，任天堂首席游戏设计师及代表董事宫本茂位列其中， 成为首位获得文化勋章的游戏从业者。文化勋章旨在表彰在文化发展方面做出特别显著贡献的人士，自 1937 年设立以来，获得者包括了画家横山大观、诺贝尔物理学奖得主汤川秀树、棒球明星王贞治和长岛茂雄等。宫本茂在记者会上表示：“游戏并非由我一人独自完成，而是与众多伙伴共同创造的成果。我是怀着代表大家的心",
-      "id": "e703217b23c87cec"
-    },
-    {
-      "title": "实测 iPhone Duo 微信适配版：适配好了吗，体验怎么样？",
-      "url": "https://www.ifanr.com/1685575?utm_source=rss&utm_medium=rss&utm_campaign=",
-      "source": "爱范儿",
-      "category": "科技",
-      "published": "2026-10-23T17:52:47+08:00",
-      "summary": "微信终于适配 iPhone Duo ！#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
-      "id": "3396a883386b0e7f"
-    },
-    {
-      "title": "联合国警告厄尔尼诺可能导致数千万人粮食短缺",
-      "url": "https://www.solidot.org/story?sid=85694",
-      "source": "Solidot",
-      "category": "科技",
-      "published": "2026-10-23T17:32:18+08:00",
-      "summary": "今年的厄尔尼诺事件强度可能前所未有。它将于 2026 年底前后达到峰值，但其影响在此之后仍将持续很长时间。热带太平洋（厄尔尼诺的中心区域）的海面温度在 2026 年 11 月至 2027 年 1 月期间可能比平均值高出 3.8°C。 一次非常强的厄尔尼诺会扰乱许多地区的正常温度和降水格局。它可能给一些地区带来严重干旱，给另一些地区带来强降雨和洪水，并导致世界大片地区温度升高。极端天气事件可能会成倍",
-      "id": "c565e40c7bbb2684"
-    },
-    {
-      "title": "mRNA 癌症疫苗将死亡复发风险减少 42%",
-      "url": "https://www.solidot.org/story?sid=85693",
-      "source": "Solidot",
-      "category": "科技",
-      "published": "2026-10-23T16:48:00+08:00",
-      "summary": "制药公司 Merck 和 Moderna 宣布，在 III 期黑色素瘤临床试验中，基于 mRNA 技术的个性化癌症疫苗相比标准治疗，将死亡或复发风险减少 42%。黑色素瘤是最致命的皮肤癌。两家公司正与监管机构接洽争取该疫苗早日获批。有 1,137 名患者参加了 III 期临床试验，他们此前均患有 IIB-IV 期黑色素瘤，已通过手术切除肿瘤。患者被以 2:1 的比例随机分配至两组：一组接受个性化 ",
-      "id": "54c4d8a6ba05d5fb"
-    },
-    {
-      "title": "TDS REVIEW｜OPPO Enco X4 降噪真无线耳机体验",
-      "url": "https://sspai.com/post/116398",
-      "source": "少数派",
-      "category": "科技",
-      "published": "2026-10-23T15:00:00+08:00",
-      "summary": "放在欧加体系里，Enco X4 显然是值得买的：它在千元档有着第一档的降噪综合能力且没有明显短板，有着手机厂产品里不错的素质和相对饱满、流行化但不过分两头翘的调音，同时操作和细节体验没有明显问题……查看全文",
-      "id": "351de97323841931"
-    },
-    {
-      "title": "中国 AI 硬件的下一个爆款，可能生在「网球场」",
-      "url": "http://www.geekpark.net/news/372807",
-      "source": "极客公园",
-      "category": "AI",
-      "published": "2026-10-23T14:15:58+08:00",
-      "summary": "头图来源：Hirdwire2024 年巴黎奥运会，郑钦文在罗兰·加洛斯捧起金牌的那个下午，中国的网球场预订量在一周内翻了数倍。两年后，最先把这股热潮变成生意的，是一群造机器的深圳工程师。过去一年，至少四款中国团队打造的 AI 球类机器人在 Kickstarter 上筹得百万美元级资金。庞伯特以 26255% 的超募率卷走 265 万美元；智能家居大厂 SwitchBot 推出的 Acemate 3",
-      "id": "e1e47db51be57bf5"
-    },
-    {
-      "title": "硅谷爆火的两万块智能床，是智商税吗？我睡了 100 天",
-      "url": "http://www.geekpark.net/news/372805",
-      "source": "极客公园",
-      "category": "AI",
-      "published": "2026-10-23T14:10:37+08:00",
-      "summary": "两万元，一个床套。 这可能是极客公园史上体验过单价最高的消费级产品之一。 我终于也睡上了马斯克、扎克伯格同款的床。Eight Sleep，这个曾被一众硅谷大佬点赞过的品牌，在今年 4 月正式进入中国市场。短短半年时间里，Pod 5 在国内 INNO 100 平台上卖出了 600 万元，随后它又迅速推出新一代产品 Pod 6，参数升级，还补上了单人尺寸。 很多中国家庭的卧室里，床垫往往是最舍得花钱的",
-      "id": "664741f371b67979"
-    },
-    {
-      "title": "造物 100 #10｜百万众筹的和弦合成器、52kHz 超声波去污笔、能打电话的奥特曼 AI 玩具",
-      "url": "http://www.geekpark.net/news/372803",
-      "source": "极客公园",
-      "category": "AI",
-      "published": "2026-10-23T14:03:13+08:00",
-      "summary": "这周苹果发了新一代 HomePod mini，149 美元，10 月 30 日开卖，真正的新 Siri 要等之后的软件更新才到。科技巨头正抢着在假日季前，把 AI 小设备摆上货架。 大公司的打法很统一，先造一个入口，再把 AI 慢慢塞进去。但这周名单里的产品，走的是另一条路。NOPIA 把乐理做了只有一个八度的键盘，按一个键出一整个和弦。InstaSpot 把超声波清洗机缩成一支 65 克的笔。N",
-      "id": "2b5ddd82c9b92322"
-    },
-    {
-      "title": "今年双 11，天猫想卖的不只是货，还有 Token",
-      "url": "http://www.geekpark.net/news/372801",
-      "source": "极客公园",
-      "category": "AI",
-      "published": "2026-10-23T13:56:53+08:00",
-      "summary": "「很多人赚不到认知以外的钱。那消费者呢？我认为，买不到他认知以外的商品。」10 月 15 日下午，上海世博中心，2026 天猫双 11 发布会。天猫总裁家洛开场没多久，就抛出了这句话。 消费者的需求远比这些品类多，只是大部分还处在「沉睡」状态。过去的搜索解决不了这个问题。用户主动搜关键词、平台做精准匹配，在他看来，「更像一个统计学的概念」，搜的人越多、描述越准，匹配就越高效，「但这依然是存量和认知",
-      "id": "898fd75b81f1c058"
-    },
-    {
-      "title": "破与立：设计视角下的 iPhone Duo",
-      "url": "https://sspai.com/post/116979",
-      "source": "少数派",
-      "category": "科技",
-      "published": "2026-10-23T11:07:19+08:00",
-      "summary": "Matrix首页推荐Matrix是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选Matrix最优质的文章，展示来自用户的最真实的体验和观点。文章代表作者个人观点 ...查看全文",
-      "id": "4d7be9fa85896214"
-    },
-    {
-      "title": "DeepSeek 据悉完成 1000 亿元新一轮融资；特斯拉三季度利润大跌 43%；微信称已完成适配 iPhone Duo | 极客早知道",
-      "url": "http://www.geekpark.net/news/372767",
-      "source": "极客公园",
-      "category": "AI",
-      "published": "2026-10-23T08:49:03+08:00",
-      "summary": "DeepSeek 新一轮融资筹得约 1000 亿 10 月 22 日，有市场消息称，国内大模型公司 DeepSeek 拟在最新一轮融资中筹得约 1000 亿元人民币 ( 约 150 亿美元 )，腾讯和宁德时代为本轮出资最多的投资方，交易预计在未来数日内正式完成。 截至目前，DeepSeek 及腾讯等相关投资方均未公开回应。记者从接近公司和投资方的多个信源交叉求证，确认上述消息属实。 消息人士透露，",
-      "id": "a4acc2ecff01396e"
     }
   ],
   "hot": [
     {
-      "id": "49e94aac2cba67ec",
-      "title": "Pill to treat pancreatic cancer hailed as 'biggest breakthrough in decades'",
-      "url": "https://www.theguardian.com/society/2026/nov/20/pill-pancreatic-cancer-breakthrough-daraxonrasib",
-      "score": 535,
-      "by": "rafaelc",
-      "comments": 133
+      "id": "8e270da383a87de2",
+      "title": "Progress map for the Lean formalization of Alessandro Masullo's manuscript",
+      "url": "https://claude.ai/artifact/CtQyX8qfYAF822bgHJHHE3",
+      "score": 104,
+      "by": "Qision",
+      "comments": 60
     },
     {
-      "id": "cb64da89eacdf3ef",
-      "title": "Lean verification of the Riemann Hypothesis",
-      "url": "https://leanprover-community.github.io/blog/posts/riemann-hypothesis/",
-      "score": 797,
-      "by": "g-b-r",
-      "comments": 638
+      "id": "bee5667dd7b557a8",
+      "title": "Nespresso's project to reduce grams of coffee per capsule",
+      "url": "https://alvinbunk.wordpress.com/2026/11/01/nespresso-project-olympus/",
+      "score": 45,
+      "by": "bobbiechen",
+      "comments": 39
     },
     {
-      "id": "0c5f481bac69537a",
-      "title": "Inkling-2-Mini in 5.4 GB Memory",
-      "url": "https://github.com/ShinMegamiBoson/lookatmyquant",
-      "score": 334,
-      "by": "k__",
-      "comments": 90
+      "id": "fd9a8d946c3d842a",
+      "title": "A Beginner's Guide to Local AI with Inkling, Qwen, and Unsloth",
+      "url": "https://www.gpupartner.com/blog/beginners-guide-local-ai-inkling-qwen-unsloth",
+      "score": 166,
+      "by": "Retell15",
+      "comments": 59
     },
     {
-      "id": "44f3dc14d4dd5512",
-      "title": "Brazil's tax authority open-sources its tax calculator on GitHub under MIT",
-      "url": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2026/novembro/receita-federal-publica-primeiro-codigo-fonte-aberto-no-github-e-amplia-transparencia-da-reforma-tributaria",
-      "score": 726,
-      "by": "dvaplima",
-      "comments": 231
+      "id": "a832734a6d7a0f9a",
+      "title": "The Birds of GTA 6: A Field Guide to Vice City and Leonida's Wildlife",
+      "url": "https://www.audubon.org/magazine/birds-of-gta-6-field-guide-vice-city-wildlife",
+      "score": 323,
+      "by": "gaws",
+      "comments": 145
     },
     {
-      "id": "c98d9df503d791e2",
-      "title": "Detonating a pile of lead azide",
-      "url": "https://www.science.org/content/blog-post/detonating-huge-pile-lead-azide-really",
-      "score": 505,
-      "by": "beginning_end",
-      "comments": 333
+      "id": "b92120a69abdedd3",
+      "title": "Cathedral floor emerges in Sudan, revealing one of the biggest medieval churches",
+      "url": "https://apnews.com/article/sudan-antiquities-nubia-cathedral-1b16f67da881ee5592de4481ee55c527",
+      "score": 77,
+      "by": "graemep",
+      "comments": 2
     },
     {
-      "id": "82ef3d1c8dadff0c",
-      "title": "PcapAnalyzer – self-hosted pcap analyzer with 27 problem detectors",
-      "url": "https://github.com/sebaandrada-cell/PcapAnalyzer",
-      "score": 39,
-      "by": "sebaandrada",
-      "comments": 3
+      "id": "d75bef72b615a4e0",
+      "title": "GL.iNet Security Notice 2026-11-20",
+      "url": "https://www.gl-inet.com/en-us/blogs/blog/glinet-security-notice-2026-11-20",
+      "score": 50,
+      "by": "gregsadetsky",
+      "comments": 21
     },
     {
-      "id": "62468cc38299722a",
-      "title": "Getting the mind to steer the body to steer you",
-      "url": "https://notnottalmud.substack.com/p/getting-the-mind-to-steer-the-body",
-      "score": 136,
-      "by": "jger15",
-      "comments": 49
+      "id": "bb5e5b54af6d6768",
+      "title": "The Usefulness of Useless Knowledge [pdf] (1939)",
+      "url": "https://www.ias.edu/sites/default/files/library/UsefulnessHarpers.pdf",
+      "score": 49,
+      "by": "hectormauer",
+      "comments": 9
     },
     {
-      "id": "3941d3eb95e8dbff",
-      "title": "Hurried Announcement: Alessandro Masullo GRH",
-      "url": "https://math216.wordpress.com/2026/11/20/hurried-announcement-alessandro-masullo-grh/",
-      "score": 2386,
-      "by": "jasondavies",
-      "comments": 1156
+      "id": "807507be9a8e506f",
+      "title": "A miniature San Francisco with live buses, planes and boats",
+      "url": "https://smallsf.com/",
+      "score": 117,
+      "by": "dutilh",
+      "comments": 50
     },
     {
-      "id": "58a2e2bc199e99cf",
-      "title": "My monitor was cutting my download speed by 75%",
-      "url": "https://blog.tymscar.com/posts/studiodisplayethernet/",
-      "score": 464,
-      "by": "soheilpro",
-      "comments": 224
+      "id": "28364cf7829c79db",
+      "title": "FBI is having a mass hire for IT specialists",
+      "url": "https://apply.fbijobs.gov/psc/ps/EMPLOYEE/HRMS/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL.GBL?Action=U&FOCUS=Applicant&JobOpeningId=68871&Page=HRS_APP_JBPST_FL&PostingSeq=1&SiteId=1&",
+      "score": 18,
+      "by": "illidan1000",
+      "comments": 18
     },
     {
-      "id": "12a65507a8fad6ee",
-      "title": "PostgreSQL Extensions in Go",
-      "url": "https://jespino.github.io/gopgext/",
-      "score": 115,
-      "by": "valyala",
-      "comments": 20
+      "id": "e63f1128d742ef60",
+      "title": "Nyx, the Oldest Internet Service Provider",
+      "url": "https://nyx.net/",
+      "score": 87,
+      "by": "o_-_o",
+      "comments": 8
     },
     {
-      "id": "9afadef65cf93f66",
-      "title": "The Emergence of Inequality in the Czech Corded Ware Culture",
-      "url": "https://www.jna.uni-kiel.de/index.php/jna/article/view/1560/1746",
-      "score": 20,
-      "by": "marojejian",
-      "comments": 11
+      "id": "1f838b72d923b68e",
+      "title": "The struggle for freedom: How BSD escaped AT&T licensing",
+      "url": "https://fosscomics.com/posts/16.%20BSD%20Unix%20Part%206%20-%20The%20Struggle%20for%20Freedom/",
+      "score": 33,
+      "by": "joonehur",
+      "comments": 9
     },
     {
-      "id": "5bf090660b8286d8",
-      "title": "Advice for the next 100 Rust GUIs",
-      "url": "https://linebender.org/blog/next-100-guis/",
-      "score": 59,
-      "by": "raphlinus",
-      "comments": 5
+      "id": "741111af60a878b1",
+      "title": "Perplexity and Intelligence",
+      "url": "https://openai.com/index/perplexity-and-intelligence/",
+      "score": 461,
+      "by": "acossta",
+      "comments": 318
     },
     {
-      "id": "98817642de32aec8",
-      "title": "Tasklet (YC P26) Is Hiring Product and Agent Infra Engineers",
-      "url": "https://tasklet.ai/careers",
-      "score": 1,
-      "by": "mayop100",
-      "comments": 0
+      "id": "539fc67730462d42",
+      "title": "What Happened to Silicon Valley?",
+      "url": "https://www.oreilly.com/radar/what-happened-to-silicon-valley/",
+      "score": 374,
+      "by": "greenyouse",
+      "comments": 213
     },
     {
-      "id": "341531296f24776d",
-      "title": "Pandex – Official European Law for AI Agents, over MCP",
-      "url": "https://www.pandex.io",
-      "score": 19,
-      "by": "vasie",
-      "comments": 4
+      "id": "676f3f9a20a2433f",
+      "title": "Show HN: I built a game where you are an LLM's subagent",
+      "url": "https://github.com/gulivan/worker755",
+      "score": 265,
+      "by": "ivantgam",
+      "comments": 60
     },
     {
-      "id": "2c61141e7857d66f",
-      "title": "Windows has two settings that bring work back after restart, both off by default",
-      "url": "https://www.makeuseof.com/windows-can-bring-your-work-back-after-restart/",
-      "score": 27,
-      "by": "surprisetalk",
+      "id": "361b80193459cb3b",
+      "title": "Assume People Are Not Interested in Your Blog Post",
+      "url": "https://danielsada.tech/blog/assume-people-are-not-interested-in-your-blog-post/",
+      "score": 43,
+      "by": "dshacker",
       "comments": 24
     },
     {
-      "id": "928064f4bd278b9a",
-      "title": "Upload2Shell (CVE-2026-125396)",
-      "url": "https://pwn.ai/upload2shell",
-      "score": 71,
-      "by": "f311a",
-      "comments": 29
+      "id": "e1e4b8c46c47e803",
+      "title": "Advice for Young Researchers",
+      "url": "http://togelius.blogspot.com/2026/11/advice-for-young-researchers.html",
+      "score": 45,
+      "by": "tcumulus",
+      "comments": 16
     },
     {
-      "id": "1f92975ce2ad391a",
-      "title": "Inkling 2 Mini",
-      "url": "https://thinkingmachines.ai/news/inkling-2-mini/",
-      "score": 1376,
-      "by": "jasondavies",
-      "comments": 280
+      "id": "6741c2425420eaf4",
+      "title": "Agent swarm trying to solve P vs. NP",
+      "url": "https://pequalnp.com/",
+      "score": 86,
+      "by": "bananaflag",
+      "comments": 74
     },
     {
-      "id": "4c6ddf8adacbc791",
-      "title": "Tropical Rainforests Species may be surprisingly young",
-      "url": "https://phys.org/news/2026-11-species-tropical-rainforests-young-emergence.html",
-      "score": 38,
-      "by": "PaulHoule",
-      "comments": 17
+      "id": "27ae2a4de2e93e76",
+      "title": "Will the first approved psychedelic become a blockbuster?",
+      "url": "https://www.pharmavoice.com/news/race-first-psilocybin-blockbuster-compass-usona/875270/",
+      "score": 20,
+      "by": "randycupertino",
+      "comments": 15
     },
     {
-      "id": "d633f0128c0e27cd",
-      "title": "Show HN: Zero C# – C# without a runtime or GC",
-      "url": "https://onurgumus.github.io/zero-csharp/index.html",
-      "score": 123,
-      "by": "reverseblade2",
-      "comments": 95
+      "id": "b9b0f846666f739f",
+      "title": "I joined the NTP Pool, but not with my Stratum 1 Pi",
+      "url": "https://www.jeffgeerling.com/blog/2026/i-joined-the-ntp-pool/",
+      "score": 124,
+      "by": "fortran77",
+      "comments": 33
     },
     {
-      "id": "d74067169d23c661",
-      "title": "Bolt's Scooters Are Becoming Accessibility Sensors",
-      "url": "https://geoawesome.com/bolt-scooters-accessibility-mapping-wheels4wheels/",
-      "score": 23,
-      "by": "chippy",
-      "comments": 26
+      "id": "9bf789ee77959569",
+      "title": "Open Social Web Alliance",
+      "url": "https://osw-alliance.net/en/",
+      "score": 216,
+      "by": "doener",
+      "comments": 210
     }
   ],
   "sources_ok": [
@@ -7987,5 +8059,5 @@
     "36氪",
     "虎嗅:ReadTimeout"
   ],
-  "total": 868
+  "total": 876
 }
