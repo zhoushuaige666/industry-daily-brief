@@ -1,6 +1,348 @@
 {
-  "generated_at": "2026-11-23T08:43:20.785275+08:00",
+  "generated_at": "2026-11-24T08:47:00.075323+08:00",
   "items": [
+    {
+      "id": "c74c483c5d7192cc",
+      "title": "黄仁勋重返英伟达，市值涨31.48%；马斯克：AI 研发落后对手，出租算力比自研更赚钱；新一代 AI 模型更爱「爆粗口」",
+      "url": "http://www.geekpark.net/news/374375",
+      "source": "极客公园",
+      "category": "AI",
+      "published": "2026-11-24T08:28:30+08:00",
+      "summary": "黄仁勋重返英伟达 黄仁勋在美国当地时间 11 月 23 日重返英伟达总部，现场员工聚集在大厅高声欢呼，迎接这位创办人回归。黄仁勋在现场表示：「感谢大家给我第二次机会，接下来我一定会成为更优秀的 CEO」。 「我很荣幸能重返英伟达，并在新一轮工业革命伊始领导这家全球最具影响力的科技公司之一，」黄仁勋表示。 「我将以最大的谦逊和焕然一新的承诺肩负起这一重任。我要感谢英伟达董事会在此过程中给予的信任与审慎考量。我尤其感谢哈维 · 琼斯（Harvey Jones）作为董事长所展现的领导力，也感谢科莱特 · 克雷斯（Colette Kress）以及我们的高管团队在此期间对英伟达的领导。同时，我深切感谢我"
+    },
+    {
+      "id": "8b530c02a60fdc65",
+      "title": "早报｜黄仁勋回归，英伟达股价一夜暴涨31%/《复仇者联盟5》发布终极预告/3399起，荣耀700系列发布",
+      "url": "https://www.ifanr.com/1691119?utm_source=rss&utm_medium=rss&utm_campaign=",
+      "source": "爱范儿",
+      "category": "科技",
+      "published": "2026-11-24T08:02:01+08:00",
+      "summary": "· 蚂蚁阿福上线视频咨询，同时推出福环和福戒 · 韩国国家资格考试恢复统一收手机，考生还穿上了围裙 · 知乎参投基金间接入股 DeepSeek#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。"
+    },
+    {
+      "id": "33c16197ca4f8acb",
+      "title": "【钛晨报】英伟达董事会一致同意恢复黄仁勋CEO职务；荣耀CEO李健：荣耀阔折叠明年3月发布｜独家；中汽协：1-10月，销量排名前十位的MPV生产企业共销售64.8万辆",
+      "url": "https://www.tmtpost.com/8215026.html",
+      "source": "钛媒体",
+      "category": "创投",
+      "published": "2026-11-24T07:20:00+08:00",
+      "summary": "蚂蚁阿福App新版发布，蚂蚁阿福医生版上线“循证金标准”UpToDate；亚马逊将支付75亿美元获取人工智能初创公司Decart的技术；微软AI首席执行官苏莱曼：支持OpenAI提高透明度的倡议；四部门：鼓励发展适合养老场景的人工智能体、服务机器人、智能穿戴设备、外骨骼等新产品；人社部：非法骗取社保基金支出或者社保待遇，拟处骗取金额2倍以上5倍以下的罚款；市场监管总局发布《婴幼儿辅助食品生产许可审查细则（2026版）》；“固态锂电池标准项目组”将成立，正式编制《固态锂离子电池和电池组安全技术规范》；中国牵头的摩托车及轻便摩托车信息与服务国际标准正式立项；监管明确两融调整要求，违约处置要稳妥审慎"
+    },
+    {
+      "id": "4e342420358ebcf7",
+      "title": "字节，该造手机了",
+      "url": "http://www.geekpark.net/news/374374",
+      "source": "极客公园",
+      "category": "AI",
+      "published": "2026-11-23T23:47:18+08:00",
+      "summary": "11 月 19 日，财联社援引供应链人士的消息称，富士康旗下的富智康已经拿到 OpenAI 手机的组装订单，首款产品有望在 2027 年底或 2028 年面市。OpenAI 至今没有确认自己在做手机，但从今年 4 月起，围绕这台手机的供应链消息就没有断过。 而在中国，一家 AI 公司的手机其实已经卖到了第二代，这就是豆包手机。只不过在这台手机上，让助手帮你叫一辆车已经不算难事，但想让它接着给朋友回一条「我上车了」的微信，目前还做不到。 按曹操出行公布的用法，看到想去的地方，按一下手机侧面的 AI 键，豆包就能认出屏幕上的地址，路线和车型也都可以在对话里选。但等你上了车，它却没办法替你在微信里点"
+    },
+    {
+      "id": "ec67a59de51a1555",
+      "title": "CachyOS 支持 Easy Anti-Cheat v2",
+      "url": "https://www.solidot.org/story?sid=85971",
+      "source": "Solidot",
+      "category": "科技",
+      "published": "2026-11-23T23:37:55+08:00",
+      "summary": "基于 Arch Linux、专注于高性能优化的发行版 CachyOS 释出了最新版本 CachyOS November 2026，主要变化是为需要运行反作弊工具的 Linux 多人游戏提供了 Easy Anti-Cheat v2 支持。其它变化包括：用于回滚受损系统的新恢复环境 cachyos-recovery；引入新 UI 的 CachyOS Package Installer v2；取代 KMS 和 nvidia-module-loader 的 cachyos-drm-awaiter，确保在显示管理器启动前已完成加载 GPU 驱动；等等。"
+    },
+    {
+      "id": "23e31b5322acc20c",
+      "title": "越来越多的年轻远足者因过于依赖 Google Maps 迷路或遇险",
+      "url": "https://www.solidot.org/story?sid=85970",
+      "source": "Solidot",
+      "category": "科技",
+      "published": "2026-11-23T22:50:17+08:00",
+      "summary": "救援人员表示，越来越多的年轻远足者因过于依赖 Google Maps 导航而迷路或遇险。救援组织 Wasdale Mountain Rescue Team 在一次救援行动后指出，Google Maps 并非为山区设计的，与纸质地图不同，地图应用无法显示陡峭的突出岩石、山间小径以及能呈现地形三维形态的等高线。救援队一直建议人们使用纸质地图，Google 也这么建议。登山与攀岩教练 Pippa Archer 表示理解使用手机上免费且触手可及的工具所带来的便利，但购买纸质地图和指南针也花不了多少钱。她强调纸质地图上的详细信息对于保障安全至关重要，“它能让你预知行进路线上的地形情况，这是避免迷路的关键"
+    },
+    {
+      "id": "f0db141e655919ca",
+      "title": "刚刚，黄仁勋重返英伟达！董事会全票通过，盘前大涨 30%",
+      "url": "https://www.ifanr.com/1691103?utm_source=rss&utm_medium=rss&utm_campaign=",
+      "source": "爱范儿",
+      "category": "科技",
+      "published": "2026-11-23T22:50:12+08:00",
+      "summary": "皮衣战神回宫#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。"
+    },
+    {
+      "id": "91521d53723f4876",
+      "title": "英伟达重新任命黄仁勋为 CEO",
+      "url": "https://www.solidot.org/story?sid=85969",
+      "source": "Solidot",
+      "category": "科技",
+      "published": "2026-11-23T22:30:59+08:00",
+      "summary": "仅仅过了 10 天，英伟达宣布重新任命黄仁勋为总裁兼 CEO，重返董事会。董事会主席 Harvey C. Jones 在声明中称，董事会认为黄仁勋是领导英伟达的合适人选，他的复职符合股东、员工、合作伙伴和客户的最大利益。我们对黄仁勋充满信心，期待在他重掌公司领导权后与他携手共事。我们还要感谢 Colette Kress，她在担任临时 CEO 期间表现出色，她也将继续履行其作为英伟达首席财务官的职责。Jones 也将继续担任董事会主席。"
+    },
+    {
+      "id": "89bcc345a36c1206",
+      "title": "突发！黄仁勋恢复英伟达 CEO 职位，董事会全票通过",
+      "url": "https://www.ifanr.com/1691096?utm_source=rss&utm_medium=rss&utm_campaign=",
+      "source": "爱范儿",
+      "category": "科技",
+      "published": "2026-11-23T22:30:00+08:00",
+      "summary": "黄仁勋回来了#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。"
+    },
+    {
+      "id": "e75a87b1c5796f9c",
+      "title": "GrapheneOS 指责 Google 恐吓其合作伙伴",
+      "url": "https://www.solidot.org/story?sid=85968",
+      "source": "Solidot",
+      "category": "科技",
+      "published": "2026-11-23T21:58:15+08:00",
+      "summary": "Android 安全加固发行版项目 GrapheneOS 指责 Google 恐吓其合作伙伴。摩托罗拉最近与 GrapheneOS 合作推出了首款支持 GrapheneOS 的高端智能手机 Signature 27。GrapheneOS 通过其社交媒体账号指责 Google 向 Android 手机厂商施压，手机厂商因与其合作而受到质询，甚至还遭到了撤销 Google 应用授权的威胁。GrapheneOS 认为 Google 正针对其采取阻挠行动，且打压态势可能会进一步升级。GrapheneOS 认为，Google 的部分行为已触犯美国刑法，其违反反垄断的行为可能导致相关个人面临入狱。该项目希"
+    },
+    {
+      "id": "259ff6f75ed5952a",
+      "title": "GLP-1 减肥药或能对环境产生显著影响",
+      "url": "https://www.solidot.org/story?sid=85967",
+      "source": "Solidot",
+      "category": "科技",
+      "published": "2026-11-23T20:48:26+08:00",
+      "summary": "GLP-1 减肥药如 Ozempic 和 Wegovy 会抑制服用者的食欲，如果这种药物能普及，那么抑制食欲减少粮食会带来巨大的环境影响。研究人员估计，如果肥胖成年人广泛服用 GLP-1，预计到 2050 年热量摄入的减少每年可预防多达 660 万例死亡，同时释放多达 3200 万公顷的农业用地。如果热量摄入减少的同时转向健康饮食结构，那么到 2050 年每年可避免多达 700 万例死亡，同时释放约 4600 万公顷的农业用地。全球各地的粮食系统是相互关联的。世界部分地区的粮食需求下降，会波及其他地区的农业、贸易和食品价格，从而影响到未服用 GLP-1 药物的人群。"
+    },
+    {
+      "id": "33b1751d798b7344",
+      "title": "Alo中国首批线下体验店开业，想踩着Lululemon的流量上位",
+      "url": "https://www.tmtpost.com/8214477.html",
+      "source": "钛媒体",
+      "category": "创投",
+      "published": "2026-11-23T18:36:15+08:00",
+      "summary": "卖万元手袋、贴奢侈品开业，Alo想做奢侈品生意。"
+    },
+    {
+      "id": "baadd0fce6eb7e89",
+      "title": "800万对1000万，腾讯字节又在AI办公杠上了",
+      "url": "https://www.tmtpost.com/8214502.html",
+      "source": "钛媒体",
+      "category": "创投",
+      "published": "2026-11-23T18:36:11+08:00",
+      "summary": "不是产品的胜负，而是存量生态的比拼"
+    },
+    {
+      "id": "cd147455ec190b44",
+      "title": "禾赛的第二增长曲线，瞄准的不仅仅是机器人",
+      "url": "https://www.tmtpost.com/8214576.html",
+      "source": "钛媒体",
+      "category": "创投",
+      "published": "2026-11-23T18:36:08+08:00",
+      "summary": "Kosmo 的商业化空间，不可小觑。"
+    },
+    {
+      "id": "0d3b7a2f1f1b6aa5",
+      "title": "当AI开始自己上班",
+      "url": "https://www.tmtpost.com/8214386.html",
+      "source": "钛媒体",
+      "category": "创投",
+      "published": "2026-11-23T18:36:07+08:00",
+      "summary": "商业化推倒的第一块多米诺骨牌"
+    },
+    {
+      "id": "e115a9af9834bd6e",
+      "title": "当AI接管网购，年轻人迷上外包砍价",
+      "url": "https://www.tmtpost.com/8214748.html",
+      "source": "钛媒体",
+      "category": "创投",
+      "published": "2026-11-23T18:36:05+08:00",
+      "summary": "未来的购物入口藏在对话框里"
+    },
+    {
+      "id": "5fe53c264363f4d6",
+      "title": "年薪百万，硅谷大厂急招反内鬼专家",
+      "url": "https://www.tmtpost.com/8214813.html",
+      "source": "钛媒体",
+      "category": "创投",
+      "published": "2026-11-23T18:36:02+08:00",
+      "summary": "硅谷现在最抢手的不是工程师，是会抓内鬼的前特工"
+    },
+    {
+      "id": "10ae625b7cc185ee",
+      "title": "天文学家首次观察到恒星吞噬伴星并爆炸的过程",
+      "url": "https://www.solidot.org/story?sid=85966",
+      "source": "Solidot",
+      "category": "科技",
+      "published": "2026-11-23T18:10:43+08:00",
+      "summary": "天文学家利用韦伯望远镜首次直接观察到仙女座的一颗巨大恒星吞噬伴星并爆炸的过程。当恒星演化至生命晚期，体积会急剧膨胀，可能吞噬附近轨道上的任何天体，在一个双星系统中，这被称为“共有包层阶段”。第一颗恒星外层会将自己的核心与第二颗恒星共同包裹，第二颗恒星不断损失轨道能量和角动量，释放的能量可加热并抛射包层。系统要么留下紧密双星，要么两颗恒星彻底并合。哥伦比亚大学天文学家分析了 AT 2025abao 事件的多阶段观测数据。该事件表现为仙女座星系中的一个爆发性光斑。研究显示，其前身正是一个双星系统：第一颗恒星（主星）质量约为太阳的 7 倍，半径约为太阳的 350 倍，光度约为太阳的 1.8 万倍；第"
+    },
+    {
+      "id": "06ad2306244bebc1",
+      "title": "派评 | 近期值得关注的 App",
+      "url": "https://sspai.com/post/119438",
+      "source": "少数派",
+      "category": "科技",
+      "published": "2026-11-23T18:08:29+08:00",
+      "summary": ">下载少数派客户端、关注少数派公众号，解锁全新阅读体验📰>实用、好用的正版软件，少数派为你呈现🚀查看全文"
+    },
+    {
+      "id": "6613ce1634bd6d6e",
+      "title": "怪手机们要回来了吗？",
+      "url": "https://sspai.com/prime/story/weird-phones-are-returning",
+      "source": "少数派",
+      "category": "科技",
+      "published": "2026-11-23T18:00:30+08:00",
+      "summary": "喜欢玩小手机和怪手机的朋友，这两年应该好歹有了点兴奋劲。华为用PuraX系列带回了「阔」屏幕，卖出了百万销量。然后又是一堆宽宽的折叠屏。实体全键盘也不再只有Unihertz一家闷头劳作，做手机键盘壳子 ...查看全文本文为会员文章，出自《单篇文章》，订阅后可阅读全文。"
+    },
+    {
+      "id": "cae62c8f95d53988",
+      "title": "AI 降本增笑，全世界都在被迫接受审美大降级",
+      "url": "https://www.ifanr.com/1691079?utm_source=rss&utm_medium=rss&utm_campaign=",
+      "source": "爱范儿",
+      "category": "科技",
+      "published": "2026-11-23T17:53:48+08:00",
+      "summary": "日本开始狂用 AI 了#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。"
+    },
+    {
+      "id": "c7dc2a0e4e178e35",
+      "title": "BepiColombo 探测器进入水星轨道",
+      "url": "https://www.solidot.org/story?sid=85965",
+      "source": "Solidot",
+      "category": "科技",
+      "published": "2026-11-23T17:42:47+08:00",
+      "summary": "欧洲 ESA 和日本 JAXA 合作的水星探索项目 BepiColombo 以意大利数学家 Giuseppe Colombo 的名字命名，探测器于 2018 年 10 月发射，原计划在六次飞掠水星之后于 2025 年 12 月进入水星轨道。但第四次飞掠水星前推进器出现故障，地面任务规划人员不得不修订时间表。ESA 于 11 月 22 日宣布已将 BepiColombo 计划的两台探测器送入环绕水星的轨道，并确认成功入轨。两台探测器分别为日本的“澪”（MIO）和欧洲的MPO。由两台探测器进行环绕的全球首次水星观测最快将于明年春季启动。受太阳的影响，抵达水星难度很高，因此已实施 9 次利用天体引力"
+    },
+    {
+      "id": "6100f37b8368f988",
+      "title": "新鲜感之后，陪伴机器人如何被用起来？",
+      "url": "https://www.tmtpost.com/8212446.html",
+      "source": "钛媒体",
+      "category": "创投",
+      "published": "2026-11-23T17:39:16+08:00",
+      "summary": "新鲜感退去之后，这些主打陪伴的机器人还有多少被家庭继续使用，又有谁愿意为此持续付费。"
+    },
+    {
+      "id": "598eaab012af0749",
+      "title": "杉数完成数亿元D轮融资：十年“冷门创业”，走到AI产业的关键处",
+      "url": "https://www.tmtpost.com/8214351.html",
+      "source": "钛媒体",
+      "category": "创投",
+      "published": "2026-11-23T17:26:18+08:00",
+      "summary": "从数学优化算法到GPU加速，再到AI原生求解器，杉数十年的技术积累有了新的时代坐标。"
+    },
+    {
+      "id": "53e680abea7ef4cd",
+      "title": "蚂蚁靠金融补贴、京东靠卖药兜底：大厂绕开医保的医疗AI试验",
+      "url": "https://www.tmtpost.com/8214407.html",
+      "source": "钛媒体",
+      "category": "创投",
+      "published": "2026-11-23T17:08:48+08:00",
+      "summary": "大厂把医生AI工具价格打到零，但3万亿医保只为院内降本买单"
+    },
+    {
+      "id": "4b446819fa2d66f1",
+      "title": "自变量发布 WALL-API-1.0，主流榜单超越 Astra，扛起具身智能「预训练」的大旗",
+      "url": "https://www.ifanr.com/1691043?utm_source=rss&utm_medium=rss&utm_campaign=",
+      "source": "爱范儿",
+      "category": "科技",
+      "published": "2026-11-23T16:55:14+08:00",
+      "summary": "具身智能的「大结果」终于有了实感#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。"
+    },
+    {
+      "id": "24979e2b126261df",
+      "title": "日本人口年龄中位数首次超过 50 岁",
+      "url": "https://www.solidot.org/story?sid=85964",
+      "source": "Solidot",
+      "category": "科技",
+      "published": "2026-11-23T16:41:39+08:00",
+      "summary": "日本 2025 年的国势调查显示，日本人口年龄中位数首次超过 50 岁，半个世纪里上升了约 20 岁。日本每 5 年进行一次国势调查。2025 年的调查结果（截至 10 月 1 日，包括外国人在内的总人口）显示，日本人口年龄中位数为 50.5 岁。2020 年这一数字为 48.5 岁。1940 年和 1950 年，日本人口年龄中位数均为 22 岁左右，1975 年为 30.6 岁。根据联合国的《2024 年世界人口展望》，美国和英国的人口年龄中位数为 40 岁左右，印度不到 30 岁。15 岁以下儿童占日本总人口的比例为 10.9%，创历史最低水平。"
+    },
+    {
+      "id": "d9df63f20bdbba7b",
+      "title": "33.99 万起买 400V 与 8 秒零百前驱车，纯电雷克萨斯 ES 贵过头了",
+      "url": "https://www.ifanr.com/1691012?utm_source=rss&utm_medium=rss&utm_campaign=",
+      "source": "爱范儿",
+      "category": "科技",
+      "published": "2026-11-23T16:17:31+08:00",
+      "summary": "400V 撑不起 40 万元。#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。"
+    },
+    {
+      "id": "88c68fb4d3344ce9",
+      "title": "COP31 气候谈判未达成任何共识",
+      "url": "https://www.solidot.org/story?sid=85963",
+      "source": "Solidot",
+      "category": "科技",
+      "published": "2026-11-23T16:01:23+08:00",
+      "summary": "经过两周密集谈判和两天加时磋商，第三十一届联合国气候变化大会（COP31）周日在土耳其安塔利亚落下帷幕。由于各方围绕化石燃料问题分歧严重，谈判陷入僵局，最终未能就气候协议达成共识。围绕化石燃料问题，各方谈判持续陷入僵局，因而无法就最终文本达成一致。欧盟谈判代表表示，如果最终协议不提及摆脱化石燃料他们就无法接受该协议，欧盟代表团随后退场。巴拿马以及马绍尔群岛等岛国也都表达了反对意见。巴拿马代表认为，最终文本削弱了此前达成的决定，也未能体现确保 1.5℃ 目标仍有实现可能所需的紧迫行动。马绍尔代表警告说，协议辜负了那些处于应对气候变化第一线的国家，接受这份文本无异于背叛本国人民。马绍尔群岛代表还批"
+    },
+    {
+      "id": "d1510439c0f8c25a",
+      "title": "二级回收，将成为争夺下一代太空经济入场券的「新风向标」",
+      "url": "http://www.geekpark.net/news/374355",
+      "source": "极客公园",
+      "category": "AI",
+      "published": "2026-11-23T15:49:06+08:00",
+      "summary": "美国中部时间 11 月 14 日，星舰飞船在结束约 22.5 小时的轨道飞行后返回地球，被发射塔机械臂捕获。这是人类航天史上第一次完成了轨道级大载重飞船的回收工程验证，二级回收也第一次有了成功案例。 在一些业内人士看来，这不是一次普通的「回收动作」。二级回收真正影响的，可能是太空经济的成本曲线。全可重复使用、大规模天地往返运输一旦跑通，人类进入太空并返回地球的成本有望明显下降，太空旅游、太空算力、太空基建也将随之打开新的空间。有观点判断，拐点已至，窗口期正在到来；对中国商业航天而言，追赶的紧迫性也随之上升。 业内常有一种误读：把星舰当成一枚传统意义上的「火箭」，进而把二级回收理解成一级回收的翻"
+    },
+    {
+      "id": "05b329ef796e2a5d",
+      "title": "利润增速降至 0.7%， 拼多多「申诉优赔」还要给商家补贴几十亿",
+      "url": "http://www.geekpark.net/news/374348",
+      "source": "极客公园",
+      "category": "AI",
+      "published": "2026-11-23T15:18:26+08:00",
+      "summary": "作者｜李苏 编辑｜郑玄 11 月 19 日，拼多多发布 2026 年第三季度未经审计财报。季度营收 1083.41 亿元，同比微增 0.1%，低于市场约 1155 亿元的一致预期。归属于普通股股东的净利润 295.41 亿元，同比增长 0.7%，高于市场预期的 261.75 亿元。 财报发布前，市场普遍预计净利润将同比下滑 13%左右，实际披露的数据与预测方向相反。 营收停在原地，利润超出预期，两项指标的走向几乎相反。这种分化说明利润表内部正在发生结构性调整，单看任何一个总数都不足以概括这个季度，需要把营收和费用以及利润三条线逐一拆开，观察每条线背后的资源流向。 时间点提供了另一条线索。就在财"
+    },
+    {
+      "id": "24bcd9ac743e0ff9",
+      "title": "养鱼更省心，造景更自由：米家智能鱼缸 2 Pro 体验",
+      "url": "https://sspai.com/post/119023",
+      "source": "少数派",
+      "category": "科技",
+      "published": "2026-11-23T15:12:24+08:00",
+      "summary": "今年8月，小米推出了全新的米家智能鱼缸2Pro。米家智能鱼缸系列目前已经推出了三款产品，分别是一代、桌面版（二代）和最新的2Pro。这一系列产品始终围绕一体化设计和智能养鱼展开，降低入门级用户养鱼的门 ...查看全文"
+    },
+    {
+      "id": "514fb45dc6e58ad1",
+      "title": "GTA 6 如何在游戏中刻画电动汽车？",
+      "url": "https://www.solidot.org/story?sid=85961",
+      "source": "Solidot",
+      "category": "科技",
+      "published": "2026-11-23T15:09:41+08:00",
+      "summary": "GTA 系列以镜像复制现实世界著称。2013 年上市的 GTA 5 中电动汽车还是恶搞的对象，开车速度太快还会过热。但上周上市的 GTA 6 中电动汽车已经成为司空见惯的东西了，被恶搞的反而是尝试将皮卡停在充电位试图加油的人了。GTA 6 是以现实中的美国佛罗里达州（在游戏中虚构为 Leonida）以及迈阿密（Vice City）为蓝图刻画的。和现实中一样，城里的电动汽车比岛礁区 Keys 更常见。燃油车需要加油站，电动汽车需要充电桩，游戏中电动汽车的续航里程与燃油车基本一致，充电和加油时间也差不多，充电既迅速又便宜，完全没有里程焦虑。在游戏中，一辆外形类似特斯拉 Model 3 的电动汽车在"
+    },
+    {
+      "id": "0b73304b77ae8076",
+      "title": "鸿蒙版醒图新版本上线：AI修图「不烧心」",
+      "url": "https://www.ifanr.com/1690991?utm_source=rss&utm_medium=rss&utm_campaign=",
+      "source": "爱范儿",
+      "category": "科技",
+      "published": "2026-11-23T14:07:33+08:00",
+      "summary": "手边刚好有舍不得删又不好修的照片？可以先拿它试试。#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。"
+    },
+    {
+      "id": "2761aac0eda27d0b",
+      "title": "新手问号 | 用智能插座为旧款 Apple 设备设置「充电上限」",
+      "url": "https://sspai.com/post/118705",
+      "source": "少数派",
+      "category": "科技",
+      "published": "2026-11-23T14:00:53+08:00",
+      "summary": "曲线救国，旧的 Apple 设备也能拥有了「充电上限」功能。查看全文"
+    },
+    {
+      "id": "2ce473d9843e9a0e",
+      "title": "XREAL AURA 体验：科幻电影的未来，这么近那么远",
+      "url": "https://www.ifanr.com/1690660?utm_source=rss&utm_medium=rss&utm_campaign=",
+      "source": "爱范儿",
+      "category": "科技",
+      "published": "2026-11-23T12:00:32+08:00",
+      "summary": "未来可期#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。"
+    },
+    {
+      "id": "903bd928984b2b4f",
+      "title": "OpenAI 首席科学家：AI 最早明年加速进化；B 站开始清理「大肥鱼」泛滥；瘫痪患者用脑机打 GTA6｜极客早知道",
+      "url": "http://www.geekpark.net/news/374304",
+      "source": "极客公园",
+      "category": "AI",
+      "published": "2026-11-23T09:22:36+08:00",
+      "summary": "OpenAI 首席科学家警告：AI 最早可能在 2027 年加速自身发展，奥尔特曼赞同为 AI 开发设限 11 月 23 日消息，当地时间于 11 月 22 日，OpenAI 首席科学家雅库布 · 帕霍茨基（Jakub Pachocki）发文，提议 AI 企业应建立行业统一标准，对先进 AI 模型的开发设置共同限制，在研究人员具备更可靠的模型行为理解和监控能力之前，不应突破约定的发展门槛。 他认为，传统 AI 能力评测基准会随着技术进步迅速过时，而困惑度（Perplexity）可以作为衡量模型预训练进展的参考指标（困惑度用于衡量 AI 模型预测下一个文本 Token 的能力，数值越低，代表模型"
+    },
+    {
+      "id": "b6c8bfe37e688985",
+      "title": "华为OSTA星芒 O1 Pro 评测：一台真正为 AI 而生的鸿蒙手机",
+      "url": "https://www.ifanr.com/1690613?utm_source=rss&utm_medium=rss&utm_campaign=",
+      "source": "爱范儿",
+      "category": "科技",
+      "published": "2026-11-23T08:57:34+08:00",
+      "summary": "面向 AI，面向世界，面向未来#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。"
+    },
     {
       "id": "a47d0ab73bd55f84",
       "title": "早报｜曝苹果明年下半年发布iPhone 20与智能眼镜/丘成桐：AI证明黎曼猜想，数学进入新纪元/GTA6带动主机溢价，PS5 Pro涨至近1.6万元",
@@ -7794,258 +8136,168 @@
       "published": "2026-10-25T08:52:41+08:00",
       "summary": "​到手 6 小时、开合不到 20 次屏幕就裂：苹果首批折叠屏遭集中投诉 苹果首款折叠屏手机 iPhone Duo 刚开售就遇上了麻烦：据海外论坛和小红书多人反馈，不少用户开箱即遇到屏幕爆线、开裂问题，汇总照片显示故障位置高度集中——几乎全部出现在铰链正上方，多数表现为屏幕一侧浮现一条亮像素线。 一名澳洲用户称，设备到手约 6 小时、开合不到 20 次，向朋友展示展开时先感到内铰链下方异样，随后听到",
       "id": "24be6f4ae67ce75d"
-    },
-    {
-      "title": "史上最快宾利！竟然是一辆 SUV？",
-      "url": "https://www.ifanr.com/1685572?utm_source=rss&utm_medium=rss&utm_campaign=",
-      "source": "爱范儿",
-      "category": "科技",
-      "published": "2026-10-24T22:35:59+08:00",
-      "summary": "不愧是精装版纯电卡宴。#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
-      "id": "f1b39440a671b27e"
-    },
-    {
-      "title": "一种远古病毒可能阻碍黑猩猩演化出与人类相似的大脑",
-      "url": "https://www.solidot.org/story?sid=85702",
-      "source": "Solidot",
-      "category": "科技",
-      "published": "2026-10-24T22:30:32+08:00",
-      "summary": "人类与黑猩猩虽然差异巨大，但在与共同祖先分化并各自演化了约 500-600 万年后，双方只有 1.2% 的 DNA 不同。而一种远古病毒可能在其中扮演了重要角色，阻碍黑猩猩演化出与人类相似的大脑。大约 400 万年前，逆转录病毒 PTERV1 (Pan troglodytes endogenous retrovirus-1) 感染了黑猩猩但没有感染人类，它对黑猩猩的 DNA 进行了细微的改动，导致",
-      "id": "910a2af9ed44b11e"
-    },
-    {
-      "title": "为让数据中心有充足电力 Google 将付钱给其他人少用电",
-      "url": "https://www.solidot.org/story?sid=85701",
-      "source": "Solidot",
-      "category": "科技",
-      "published": "2026-10-24T21:50:21+08:00",
-      "summary": "Google 正资助美国规模最大的虚拟电厂项目。该项目通过向家庭和企业提供经济激励，鼓励他们在电力需求高峰期间减少用电量，从而为数据中心提供更多的电网容量。该项目有望在中大西洋地区的 PJM 电网提供 1070 MW 的电力容量——相当于一座大型核反应堆的输出电力。很多削减用电量措施能自动执行，如利用智能恒温器在夏季用电高峰期调低空调运行强度，或者通过电池系统提供临时电力。与 Google 合作的",
-      "id": "45d7858de2553c80"
-    },
-    {
-      "title": "研究揭示丹尼索瓦人的长相",
-      "url": "https://www.solidot.org/story?sid=85700",
-      "source": "Solidot",
-      "category": "科技",
-      "published": "2026-10-24T21:35:31+08:00",
-      "summary": "中科院研究人员首次揭示出神秘古丹尼索瓦人的形态共性。丹尼索瓦人是一支已灭绝的古老人类支系，2010 年科学家依靠西伯利亚丹尼索瓦洞化石的 DNA 证据发现了这一人群。后续分子证据显示，丹尼索瓦人曾广泛分布在亚洲多地，生存时间大约在距今 30 万年至 4.5 万年前。但他们究竟长什么样？位于河北阳原的许家窑遗址 1976—1979 年共发掘出土包括头骨、下颌骨、牙齿在内的 20 件人类化石，至少代表",
-      "id": "370449c43e0c6a17"
-    },
-    {
-      "title": "美光桃园厂工会否决奖金方案",
-      "url": "https://www.solidot.org/story?sid=85699",
-      "source": "Solidot",
-      "category": "科技",
-      "published": "2026-10-24T21:14:51+08:00",
-      "summary": "美光桃园厂工会星期五（10月23日）说，会员投票否决公司提出的新利润分享方案，并警告可能采取进一步集体行动，争取更公平的奖金制度。美光过去数周一直与桃园及台中两座工厂的工会就薪酬问题谈判。两个工会共代表两厂 1 万 5000 名员工中的 1 万 2000 人。两个工会此前均要求，公司发放相当于 83 个月薪资的一次性奖金，并建立长期利润分享制度，将营业利润的 15% 用于员工奖金，按季而非按年发放",
-      "id": "fa078bc87f04ae3b"
-    },
-    {
-      "title": "Google 修改隐私条款将 Gmail 和照片数据用于个性化广告",
-      "url": "https://www.solidot.org/story?sid=85698",
-      "source": "Solidot",
-      "category": "科技",
-      "published": "2026-10-24T20:53:21+08:00",
-      "summary": "Google 修改了隐私政策，允许将 Gmail 和相册数据用于个性化广告。新政策于 10 月 16 日生效。新政策没有默认启用，而是声明：“我们可能还会根据您的兴趣以及您在 Google 服务中的活动或个性化内容，向您展示个性化广告，具体取决于您的设置。例如，如果在 Google 搜索中搜索“山地自行车”，您可能会在 YouTube 上看到运动装备广告...我们不会根据您在 Google 云端硬",
-      "id": "64422ea463ed79f9"
-    },
-    {
-      "title": "一位开发者让电视服用了 Claude，这是它系统发生的变化",
-      "url": "https://www.ifanr.com/1685473?utm_source=rss&utm_medium=rss&utm_campaign=",
-      "source": "爱范儿",
-      "category": "科技",
-      "published": "2026-10-24T18:10:44+08:00",
-      "summary": "欢迎来到「大逆向时代」#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
-      "id": "fe67a23c3c3968d8"
-    },
-    {
-      "title": "在硅谷，遇见个人计算机历史",
-      "url": "https://sspai.com/post/116128",
-      "source": "少数派",
-      "category": "科技",
-      "published": "2026-10-24T16:26:02+08:00",
-      "summary": "从硅谷计算机历史博物馆出发，让书里的故事变得更加具体。查看全文",
-      "id": "3088aae6bedda0b9"
-    },
-    {
-      "title": "突发！iPhone Duo 支持微信平板登录，可与手机、电脑同时在线",
-      "url": "https://www.ifanr.com/1685714?utm_source=rss&utm_medium=rss&utm_campaign=",
-      "source": "爱范儿",
-      "category": "科技",
-      "published": "2026-10-24T11:25:33+08:00",
-      "summary": "来了来了#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
-      "id": "4e3d2999a0227d21"
-    },
-    {
-      "title": "实测 Kimi K3.1 Pro，国模终于继续卷旗舰",
-      "url": "https://www.ifanr.com/1685684?utm_source=rss&utm_medium=rss&utm_campaign=",
-      "source": "爱范儿",
-      "category": "科技",
-      "published": "2026-10-24T10:07:19+08:00",
-      "summary": "大而美的 Kimi 回来了#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
-      "id": "9c63aa2262ab5656"
     }
   ],
   "hot": [
     {
-      "id": "8e270da383a87de2",
-      "title": "Progress map for the Lean formalization of Alessandro Masullo's manuscript",
-      "url": "https://claude.ai/artifact/CtQyX8qfYAF822bgHJHHE3",
-      "score": 104,
-      "by": "Qision",
-      "comments": 60
+      "id": "abb4fdd361e6386d",
+      "title": "Nvidia Reinstates Jensen Huang as CEO",
+      "url": "https://www.cnbc.com/2026/11/23/nvidia-jensen-huang-ceo.html",
+      "score": 2011,
+      "by": "jaz",
+      "comments": 3087
     },
     {
-      "id": "bee5667dd7b557a8",
-      "title": "Nespresso's project to reduce grams of coffee per capsule",
-      "url": "https://alvinbunk.wordpress.com/2026/11/01/nespresso-project-olympus/",
-      "score": 45,
-      "by": "bobbiechen",
-      "comments": 39
+      "id": "b91f129608b05afe",
+      "title": "Stalwart is now a drop-in replacement for Microsoft Exchange",
+      "url": "https://stalw.art/blog/microsoft-exchange-replacement/",
+      "score": 159,
+      "by": "shaunpud",
+      "comments": 85
     },
     {
-      "id": "fd9a8d946c3d842a",
-      "title": "A Beginner's Guide to Local AI with Inkling, Qwen, and Unsloth",
-      "url": "https://www.gpupartner.com/blog/beginners-guide-local-ai-inkling-qwen-unsloth",
-      "score": 166,
-      "by": "Retell15",
-      "comments": 59
+      "id": "1cec1ef8dd32e68b",
+      "title": "Ladybird is now in alpha",
+      "url": "https://ladybird.org/posts/alpha/",
+      "score": 1360,
+      "by": "janvdberg",
+      "comments": 322
     },
     {
-      "id": "a832734a6d7a0f9a",
-      "title": "The Birds of GTA 6: A Field Guide to Vice City and Leonida's Wildlife",
-      "url": "https://www.audubon.org/magazine/birds-of-gta-6-field-guide-vice-city-wildlife",
-      "score": 323,
-      "by": "gaws",
-      "comments": 145
-    },
-    {
-      "id": "b92120a69abdedd3",
-      "title": "Cathedral floor emerges in Sudan, revealing one of the biggest medieval churches",
-      "url": "https://apnews.com/article/sudan-antiquities-nubia-cathedral-1b16f67da881ee5592de4481ee55c527",
-      "score": 77,
-      "by": "graemep",
-      "comments": 2
-    },
-    {
-      "id": "d75bef72b615a4e0",
-      "title": "GL.iNet Security Notice 2026-11-20",
-      "url": "https://www.gl-inet.com/en-us/blogs/blog/glinet-security-notice-2026-11-20",
-      "score": 50,
-      "by": "gregsadetsky",
-      "comments": 21
-    },
-    {
-      "id": "bb5e5b54af6d6768",
-      "title": "The Usefulness of Useless Knowledge [pdf] (1939)",
-      "url": "https://www.ias.edu/sites/default/files/library/UsefulnessHarpers.pdf",
-      "score": 49,
-      "by": "hectormauer",
-      "comments": 9
-    },
-    {
-      "id": "807507be9a8e506f",
-      "title": "A miniature San Francisco with live buses, planes and boats",
-      "url": "https://smallsf.com/",
-      "score": 117,
-      "by": "dutilh",
-      "comments": 50
-    },
-    {
-      "id": "28364cf7829c79db",
-      "title": "FBI is having a mass hire for IT specialists",
-      "url": "https://apply.fbijobs.gov/psc/ps/EMPLOYEE/HRMS/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL.GBL?Action=U&FOCUS=Applicant&JobOpeningId=68871&Page=HRS_APP_JBPST_FL&PostingSeq=1&SiteId=1&",
-      "score": 18,
-      "by": "illidan1000",
-      "comments": 18
-    },
-    {
-      "id": "e63f1128d742ef60",
-      "title": "Nyx, the Oldest Internet Service Provider",
-      "url": "https://nyx.net/",
-      "score": 87,
-      "by": "o_-_o",
-      "comments": 8
-    },
-    {
-      "id": "1f838b72d923b68e",
-      "title": "The struggle for freedom: How BSD escaped AT&T licensing",
-      "url": "https://fosscomics.com/posts/16.%20BSD%20Unix%20Part%206%20-%20The%20Struggle%20for%20Freedom/",
-      "score": 33,
-      "by": "joonehur",
-      "comments": 9
-    },
-    {
-      "id": "741111af60a878b1",
-      "title": "Perplexity and Intelligence",
-      "url": "https://openai.com/index/perplexity-and-intelligence/",
-      "score": 461,
-      "by": "acossta",
-      "comments": 318
-    },
-    {
-      "id": "539fc67730462d42",
-      "title": "What Happened to Silicon Valley?",
-      "url": "https://www.oreilly.com/radar/what-happened-to-silicon-valley/",
-      "score": 374,
-      "by": "greenyouse",
-      "comments": 213
-    },
-    {
-      "id": "676f3f9a20a2433f",
-      "title": "Show HN: I built a game where you are an LLM's subagent",
-      "url": "https://github.com/gulivan/worker755",
-      "score": 265,
-      "by": "ivantgam",
-      "comments": 60
-    },
-    {
-      "id": "361b80193459cb3b",
-      "title": "Assume People Are Not Interested in Your Blog Post",
-      "url": "https://danielsada.tech/blog/assume-people-are-not-interested-in-your-blog-post/",
-      "score": 43,
-      "by": "dshacker",
+      "id": "54afa4a05a99b414",
+      "title": "GPUI is getting its own repository",
+      "url": "https://github.com/zed-industries/gpui",
+      "score": 105,
+      "by": "EvilGoose",
       "comments": 24
     },
     {
-      "id": "e1e4b8c46c47e803",
-      "title": "Advice for Young Researchers",
-      "url": "http://togelius.blogspot.com/2026/11/advice-for-young-researchers.html",
-      "score": 45,
-      "by": "tcumulus",
-      "comments": 16
+      "id": "a9dd6af296bee27e",
+      "title": "Bored.com: Fun, interesting and cool websites to explore when bored",
+      "url": "https://www.bored.com/",
+      "score": 87,
+      "by": "susam",
+      "comments": 20
     },
     {
-      "id": "6741c2425420eaf4",
-      "title": "Agent swarm trying to solve P vs. NP",
-      "url": "https://pequalnp.com/",
-      "score": 86,
-      "by": "bananaflag",
-      "comments": 74
+      "id": "61b2d6f7da3aa173",
+      "title": "GLM-5.4: Toward generalized coding with our first loop transformer",
+      "url": "https://z.ai/blog/glm-5.4",
+      "score": 1039,
+      "by": "foohis",
+      "comments": 338
     },
     {
-      "id": "27ae2a4de2e93e76",
-      "title": "Will the first approved psychedelic become a blockbuster?",
-      "url": "https://www.pharmavoice.com/news/race-first-psilocybin-blockbuster-compass-usona/875270/",
-      "score": 20,
-      "by": "randycupertino",
-      "comments": 15
+      "id": "9e5b0954db7a8980",
+      "title": "Per Arm's request, this site will be discontinued on 4 December 2026 :(",
+      "url": "https://arm.jonpalmisc.com/",
+      "score": 816,
+      "by": "tech234a",
+      "comments": 163
     },
     {
-      "id": "b9b0f846666f739f",
-      "title": "I joined the NTP Pool, but not with my Stratum 1 Pi",
-      "url": "https://www.jeffgeerling.com/blog/2026/i-joined-the-ntp-pool/",
-      "score": 124,
-      "by": "fortran77",
-      "comments": 33
+      "id": "134b57cf3e47ae40",
+      "title": "Dario is hyping the dangers so OSS models are illegal and he stays in control",
+      "url": "https://twitter.com/ylecun/status/2124550037912920090",
+      "score": 1066,
+      "by": "MrBuddyCasino",
+      "comments": 611
     },
     {
-      "id": "9bf789ee77959569",
-      "title": "Open Social Web Alliance",
-      "url": "https://osw-alliance.net/en/",
-      "score": 216,
-      "by": "doener",
-      "comments": 210
+      "id": "d6aa0f05435fca24",
+      "title": "Next gaming monitor should still be an OLED",
+      "url": "https://www.rockpapershotgun.com/theyre-more-complicated-and-more-expensive-than-lcd-screens-but-your-next-gaming-monitor-should-still-be-an-oled",
+      "score": 26,
+      "by": "Tomte",
+      "comments": 38
+    },
+    {
+      "id": "4af3413e521028c6",
+      "title": "VP ≠ VNP over Every Field",
+      "url": "https://github.com/anthropics/formal-math/tree/main/vp-vnp",
+      "score": 201,
+      "by": "mikeryan52",
+      "comments": 166
+    },
+    {
+      "id": "01838c38f9d54dfb",
+      "title": "Freeing the iPod Nano 5G",
+      "url": "https://viktorkrapivin.com/blog/nano5g-priv-prvd",
+      "score": 21,
+      "by": "rpm_conservatio",
+      "comments": 2
+    },
+    {
+      "id": "93ba7c1d5acc3aff",
+      "title": "Huang's Return Is the Biggest National Security Scandal in U.S. History",
+      "url": "https://foreignpolicy.com/2026/11/23/jensen-huang-nvidia-return-ceo-national-security-scandal/",
+      "score": 89,
+      "by": "ortusdux",
+      "comments": 41
+    },
+    {
+      "id": "25c3220abf6b4c67",
+      "title": "NariQ: BF16-level Qwen3.8-27B in a 10 GB file",
+      "url": "https://huggingface.co/nari-labs/Qwen3.8-27B-NariQ-GGUF",
+      "score": 116,
+      "by": "toebee",
+      "comments": 21
+    },
+    {
+      "id": "4ac4acec08d4dbb9",
+      "title": "The Power of GraphQL, Without GraphQL",
+      "url": "https://cobalt27.dev/",
+      "score": 4,
+      "by": "Shoetp",
+      "comments": 1
+    },
+    {
+      "id": "be7082d1ee76216c",
+      "title": "What does it mean to understand what we built?",
+      "url": "https://brooker.co.za/blog/2026/11/16/understanding.html",
+      "score": 32,
+      "by": "luu",
+      "comments": 10
+    },
+    {
+      "id": "2b97c13db743c3b3",
+      "title": "Spacecraft reaches Mercury on second-ever mission to enter its orbit",
+      "url": "https://www.theguardian.com/science/2026/nov/20/spacecraft-mercury-second-ever-mission-orbit-bepicolombo",
+      "score": 287,
+      "by": "geden",
+      "comments": 92
+    },
+    {
+      "id": "77b010699d4d3b0a",
+      "title": "Latent Introspection: LLMs Can Detect Prior Concept Injections",
+      "url": "https://arxiv.org/abs/2602.20031",
+      "score": 13,
+      "by": "joecobb",
+      "comments": 0
+    },
+    {
+      "id": "1dd351f0363e7337",
+      "title": "Derivative Flipping",
+      "url": "http://blog.sigfpe.com/2026/11/derivative-flipping.html",
+      "score": 69,
+      "by": "dmit",
+      "comments": 8
+    },
+    {
+      "id": "58d1113669abd456",
+      "title": "Kagi Mail (public beta)",
+      "url": "https://blog.kagi.com/kagi-mail-public-beta",
+      "score": 339,
+      "by": "rdmuser",
+      "comments": 264
+    },
+    {
+      "id": "ef1991c4c1b9e9fe",
+      "title": "The horse made the state",
+      "url": "https://aeon.co/essays/the-origins-of-the-state-are-not-agrarian-but-pastoralist",
+      "score": 55,
+      "by": "ersinesen",
+      "comments": 50
     }
   ],
   "sources_ok": [
@@ -8059,5 +8311,5 @@
     "36氪",
     "虎嗅:ReadTimeout"
   ],
-  "total": 876
+  "total": 904
 }
